@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -34,10 +34,10 @@ function OutputConfigurationFile() {
 function ApplyConfigurationFile() {
     adguardhome_pid=$(ps -ef | grep "AdGuardHome" | grep -v "grep" | awk '{print $2}')
     if [ "${adguardhome_pid}" == "" ]; then
-        ${get_root}/AdGuardHome -s start
+        systemctl start AdGuardHome.service
         exit 0
     else
-        ${get_root}/AdGuardHome -s restart
+        systemctl restart AdGuardHome.service
         exit 0
     fi
 }
