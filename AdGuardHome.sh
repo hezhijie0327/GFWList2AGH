@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -25,10 +25,9 @@ function GetGFWListData() {
 }
 # Output Configuration File
 function OutputConfigurationFile() {
-    echo "$configuration_part_1" > ${get_root}/AdGuardHome.yaml
-    echo "$gfwlist_data" >> ${get_root}/AdGuardHome.yaml
-    echo "$configuration_part_2" >> ${get_root}/AdGuardHome.yaml
-    exit 0
+    echo "${configuration_part_1}" > ${get_root}/AdGuardHome.yaml
+    echo "${gfwlist_data}" >> ${get_root}/AdGuardHome.yaml
+    echo "${configuration_part_2}" >> ${get_root}/AdGuardHome.yaml
 }
 # Apply Configuration File
 function ApplyConfigurationFile() {
