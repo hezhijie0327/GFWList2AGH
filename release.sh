@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -28,7 +28,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    gfwlist_data=($(cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp | grep -v "\!\|\#\|\:\|\[\|\]" | sed 's/%.*//g;s/\*.*//g;s/\/.*//g;s/\|//g;s/^\.//g;s/^||\?//g;s/http\?:\/\///g;s/https\?:\/\///g' | sed '/\.$/d;/^!.*/d;/^$/d;/^@.*/d;/^[0-9\.]*$/d;/^[^\.]*$/d;/^\[.*/d' | sort | uniq | awk "{ print $2 }"))
+    gfwlist_data=($(cat ./gfwlist_base64.tmp | grep -v "\!\|\%\|\*\|\/\|\@\|\[\|\]" | sed '/^\./d;s/\|//g' > ./gfwlist_data.tmp && cat ./gfwlist_domain.tmp | grep -v "\#" >> ./gfwlist_data.tmp && cat ./gfwlist_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | sed '/^\s*$/d' | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
