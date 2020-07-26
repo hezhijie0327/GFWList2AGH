@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -20,12 +20,12 @@ function GetData() {
     )
     rm -rf *.txt *.yaml ./Temp && mkdir ./Temp && cd ./Temp
     for gfwlist_base64_list_unchecked_task in "${!gfwlist_base64_list_unchecked[@]}"; do
-        echo "Downloading GFWList base64 list (($((${gfwlist_base64_list_unchecked_task} + 1)) / ${#gfwlist_base64_list_unchecked[@]})"
+        echo "Downloading GFWList base64 list ($((${gfwlist_base64_list_unchecked_task} + 1)) / ${#gfwlist_base64_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${gfwlist_base64_list_unchecked[$gfwlist_base64_list_unchecked_task]}" | base64 -d >> ./gfwlist_base64_list_unchecked.tmp
         sleep 10s
     done
     for gfwlist_domain_list_unchecked_task in "${!gfwlist_domain_list_unchecked[@]}"; do
-        echo "Downloading GFWList domain list (($((${gfwlist_domain_list_unchecked_task} + 1)) / ${#gfwlist_domain_list_unchecked[@]})"
+        echo "Downloading GFWList domain list ($((${gfwlist_domain_list_unchecked_task} + 1)) / ${#gfwlist_domain_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${gfwlist_domain_list_unchecked[$gfwlist_domain_list_unchecked_task]}" >> ./gfwlist_domain_list_unchecked.tmp
         sleep 10s
     done
