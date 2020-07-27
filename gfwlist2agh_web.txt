@@ -18441,6 +18441,7 @@ https://dns.alidns.com:443/dns-query
 [/wiki77.ml/]https://doh.opendns.com:443/dns-query
 [/wiki9.ml/]https://doh.opendns.com:443/dns-query
 [/wikia.com/]https://doh.opendns.com:443/dns-query
+[/wikia.org/]https://doh.opendns.com:443/dns-query
 [/wikibooks.org/]https://doh.opendns.com:443/dns-query
 [/wikidata.org/]https://doh.opendns.com:443/dns-query
 [/wikileaks-forum.com/]https://doh.opendns.com:443/dns-query
@@ -23159,6 +23160,7 @@ https://dns.alidns.com:443/dns-query
 [/ylb666.com/]https://doh.opendns.com:443/dns-query
 [/ylhgvip33.com/]https://doh.opendns.com:443/dns-query
 [/ym.dnsit.xyz/]https://doh.opendns.com:443/dns-query
+[/ymp4.download/]https://doh.opendns.com:443/dns-query
 [/yo88.com/]https://doh.opendns.com:443/dns-query
 [/yob.etowns.org/]https://doh.opendns.com:443/dns-query
 [/yobit.net/]https://doh.opendns.com:443/dns-query
