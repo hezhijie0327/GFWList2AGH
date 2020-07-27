@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.8
+# Current Version: 1.0.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -18,7 +18,7 @@ function GetData() {
         "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
-    rm -rf *.txt *.yaml ./Temp && mkdir ./Temp && cd ./Temp
+    rm -rf ./*.txt ./*.yaml ./Temp && mkdir ./Temp && cd ./Temp
     for gfwlist_base64_task in "${!gfwlist_base64[@]}"; do
         curl -s --connect-timeout 15 "${gfwlist_base64[$gfwlist_base64_task]}" | base64 -d >> ./gfwlist_base64.tmp
     done
