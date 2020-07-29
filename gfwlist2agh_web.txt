@@ -1,5 +1,5 @@
 https://dns.alidns.com:443/dns-query
-https://dns.pub:443/dns-query
+https://doh.pub:443/dns-query
 tls://dns.alidns.com:853
 tls://dns.pub:853
 [/0.ww3.workers.dev/]https://doh.opendns.com:443/dns-query
