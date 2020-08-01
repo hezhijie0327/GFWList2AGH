@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.5
+# Current Version: 1.1.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -9,6 +9,7 @@
 # Get Data
 function GetData() {
     cnacc_domain=(
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
@@ -20,6 +21,7 @@ function GetData() {
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
@@ -36,7 +38,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    cnacc_data=($(cat ./cnacc_domain.tmp | grep -v "\#" | grep "server\=\/" | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' > ./cnacc_data.tmp && cat ./cnacc_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
+    cnacc_data=($(cat ./cnacc_domain.tmp | grep -v "\#" | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' > ./cnacc_data.tmp && cat ./cnacc_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
     gfwlist_data=($(cat ./gfwlist_base64.tmp | grep -v "\!\|\%\|\*\|\/\|\@\|\[\|\]" | sed '/^\./d;s/\|//g' > ./gfwlist_data.tmp && cat ./gfwlist_domain.tmp | grep -v "\#" >> ./gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_data.tmp ./gfwlist_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
