@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.8
+# Current Version: 1.1.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -13,6 +13,7 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
+        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/data/data_cnacc.txt"
     )
     dead_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
@@ -26,6 +27,7 @@ function GetData() {
         "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/data/data_gfwlist.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     rm -rf ./*.txt ./*.yaml ./Temp && mkdir ./Temp && cd ./Temp
