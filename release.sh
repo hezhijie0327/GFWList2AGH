@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.1
+# Current Version: 1.2.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -13,7 +13,6 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/data/data_cnacc.txt"
     )
     dead_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
@@ -27,7 +26,6 @@ function GetData() {
         "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/data/data_gfwlist.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     rm -rf ./gfwlist2agh_* ./Temp && mkdir ./Temp && cd ./Temp
@@ -46,8 +44,8 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    cnacc_data=($(cat ./cnacc_domain.tmp | grep -v "\#" | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_data.tmp > ./cnacc_data.temp && cat ./cnacc_data.temp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
-    gfwlist_data=($(cat ./gfwlist_base64.tmp | grep -v "\!\|\%\|\*\|\/\|\@\|\[\|\]" | sed '/^\./d;s/\|//g' > ./gfwlist_data.tmp && cat ./gfwlist_domain.tmp | grep -v "\#\|\[\|\\$\|\]\|\^\|{\|}" >> ./gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_data.tmp > ./gfwlist_data.temp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_data.temp ./gfwlist_data.temp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' | sort | uniq | awk "{ print $2 }"))
+    cnacc_data=($(cat ./cnacc_domain.tmp | grep -v "\#" | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' > ./cnacc_data.tmp && cat ./cnacc_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' > ./cnacc_data.temp && cat ../data/data_cnacc.txt >> ./cnacc_data.temp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_data.temp > ./cnacc_data.tmp && cat ./cnacc_data.tmp | sort | uniq | awk "{ print $2 }"))
+    gfwlist_data=($(cat ./gfwlist_base64.tmp | grep -v "\!\|\%\|\*\|\/\|\@\|\[\|\]" | sed '/^\./d;s/\|//g' > ./gfwlist_data.tmp && cat ./gfwlist_domain.tmp | grep -v "\#\|\[\|\\$\|\]\|\^\|{\|}" >> ./gfwlist_data.tmp && cat ./gfwlist_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed '/^$/d' > ./gfwlist_data.temp && cat ../data/data_gfwlist.txt >> ./gfwlist_data.temp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_data.temp > ./gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_data.tmp ./gfwlist_data.tmp > ./gfwlist_data.temp && cat ./gfwlist_data.temp | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
