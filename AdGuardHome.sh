@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -46,8 +46,8 @@ function ApplyConfigurationFile() {
 AnalyseConfigurationFile
 # Call SplitConfigurationFile
 SplitConfigurationFile
-# Call GetGFWListData
-GetGFWListData
+# Call GetGFWList2AGHData
+GetGFWList2AGHData
 # Call OutputConfigurationFile
 OutputConfigurationFile
 # Call ApplyConfigurationFile
