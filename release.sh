@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.2
+# Current Version: 1.2.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -62,19 +62,20 @@ function OutputData() {
         "tls://dns.alidns.com:853"
     )
     for upstream_dns_task in "${!upstream_dns[@]}"; do
-        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_web.txt
-        echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_conf.yaml
+        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
+        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
+        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
     done
     for cnacc_dns_task in "${!cnacc_dns[@]}"; do
         for cnacc_data_task in "${!cnacc_data[@]}"; do
-            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_web.txt
-            echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_conf.yaml
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine.txt
         done
     done
     for gfwlist_dns_task in "${!gfwlist_dns[@]}"; do
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_web.txt
-            echo "  - '[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_conf.yaml
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
         done
     done
     cd .. && rm -rf ./Temp
