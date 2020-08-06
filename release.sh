@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.7
+# Current Version: 1.2.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -44,19 +44,10 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    cnacc_data=($(cat ./cnacc_domain.tmp ../data/data_cnacc.txt | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq | awk "{ print $2 }"))
-    gfwlist_data=($(cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ../data/data_gfwlist.txt | sed 's/\|//g' | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq | awk "{ print $2 }"))
+    gfwlist2agh_data=($(cat ./cnacc_domain.tmp ../data/data_cnacc.txt | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_data.tmp > ./cnacc_alive.tmp && cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ../data/data_gfwlist.txt | sed 's/\|//g' | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq > gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_data.tmp > ./gfwlist_alive.tmp))
 }
 # Output Data
 function OutputData() {
-    cnacc_dns=(
-        "https://dns.alidns.com:443/dns-query"
-        "tls://dns.alidns.com:853"
-    )
-    gfwlist_dns=(
-        "https://doh.opendns.com:443/dns-query"
-        "tls://dns.google:853"
-    )
     upstream_dns=(
         "https://dns.alidns.com:443/dns-query"
         "tls://dns.alidns.com:853"
@@ -69,24 +60,30 @@ function OutputData() {
         echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_combine.yaml
         echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.yaml
     done
+    cnacc_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_alive.tmp ./cnacc_alive.tmp | awk "{ print $2 }"))
+    cnacc_dns=(
+        "https://dns.alidns.com:443/dns-query"
+        "tls://dns.alidns.com:853"
+    )
     for cnacc_dns_task in "${!cnacc_dns[@]}"; do
         for cnacc_data_task in "${!cnacc_data[@]}"; do
-            if [ "$(echo ${cnacc_data[$cnacc_data_task]})" != "$(cat ./dead_domain.tmp | grep $(echo ${cnacc_data[$cnacc_data_task]}))" ]; then
-                echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
-                echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine.txt
-                echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_cnacc.yaml
-                echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_combine.yaml
-            fi
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine.txt
+            echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_cnacc.yaml
+            echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_combine.yaml
         done
     done
+    gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_alive.tmp ./gfwlist_alive.tmp | awk "{ print $2 }"))
+    gfwlist_dns=(
+        "https://doh.opendns.com:443/dns-query"
+        "tls://dns.google:853"
+    )
     for gfwlist_dns_task in "${!gfwlist_dns[@]}"; do
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-            if [ "$(echo ${gfwlist_data[$gfwlist_data_task]})" != "$(cat ./dead_domain.tmp ./cnacc_domain.tmp ../data/data_cnacc.txt | grep $(echo ${gfwlist_data[$gfwlist_data_task]}))" ]; then
-                echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
-                echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
-                echo "  - '[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_combine.yaml
-                echo "  - '[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_gfwlist.yaml
-            fi
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
+            echo "  - '[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_combine.yaml
+            echo "  - '[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_gfwlist.yaml
         done
     done
     cd .. && rm -rf ./Temp
