@@ -186,7 +186,6 @@ tls://dns.alidns.com:853
 [/11cpk.com/]https://doh.opendns.com:443/dns-query
 [/11sebb.com/]https://doh.opendns.com:443/dns-query
 [/12110.tk/]https://doh.opendns.com:443/dns-query
-[/12208.com/]https://doh.opendns.com:443/dns-query
 [/12223nn.com/]https://doh.opendns.com:443/dns-query
 [/123-hp.com/]https://doh.opendns.com:443/dns-query
 [/123.effers.com/]https://doh.opendns.com:443/dns-query
@@ -26153,7 +26152,6 @@ tls://dns.alidns.com:853
 [/11cpk.com/]tls://dns.google:853
 [/11sebb.com/]tls://dns.google:853
 [/12110.tk/]tls://dns.google:853
-[/12208.com/]tls://dns.google:853
 [/12223nn.com/]tls://dns.google:853
 [/123-hp.com/]tls://dns.google:853
 [/123.effers.com/]tls://dns.google:853
