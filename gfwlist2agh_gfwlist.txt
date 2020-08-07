@@ -494,6 +494,7 @@ tls://dns.alidns.com:853
 [/241777.com/]https://doh.opendns.com:443/dns-query
 [/244kk.com/]https://doh.opendns.com:443/dns-query
 [/245.slyip.net/]https://doh.opendns.com:443/dns-query
+[/24538.com/]https://doh.opendns.com:443/dns-query
 [/246.etowns.org/]https://doh.opendns.com:443/dns-query
 [/246.ocry.com/]https://doh.opendns.com:443/dns-query
 [/247.slyip.net/]https://doh.opendns.com:443/dns-query
@@ -5580,7 +5581,6 @@ tls://dns.alidns.com:853
 [/chineseupress.com/]https://doh.opendns.com:443/dns-query
 [/chingcheong.com/]https://doh.opendns.com:443/dns-query
 [/chinman.net/]https://doh.opendns.com:443/dns-query
-[/chinoxy.com/]https://doh.opendns.com:443/dns-query
 [/chipsakti.co/]https://doh.opendns.com:443/dns-query
 [/chithu.org/]https://doh.opendns.com:443/dns-query
 [/chn.chosun.com/]https://doh.opendns.com:443/dns-query
@@ -26461,6 +26461,7 @@ tls://dns.alidns.com:853
 [/241777.com/]tls://dns.google:853
 [/244kk.com/]tls://dns.google:853
 [/245.slyip.net/]tls://dns.google:853
+[/24538.com/]tls://dns.google:853
 [/246.etowns.org/]tls://dns.google:853
 [/246.ocry.com/]tls://dns.google:853
 [/247.slyip.net/]tls://dns.google:853
@@ -31547,7 +31548,6 @@ tls://dns.alidns.com:853
 [/chineseupress.com/]tls://dns.google:853
 [/chingcheong.com/]tls://dns.google:853
 [/chinman.net/]tls://dns.google:853
-[/chinoxy.com/]tls://dns.google:853
 [/chipsakti.co/]tls://dns.google:853
 [/chithu.org/]tls://dns.google:853
 [/chn.chosun.com/]tls://dns.google:853
