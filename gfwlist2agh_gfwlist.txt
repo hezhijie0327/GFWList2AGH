@@ -7748,6 +7748,7 @@ tls://dns.alidns.com:853
 [/f70717.com/]https://doh.opendns.com:443/dns-query
 [/f78929.com/]https://doh.opendns.com:443/dns-query
 [/f8.com/]https://doh.opendns.com:443/dns-query
+[/f8899.com/]https://doh.opendns.com:443/dns-query
 [/f9nw.4.shop.tm/]https://doh.opendns.com:443/dns-query
 [/faacebok.com/]https://doh.opendns.com:443/dns-query
 [/faacebook.com/]https://doh.opendns.com:443/dns-query
@@ -33722,6 +33723,7 @@ tls://dns.alidns.com:853
 [/f70717.com/]tls://dns.google:853
 [/f78929.com/]tls://dns.google:853
 [/f8.com/]tls://dns.google:853
+[/f8899.com/]tls://dns.google:853
 [/f9nw.4.shop.tm/]tls://dns.google:853
 [/faacebok.com/]tls://dns.google:853
 [/faacebook.com/]tls://dns.google:853
