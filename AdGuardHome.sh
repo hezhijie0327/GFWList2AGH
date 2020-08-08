@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.6
+# Current Version: 1.0.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -21,7 +21,7 @@ function SplitConfigurationFile() {
 }
 # Get GFWList2AGH Data
 function GetGFWList2AGHData() {
-    gfwlist2agh_data=$(curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/gfwlist2agh_combine.yaml")
+    gfwlist2agh_data=$(curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/gfwlist2agh_gfwlist.yaml")
 }
 # Output Configuration File
 function OutputConfigurationFile() {
