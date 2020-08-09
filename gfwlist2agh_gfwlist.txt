@@ -4683,6 +4683,7 @@ tls://dns.alidns.com:853
 [/bsk67.com/]https://doh.opendns.com:443/dns-query
 [/bsz66.com/]https://doh.opendns.com:443/dns-query
 [/bt-king.xyz/]https://doh.opendns.com:443/dns-query
+[/bt.avbt123.com/]https://doh.opendns.com:443/dns-query
 [/bt.shousibaocai.com/]https://doh.opendns.com:443/dns-query
 [/bt2mag.com/]https://doh.opendns.com:443/dns-query
 [/bt49.com/]https://doh.opendns.com:443/dns-query
@@ -13496,6 +13497,7 @@ tls://dns.alidns.com:853
 [/microsoftready.com/]https://doh.opendns.com:443/dns-query
 [/microsoftsiteselection.com/]https://doh.opendns.com:443/dns-query
 [/microsoftstore.com/]https://doh.opendns.com:443/dns-query
+[/microsoftstream.com/]https://doh.opendns.com:443/dns-query
 [/microsoftteams.com/]https://doh.opendns.com:443/dns-query
 [/microsofttradein.com/]https://doh.opendns.com:443/dns-query
 [/microsofttranslator.com/]https://doh.opendns.com:443/dns-query
@@ -30666,6 +30668,7 @@ tls://dns.alidns.com:853
 [/bsk67.com/]tls://dns.google:853
 [/bsz66.com/]tls://dns.google:853
 [/bt-king.xyz/]tls://dns.google:853
+[/bt.avbt123.com/]tls://dns.google:853
 [/bt.shousibaocai.com/]tls://dns.google:853
 [/bt2mag.com/]tls://dns.google:853
 [/bt49.com/]tls://dns.google:853
@@ -39479,6 +39482,7 @@ tls://dns.alidns.com:853
 [/microsoftready.com/]tls://dns.google:853
 [/microsoftsiteselection.com/]tls://dns.google:853
 [/microsoftstore.com/]tls://dns.google:853
+[/microsoftstream.com/]tls://dns.google:853
 [/microsoftteams.com/]tls://dns.google:853
 [/microsofttradein.com/]tls://dns.google:853
 [/microsofttranslator.com/]tls://dns.google:853
