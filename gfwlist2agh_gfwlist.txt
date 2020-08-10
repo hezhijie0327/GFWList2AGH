@@ -12495,6 +12495,7 @@ tls://dns.alidns.com:853
 [/letou811.com/]https://doh.opendns.com:443/dns-query
 [/letou928.com/]https://doh.opendns.com:443/dns-query
 [/letou99.net/]https://doh.opendns.com:443/dns-query
+[/letou996.com/]https://doh.opendns.com:443/dns-query
 [/letscorp.net/]https://doh.opendns.com:443/dns-query
 [/letsencrypt.org/]https://doh.opendns.com:443/dns-query
 [/letv500.com/]https://doh.opendns.com:443/dns-query
@@ -38526,6 +38527,7 @@ tls://dns.alidns.com:853
 [/letou811.com/]tls://dns.google:853
 [/letou928.com/]tls://dns.google:853
 [/letou99.net/]tls://dns.google:853
+[/letou996.com/]tls://dns.google:853
 [/letscorp.net/]tls://dns.google:853
 [/letsencrypt.org/]tls://dns.google:853
 [/letv500.com/]tls://dns.google:853
