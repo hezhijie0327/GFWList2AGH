@@ -5630,6 +5630,7 @@ tls://dns.alidns.com:853
 [/chromium.org/]https://doh.opendns.com:443/dns-query
 [/chromium.woolyss.com/]https://doh.opendns.com:443/dns-query
 [/chrs.me.uk/]https://doh.opendns.com:443/dns-query
+[/chuang-yen.org/]https://doh.opendns.com:443/dns-query
 [/chuangcn.org/]https://doh.opendns.com:443/dns-query
 [/chubbysextgp.com/]https://doh.opendns.com:443/dns-query
 [/chubold.com/]https://doh.opendns.com:443/dns-query
@@ -9155,6 +9156,7 @@ tls://dns.alidns.com:853
 [/geek-squad.net/]https://doh.opendns.com:443/dns-query
 [/geek-squad.org/]https://doh.opendns.com:443/dns-query
 [/geek-squads.net/]https://doh.opendns.com:443/dns-query
+[/geekerhome.com/]https://doh.opendns.com:443/dns-query
 [/geekheart.info/]https://doh.opendns.com:443/dns-query
 [/geeksquad.cc/]https://doh.opendns.com:443/dns-query
 [/geeksquad.com/]https://doh.opendns.com:443/dns-query
@@ -17593,8 +17595,10 @@ tls://dns.alidns.com:853
 [/sierra-leona.com.ar/]https://doh.opendns.com:443/dns-query
 [/sierrafriendsoftibet.org/]https://doh.opendns.com:443/dns-query
 [/sifangcai.com/]https://doh.opendns.com:443/dns-query
+[/signal.art/]https://doh.opendns.com:443/dns-query
 [/signal.org/]https://doh.opendns.com:443/dns-query
 [/signalprocessingsociety.org/]https://doh.opendns.com:443/dns-query
+[/signalusers.org/]https://doh.opendns.com:443/dns-query
 [/signup.popmediainc.com/]https://doh.opendns.com:443/dns-query
 [/signupv2.popmediainc.com/]https://doh.opendns.com:443/dns-query
 [/sigupdates.marshal.com/]https://doh.opendns.com:443/dns-query
@@ -31654,6 +31658,7 @@ tls://dns.alidns.com:853
 [/chromium.org/]tls://dns.google:853
 [/chromium.woolyss.com/]tls://dns.google:853
 [/chrs.me.uk/]tls://dns.google:853
+[/chuang-yen.org/]tls://dns.google:853
 [/chuangcn.org/]tls://dns.google:853
 [/chubbysextgp.com/]tls://dns.google:853
 [/chubold.com/]tls://dns.google:853
@@ -35179,6 +35184,7 @@ tls://dns.alidns.com:853
 [/geek-squad.net/]tls://dns.google:853
 [/geek-squad.org/]tls://dns.google:853
 [/geek-squads.net/]tls://dns.google:853
+[/geekerhome.com/]tls://dns.google:853
 [/geekheart.info/]tls://dns.google:853
 [/geeksquad.cc/]tls://dns.google:853
 [/geeksquad.com/]tls://dns.google:853
@@ -43617,8 +43623,10 @@ tls://dns.alidns.com:853
 [/sierra-leona.com.ar/]tls://dns.google:853
 [/sierrafriendsoftibet.org/]tls://dns.google:853
 [/sifangcai.com/]tls://dns.google:853
+[/signal.art/]tls://dns.google:853
 [/signal.org/]tls://dns.google:853
 [/signalprocessingsociety.org/]tls://dns.google:853
+[/signalusers.org/]tls://dns.google:853
 [/signup.popmediainc.com/]tls://dns.google:853
 [/signupv2.popmediainc.com/]tls://dns.google:853
 [/sigupdates.marshal.com/]tls://dns.google:853
