@@ -9116,6 +9116,7 @@ https://dns.pub:443/dns-query
 [/go2free.xyz/]https://doh.opendns.com:443/dns-query
 [/go365.cf/]https://doh.opendns.com:443/dns-query
 [/go365.gq/]https://doh.opendns.com:443/dns-query
+[/go365.ml/]https://doh.opendns.com:443/dns-query
 [/goagent.11go.net/]https://doh.opendns.com:443/dns-query
 [/goagent.biz/]https://doh.opendns.com:443/dns-query
 [/goagent.codeplex.com/]https://doh.opendns.com:443/dns-query
@@ -34244,6 +34245,7 @@ https://dns.pub:443/dns-query
 [/go2free.xyz/]tls://dns.google:853
 [/go365.cf/]tls://dns.google:853
 [/go365.gq/]tls://dns.google:853
+[/go365.ml/]tls://dns.google:853
 [/goagent.11go.net/]tls://dns.google:853
 [/goagent.biz/]tls://dns.google:853
 [/goagent.codeplex.com/]tls://dns.google:853
