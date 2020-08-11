@@ -1,5 +1,7 @@
   - https://dns.alidns.com:443/dns-query
+  - https://dns.pub:443/dns-query
   - tls://dns.alidns.com:853
+  - tls://dns.pub:853
   - '[/0000002.com/]https://doh.opendns.com:443/dns-query'
   - '[/00006801.com/]https://doh.opendns.com:443/dns-query'
   - '[/00066hg.com/]https://doh.opendns.com:443/dns-query'
