@@ -8794,6 +8794,7 @@ https://dns.pub:443/dns-query
 [/gaobbs.com/]https://doh.opendns.com:443/dns-query
 [/gaoming.net/]https://doh.opendns.com:443/dns-query
 [/gaosemm.com/]https://doh.opendns.com:443/dns-query
+[/gaozhisheng.org/]https://doh.opendns.com:443/dns-query
 [/garageperucchi.ch/]https://doh.opendns.com:443/dns-query
 [/gardennetworks.com/]https://doh.opendns.com:443/dns-query
 [/gardennetworks.org/]https://doh.opendns.com:443/dns-query
@@ -10431,6 +10432,7 @@ https://dns.pub:443/dns-query
 [/huarian.com/]https://doh.opendns.com:443/dns-query
 [/huashimedia.site40.net/]https://doh.opendns.com:443/dns-query
 [/huasing.org/]https://doh.opendns.com:443/dns-query
+[/huaxia-news.com/]https://doh.opendns.com:443/dns-query
 [/huaxiabao.org/]https://doh.opendns.com:443/dns-query
 [/huaxin.ph/]https://doh.opendns.com:443/dns-query
 [/huayuworld.org/]https://doh.opendns.com:443/dns-query
@@ -33926,6 +33928,7 @@ https://dns.pub:443/dns-query
 [/gaobbs.com/]tls://dns.google:853
 [/gaoming.net/]tls://dns.google:853
 [/gaosemm.com/]tls://dns.google:853
+[/gaozhisheng.org/]tls://dns.google:853
 [/garageperucchi.ch/]tls://dns.google:853
 [/gardennetworks.com/]tls://dns.google:853
 [/gardennetworks.org/]tls://dns.google:853
@@ -35563,6 +35566,7 @@ https://dns.pub:443/dns-query
 [/huarian.com/]tls://dns.google:853
 [/huashimedia.site40.net/]tls://dns.google:853
 [/huasing.org/]tls://dns.google:853
+[/huaxia-news.com/]tls://dns.google:853
 [/huaxiabao.org/]tls://dns.google:853
 [/huaxin.ph/]tls://dns.google:853
 [/huayuworld.org/]tls://dns.google:853
