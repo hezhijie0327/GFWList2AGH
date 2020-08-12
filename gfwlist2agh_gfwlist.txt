@@ -6899,6 +6899,7 @@ https://dns.pub:443/dns-query
 [/durnyi.blog.shinobi.jp/]https://doh.opendns.com:443/dns-query
 [/durofil.ro/]https://doh.opendns.com:443/dns-query
 [/dushi.ca/]https://doh.opendns.com:443/dns-query
+[/dusustutucu.com/]https://doh.opendns.com:443/dns-query
 [/dutch7.com/]https://doh.opendns.com:443/dns-query
 [/duyaoss.com/]https://doh.opendns.com:443/dns-query
 [/duyaossr.com/]https://doh.opendns.com:443/dns-query
@@ -32030,6 +32031,7 @@ https://dns.pub:443/dns-query
 [/durnyi.blog.shinobi.jp/]tls://dns.google:853
 [/durofil.ro/]tls://dns.google:853
 [/dushi.ca/]tls://dns.google:853
+[/dusustutucu.com/]tls://dns.google:853
 [/dutch7.com/]tls://dns.google:853
 [/duyaoss.com/]tls://dns.google:853
 [/duyaossr.com/]tls://dns.google:853
