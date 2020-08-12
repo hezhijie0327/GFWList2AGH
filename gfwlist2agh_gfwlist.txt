@@ -6761,7 +6761,6 @@ https://dns.pub:443/dns-query
 [/droidsecurity.com/]https://doh.opendns.com:443/dns-query
 [/droidvpn.com/]https://doh.opendns.com:443/dns-query
 [/dronedj.com/]https://doh.opendns.com:443/dns-query
-[/dropbooks.tv/]https://doh.opendns.com:443/dns-query
 [/dropbox.com/]https://doh.opendns.com:443/dns-query
 [/dropbox.tech/]https://doh.opendns.com:443/dns-query
 [/dropboxbusiness.com/]https://doh.opendns.com:443/dns-query
@@ -6988,7 +6987,6 @@ https://dns.pub:443/dns-query
 [/ecat-47d68.firebaseio.com/]https://doh.opendns.com:443/dns-query
 [/ecchi.iwara.tv/]https://doh.opendns.com:443/dns-query
 [/echainhost.com/]https://doh.opendns.com:443/dns-query
-[/echocdn.com/]https://doh.opendns.com:443/dns-query
 [/echofon.com/]https://doh.opendns.com:443/dns-query
 [/echosign.com/]https://doh.opendns.com:443/dns-query
 [/ecimleon.org.mx/]https://doh.opendns.com:443/dns-query
@@ -8527,7 +8525,6 @@ https://dns.pub:443/dns-query
 [/fstopimages.com/]https://doh.opendns.com:443/dns-query
 [/fsurf.com/]https://doh.opendns.com:443/dns-query
 [/ft.com/]https://doh.opendns.com:443/dns-query
-[/ftcdn.net/]https://doh.opendns.com:443/dns-query
 [/ftchinese.com/]https://doh.opendns.com:443/dns-query
 [/fteproxy.org/]https://doh.opendns.com:443/dns-query
 [/ftp.cc/]https://doh.opendns.com:443/dns-query
@@ -9092,7 +9089,6 @@ https://dns.pub:443/dns-query
 [/goenglish.me/]https://doh.opendns.com:443/dns-query
 [/gofirefly.org/]https://doh.opendns.com:443/dns-query
 [/gofundme.com/]https://doh.opendns.com:443/dns-query
-[/gog-statics.com/]https://doh.opendns.com:443/dns-query
 [/gog.com/]https://doh.opendns.com:443/dns-query
 [/gog.qtlglb.com/]https://doh.opendns.com:443/dns-query
 [/goggle.com/]https://doh.opendns.com:443/dns-query
@@ -10189,9 +10185,7 @@ https://dns.pub:443/dns-query
 [/hothk.com/]https://doh.opendns.com:443/dns-query
 [/hotlegsandfeet.com/]https://doh.opendns.com:443/dns-query
 [/hotlink.cc/]https://doh.opendns.com:443/dns-query
-[/hotmail.co/]https://doh.opendns.com:443/dns-query
 [/hotmail.com/]https://doh.opendns.com:443/dns-query
-[/hotmail.net/]https://doh.opendns.com:443/dns-query
 [/hotmail.org/]https://doh.opendns.com:443/dns-query
 [/hotmonsterbeats.com/]https://doh.opendns.com:443/dns-query
 [/hotmovies.com/]https://doh.opendns.com:443/dns-query
@@ -13083,7 +13077,6 @@ https://dns.pub:443/dns-query
 [/microsoftsiteselection.com/]https://doh.opendns.com:443/dns-query
 [/microsoftsqlserver.com/]https://doh.opendns.com:443/dns-query
 [/microsoftstore.com/]https://doh.opendns.com:443/dns-query
-[/microsoftstream.com/]https://doh.opendns.com:443/dns-query
 [/microsoftteams.com/]https://doh.opendns.com:443/dns-query
 [/microsofttradein.com/]https://doh.opendns.com:443/dns-query
 [/microsofttranslator.com/]https://doh.opendns.com:443/dns-query
@@ -13818,7 +13811,6 @@ https://dns.pub:443/dns-query
 [/n888qq.com/]https://doh.opendns.com:443/dns-query
 [/n9887.com/]https://doh.opendns.com:443/dns-query
 [/n9919.com/]https://doh.opendns.com:443/dns-query
-[/na-att-idns.net/]https://doh.opendns.com:443/dns-query
 [/na.ddns.name/]https://doh.opendns.com:443/dns-query
 [/na.kalone.net/]https://doh.opendns.com:443/dns-query
 [/naacoalition.org/]https://doh.opendns.com:443/dns-query
@@ -14629,7 +14621,6 @@ https://dns.pub:443/dns-query
 [/omnigroup.com/]https://doh.opendns.com:443/dns-query
 [/omnitalk.com/]https://doh.opendns.com:443/dns-query
 [/omnitalk.org/]https://doh.opendns.com:443/dns-query
-[/omniture.com/]https://doh.opendns.com:443/dns-query
 [/omscr.com/]https://doh.opendns.com:443/dns-query
 [/omy.sg/]https://doh.opendns.com:443/dns-query
 [/on-sir.tk/]https://doh.opendns.com:443/dns-query
@@ -17031,7 +17022,6 @@ https://dns.pub:443/dns-query
 [/signal.org/]https://doh.opendns.com:443/dns-query
 [/signalbar.com/]https://doh.opendns.com:443/dns-query
 [/signalprocessingsociety.org/]https://doh.opendns.com:443/dns-query
-[/signalusers.org/]https://doh.opendns.com:443/dns-query
 [/signup.popmediainc.com/]https://doh.opendns.com:443/dns-query
 [/signupv2.popmediainc.com/]https://doh.opendns.com:443/dns-query
 [/sigupdates.marshal.com/]https://doh.opendns.com:443/dns-query
@@ -17146,7 +17136,6 @@ https://dns.pub:443/dns-query
 [/skytorrents.lol/]https://doh.opendns.com:443/dns-query
 [/skyvegas.com/]https://doh.opendns.com:443/dns-query
 [/skyxvpn.com/]https://doh.opendns.com:443/dns-query
-[/sl-reverse.com/]https://doh.opendns.com:443/dns-query
 [/slack-imgs.com/]https://doh.opendns.com:443/dns-query
 [/slack-msgs.com/]https://doh.opendns.com:443/dns-query
 [/slack.com/]https://doh.opendns.com:443/dns-query
@@ -19103,7 +19092,6 @@ https://dns.pub:443/dns-query
 [/udtrucksmeena.com/]https://doh.opendns.com:443/dns-query
 [/uedbet.com/]https://doh.opendns.com:443/dns-query
 [/uflash.tv/]https://doh.opendns.com:443/dns-query
-[/uforadio.com.tw/]https://doh.opendns.com:443/dns-query
 [/ufosightingsdaily.com/]https://doh.opendns.com:443/dns-query
 [/ufreevpn.com/]https://doh.opendns.com:443/dns-query
 [/ufunr.net/]https://doh.opendns.com:443/dns-query
@@ -20424,7 +20412,6 @@ https://dns.pub:443/dns-query
 [/wmflabs.org/]https://doh.opendns.com:443/dns-query
 [/wmfusercontent.org/]https://doh.opendns.com:443/dns-query
 [/wmscog.cc/]https://doh.opendns.com:443/dns-query
-[/wmsjsteam.com/]https://doh.opendns.com:443/dns-query
 [/wmt.co/]https://doh.opendns.com:443/dns-query
 [/wn.com/]https://doh.opendns.com:443/dns-query
 [/wn.dnsmail.xyz/]https://doh.opendns.com:443/dns-query
@@ -24230,11 +24217,9 @@ https://dns.pub:443/dns-query
 [/xbox.org/]https://doh.opendns.com:443/dns-query
 [/xbox360.co/]https://doh.opendns.com:443/dns-query
 [/xbox360.com/]https://doh.opendns.com:443/dns-query
-[/xbox360.org/]https://doh.opendns.com:443/dns-query
 [/xboxgamepass.com/]https://doh.opendns.com:443/dns-query
 [/xboxgamestudios.com/]https://doh.opendns.com:443/dns-query
 [/xboxlive.com/]https://doh.opendns.com:443/dns-query
-[/xboxone.co/]https://doh.opendns.com:443/dns-query
 [/xboxone.com/]https://doh.opendns.com:443/dns-query
 [/xboxplayanywhere.com/]https://doh.opendns.com:443/dns-query
 [/xboxstudios.com/]https://doh.opendns.com:443/dns-query
@@ -31849,7 +31834,6 @@ https://dns.pub:443/dns-query
 [/droidsecurity.com/]tls://dns.google:853
 [/droidvpn.com/]tls://dns.google:853
 [/dronedj.com/]tls://dns.google:853
-[/dropbooks.tv/]tls://dns.google:853
 [/dropbox.com/]tls://dns.google:853
 [/dropbox.tech/]tls://dns.google:853
 [/dropboxbusiness.com/]tls://dns.google:853
@@ -32076,7 +32060,6 @@ https://dns.pub:443/dns-query
 [/ecat-47d68.firebaseio.com/]tls://dns.google:853
 [/ecchi.iwara.tv/]tls://dns.google:853
 [/echainhost.com/]tls://dns.google:853
-[/echocdn.com/]tls://dns.google:853
 [/echofon.com/]tls://dns.google:853
 [/echosign.com/]tls://dns.google:853
 [/ecimleon.org.mx/]tls://dns.google:853
@@ -33615,7 +33598,6 @@ https://dns.pub:443/dns-query
 [/fstopimages.com/]tls://dns.google:853
 [/fsurf.com/]tls://dns.google:853
 [/ft.com/]tls://dns.google:853
-[/ftcdn.net/]tls://dns.google:853
 [/ftchinese.com/]tls://dns.google:853
 [/fteproxy.org/]tls://dns.google:853
 [/ftp.cc/]tls://dns.google:853
@@ -34180,7 +34162,6 @@ https://dns.pub:443/dns-query
 [/goenglish.me/]tls://dns.google:853
 [/gofirefly.org/]tls://dns.google:853
 [/gofundme.com/]tls://dns.google:853
-[/gog-statics.com/]tls://dns.google:853
 [/gog.com/]tls://dns.google:853
 [/gog.qtlglb.com/]tls://dns.google:853
 [/goggle.com/]tls://dns.google:853
@@ -35277,9 +35258,7 @@ https://dns.pub:443/dns-query
 [/hothk.com/]tls://dns.google:853
 [/hotlegsandfeet.com/]tls://dns.google:853
 [/hotlink.cc/]tls://dns.google:853
-[/hotmail.co/]tls://dns.google:853
 [/hotmail.com/]tls://dns.google:853
-[/hotmail.net/]tls://dns.google:853
 [/hotmail.org/]tls://dns.google:853
 [/hotmonsterbeats.com/]tls://dns.google:853
 [/hotmovies.com/]tls://dns.google:853
@@ -38171,7 +38150,6 @@ https://dns.pub:443/dns-query
 [/microsoftsiteselection.com/]tls://dns.google:853
 [/microsoftsqlserver.com/]tls://dns.google:853
 [/microsoftstore.com/]tls://dns.google:853
-[/microsoftstream.com/]tls://dns.google:853
 [/microsoftteams.com/]tls://dns.google:853
 [/microsofttradein.com/]tls://dns.google:853
 [/microsofttranslator.com/]tls://dns.google:853
@@ -38906,7 +38884,6 @@ https://dns.pub:443/dns-query
 [/n888qq.com/]tls://dns.google:853
 [/n9887.com/]tls://dns.google:853
 [/n9919.com/]tls://dns.google:853
-[/na-att-idns.net/]tls://dns.google:853
 [/na.ddns.name/]tls://dns.google:853
 [/na.kalone.net/]tls://dns.google:853
 [/naacoalition.org/]tls://dns.google:853
@@ -39717,7 +39694,6 @@ https://dns.pub:443/dns-query
 [/omnigroup.com/]tls://dns.google:853
 [/omnitalk.com/]tls://dns.google:853
 [/omnitalk.org/]tls://dns.google:853
-[/omniture.com/]tls://dns.google:853
 [/omscr.com/]tls://dns.google:853
 [/omy.sg/]tls://dns.google:853
 [/on-sir.tk/]tls://dns.google:853
@@ -42119,7 +42095,6 @@ https://dns.pub:443/dns-query
 [/signal.org/]tls://dns.google:853
 [/signalbar.com/]tls://dns.google:853
 [/signalprocessingsociety.org/]tls://dns.google:853
-[/signalusers.org/]tls://dns.google:853
 [/signup.popmediainc.com/]tls://dns.google:853
 [/signupv2.popmediainc.com/]tls://dns.google:853
 [/sigupdates.marshal.com/]tls://dns.google:853
@@ -42234,7 +42209,6 @@ https://dns.pub:443/dns-query
 [/skytorrents.lol/]tls://dns.google:853
 [/skyvegas.com/]tls://dns.google:853
 [/skyxvpn.com/]tls://dns.google:853
-[/sl-reverse.com/]tls://dns.google:853
 [/slack-imgs.com/]tls://dns.google:853
 [/slack-msgs.com/]tls://dns.google:853
 [/slack.com/]tls://dns.google:853
@@ -44191,7 +44165,6 @@ https://dns.pub:443/dns-query
 [/udtrucksmeena.com/]tls://dns.google:853
 [/uedbet.com/]tls://dns.google:853
 [/uflash.tv/]tls://dns.google:853
-[/uforadio.com.tw/]tls://dns.google:853
 [/ufosightingsdaily.com/]tls://dns.google:853
 [/ufreevpn.com/]tls://dns.google:853
 [/ufunr.net/]tls://dns.google:853
@@ -45512,7 +45485,6 @@ https://dns.pub:443/dns-query
 [/wmflabs.org/]tls://dns.google:853
 [/wmfusercontent.org/]tls://dns.google:853
 [/wmscog.cc/]tls://dns.google:853
-[/wmsjsteam.com/]tls://dns.google:853
 [/wmt.co/]tls://dns.google:853
 [/wn.com/]tls://dns.google:853
 [/wn.dnsmail.xyz/]tls://dns.google:853
@@ -49318,11 +49290,9 @@ https://dns.pub:443/dns-query
 [/xbox.org/]tls://dns.google:853
 [/xbox360.co/]tls://dns.google:853
 [/xbox360.com/]tls://dns.google:853
-[/xbox360.org/]tls://dns.google:853
 [/xboxgamepass.com/]tls://dns.google:853
 [/xboxgamestudios.com/]tls://dns.google:853
 [/xboxlive.com/]tls://dns.google:853
-[/xboxone.co/]tls://dns.google:853
 [/xboxone.com/]tls://dns.google:853
 [/xboxplayanywhere.com/]tls://dns.google:853
 [/xboxstudios.com/]tls://dns.google:853
