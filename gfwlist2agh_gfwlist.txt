@@ -87,7 +87,6 @@ https://dns.pub:443/dns-query
 [/059002.com/]https://doh.opendns.com:443/dns-query
 [/059008.com/]https://doh.opendns.com:443/dns-query
 [/05afcp.com/]https://doh.opendns.com:443/dns-query
-[/0607vv.com/]https://doh.opendns.com:443/dns-query
 [/0618.us/]https://doh.opendns.com:443/dns-query
 [/0637777.com/]https://doh.opendns.com:443/dns-query
 [/06966b.com/]https://doh.opendns.com:443/dns-query
@@ -220,7 +219,6 @@ https://dns.pub:443/dns-query
 [/1337x.to/]https://doh.opendns.com:443/dns-query
 [/1365.com/]https://doh.opendns.com:443/dns-query
 [/13668h.com/]https://doh.opendns.com:443/dns-query
-[/138.com/]https://doh.opendns.com:443/dns-query
 [/138138i.com/]https://doh.opendns.com:443/dns-query
 [/138138l.com/]https://doh.opendns.com:443/dns-query
 [/1388771.com/]https://doh.opendns.com:443/dns-query
@@ -335,7 +333,6 @@ https://dns.pub:443/dns-query
 [/1952200.com/]https://doh.opendns.com:443/dns-query
 [/1952222.com/]https://doh.opendns.com:443/dns-query
 [/197888.com/]https://doh.opendns.com:443/dns-query
-[/197889.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.org/]https://doh.opendns.com:443/dns-query
 [/19850608.com/]https://doh.opendns.com:443/dns-query
@@ -414,7 +411,6 @@ https://dns.pub:443/dns-query
 [/211.slyip.net/]https://doh.opendns.com:443/dns-query
 [/213.com/]https://doh.opendns.com:443/dns-query
 [/2157.sbfa99.com/]https://doh.opendns.com:443/dns-query
-[/216.slyip.com/]https://doh.opendns.com:443/dns-query
 [/2181bifa.com/]https://doh.opendns.com:443/dns-query
 [/219128.com/]https://doh.opendns.com:443/dns-query
 [/21andy.com/]https://doh.opendns.com:443/dns-query
@@ -429,7 +425,6 @@ https://dns.pub:443/dns-query
 [/22.dynssl.com/]https://doh.opendns.com:443/dns-query
 [/22.eye.rs/]https://doh.opendns.com:443/dns-query
 [/22.flnet.org/]https://doh.opendns.com:443/dns-query
-[/22.gotgeeks.com/]https://doh.opendns.com:443/dns-query
 [/22.jetos.com/]https://doh.opendns.com:443/dns-query
 [/22.ly.rs/]https://doh.opendns.com:443/dns-query
 [/22.suroot.com/]https://doh.opendns.com:443/dns-query
@@ -521,19 +516,16 @@ https://dns.pub:443/dns-query
 [/2646r.com/]https://doh.opendns.com:443/dns-query
 [/265vip.com/]https://doh.opendns.com:443/dns-query
 [/266.etowns.org/]https://doh.opendns.com:443/dns-query
-[/266.slyip.com/]https://doh.opendns.com:443/dns-query
 [/266660.com/]https://doh.opendns.com:443/dns-query
 [/268.slyip.net/]https://doh.opendns.com:443/dns-query
 [/26uuu.com/]https://doh.opendns.com:443/dns-query
 [/27.etowns.net/]https://doh.opendns.com:443/dns-query
 [/27.flnet.org/]https://doh.opendns.com:443/dns-query
 [/27.qc.to/]https://doh.opendns.com:443/dns-query
-[/27.slyip.com/]https://doh.opendns.com:443/dns-query
 [/27.wtf.im/]https://doh.opendns.com:443/dns-query
 [/27.zyns.com/]https://doh.opendns.com:443/dns-query
 [/27267.com/]https://doh.opendns.com:443/dns-query
 [/277.etowns.org/]https://doh.opendns.com:443/dns-query
-[/277.gotgeeks.com/]https://doh.opendns.com:443/dns-query
 [/27723.com/]https://doh.opendns.com:443/dns-query
 [/27723a.com/]https://doh.opendns.com:443/dns-query
 [/27723aa.com/]https://doh.opendns.com:443/dns-query
@@ -613,12 +605,10 @@ https://dns.pub:443/dns-query
 [/32.etowns.net/]https://doh.opendns.com:443/dns-query
 [/32.mrface.com/]https://doh.opendns.com:443/dns-query
 [/32.ns02.biz/]https://doh.opendns.com:443/dns-query
-[/32.slyip.com/]https://doh.opendns.com:443/dns-query
 [/32.slyip.net/]https://doh.opendns.com:443/dns-query
 [/3200138.com/]https://doh.opendns.com:443/dns-query
 [/3201380.com/]https://doh.opendns.com:443/dns-query
 [/3206.ca372.com/]https://doh.opendns.com:443/dns-query
-[/321.slyip.com/]https://doh.opendns.com:443/dns-query
 [/321.slyip.net/]https://doh.opendns.com:443/dns-query
 [/3211380.com/]https://doh.opendns.com:443/dns-query
 [/321365.net/]https://doh.opendns.com:443/dns-query
@@ -628,7 +618,6 @@ https://dns.pub:443/dns-query
 [/322722.com/]https://doh.opendns.com:443/dns-query
 [/3228.sbf9988.com/]https://doh.opendns.com:443/dns-query
 [/323.slyip.net/]https://doh.opendns.com:443/dns-query
-[/325.deaftone.com/]https://doh.opendns.com:443/dns-query
 [/326.25u.com/]https://doh.opendns.com:443/dns-query
 [/32666099.com/]https://doh.opendns.com:443/dns-query
 [/3288js.com/]https://doh.opendns.com:443/dns-query
@@ -894,7 +883,6 @@ https://dns.pub:443/dns-query
 [/5559955.com/]https://doh.opendns.com:443/dns-query
 [/555tsrj.com/]https://doh.opendns.com:443/dns-query
 [/556.my03.com/]https://doh.opendns.com:443/dns-query
-[/556.slyip.com/]https://doh.opendns.com:443/dns-query
 [/5567.slyip.net/]https://doh.opendns.com:443/dns-query
 [/556js.com/]https://doh.opendns.com:443/dns-query
 [/557.etowns.org/]https://doh.opendns.com:443/dns-query
@@ -908,7 +896,6 @@ https://dns.pub:443/dns-query
 [/5595uuu.com/]https://doh.opendns.com:443/dns-query
 [/55afcp.com/]https://doh.opendns.com:443/dns-query
 [/55bg.com/]https://doh.opendns.com:443/dns-query
-[/55hg.com/]https://doh.opendns.com:443/dns-query
 [/55hg.com.com/]https://doh.opendns.com:443/dns-query
 [/56.etowns.org/]https://doh.opendns.com:443/dns-query
 [/56.flnet.org/]https://doh.opendns.com:443/dns-query
@@ -929,7 +916,6 @@ https://dns.pub:443/dns-query
 [/599499.com/]https://doh.opendns.com:443/dns-query
 [/5aera.cl/]https://doh.opendns.com:443/dns-query
 [/5afcp.com/]https://doh.opendns.com:443/dns-query
-[/5aimiku.com/]https://doh.opendns.com:443/dns-query
 [/5beatsbydre.com/]https://doh.opendns.com:443/dns-query
 [/5best1.com/]https://doh.opendns.com:443/dns-query
 [/5i01.com/]https://doh.opendns.com:443/dns-query
@@ -953,7 +939,6 @@ https://dns.pub:443/dns-query
 [/6112gg.net/]https://doh.opendns.com:443/dns-query
 [/61789.com/]https://doh.opendns.com:443/dns-query
 [/62.etowns.net/]https://doh.opendns.com:443/dns-query
-[/62.slyip.com/]https://doh.opendns.com:443/dns-query
 [/62.slyip.net/]https://doh.opendns.com:443/dns-query
 [/620025.com/]https://doh.opendns.com:443/dns-query
 [/62033.com/]https://doh.opendns.com:443/dns-query
@@ -1519,7 +1504,6 @@ https://dns.pub:443/dns-query
 [/999.jbi6689.com/]https://doh.opendns.com:443/dns-query
 [/999.jbi9988.com/]https://doh.opendns.com:443/dns-query
 [/999.no9988.net/]https://doh.opendns.com:443/dns-query
-[/999.zb158.com/]https://doh.opendns.com:443/dns-query
 [/999.zc555888.com/]https://doh.opendns.com:443/dns-query
 [/99999.suroot.com/]https://doh.opendns.com:443/dns-query
 [/9999bet.com/]https://doh.opendns.com:443/dns-query
@@ -1593,8 +1577,6 @@ https://dns.pub:443/dns-query
 [/a6640.com/]https://doh.opendns.com:443/dns-query
 [/a6650.com/]https://doh.opendns.com:443/dns-query
 [/a66ff.com/]https://doh.opendns.com:443/dns-query
-[/a66rr.com/]https://doh.opendns.com:443/dns-query
-[/a66tt.com/]https://doh.opendns.com:443/dns-query
 [/a70717.com/]https://doh.opendns.com:443/dns-query
 [/a771.dscq.akamai.net/]https://doh.opendns.com:443/dns-query
 [/a7733.com/]https://doh.opendns.com:443/dns-query
@@ -1762,7 +1744,6 @@ https://dns.pub:443/dns-query
 [/adobe.io/]https://doh.opendns.com:443/dns-query
 [/adobeaemcloud.com/]https://doh.opendns.com:443/dns-query
 [/adobeawards.com/]https://doh.opendns.com:443/dns-query
-[/adobecc.com/]https://doh.opendns.com:443/dns-query
 [/adobecce.com/]https://doh.opendns.com:443/dns-query
 [/adobecreativityawards.com/]https://doh.opendns.com:443/dns-query
 [/adobedemo.com/]https://doh.opendns.com:443/dns-query
@@ -1770,18 +1751,12 @@ https://dns.pub:443/dns-query
 [/adobeexperienceawards.com/]https://doh.opendns.com:443/dns-query
 [/adobegov.com/]https://doh.opendns.com:443/dns-query
 [/adobehiddentreasures.com/]https://doh.opendns.com:443/dns-query
-[/adobejanus.com/]https://doh.opendns.com:443/dns-query
-[/adobeku.com/]https://doh.opendns.com:443/dns-query
 [/adobelogin.com/]https://doh.opendns.com:443/dns-query
 [/adobeplatinumclub.com/]https://doh.opendns.com:443/dns-query
 [/adobeprojectm.com/]https://doh.opendns.com:443/dns-query
-[/adobesc.com/]https://doh.opendns.com:443/dns-query
 [/adobesign.com/]https://doh.opendns.com:443/dns-query
-[/adobesigncdn.com/]https://doh.opendns.com:443/dns-query
 [/adobespark.com/]https://doh.opendns.com:443/dns-query
-[/adobess.com/]https://doh.opendns.com:443/dns-query
 [/adobestock.com/]https://doh.opendns.com:443/dns-query
-[/adobetag.com/]https://doh.opendns.com:443/dns-query
 [/adobetarget.com/]https://doh.opendns.com:443/dns-query
 [/adobetcstrialdvd.com/]https://doh.opendns.com:443/dns-query
 [/adobetechcomm.com/]https://doh.opendns.com:443/dns-query
@@ -1937,7 +1912,6 @@ https://dns.pub:443/dns-query
 [/aiuu5.com/]https://doh.opendns.com:443/dns-query
 [/aiuuo.com/]https://doh.opendns.com:443/dns-query
 [/aiweiwei.com/]https://doh.opendns.com:443/dns-query
-[/aiweiweiblog.com/]https://doh.opendns.com:443/dns-query
 [/aiwin88.com/]https://doh.opendns.com:443/dns-query
 [/aiyori.org/]https://doh.opendns.com:443/dns-query
 [/aizhaofuli.com/]https://doh.opendns.com:443/dns-query
@@ -2095,7 +2069,6 @@ https://dns.pub:443/dns-query
 [/am728.com/]https://doh.opendns.com:443/dns-query
 [/am730.com.hk/]https://doh.opendns.com:443/dns-query
 [/am8955.com/]https://doh.opendns.com:443/dns-query
-[/am9907.com/]https://doh.opendns.com:443/dns-query
 [/am9908.com/]https://doh.opendns.com:443/dns-query
 [/amaaozn.com/]https://doh.opendns.com:443/dns-query
 [/amae.ir/]https://doh.opendns.com:443/dns-query
@@ -2671,7 +2644,6 @@ https://dns.pub:443/dns-query
 [/assetshare.box.com/]https://doh.opendns.com:443/dns-query
 [/assimp.org/]https://doh.opendns.com:443/dns-query
 [/assisass.com/]https://doh.opendns.com:443/dns-query
-[/associates-amazon.com/]https://doh.opendns.com:443/dns-query
 [/assortednotions.com/]https://doh.opendns.com:443/dns-query
 [/astraprod.ro/]https://doh.opendns.com:443/dns-query
 [/astrill.com/]https://doh.opendns.com:443/dns-query
@@ -2688,7 +2660,6 @@ https://dns.pub:443/dns-query
 [/atandt.com/]https://doh.opendns.com:443/dns-query
 [/ataxiaontario.ca/]https://doh.opendns.com:443/dns-query
 [/atc.org.au/]https://doh.opendns.com:443/dns-query
-[/atchinese.com/]https://doh.opendns.com:443/dns-query
 [/atdmt.com/]https://doh.opendns.com:443/dns-query
 [/atdmt2.com/]https://doh.opendns.com:443/dns-query
 [/ateam-oracle.com/]https://doh.opendns.com:443/dns-query
@@ -2706,9 +2677,7 @@ https://dns.pub:443/dns-query
 [/atproxy.net/]https://doh.opendns.com:443/dns-query
 [/atscaleconference.com/]https://doh.opendns.com:443/dns-query
 [/att-bundles.com/]https://doh.opendns.com:443/dns-query
-[/att-idns.net/]https://doh.opendns.com:443/dns-query
 [/att-japan.com/]https://doh.opendns.com:443/dns-query
-[/att-mail.com/]https://doh.opendns.com:443/dns-query
 [/att-promotions.com/]https://doh.opendns.com:443/dns-query
 [/att-rsvp.com/]https://doh.opendns.com:443/dns-query
 [/att.com/]https://doh.opendns.com:443/dns-query
@@ -2720,8 +2689,6 @@ https://dns.pub:443/dns-query
 [/attbusiness.net/]https://doh.opendns.com:443/dns-query
 [/attcenter.com/]https://doh.opendns.com:443/dns-query
 [/attcollaborate.com/]https://doh.opendns.com:443/dns-query
-[/attdns.com/]https://doh.opendns.com:443/dns-query
-[/attdns.net/]https://doh.opendns.com:443/dns-query
 [/attexperts.com/]https://doh.opendns.com:443/dns-query
 [/attglobal.net/]https://doh.opendns.com:443/dns-query
 [/attic.io/]https://doh.opendns.com:443/dns-query
@@ -2736,7 +2703,6 @@ https://dns.pub:443/dns-query
 [/attpurchasing.com/]https://doh.opendns.com:443/dns-query
 [/attsavings.com/]https://doh.opendns.com:443/dns-query
 [/attspecial.com/]https://doh.opendns.com:443/dns-query
-[/attssl.com/]https://doh.opendns.com:443/dns-query
 [/attstadium.com/]https://doh.opendns.com:443/dns-query
 [/attsuppliers.com/]https://doh.opendns.com:443/dns-query
 [/atttvnow.com/]https://doh.opendns.com:443/dns-query
@@ -2864,7 +2830,6 @@ https://dns.pub:443/dns-query
 [/avso.pw/]https://doh.opendns.com:443/dns-query
 [/avsp2p.com/]https://doh.opendns.com:443/dns-query
 [/avstry.com/]https://doh.opendns.com:443/dns-query
-[/avtb388.com/]https://doh.opendns.com:443/dns-query
 [/avtby.com/]https://doh.opendns.com:443/dns-query
 [/avuoe.com/]https://doh.opendns.com:443/dns-query
 [/avyahoo.com/]https://doh.opendns.com:443/dns-query
@@ -3853,7 +3818,6 @@ https://dns.pub:443/dns-query
 [/blog.inoreader.com/]https://doh.opendns.com:443/dns-query
 [/blog.iphone-dev.org/]https://doh.opendns.com:443/dns-query
 [/blog.iset.com.tw/]https://doh.opendns.com:443/dns-query
-[/blog.istef.info/]https://doh.opendns.com:443/dns-query
 [/blog.jackjia.com/]https://doh.opendns.com:443/dns-query
 [/blog.joint.net/]https://doh.opendns.com:443/dns-query
 [/blog.jp/]https://doh.opendns.com:443/dns-query
@@ -4035,7 +3999,6 @@ https://dns.pub:443/dns-query
 [/bluekoff.net/]https://doh.opendns.com:443/dns-query
 [/bluemix.com/]https://doh.opendns.com:443/dns-query
 [/bluemix.net/]https://doh.opendns.com:443/dns-query
-[/blz-contentstack.com/]https://doh.opendns.com:443/dns-query
 [/blz.nosdn.127.net/]https://doh.opendns.com:443/dns-query
 [/bm-feichtinger.at/]https://doh.opendns.com:443/dns-query
 [/bm505.com/]https://doh.opendns.com:443/dns-query
@@ -4431,7 +4394,6 @@ https://dns.pub:443/dns-query
 [/bringingtibethome.com/]https://doh.opendns.com:443/dns-query
 [/brisk.eu.org/]https://doh.opendns.com:443/dns-query
 [/brizzly.com/]https://doh.opendns.com:443/dns-query
-[/brkmd.com/]https://doh.opendns.com:443/dns-query
 [/broadbook.com/]https://doh.opendns.com:443/dns-query
 [/broadpressinc.com/]https://doh.opendns.com:443/dns-query
 [/brocaproject.com/]https://doh.opendns.com:443/dns-query
@@ -4610,7 +4572,6 @@ https://dns.pub:443/dns-query
 [/bwh88.net/]https://doh.opendns.com:443/dns-query
 [/bwin01.com/]https://doh.opendns.com:443/dns-query
 [/bwin7099.com/]https://doh.opendns.com:443/dns-query
-[/bww.yakexi1024.net/]https://doh.opendns.com:443/dns-query
 [/bx.tl/]https://doh.opendns.com:443/dns-query
 [/bxwx.net/]https://doh.opendns.com:443/dns-query
 [/bybeatsdre.com/]https://doh.opendns.com:443/dns-query
@@ -4622,8 +4583,6 @@ https://dns.pub:443/dns-query
 [/bypass.pw/]https://doh.opendns.com:443/dns-query
 [/bypasscensorship.org/]https://doh.opendns.com:443/dns-query
 [/bypasskey.com/]https://doh.opendns.com:443/dns-query
-[/byt020.com/]https://doh.opendns.com:443/dns-query
-[/byt101.com/]https://doh.opendns.com:443/dns-query
 [/byt707.com/]https://doh.opendns.com:443/dns-query
 [/byt909.com/]https://doh.opendns.com:443/dns-query
 [/c-est-simple.com/]https://doh.opendns.com:443/dns-query
@@ -5616,7 +5575,6 @@ https://dns.pub:443/dns-query
 [/cnnmoney.com/]https://doh.opendns.com:443/dns-query
 [/cnnmoneystream.com/]https://doh.opendns.com:443/dns-query
 [/cnnpolitics.com/]https://doh.opendns.com:443/dns-query
-[/cnotepad.com/]https://doh.opendns.com:443/dns-query
 [/cnpoco.com/]https://doh.opendns.com:443/dns-query
 [/cnproxy.com/]https://doh.opendns.com:443/dns-query
 [/cntube.net/]https://doh.opendns.com:443/dns-query
@@ -5919,7 +5877,6 @@ https://dns.pub:443/dns-query
 [/ctan.org/]https://doh.opendns.com:443/dns-query
 [/ctao.org/]https://doh.opendns.com:443/dns-query
 [/ctcwall.com/]https://doh.opendns.com:443/dns-query
-[/ctfassets.net/]https://doh.opendns.com:443/dns-query
 [/cthchile.com/]https://doh.opendns.com:443/dns-query
 [/ctitv.com.tw/]https://doh.opendns.com:443/dns-query
 [/cts.com.tw/]https://doh.opendns.com:443/dns-query
@@ -6014,7 +5971,6 @@ https://dns.pub:443/dns-query
 [/d2bay.com/]https://doh.opendns.com:443/dns-query
 [/d2f1egay8yehza.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d2pass.com/]https://doh.opendns.com:443/dns-query
-[/d2pxvvqoon1wcs.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d2uzsrnmmf6tds.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d32kn01rfn0r98.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d3621.com/]https://doh.opendns.com:443/dns-query
@@ -6051,7 +6007,6 @@ https://dns.pub:443/dns-query
 [/dadi360.com/]https://doh.opendns.com:443/dns-query
 [/dafa888.com/]https://doh.opendns.com:443/dns-query
 [/dafabet.com/]https://doh.opendns.com:443/dns-query
-[/dafacloud.com/]https://doh.opendns.com:443/dns-query
 [/dafagood.com/]https://doh.opendns.com:443/dns-query
 [/dafahao.com/]https://doh.opendns.com:443/dns-query
 [/dafoh.org/]https://doh.opendns.com:443/dns-query
@@ -6407,7 +6362,6 @@ https://dns.pub:443/dns-query
 [/digitalcom.com.ar/]https://doh.opendns.com:443/dns-query
 [/digitalhub.com/]https://doh.opendns.com:443/dns-query
 [/digitalid.ch/]https://doh.opendns.com:443/dns-query
-[/digitalions.co.il/]https://doh.opendns.com:443/dns-query
 [/digitalnomadsproject.org/]https://doh.opendns.com:443/dns-query
 [/digitalocean.com/]https://doh.opendns.com:443/dns-query
 [/digitaloceanspaces.com/]https://doh.opendns.com:443/dns-query
@@ -25221,7 +25175,6 @@ https://dns.pub:443/dns-query
 [/059002.com/]tls://dns.google:853
 [/059008.com/]tls://dns.google:853
 [/05afcp.com/]tls://dns.google:853
-[/0607vv.com/]tls://dns.google:853
 [/0618.us/]tls://dns.google:853
 [/0637777.com/]tls://dns.google:853
 [/06966b.com/]tls://dns.google:853
@@ -25354,7 +25307,6 @@ https://dns.pub:443/dns-query
 [/1337x.to/]tls://dns.google:853
 [/1365.com/]tls://dns.google:853
 [/13668h.com/]tls://dns.google:853
-[/138.com/]tls://dns.google:853
 [/138138i.com/]tls://dns.google:853
 [/138138l.com/]tls://dns.google:853
 [/1388771.com/]tls://dns.google:853
@@ -25469,7 +25421,6 @@ https://dns.pub:443/dns-query
 [/1952200.com/]tls://dns.google:853
 [/1952222.com/]tls://dns.google:853
 [/197888.com/]tls://dns.google:853
-[/197889.com/]tls://dns.google:853
 [/1984bbs.com/]tls://dns.google:853
 [/1984bbs.org/]tls://dns.google:853
 [/19850608.com/]tls://dns.google:853
@@ -25548,7 +25499,6 @@ https://dns.pub:443/dns-query
 [/211.slyip.net/]tls://dns.google:853
 [/213.com/]tls://dns.google:853
 [/2157.sbfa99.com/]tls://dns.google:853
-[/216.slyip.com/]tls://dns.google:853
 [/2181bifa.com/]tls://dns.google:853
 [/219128.com/]tls://dns.google:853
 [/21andy.com/]tls://dns.google:853
@@ -25563,7 +25513,6 @@ https://dns.pub:443/dns-query
 [/22.dynssl.com/]tls://dns.google:853
 [/22.eye.rs/]tls://dns.google:853
 [/22.flnet.org/]tls://dns.google:853
-[/22.gotgeeks.com/]tls://dns.google:853
 [/22.jetos.com/]tls://dns.google:853
 [/22.ly.rs/]tls://dns.google:853
 [/22.suroot.com/]tls://dns.google:853
@@ -25655,19 +25604,16 @@ https://dns.pub:443/dns-query
 [/2646r.com/]tls://dns.google:853
 [/265vip.com/]tls://dns.google:853
 [/266.etowns.org/]tls://dns.google:853
-[/266.slyip.com/]tls://dns.google:853
 [/266660.com/]tls://dns.google:853
 [/268.slyip.net/]tls://dns.google:853
 [/26uuu.com/]tls://dns.google:853
 [/27.etowns.net/]tls://dns.google:853
 [/27.flnet.org/]tls://dns.google:853
 [/27.qc.to/]tls://dns.google:853
-[/27.slyip.com/]tls://dns.google:853
 [/27.wtf.im/]tls://dns.google:853
 [/27.zyns.com/]tls://dns.google:853
 [/27267.com/]tls://dns.google:853
 [/277.etowns.org/]tls://dns.google:853
-[/277.gotgeeks.com/]tls://dns.google:853
 [/27723.com/]tls://dns.google:853
 [/27723a.com/]tls://dns.google:853
 [/27723aa.com/]tls://dns.google:853
@@ -25747,12 +25693,10 @@ https://dns.pub:443/dns-query
 [/32.etowns.net/]tls://dns.google:853
 [/32.mrface.com/]tls://dns.google:853
 [/32.ns02.biz/]tls://dns.google:853
-[/32.slyip.com/]tls://dns.google:853
 [/32.slyip.net/]tls://dns.google:853
 [/3200138.com/]tls://dns.google:853
 [/3201380.com/]tls://dns.google:853
 [/3206.ca372.com/]tls://dns.google:853
-[/321.slyip.com/]tls://dns.google:853
 [/321.slyip.net/]tls://dns.google:853
 [/3211380.com/]tls://dns.google:853
 [/321365.net/]tls://dns.google:853
@@ -25762,7 +25706,6 @@ https://dns.pub:443/dns-query
 [/322722.com/]tls://dns.google:853
 [/3228.sbf9988.com/]tls://dns.google:853
 [/323.slyip.net/]tls://dns.google:853
-[/325.deaftone.com/]tls://dns.google:853
 [/326.25u.com/]tls://dns.google:853
 [/32666099.com/]tls://dns.google:853
 [/3288js.com/]tls://dns.google:853
@@ -26028,7 +25971,6 @@ https://dns.pub:443/dns-query
 [/5559955.com/]tls://dns.google:853
 [/555tsrj.com/]tls://dns.google:853
 [/556.my03.com/]tls://dns.google:853
-[/556.slyip.com/]tls://dns.google:853
 [/5567.slyip.net/]tls://dns.google:853
 [/556js.com/]tls://dns.google:853
 [/557.etowns.org/]tls://dns.google:853
@@ -26042,7 +25984,6 @@ https://dns.pub:443/dns-query
 [/5595uuu.com/]tls://dns.google:853
 [/55afcp.com/]tls://dns.google:853
 [/55bg.com/]tls://dns.google:853
-[/55hg.com/]tls://dns.google:853
 [/55hg.com.com/]tls://dns.google:853
 [/56.etowns.org/]tls://dns.google:853
 [/56.flnet.org/]tls://dns.google:853
@@ -26063,7 +26004,6 @@ https://dns.pub:443/dns-query
 [/599499.com/]tls://dns.google:853
 [/5aera.cl/]tls://dns.google:853
 [/5afcp.com/]tls://dns.google:853
-[/5aimiku.com/]tls://dns.google:853
 [/5beatsbydre.com/]tls://dns.google:853
 [/5best1.com/]tls://dns.google:853
 [/5i01.com/]tls://dns.google:853
@@ -26087,7 +26027,6 @@ https://dns.pub:443/dns-query
 [/6112gg.net/]tls://dns.google:853
 [/61789.com/]tls://dns.google:853
 [/62.etowns.net/]tls://dns.google:853
-[/62.slyip.com/]tls://dns.google:853
 [/62.slyip.net/]tls://dns.google:853
 [/620025.com/]tls://dns.google:853
 [/62033.com/]tls://dns.google:853
@@ -26653,7 +26592,6 @@ https://dns.pub:443/dns-query
 [/999.jbi6689.com/]tls://dns.google:853
 [/999.jbi9988.com/]tls://dns.google:853
 [/999.no9988.net/]tls://dns.google:853
-[/999.zb158.com/]tls://dns.google:853
 [/999.zc555888.com/]tls://dns.google:853
 [/99999.suroot.com/]tls://dns.google:853
 [/9999bet.com/]tls://dns.google:853
@@ -26727,8 +26665,6 @@ https://dns.pub:443/dns-query
 [/a6640.com/]tls://dns.google:853
 [/a6650.com/]tls://dns.google:853
 [/a66ff.com/]tls://dns.google:853
-[/a66rr.com/]tls://dns.google:853
-[/a66tt.com/]tls://dns.google:853
 [/a70717.com/]tls://dns.google:853
 [/a771.dscq.akamai.net/]tls://dns.google:853
 [/a7733.com/]tls://dns.google:853
@@ -26896,7 +26832,6 @@ https://dns.pub:443/dns-query
 [/adobe.io/]tls://dns.google:853
 [/adobeaemcloud.com/]tls://dns.google:853
 [/adobeawards.com/]tls://dns.google:853
-[/adobecc.com/]tls://dns.google:853
 [/adobecce.com/]tls://dns.google:853
 [/adobecreativityawards.com/]tls://dns.google:853
 [/adobedemo.com/]tls://dns.google:853
@@ -26904,18 +26839,12 @@ https://dns.pub:443/dns-query
 [/adobeexperienceawards.com/]tls://dns.google:853
 [/adobegov.com/]tls://dns.google:853
 [/adobehiddentreasures.com/]tls://dns.google:853
-[/adobejanus.com/]tls://dns.google:853
-[/adobeku.com/]tls://dns.google:853
 [/adobelogin.com/]tls://dns.google:853
 [/adobeplatinumclub.com/]tls://dns.google:853
 [/adobeprojectm.com/]tls://dns.google:853
-[/adobesc.com/]tls://dns.google:853
 [/adobesign.com/]tls://dns.google:853
-[/adobesigncdn.com/]tls://dns.google:853
 [/adobespark.com/]tls://dns.google:853
-[/adobess.com/]tls://dns.google:853
 [/adobestock.com/]tls://dns.google:853
-[/adobetag.com/]tls://dns.google:853
 [/adobetarget.com/]tls://dns.google:853
 [/adobetcstrialdvd.com/]tls://dns.google:853
 [/adobetechcomm.com/]tls://dns.google:853
@@ -27071,7 +27000,6 @@ https://dns.pub:443/dns-query
 [/aiuu5.com/]tls://dns.google:853
 [/aiuuo.com/]tls://dns.google:853
 [/aiweiwei.com/]tls://dns.google:853
-[/aiweiweiblog.com/]tls://dns.google:853
 [/aiwin88.com/]tls://dns.google:853
 [/aiyori.org/]tls://dns.google:853
 [/aizhaofuli.com/]tls://dns.google:853
@@ -27229,7 +27157,6 @@ https://dns.pub:443/dns-query
 [/am728.com/]tls://dns.google:853
 [/am730.com.hk/]tls://dns.google:853
 [/am8955.com/]tls://dns.google:853
-[/am9907.com/]tls://dns.google:853
 [/am9908.com/]tls://dns.google:853
 [/amaaozn.com/]tls://dns.google:853
 [/amae.ir/]tls://dns.google:853
@@ -27805,7 +27732,6 @@ https://dns.pub:443/dns-query
 [/assetshare.box.com/]tls://dns.google:853
 [/assimp.org/]tls://dns.google:853
 [/assisass.com/]tls://dns.google:853
-[/associates-amazon.com/]tls://dns.google:853
 [/assortednotions.com/]tls://dns.google:853
 [/astraprod.ro/]tls://dns.google:853
 [/astrill.com/]tls://dns.google:853
@@ -27822,7 +27748,6 @@ https://dns.pub:443/dns-query
 [/atandt.com/]tls://dns.google:853
 [/ataxiaontario.ca/]tls://dns.google:853
 [/atc.org.au/]tls://dns.google:853
-[/atchinese.com/]tls://dns.google:853
 [/atdmt.com/]tls://dns.google:853
 [/atdmt2.com/]tls://dns.google:853
 [/ateam-oracle.com/]tls://dns.google:853
@@ -27840,9 +27765,7 @@ https://dns.pub:443/dns-query
 [/atproxy.net/]tls://dns.google:853
 [/atscaleconference.com/]tls://dns.google:853
 [/att-bundles.com/]tls://dns.google:853
-[/att-idns.net/]tls://dns.google:853
 [/att-japan.com/]tls://dns.google:853
-[/att-mail.com/]tls://dns.google:853
 [/att-promotions.com/]tls://dns.google:853
 [/att-rsvp.com/]tls://dns.google:853
 [/att.com/]tls://dns.google:853
@@ -27854,8 +27777,6 @@ https://dns.pub:443/dns-query
 [/attbusiness.net/]tls://dns.google:853
 [/attcenter.com/]tls://dns.google:853
 [/attcollaborate.com/]tls://dns.google:853
-[/attdns.com/]tls://dns.google:853
-[/attdns.net/]tls://dns.google:853
 [/attexperts.com/]tls://dns.google:853
 [/attglobal.net/]tls://dns.google:853
 [/attic.io/]tls://dns.google:853
@@ -27870,7 +27791,6 @@ https://dns.pub:443/dns-query
 [/attpurchasing.com/]tls://dns.google:853
 [/attsavings.com/]tls://dns.google:853
 [/attspecial.com/]tls://dns.google:853
-[/attssl.com/]tls://dns.google:853
 [/attstadium.com/]tls://dns.google:853
 [/attsuppliers.com/]tls://dns.google:853
 [/atttvnow.com/]tls://dns.google:853
@@ -27998,7 +27918,6 @@ https://dns.pub:443/dns-query
 [/avso.pw/]tls://dns.google:853
 [/avsp2p.com/]tls://dns.google:853
 [/avstry.com/]tls://dns.google:853
-[/avtb388.com/]tls://dns.google:853
 [/avtby.com/]tls://dns.google:853
 [/avuoe.com/]tls://dns.google:853
 [/avyahoo.com/]tls://dns.google:853
@@ -28987,7 +28906,6 @@ https://dns.pub:443/dns-query
 [/blog.inoreader.com/]tls://dns.google:853
 [/blog.iphone-dev.org/]tls://dns.google:853
 [/blog.iset.com.tw/]tls://dns.google:853
-[/blog.istef.info/]tls://dns.google:853
 [/blog.jackjia.com/]tls://dns.google:853
 [/blog.joint.net/]tls://dns.google:853
 [/blog.jp/]tls://dns.google:853
@@ -29169,7 +29087,6 @@ https://dns.pub:443/dns-query
 [/bluekoff.net/]tls://dns.google:853
 [/bluemix.com/]tls://dns.google:853
 [/bluemix.net/]tls://dns.google:853
-[/blz-contentstack.com/]tls://dns.google:853
 [/blz.nosdn.127.net/]tls://dns.google:853
 [/bm-feichtinger.at/]tls://dns.google:853
 [/bm505.com/]tls://dns.google:853
@@ -29565,7 +29482,6 @@ https://dns.pub:443/dns-query
 [/bringingtibethome.com/]tls://dns.google:853
 [/brisk.eu.org/]tls://dns.google:853
 [/brizzly.com/]tls://dns.google:853
-[/brkmd.com/]tls://dns.google:853
 [/broadbook.com/]tls://dns.google:853
 [/broadpressinc.com/]tls://dns.google:853
 [/brocaproject.com/]tls://dns.google:853
@@ -29744,7 +29660,6 @@ https://dns.pub:443/dns-query
 [/bwh88.net/]tls://dns.google:853
 [/bwin01.com/]tls://dns.google:853
 [/bwin7099.com/]tls://dns.google:853
-[/bww.yakexi1024.net/]tls://dns.google:853
 [/bx.tl/]tls://dns.google:853
 [/bxwx.net/]tls://dns.google:853
 [/bybeatsdre.com/]tls://dns.google:853
@@ -29756,8 +29671,6 @@ https://dns.pub:443/dns-query
 [/bypass.pw/]tls://dns.google:853
 [/bypasscensorship.org/]tls://dns.google:853
 [/bypasskey.com/]tls://dns.google:853
-[/byt020.com/]tls://dns.google:853
-[/byt101.com/]tls://dns.google:853
 [/byt707.com/]tls://dns.google:853
 [/byt909.com/]tls://dns.google:853
 [/c-est-simple.com/]tls://dns.google:853
@@ -30750,7 +30663,6 @@ https://dns.pub:443/dns-query
 [/cnnmoney.com/]tls://dns.google:853
 [/cnnmoneystream.com/]tls://dns.google:853
 [/cnnpolitics.com/]tls://dns.google:853
-[/cnotepad.com/]tls://dns.google:853
 [/cnpoco.com/]tls://dns.google:853
 [/cnproxy.com/]tls://dns.google:853
 [/cntube.net/]tls://dns.google:853
@@ -31053,7 +30965,6 @@ https://dns.pub:443/dns-query
 [/ctan.org/]tls://dns.google:853
 [/ctao.org/]tls://dns.google:853
 [/ctcwall.com/]tls://dns.google:853
-[/ctfassets.net/]tls://dns.google:853
 [/cthchile.com/]tls://dns.google:853
 [/ctitv.com.tw/]tls://dns.google:853
 [/cts.com.tw/]tls://dns.google:853
@@ -31148,7 +31059,6 @@ https://dns.pub:443/dns-query
 [/d2bay.com/]tls://dns.google:853
 [/d2f1egay8yehza.cloudfront.net/]tls://dns.google:853
 [/d2pass.com/]tls://dns.google:853
-[/d2pxvvqoon1wcs.cloudfront.net/]tls://dns.google:853
 [/d2uzsrnmmf6tds.cloudfront.net/]tls://dns.google:853
 [/d32kn01rfn0r98.cloudfront.net/]tls://dns.google:853
 [/d3621.com/]tls://dns.google:853
@@ -31185,7 +31095,6 @@ https://dns.pub:443/dns-query
 [/dadi360.com/]tls://dns.google:853
 [/dafa888.com/]tls://dns.google:853
 [/dafabet.com/]tls://dns.google:853
-[/dafacloud.com/]tls://dns.google:853
 [/dafagood.com/]tls://dns.google:853
 [/dafahao.com/]tls://dns.google:853
 [/dafoh.org/]tls://dns.google:853
@@ -31541,7 +31450,6 @@ https://dns.pub:443/dns-query
 [/digitalcom.com.ar/]tls://dns.google:853
 [/digitalhub.com/]tls://dns.google:853
 [/digitalid.ch/]tls://dns.google:853
-[/digitalions.co.il/]tls://dns.google:853
 [/digitalnomadsproject.org/]tls://dns.google:853
 [/digitalocean.com/]tls://dns.google:853
 [/digitaloceanspaces.com/]tls://dns.google:853
