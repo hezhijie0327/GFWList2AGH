@@ -16327,6 +16327,7 @@ https://dns.pub:443/dns-query
 [/robsmyth.com/]https://doh.opendns.com:443/dns-query
 [/robustnessiskey.com/]https://doh.opendns.com:443/dns-query
 [/rocket-inc.net/]https://doh.opendns.com:443/dns-query
+[/rocketcdn.me/]https://doh.opendns.com:443/dns-query
 [/rocketfishproducts.com/]https://doh.opendns.com:443/dns-query
 [/rocketvpn.net/]https://doh.opendns.com:443/dns-query
 [/rocksdb.com/]https://doh.opendns.com:443/dns-query
@@ -41402,6 +41403,7 @@ https://dns.pub:443/dns-query
 [/robsmyth.com/]tls://dns.google:853
 [/robustnessiskey.com/]tls://dns.google:853
 [/rocket-inc.net/]tls://dns.google:853
+[/rocketcdn.me/]tls://dns.google:853
 [/rocketfishproducts.com/]tls://dns.google:853
 [/rocketvpn.net/]tls://dns.google:853
 [/rocksdb.com/]tls://dns.google:853
