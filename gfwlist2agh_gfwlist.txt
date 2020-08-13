@@ -5027,7 +5027,6 @@ https://dns.pub:443/dns-query
 [/celebritymovieblog.com/]https://doh.opendns.com:443/dns-query
 [/celebsplay.com/]https://doh.opendns.com:443/dns-query
 [/celeron.com/]https://doh.opendns.com:443/dns-query
-[/celeron.net/]https://doh.opendns.com:443/dns-query
 [/celestrak.com/]https://doh.opendns.com:443/dns-query
 [/cell.com/]https://doh.opendns.com:443/dns-query
 [/cellulo.info/]https://doh.opendns.com:443/dns-query
@@ -5352,7 +5351,6 @@ https://dns.pub:443/dns-query
 [/cide.es/]https://doh.opendns.com:443/dns-query
 [/cienen.com/]https://doh.opendns.com:443/dns-query
 [/cilk.com/]https://doh.opendns.com:443/dns-query
-[/cilk.net/]https://doh.opendns.com:443/dns-query
 [/cimidi.org/]https://doh.opendns.com:443/dns-query
 [/cincodias.com/]https://doh.opendns.com:443/dns-query
 [/cineastentreff.de/]https://doh.opendns.com:443/dns-query
@@ -5755,7 +5753,6 @@ https://dns.pub:443/dns-query
 [/cosodablast.com/]https://doh.opendns.com:443/dns-query
 [/cosplaybutts.com/]https://doh.opendns.com:443/dns-query
 [/cosplayjav.pl/]https://doh.opendns.com:443/dns-query
-[/costco-static.com/]https://doh.opendns.com:443/dns-query
 [/costco.com/]https://doh.opendns.com:443/dns-query
 [/costcoauto.com/]https://doh.opendns.com:443/dns-query
 [/costcobusinessdelivery.com/]https://doh.opendns.com:443/dns-query
@@ -10216,6 +10213,7 @@ https://dns.pub:443/dns-query
 [/hotair.com/]https://doh.opendns.com:443/dns-query
 [/hotasianz.com/]https://doh.opendns.com:443/dns-query
 [/hotav.tv/]https://doh.opendns.com:443/dns-query
+[/hotbak.net/]https://doh.opendns.com:443/dns-query
 [/hotbeatsonsale.com/]https://doh.opendns.com:443/dns-query
 [/hotbox.com/]https://doh.opendns.com:443/dns-query
 [/hotels.cn/]https://doh.opendns.com:443/dns-query
@@ -10844,7 +10842,6 @@ https://dns.pub:443/dns-query
 [/ingads.com/]https://doh.opendns.com:443/dns-query
 [/ingarden.pt/]https://doh.opendns.com:443/dns-query
 [/ingka.com/]https://doh.opendns.com:443/dns-query
-[/ingka.dev/]https://doh.opendns.com:443/dns-query
 [/ingkacentres.com/]https://doh.opendns.com:443/dns-query
 [/ingress.com/]https://doh.opendns.com:443/dns-query
 [/ingtv.cc/]https://doh.opendns.com:443/dns-query
@@ -10978,7 +10975,6 @@ https://dns.pub:443/dns-query
 [/intellinuxgraphics.net/]https://doh.opendns.com:443/dns-query
 [/intellinuxwireless.net/]https://doh.opendns.com:443/dns-query
 [/intelnervana.com/]https://doh.opendns.com:443/dns-query
-[/intelnet.component/]https://doh.opendns.com:443/dns-query
 [/intelplay.com/]https://doh.opendns.com:443/dns-query
 [/intelquark.com/]https://doh.opendns.com:443/dns-query
 [/intelrealsense.com/]https://doh.opendns.com:443/dns-query
@@ -18117,7 +18113,6 @@ https://dns.pub:443/dns-query
 [/tapbots.net/]https://doh.opendns.com:443/dns-query
 [/taragana.com/]https://doh.opendns.com:443/dns-query
 [/target.com/]https://doh.opendns.com:443/dns-query
-[/targetimg1.com/]https://doh.opendns.com:443/dns-query
 [/tarr.uspto.gov/]https://doh.opendns.com:443/dns-query
 [/tasci.biz/]https://doh.opendns.com:443/dns-query
 [/tascn.com.au/]https://doh.opendns.com:443/dns-query
@@ -22175,6 +22170,7 @@ https://dns.pub:443/dns-query
 [/www.genesis.moe/]https://doh.opendns.com:443/dns-query
 [/www.genmirror.com/]https://doh.opendns.com:443/dns-query
 [/www.geocities.co.jp/]https://doh.opendns.com:443/dns-query
+[/www.geph.io/]https://doh.opendns.com:443/dns-query
 [/www.german-webproxy.de/]https://doh.opendns.com:443/dns-query
 [/www.getdropbox.com/]https://doh.opendns.com:443/dns-query
 [/www.getgreenjsq.co/]https://doh.opendns.com:443/dns-query
@@ -23931,7 +23927,6 @@ https://dns.pub:443/dns-query
 [/www.voaspecialenglish.com/]https://doh.opendns.com:443/dns-query
 [/www.vohc.com/]https://doh.opendns.com:443/dns-query
 [/www.volunteertibet.org.in/]https://doh.opendns.com:443/dns-query
-[/www.voncop.top/]https://doh.opendns.com:443/dns-query
 [/www.votiva.com.au/]https://doh.opendns.com:443/dns-query
 [/www.voy.com/]https://doh.opendns.com:443/dns-query
 [/www.vozchina.org/]https://doh.opendns.com:443/dns-query
@@ -25041,6 +25036,7 @@ https://dns.pub:443/dns-query
 [/zc886.com/]https://doh.opendns.com:443/dns-query
 [/zc88e.com/]https://doh.opendns.com:443/dns-query
 [/zcssr.com/]https://doh.opendns.com:443/dns-query
+[/zdassets.com/]https://doh.opendns.com:443/dns-query
 [/zdf.de/]https://doh.opendns.com:443/dns-query
 [/zdnet.com.tw/]https://doh.opendns.com:443/dns-query
 [/zdx.in/]https://doh.opendns.com:443/dns-query
@@ -30251,7 +30247,6 @@ https://dns.pub:443/dns-query
 [/celebritymovieblog.com/]tls://dns.google:853
 [/celebsplay.com/]tls://dns.google:853
 [/celeron.com/]tls://dns.google:853
-[/celeron.net/]tls://dns.google:853
 [/celestrak.com/]tls://dns.google:853
 [/cell.com/]tls://dns.google:853
 [/cellulo.info/]tls://dns.google:853
@@ -30576,7 +30571,6 @@ https://dns.pub:443/dns-query
 [/cide.es/]tls://dns.google:853
 [/cienen.com/]tls://dns.google:853
 [/cilk.com/]tls://dns.google:853
-[/cilk.net/]tls://dns.google:853
 [/cimidi.org/]tls://dns.google:853
 [/cincodias.com/]tls://dns.google:853
 [/cineastentreff.de/]tls://dns.google:853
@@ -30979,7 +30973,6 @@ https://dns.pub:443/dns-query
 [/cosodablast.com/]tls://dns.google:853
 [/cosplaybutts.com/]tls://dns.google:853
 [/cosplayjav.pl/]tls://dns.google:853
-[/costco-static.com/]tls://dns.google:853
 [/costco.com/]tls://dns.google:853
 [/costcoauto.com/]tls://dns.google:853
 [/costcobusinessdelivery.com/]tls://dns.google:853
@@ -35440,6 +35433,7 @@ https://dns.pub:443/dns-query
 [/hotair.com/]tls://dns.google:853
 [/hotasianz.com/]tls://dns.google:853
 [/hotav.tv/]tls://dns.google:853
+[/hotbak.net/]tls://dns.google:853
 [/hotbeatsonsale.com/]tls://dns.google:853
 [/hotbox.com/]tls://dns.google:853
 [/hotels.cn/]tls://dns.google:853
@@ -36068,7 +36062,6 @@ https://dns.pub:443/dns-query
 [/ingads.com/]tls://dns.google:853
 [/ingarden.pt/]tls://dns.google:853
 [/ingka.com/]tls://dns.google:853
-[/ingka.dev/]tls://dns.google:853
 [/ingkacentres.com/]tls://dns.google:853
 [/ingress.com/]tls://dns.google:853
 [/ingtv.cc/]tls://dns.google:853
@@ -36202,7 +36195,6 @@ https://dns.pub:443/dns-query
 [/intellinuxgraphics.net/]tls://dns.google:853
 [/intellinuxwireless.net/]tls://dns.google:853
 [/intelnervana.com/]tls://dns.google:853
-[/intelnet.component/]tls://dns.google:853
 [/intelplay.com/]tls://dns.google:853
 [/intelquark.com/]tls://dns.google:853
 [/intelrealsense.com/]tls://dns.google:853
@@ -43341,7 +43333,6 @@ https://dns.pub:443/dns-query
 [/tapbots.net/]tls://dns.google:853
 [/taragana.com/]tls://dns.google:853
 [/target.com/]tls://dns.google:853
-[/targetimg1.com/]tls://dns.google:853
 [/tarr.uspto.gov/]tls://dns.google:853
 [/tasci.biz/]tls://dns.google:853
 [/tascn.com.au/]tls://dns.google:853
@@ -47399,6 +47390,7 @@ https://dns.pub:443/dns-query
 [/www.genesis.moe/]tls://dns.google:853
 [/www.genmirror.com/]tls://dns.google:853
 [/www.geocities.co.jp/]tls://dns.google:853
+[/www.geph.io/]tls://dns.google:853
 [/www.german-webproxy.de/]tls://dns.google:853
 [/www.getdropbox.com/]tls://dns.google:853
 [/www.getgreenjsq.co/]tls://dns.google:853
@@ -49155,7 +49147,6 @@ https://dns.pub:443/dns-query
 [/www.voaspecialenglish.com/]tls://dns.google:853
 [/www.vohc.com/]tls://dns.google:853
 [/www.volunteertibet.org.in/]tls://dns.google:853
-[/www.voncop.top/]tls://dns.google:853
 [/www.votiva.com.au/]tls://dns.google:853
 [/www.voy.com/]tls://dns.google:853
 [/www.vozchina.org/]tls://dns.google:853
@@ -50265,6 +50256,7 @@ https://dns.pub:443/dns-query
 [/zc886.com/]tls://dns.google:853
 [/zc88e.com/]tls://dns.google:853
 [/zcssr.com/]tls://dns.google:853
+[/zdassets.com/]tls://dns.google:853
 [/zdf.de/]tls://dns.google:853
 [/zdnet.com.tw/]tls://dns.google:853
 [/zdx.in/]tls://dns.google:853
