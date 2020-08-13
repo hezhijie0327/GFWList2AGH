@@ -5330,6 +5330,7 @@ https://dns.pub:443/dns-query
 [/chromecast.com/]https://doh.opendns.com:443/dns-query
 [/chromeexperiments.com/]https://doh.opendns.com:443/dns-query
 [/chromegae.com/]https://doh.opendns.com:443/dns-query
+[/chromeos.dev/]https://doh.opendns.com:443/dns-query
 [/chromestatus.com/]https://doh.opendns.com:443/dns-query
 [/chromium.org/]https://doh.opendns.com:443/dns-query
 [/chromium.woolyss.com/]https://doh.opendns.com:443/dns-query
@@ -18405,7 +18406,6 @@ https://dns.pub:443/dns-query
 [/thetrist.com/]https://doh.opendns.com:443/dns-query
 [/thetrotskymovie.com/]https://doh.opendns.com:443/dns-query
 [/thetvdb.com/]https://doh.opendns.com:443/dns-query
-[/thetype.cloud/]https://doh.opendns.com:443/dns-query
 [/thetype.com/]https://doh.opendns.com:443/dns-query
 [/theverge.com/]https://doh.opendns.com:443/dns-query
 [/thevpn.guru/]https://doh.opendns.com:443/dns-query
@@ -30548,6 +30548,7 @@ https://dns.pub:443/dns-query
 [/chromecast.com/]tls://dns.google:853
 [/chromeexperiments.com/]tls://dns.google:853
 [/chromegae.com/]tls://dns.google:853
+[/chromeos.dev/]tls://dns.google:853
 [/chromestatus.com/]tls://dns.google:853
 [/chromium.org/]tls://dns.google:853
 [/chromium.woolyss.com/]tls://dns.google:853
@@ -43623,7 +43624,6 @@ https://dns.pub:443/dns-query
 [/thetrist.com/]tls://dns.google:853
 [/thetrotskymovie.com/]tls://dns.google:853
 [/thetvdb.com/]tls://dns.google:853
-[/thetype.cloud/]tls://dns.google:853
 [/thetype.com/]tls://dns.google:853
 [/theverge.com/]tls://dns.google:853
 [/thevpn.guru/]tls://dns.google:853
