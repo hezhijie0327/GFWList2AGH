@@ -1867,7 +1867,6 @@ https://dns.pub:443/dns-query
 [/ai-wen.net/]https://doh.opendns.com:443/dns-query
 [/ai.binwang.me/]https://doh.opendns.com:443/dns-query
 [/ai.google/]https://doh.opendns.com:443/dns-query
-[/aidecn.cn/]https://doh.opendns.com:443/dns-query
 [/aifupay.nm9876.com/]https://doh.opendns.com:443/dns-query
 [/aifupay.zx9876.com/]https://doh.opendns.com:443/dns-query
 [/aing01.com/]https://doh.opendns.com:443/dns-query
@@ -5984,7 +5983,6 @@ https://dns.pub:443/dns-query
 [/d.ebeta.cloud.zyxel.com/]https://doh.opendns.com:443/dns-query
 [/d.htcc.us/]https://doh.opendns.com:443/dns-query
 [/d.line-scdn.net/]https://doh.opendns.com:443/dns-query
-[/d.ns02.top/]https://doh.opendns.com:443/dns-query
 [/d.pr/]https://doh.opendns.com:443/dns-query
 [/d.u6p.co/]https://doh.opendns.com:443/dns-query
 [/d000000.com/]https://doh.opendns.com:443/dns-query
@@ -6952,6 +6950,7 @@ https://dns.pub:443/dns-query
 [/e-classical.com.tw/]https://doh.opendns.com:443/dns-query
 [/e-fu.com/]https://doh.opendns.com:443/dns-query
 [/e-gold.com/]https://doh.opendns.com:443/dns-query
+[/e-hentai.eu/]https://doh.opendns.com:443/dns-query
 [/e-hentai.org/]https://doh.opendns.com:443/dns-query
 [/e-hentaidb.com/]https://doh.opendns.com:443/dns-query
 [/e-info.org.tw/]https://doh.opendns.com:443/dns-query
@@ -27085,7 +27084,6 @@ https://dns.pub:443/dns-query
 [/ai-wen.net/]tls://dns.google:853
 [/ai.binwang.me/]tls://dns.google:853
 [/ai.google/]tls://dns.google:853
-[/aidecn.cn/]tls://dns.google:853
 [/aifupay.nm9876.com/]tls://dns.google:853
 [/aifupay.zx9876.com/]tls://dns.google:853
 [/aing01.com/]tls://dns.google:853
@@ -31202,7 +31200,6 @@ https://dns.pub:443/dns-query
 [/d.ebeta.cloud.zyxel.com/]tls://dns.google:853
 [/d.htcc.us/]tls://dns.google:853
 [/d.line-scdn.net/]tls://dns.google:853
-[/d.ns02.top/]tls://dns.google:853
 [/d.pr/]tls://dns.google:853
 [/d.u6p.co/]tls://dns.google:853
 [/d000000.com/]tls://dns.google:853
@@ -32170,6 +32167,7 @@ https://dns.pub:443/dns-query
 [/e-classical.com.tw/]tls://dns.google:853
 [/e-fu.com/]tls://dns.google:853
 [/e-gold.com/]tls://dns.google:853
+[/e-hentai.eu/]tls://dns.google:853
 [/e-hentai.org/]tls://dns.google:853
 [/e-hentaidb.com/]tls://dns.google:853
 [/e-info.org.tw/]tls://dns.google:853
