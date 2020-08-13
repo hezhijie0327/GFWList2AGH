@@ -7836,6 +7836,7 @@ https://dns.pub:443/dns-query
 [/fanfictio.net/]https://doh.opendns.com:443/dns-query
 [/fangeqiang.com/]https://doh.opendns.com:443/dns-query
 [/fanglizhi.info/]https://doh.opendns.com:443/dns-query
+[/fangong.org/]https://doh.opendns.com:443/dns-query
 [/fangongheike.com/]https://doh.opendns.com:443/dns-query
 [/fanguangxin.com/]https://doh.opendns.com:443/dns-query
 [/fanhaodang.com/]https://doh.opendns.com:443/dns-query
@@ -33053,6 +33054,7 @@ https://dns.pub:443/dns-query
 [/fanfictio.net/]tls://dns.google:853
 [/fangeqiang.com/]tls://dns.google:853
 [/fanglizhi.info/]tls://dns.google:853
+[/fangong.org/]tls://dns.google:853
 [/fangongheike.com/]tls://dns.google:853
 [/fanguangxin.com/]tls://dns.google:853
 [/fanhaodang.com/]tls://dns.google:853
