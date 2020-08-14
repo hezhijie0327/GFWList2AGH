@@ -845,6 +845,7 @@ https://dns.pub:443/dns-query
 [/52hy11.com/]https://doh.opendns.com:443/dns-query
 [/52jav.com/]https://doh.opendns.com:443/dns-query
 [/52kjwang.com/]https://doh.opendns.com:443/dns-query
+[/52ssr.cn/]https://doh.opendns.com:443/dns-query
 [/52ull.com/]https://doh.opendns.com:443/dns-query
 [/52xr.net/]https://doh.opendns.com:443/dns-query
 [/52xtv.net/]https://doh.opendns.com:443/dns-query
@@ -1070,7 +1071,6 @@ https://dns.pub:443/dns-query
 [/755.etowns.org/]https://doh.opendns.com:443/dns-query
 [/75522.com/]https://doh.opendns.com:443/dns-query
 [/76.effers.com/]https://doh.opendns.com:443/dns-query
-[/7652.com/]https://doh.opendns.com:443/dns-query
 [/76652200.com/]https://doh.opendns.com:443/dns-query
 [/77.4pu.com/]https://doh.opendns.com:443/dns-query
 [/771142.com/]https://doh.opendns.com:443/dns-query
@@ -5055,7 +5055,6 @@ https://dns.pub:443/dns-query
 [/cervetoria.pt/]https://doh.opendns.com:443/dns-query
 [/cex.io/]https://doh.opendns.com:443/dns-query
 [/cf.gs/]https://doh.opendns.com:443/dns-query
-[/cf7.com/]https://doh.opendns.com:443/dns-query
 [/cfna.com/]https://doh.opendns.com:443/dns-query
 [/cfos.de/]https://doh.opendns.com:443/dns-query
 [/cfr.org/]https://doh.opendns.com:443/dns-query
@@ -26101,6 +26100,7 @@ https://dns.pub:443/dns-query
 [/52hy11.com/]tls://dns.google:853
 [/52jav.com/]tls://dns.google:853
 [/52kjwang.com/]tls://dns.google:853
+[/52ssr.cn/]tls://dns.google:853
 [/52ull.com/]tls://dns.google:853
 [/52xr.net/]tls://dns.google:853
 [/52xtv.net/]tls://dns.google:853
@@ -26326,7 +26326,6 @@ https://dns.pub:443/dns-query
 [/755.etowns.org/]tls://dns.google:853
 [/75522.com/]tls://dns.google:853
 [/76.effers.com/]tls://dns.google:853
-[/7652.com/]tls://dns.google:853
 [/76652200.com/]tls://dns.google:853
 [/77.4pu.com/]tls://dns.google:853
 [/771142.com/]tls://dns.google:853
@@ -30311,7 +30310,6 @@ https://dns.pub:443/dns-query
 [/cervetoria.pt/]tls://dns.google:853
 [/cex.io/]tls://dns.google:853
 [/cf.gs/]tls://dns.google:853
-[/cf7.com/]tls://dns.google:853
 [/cfna.com/]tls://dns.google:853
 [/cfos.de/]tls://dns.google:853
 [/cfr.org/]tls://dns.google:853
