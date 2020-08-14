@@ -171,6 +171,7 @@ https://dns.pub:443/dns-query
 [/1115168.com/]https://doh.opendns.com:443/dns-query
 [/111rch.club/]https://doh.opendns.com:443/dns-query
 [/112.b0ne.com/]https://doh.opendns.com:443/dns-query
+[/112263.com/]https://doh.opendns.com:443/dns-query
 [/11299.cc/]https://doh.opendns.com:443/dns-query
 [/1138x.com/]https://doh.opendns.com:443/dns-query
 [/1144hg.com/]https://doh.opendns.com:443/dns-query
@@ -4769,6 +4770,7 @@ https://dns.pub:443/dns-query
 [/caliberhomeloans.com/]https://doh.opendns.com:443/dns-query
 [/calibre-ebook.com/]https://doh.opendns.com:443/dns-query
 [/callersbane.com/]https://doh.opendns.com:443/dns-query
+[/callhulu.com/]https://doh.opendns.com:443/dns-query
 [/callmexo.club/]https://doh.opendns.com:443/dns-query
 [/cam4.be/]https://doh.opendns.com:443/dns-query
 [/cam4.com/]https://doh.opendns.com:443/dns-query
@@ -8096,6 +8098,7 @@ https://dns.pub:443/dns-query
 [/findmespot.com/]https://doh.opendns.com:443/dns-query
 [/findmybeats.com/]https://doh.opendns.com:443/dns-query
 [/findtubes.com/]https://doh.opendns.com:443/dns-query
+[/findyourlimits.com/]https://doh.opendns.com:443/dns-query
 [/findyoutube.com/]https://doh.opendns.com:443/dns-query
 [/findyoutube.net/]https://doh.opendns.com:443/dns-query
 [/finenike.com/]https://doh.opendns.com:443/dns-query
@@ -8411,6 +8414,7 @@ https://dns.pub:443/dns-query
 [/freehk.live/]https://doh.opendns.com:443/dns-query
 [/freehongkong.org/]https://doh.opendns.com:443/dns-query
 [/freehostia.com/]https://doh.opendns.com:443/dns-query
+[/freehulu.com/]https://doh.opendns.com:443/dns-query
 [/freeilhamtohti.org/]https://doh.opendns.com:443/dns-query
 [/freel2tpvpn.com/]https://doh.opendns.com:443/dns-query
 [/freelan.org/]https://doh.opendns.com:443/dns-query
@@ -10190,6 +10194,9 @@ https://dns.pub:443/dns-query
 [/hongmeimei.com/]https://doh.opendns.com:443/dns-query
 [/hongzhi.li/]https://doh.opendns.com:443/dns-query
 [/honto.jp/]https://doh.opendns.com:443/dns-query
+[/hooloo.tv/]https://doh.opendns.com:443/dns-query
+[/hoolu.com/]https://doh.opendns.com:443/dns-query
+[/hoolu.tv/]https://doh.opendns.com:443/dns-query
 [/hootsuite.com/]https://doh.opendns.com:443/dns-query
 [/hoovers.com/]https://doh.opendns.com:443/dns-query
 [/hopechannel.eu/]https://doh.opendns.com:443/dns-query
@@ -10410,6 +10417,7 @@ https://dns.pub:443/dns-query
 [/httpwwwfacebook.com/]https://doh.opendns.com:443/dns-query
 [/hu.25u.com/]https://doh.opendns.com:443/dns-query
 [/hu188.net/]https://doh.opendns.com:443/dns-query
+[/hu1u.com/]https://doh.opendns.com:443/dns-query
 [/hua-yue.net/]https://doh.opendns.com:443/dns-query
 [/huaglad.com/]https://doh.opendns.com:443/dns-query
 [/huan.moe/]https://doh.opendns.com:443/dns-query
@@ -10443,9 +10451,33 @@ https://dns.pub:443/dns-query
 [/huiyi.in/]https://doh.opendns.com:443/dns-query
 [/hulichicken.com/]https://doh.opendns.com:443/dns-query
 [/hulkshare.com/]https://doh.opendns.com:443/dns-query
+[/huloo.cc/]https://doh.opendns.com:443/dns-query
+[/huloo.tv/]https://doh.opendns.com:443/dns-query
 [/hulu.com/]https://doh.opendns.com:443/dns-query
+[/hulu.tv/]https://doh.opendns.com:443/dns-query
+[/huluaction.com/]https://doh.opendns.com:443/dns-query
 [/huluad.com/]https://doh.opendns.com:443/dns-query
+[/huluapp.com/]https://doh.opendns.com:443/dns-query
+[/huluasks.com/]https://doh.opendns.com:443/dns-query
+[/hulucall.com/]https://doh.opendns.com:443/dns-query
+[/hulufree.com/]https://doh.opendns.com:443/dns-query
+[/hulugans.com/]https://doh.opendns.com:443/dns-query
+[/hulugermany.com/]https://doh.opendns.com:443/dns-query
+[/hulugo.com/]https://doh.opendns.com:443/dns-query
+[/huluinstantmessenger.com/]https://doh.opendns.com:443/dns-query
+[/huluitaly.com/]https://doh.opendns.com:443/dns-query
+[/hulunet.com/]https://doh.opendns.com:443/dns-query
+[/hulunetwork.com/]https://doh.opendns.com:443/dns-query
+[/huluplus.com/]https://doh.opendns.com:443/dns-query
+[/hulupremium.com/]https://doh.opendns.com:443/dns-query
+[/hulupurchase.com/]https://doh.opendns.com:443/dns-query
 [/huluqa.com/]https://doh.opendns.com:443/dns-query
+[/hulurussia.com/]https://doh.opendns.com:443/dns-query
+[/huluspain.com/]https://doh.opendns.com:443/dns-query
+[/hulusports.com/]https://doh.opendns.com:443/dns-query
+[/huluteam.com/]https://doh.opendns.com:443/dns-query
+[/hulutv.com/]https://doh.opendns.com:443/dns-query
+[/huluusa.com/]https://doh.opendns.com:443/dns-query
 [/humanharvestmovie.com/]https://doh.opendns.com:443/dns-query
 [/humanrightsfoundation.org/]https://doh.opendns.com:443/dns-query
 [/humansofnewyork.com/]https://doh.opendns.com:443/dns-query
@@ -11562,6 +11594,7 @@ https://dns.pub:443/dns-query
 [/johntool.com/]https://doh.opendns.com:443/dns-query
 [/join.gov.tw/]https://doh.opendns.com:443/dns-query
 [/joinbbs.net/]https://doh.opendns.com:443/dns-query
+[/joinmaidez.com/]https://doh.opendns.com:443/dns-query
 [/joinmastodon.org/]https://doh.opendns.com:443/dns-query
 [/jojoforex.com/]https://doh.opendns.com:443/dns-query
 [/jojofx.com/]https://doh.opendns.com:443/dns-query
@@ -13706,6 +13739,7 @@ https://dns.pub:443/dns-query
 [/murmurcn.com/]https://doh.opendns.com:443/dns-query
 [/murtadho.com.br/]https://doh.opendns.com:443/dns-query
 [/musemagazine.it/]https://doh.opendns.com:443/dns-query
+[/mushymush.tv/]https://doh.opendns.com:443/dns-query
 [/musicade.net/]https://doh.opendns.com:443/dns-query
 [/musical.ly/]https://doh.opendns.com:443/dns-query
 [/musiclab.chromeexperiments.com/]https://doh.opendns.com:443/dns-query
@@ -13817,6 +13851,7 @@ https://dns.pub:443/dns-query
 [/myhd1080.com/]https://doh.opendns.com:443/dns-query
 [/myhotsite.net/]https://doh.opendns.com:443/dns-query
 [/myhpsupport.com/]https://doh.opendns.com:443/dns-query
+[/myhulu.com/]https://doh.opendns.com:443/dns-query
 [/myiphide.com/]https://doh.opendns.com:443/dns-query
 [/myiphider.com/]https://doh.opendns.com:443/dns-query
 [/mykomica.org/]https://doh.opendns.com:443/dns-query
@@ -14887,6 +14922,7 @@ https://dns.pub:443/dns-query
 [/orientaldaily.com.my/]https://doh.opendns.com:443/dns-query
 [/orientalradio.com.sg/]https://doh.opendns.com:443/dns-query
 [/origin.events.byton.com/]https://doh.opendns.com:443/dns-query
+[/originalhulu.com/]https://doh.opendns.com:443/dns-query
 [/originlog.com/]https://doh.opendns.com:443/dns-query
 [/orioncity.virtualave.net/]https://doh.opendns.com:443/dns-query
 [/orithegame.com/]https://doh.opendns.com:443/dns-query
@@ -15140,6 +15176,7 @@ https://dns.pub:443/dns-query
 [/paxlicense.org/]https://doh.opendns.com:443/dns-query
 [/payfun.io/]https://doh.opendns.com:443/dns-query
 [/paygonline.com/]https://doh.opendns.com:443/dns-query
+[/payhulu.com/]https://doh.opendns.com:443/dns-query
 [/paypal-community.com/]https://doh.opendns.com:443/dns-query
 [/paypal-status.com/]https://doh.opendns.com:443/dns-query
 [/paypal.com/]https://doh.opendns.com:443/dns-query
@@ -16306,6 +16343,7 @@ https://dns.pub:443/dns-query
 [/regina-admin.firebaseio.com/]https://doh.opendns.com:443/dns-query
 [/regiongold.com/]https://doh.opendns.com:443/dns-query
 [/register.moex.gov.tw/]https://doh.opendns.com:443/dns-query
+[/registerhulu.com/]https://doh.opendns.com:443/dns-query
 [/registry.google/]https://doh.opendns.com:443/dns-query
 [/regs.be/]https://doh.opendns.com:443/dns-query
 [/rehan.com.pk/]https://doh.opendns.com:443/dns-query
@@ -18354,6 +18392,7 @@ https://dns.pub:443/dns-query
 [/thehindu.in/]https://doh.opendns.com:443/dns-query
 [/thehollywoodgossip.com/]https://doh.opendns.com:443/dns-query
 [/thehousenews.com/]https://doh.opendns.com:443/dns-query
+[/thehulubraintrust.com/]https://doh.opendns.com:443/dns-query
 [/thehun.net/]https://doh.opendns.com:443/dns-query
 [/theinitium.com/]https://doh.opendns.com:443/dns-query
 [/theintelstore.com/]https://doh.opendns.com:443/dns-query
@@ -24312,6 +24351,7 @@ https://dns.pub:443/dns-query
 [/wwwfacebok.com/]https://doh.opendns.com:443/dns-query
 [/wwwfacebook.com/]https://doh.opendns.com:443/dns-query
 [/wwwhost.biz/]https://doh.opendns.com:443/dns-query
+[/wwwhuluplus.com/]https://doh.opendns.com:443/dns-query
 [/wwwinstagram.com/]https://doh.opendns.com:443/dns-query
 [/wwwl.box.com/]https://doh.opendns.com:443/dns-query
 [/wwwmfacebook.com/]https://doh.opendns.com:443/dns-query
@@ -25389,6 +25429,7 @@ https://dns.pub:443/dns-query
 [/1115168.com/]tls://dns.google:853
 [/111rch.club/]tls://dns.google:853
 [/112.b0ne.com/]tls://dns.google:853
+[/112263.com/]tls://dns.google:853
 [/11299.cc/]tls://dns.google:853
 [/1138x.com/]tls://dns.google:853
 [/1144hg.com/]tls://dns.google:853
@@ -29987,6 +30028,7 @@ https://dns.pub:443/dns-query
 [/caliberhomeloans.com/]tls://dns.google:853
 [/calibre-ebook.com/]tls://dns.google:853
 [/callersbane.com/]tls://dns.google:853
+[/callhulu.com/]tls://dns.google:853
 [/callmexo.club/]tls://dns.google:853
 [/cam4.be/]tls://dns.google:853
 [/cam4.com/]tls://dns.google:853
@@ -33314,6 +33356,7 @@ https://dns.pub:443/dns-query
 [/findmespot.com/]tls://dns.google:853
 [/findmybeats.com/]tls://dns.google:853
 [/findtubes.com/]tls://dns.google:853
+[/findyourlimits.com/]tls://dns.google:853
 [/findyoutube.com/]tls://dns.google:853
 [/findyoutube.net/]tls://dns.google:853
 [/finenike.com/]tls://dns.google:853
@@ -33629,6 +33672,7 @@ https://dns.pub:443/dns-query
 [/freehk.live/]tls://dns.google:853
 [/freehongkong.org/]tls://dns.google:853
 [/freehostia.com/]tls://dns.google:853
+[/freehulu.com/]tls://dns.google:853
 [/freeilhamtohti.org/]tls://dns.google:853
 [/freel2tpvpn.com/]tls://dns.google:853
 [/freelan.org/]tls://dns.google:853
@@ -35408,6 +35452,9 @@ https://dns.pub:443/dns-query
 [/hongmeimei.com/]tls://dns.google:853
 [/hongzhi.li/]tls://dns.google:853
 [/honto.jp/]tls://dns.google:853
+[/hooloo.tv/]tls://dns.google:853
+[/hoolu.com/]tls://dns.google:853
+[/hoolu.tv/]tls://dns.google:853
 [/hootsuite.com/]tls://dns.google:853
 [/hoovers.com/]tls://dns.google:853
 [/hopechannel.eu/]tls://dns.google:853
@@ -35628,6 +35675,7 @@ https://dns.pub:443/dns-query
 [/httpwwwfacebook.com/]tls://dns.google:853
 [/hu.25u.com/]tls://dns.google:853
 [/hu188.net/]tls://dns.google:853
+[/hu1u.com/]tls://dns.google:853
 [/hua-yue.net/]tls://dns.google:853
 [/huaglad.com/]tls://dns.google:853
 [/huan.moe/]tls://dns.google:853
@@ -35661,9 +35709,33 @@ https://dns.pub:443/dns-query
 [/huiyi.in/]tls://dns.google:853
 [/hulichicken.com/]tls://dns.google:853
 [/hulkshare.com/]tls://dns.google:853
+[/huloo.cc/]tls://dns.google:853
+[/huloo.tv/]tls://dns.google:853
 [/hulu.com/]tls://dns.google:853
+[/hulu.tv/]tls://dns.google:853
+[/huluaction.com/]tls://dns.google:853
 [/huluad.com/]tls://dns.google:853
+[/huluapp.com/]tls://dns.google:853
+[/huluasks.com/]tls://dns.google:853
+[/hulucall.com/]tls://dns.google:853
+[/hulufree.com/]tls://dns.google:853
+[/hulugans.com/]tls://dns.google:853
+[/hulugermany.com/]tls://dns.google:853
+[/hulugo.com/]tls://dns.google:853
+[/huluinstantmessenger.com/]tls://dns.google:853
+[/huluitaly.com/]tls://dns.google:853
+[/hulunet.com/]tls://dns.google:853
+[/hulunetwork.com/]tls://dns.google:853
+[/huluplus.com/]tls://dns.google:853
+[/hulupremium.com/]tls://dns.google:853
+[/hulupurchase.com/]tls://dns.google:853
 [/huluqa.com/]tls://dns.google:853
+[/hulurussia.com/]tls://dns.google:853
+[/huluspain.com/]tls://dns.google:853
+[/hulusports.com/]tls://dns.google:853
+[/huluteam.com/]tls://dns.google:853
+[/hulutv.com/]tls://dns.google:853
+[/huluusa.com/]tls://dns.google:853
 [/humanharvestmovie.com/]tls://dns.google:853
 [/humanrightsfoundation.org/]tls://dns.google:853
 [/humansofnewyork.com/]tls://dns.google:853
@@ -36780,6 +36852,7 @@ https://dns.pub:443/dns-query
 [/johntool.com/]tls://dns.google:853
 [/join.gov.tw/]tls://dns.google:853
 [/joinbbs.net/]tls://dns.google:853
+[/joinmaidez.com/]tls://dns.google:853
 [/joinmastodon.org/]tls://dns.google:853
 [/jojoforex.com/]tls://dns.google:853
 [/jojofx.com/]tls://dns.google:853
@@ -38924,6 +38997,7 @@ https://dns.pub:443/dns-query
 [/murmurcn.com/]tls://dns.google:853
 [/murtadho.com.br/]tls://dns.google:853
 [/musemagazine.it/]tls://dns.google:853
+[/mushymush.tv/]tls://dns.google:853
 [/musicade.net/]tls://dns.google:853
 [/musical.ly/]tls://dns.google:853
 [/musiclab.chromeexperiments.com/]tls://dns.google:853
@@ -39035,6 +39109,7 @@ https://dns.pub:443/dns-query
 [/myhd1080.com/]tls://dns.google:853
 [/myhotsite.net/]tls://dns.google:853
 [/myhpsupport.com/]tls://dns.google:853
+[/myhulu.com/]tls://dns.google:853
 [/myiphide.com/]tls://dns.google:853
 [/myiphider.com/]tls://dns.google:853
 [/mykomica.org/]tls://dns.google:853
@@ -40105,6 +40180,7 @@ https://dns.pub:443/dns-query
 [/orientaldaily.com.my/]tls://dns.google:853
 [/orientalradio.com.sg/]tls://dns.google:853
 [/origin.events.byton.com/]tls://dns.google:853
+[/originalhulu.com/]tls://dns.google:853
 [/originlog.com/]tls://dns.google:853
 [/orioncity.virtualave.net/]tls://dns.google:853
 [/orithegame.com/]tls://dns.google:853
@@ -40358,6 +40434,7 @@ https://dns.pub:443/dns-query
 [/paxlicense.org/]tls://dns.google:853
 [/payfun.io/]tls://dns.google:853
 [/paygonline.com/]tls://dns.google:853
+[/payhulu.com/]tls://dns.google:853
 [/paypal-community.com/]tls://dns.google:853
 [/paypal-status.com/]tls://dns.google:853
 [/paypal.com/]tls://dns.google:853
@@ -41524,6 +41601,7 @@ https://dns.pub:443/dns-query
 [/regina-admin.firebaseio.com/]tls://dns.google:853
 [/regiongold.com/]tls://dns.google:853
 [/register.moex.gov.tw/]tls://dns.google:853
+[/registerhulu.com/]tls://dns.google:853
 [/registry.google/]tls://dns.google:853
 [/regs.be/]tls://dns.google:853
 [/rehan.com.pk/]tls://dns.google:853
@@ -43572,6 +43650,7 @@ https://dns.pub:443/dns-query
 [/thehindu.in/]tls://dns.google:853
 [/thehollywoodgossip.com/]tls://dns.google:853
 [/thehousenews.com/]tls://dns.google:853
+[/thehulubraintrust.com/]tls://dns.google:853
 [/thehun.net/]tls://dns.google:853
 [/theinitium.com/]tls://dns.google:853
 [/theintelstore.com/]tls://dns.google:853
@@ -49530,6 +49609,7 @@ https://dns.pub:443/dns-query
 [/wwwfacebok.com/]tls://dns.google:853
 [/wwwfacebook.com/]tls://dns.google:853
 [/wwwhost.biz/]tls://dns.google:853
+[/wwwhuluplus.com/]tls://dns.google:853
 [/wwwinstagram.com/]tls://dns.google:853
 [/wwwl.box.com/]tls://dns.google:853
 [/wwwmfacebook.com/]tls://dns.google:853
