@@ -1007,7 +1007,6 @@ https://dns.pub:443/dns-query
 [/67.4dq.com/]https://doh.opendns.com:443/dns-query
 [/677.etowns.org/]https://doh.opendns.com:443/dns-query
 [/678666365.com/]https://doh.opendns.com:443/dns-query
-[/678678365.com/]https://doh.opendns.com:443/dns-query
 [/6789k7.com/]https://doh.opendns.com:443/dns-query
 [/68.4pu.com/]https://doh.opendns.com:443/dns-query
 [/68.epac.to/]https://doh.opendns.com:443/dns-query
@@ -26339,7 +26338,6 @@ https://dns.pub:443/dns-query
 [/67.4dq.com/]tls://dns.google:853
 [/677.etowns.org/]tls://dns.google:853
 [/678666365.com/]tls://dns.google:853
-[/678678365.com/]tls://dns.google:853
 [/6789k7.com/]tls://dns.google:853
 [/68.4pu.com/]tls://dns.google:853
 [/68.epac.to/]tls://dns.google:853
