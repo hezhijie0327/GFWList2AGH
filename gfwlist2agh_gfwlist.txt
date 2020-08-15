@@ -16426,6 +16426,7 @@ https://dns.pub:443/dns-query
 [/rentmen.com/]https://doh.opendns.com:443/dns-query
 [/renyurenquan.org/]https://doh.opendns.com:443/dns-query
 [/renzhe.cloud/]https://doh.opendns.com:443/dns-query
+[/reporting.gaincapital.com/]https://doh.opendns.com:443/dns-query
 [/rerouted.org/]https://doh.opendns.com:443/dns-query
 [/research.google/]https://doh.opendns.com:443/dns-query
 [/research.ivc.edu/]https://doh.opendns.com:443/dns-query
@@ -41759,6 +41760,7 @@ https://dns.pub:443/dns-query
 [/rentmen.com/]tls://dns.google:853
 [/renyurenquan.org/]tls://dns.google:853
 [/renzhe.cloud/]tls://dns.google:853
+[/reporting.gaincapital.com/]tls://dns.google:853
 [/rerouted.org/]tls://dns.google:853
 [/research.google/]tls://dns.google:853
 [/research.ivc.edu/]tls://dns.google:853
