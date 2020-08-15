@@ -12157,6 +12157,7 @@ https://dns.pub:443/dns-query
 [/le1233.com/]https://doh.opendns.com:443/dns-query
 [/le19.net/]https://doh.opendns.com:443/dns-query
 [/le191.com/]https://doh.opendns.com:443/dns-query
+[/le196.com/]https://doh.opendns.com:443/dns-query
 [/le5888.com/]https://doh.opendns.com:443/dns-query
 [/le787.com/]https://doh.opendns.com:443/dns-query
 [/le989.com/]https://doh.opendns.com:443/dns-query
@@ -37488,6 +37489,7 @@ https://dns.pub:443/dns-query
 [/le1233.com/]tls://dns.google:853
 [/le19.net/]tls://dns.google:853
 [/le191.com/]tls://dns.google:853
+[/le196.com/]tls://dns.google:853
 [/le5888.com/]tls://dns.google:853
 [/le787.com/]tls://dns.google:853
 [/le989.com/]tls://dns.google:853
