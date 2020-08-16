@@ -5057,6 +5057,7 @@ https://dns.pub:443/dns-query
 [/cervetoria.pt/]https://doh.opendns.com:443/dns-query
 [/cex.io/]https://doh.opendns.com:443/dns-query
 [/cf.gs/]https://doh.opendns.com:443/dns-query
+[/cf7.com/]https://doh.opendns.com:443/dns-query
 [/cfna.com/]https://doh.opendns.com:443/dns-query
 [/cfos.de/]https://doh.opendns.com:443/dns-query
 [/cfr.org/]https://doh.opendns.com:443/dns-query
@@ -5342,6 +5343,7 @@ https://dns.pub:443/dns-query
 [/churchinhongkong.org/]https://doh.opendns.com:443/dns-query
 [/churchinplano.org/]https://doh.opendns.com:443/dns-query
 [/churchlatin.com/]https://doh.opendns.com:443/dns-query
+[/chutaobalde.com.br/]https://doh.opendns.com:443/dns-query
 [/chyl168.com/]https://doh.opendns.com:443/dns-query
 [/ci.etowns.net/]https://doh.opendns.com:443/dns-query
 [/ci77.net/]https://doh.opendns.com:443/dns-query
@@ -30397,6 +30399,7 @@ https://dns.pub:443/dns-query
 [/cervetoria.pt/]tls://dns.google:853
 [/cex.io/]tls://dns.google:853
 [/cf.gs/]tls://dns.google:853
+[/cf7.com/]tls://dns.google:853
 [/cfna.com/]tls://dns.google:853
 [/cfos.de/]tls://dns.google:853
 [/cfr.org/]tls://dns.google:853
@@ -30682,6 +30685,7 @@ https://dns.pub:443/dns-query
 [/churchinhongkong.org/]tls://dns.google:853
 [/churchinplano.org/]tls://dns.google:853
 [/churchlatin.com/]tls://dns.google:853
+[/chutaobalde.com.br/]tls://dns.google:853
 [/chyl168.com/]tls://dns.google:853
 [/ci.etowns.net/]tls://dns.google:853
 [/ci77.net/]tls://dns.google:853
