@@ -2483,6 +2483,7 @@ https://dns.pub:443/dns-query
 [/applemusicfestival.com/]https://doh.opendns.com:443/dns-query
 [/applenews.berlin/]https://doh.opendns.com:443/dns-query
 [/applenews.hamburg/]https://doh.opendns.com:443/dns-query
+[/appleoriginalproductions.com/]https://doh.opendns.com:443/dns-query
 [/applepay.berlin/]https://doh.opendns.com:443/dns-query
 [/applepay.co.rs/]https://doh.opendns.com:443/dns-query
 [/applepay.hamburg/]https://doh.opendns.com:443/dns-query
@@ -6370,6 +6371,7 @@ https://dns.pub:443/dns-query
 [/dicionar.io/]https://doh.opendns.com:443/dns-query
 [/dictatorwatch.org/]https://doh.opendns.com:443/dns-query
 [/dictionary.goo.ne.jp/]https://doh.opendns.com:443/dns-query
+[/diddykongracing.com/]https://doh.opendns.com:443/dns-query
 [/didiao.cloud/]https://doh.opendns.com:443/dns-query
 [/didz.com.au/]https://doh.opendns.com:443/dns-query
 [/diemuzi.com/]https://doh.opendns.com:443/dns-query
@@ -6528,6 +6530,7 @@ https://dns.pub:443/dns-query
 [/djz4africa.org/]https://doh.opendns.com:443/dns-query
 [/dkbeatsbydre.com/]https://doh.opendns.com:443/dns-query
 [/dkn.tv/]https://doh.opendns.com:443/dns-query
+[/dkr.com/]https://doh.opendns.com:443/dns-query
 [/dkrecttv.com/]https://doh.opendns.com:443/dns-query
 [/dl-canary.discordapp.net/]https://doh.opendns.com:443/dns-query
 [/dl-laby.jp/]https://doh.opendns.com:443/dns-query
@@ -14416,6 +14419,7 @@ https://dns.pub:443/dns-query
 [/nintendoeurope.com/]https://doh.opendns.com:443/dns-query
 [/nintendonetwork.net/]https://doh.opendns.com:443/dns-query
 [/nintendonyc.com/]https://doh.opendns.com:443/dns-query
+[/nintendostore.com/]https://doh.opendns.com:443/dns-query
 [/nintendoswitch.com/]https://doh.opendns.com:443/dns-query
 [/nintendoswitch.net/]https://doh.opendns.com:443/dns-query
 [/nintendoswitchtogether.com/]https://doh.opendns.com:443/dns-query
@@ -17774,6 +17778,7 @@ https://dns.pub:443/dns-query
 [/starcraft.com/]https://doh.opendns.com:443/dns-query
 [/starcraft2.com/]https://doh.opendns.com:443/dns-query
 [/starfishfx.com/]https://doh.opendns.com:443/dns-query
+[/starfox.com/]https://doh.opendns.com:443/dns-query
 [/starledimports.com.br/]https://doh.opendns.com:443/dns-query
 [/starlightbg.net/]https://doh.opendns.com:443/dns-query
 [/starlink.one/]https://doh.opendns.com:443/dns-query
@@ -17999,6 +18004,7 @@ https://dns.pub:443/dns-query
 [/superd.tw/]https://doh.opendns.com:443/dns-query
 [/superfreevpn.com/]https://doh.opendns.com:443/dns-query
 [/superman2012.hostzi.com/]https://doh.opendns.com:443/dns-query
+[/supermario.com/]https://doh.opendns.com:443/dns-query
 [/supermario3dworld.com/]https://doh.opendns.com:443/dns-query
 [/supermariogalaxy.com/]https://doh.opendns.com:443/dns-query
 [/supermariorun.com/]https://doh.opendns.com:443/dns-query
@@ -27817,6 +27823,7 @@ https://dns.pub:443/dns-query
 [/applemusicfestival.com/]tls://dns.google:853
 [/applenews.berlin/]tls://dns.google:853
 [/applenews.hamburg/]tls://dns.google:853
+[/appleoriginalproductions.com/]tls://dns.google:853
 [/applepay.berlin/]tls://dns.google:853
 [/applepay.co.rs/]tls://dns.google:853
 [/applepay.hamburg/]tls://dns.google:853
@@ -31704,6 +31711,7 @@ https://dns.pub:443/dns-query
 [/dicionar.io/]tls://dns.google:853
 [/dictatorwatch.org/]tls://dns.google:853
 [/dictionary.goo.ne.jp/]tls://dns.google:853
+[/diddykongracing.com/]tls://dns.google:853
 [/didiao.cloud/]tls://dns.google:853
 [/didz.com.au/]tls://dns.google:853
 [/diemuzi.com/]tls://dns.google:853
@@ -31862,6 +31870,7 @@ https://dns.pub:443/dns-query
 [/djz4africa.org/]tls://dns.google:853
 [/dkbeatsbydre.com/]tls://dns.google:853
 [/dkn.tv/]tls://dns.google:853
+[/dkr.com/]tls://dns.google:853
 [/dkrecttv.com/]tls://dns.google:853
 [/dl-canary.discordapp.net/]tls://dns.google:853
 [/dl-laby.jp/]tls://dns.google:853
@@ -39750,6 +39759,7 @@ https://dns.pub:443/dns-query
 [/nintendoeurope.com/]tls://dns.google:853
 [/nintendonetwork.net/]tls://dns.google:853
 [/nintendonyc.com/]tls://dns.google:853
+[/nintendostore.com/]tls://dns.google:853
 [/nintendoswitch.com/]tls://dns.google:853
 [/nintendoswitch.net/]tls://dns.google:853
 [/nintendoswitchtogether.com/]tls://dns.google:853
@@ -43108,6 +43118,7 @@ https://dns.pub:443/dns-query
 [/starcraft.com/]tls://dns.google:853
 [/starcraft2.com/]tls://dns.google:853
 [/starfishfx.com/]tls://dns.google:853
+[/starfox.com/]tls://dns.google:853
 [/starledimports.com.br/]tls://dns.google:853
 [/starlightbg.net/]tls://dns.google:853
 [/starlink.one/]tls://dns.google:853
@@ -43333,6 +43344,7 @@ https://dns.pub:443/dns-query
 [/superd.tw/]tls://dns.google:853
 [/superfreevpn.com/]tls://dns.google:853
 [/superman2012.hostzi.com/]tls://dns.google:853
+[/supermario.com/]tls://dns.google:853
 [/supermario3dworld.com/]tls://dns.google:853
 [/supermariogalaxy.com/]tls://dns.google:853
 [/supermariorun.com/]tls://dns.google:853
