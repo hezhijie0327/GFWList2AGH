@@ -16719,6 +16719,7 @@ https://dns.pub:443/dns-query
 [/safeforwork.net/]https://doh.opendns.com:443/dns-query
 [/safeguarddefenders.com/]https://doh.opendns.com:443/dns-query
 [/safervpn.com/]https://doh.opendns.com:443/dns-query
+[/safetunnel.tk/]https://doh.opendns.com:443/dns-query
 [/safety.google/]https://doh.opendns.com:443/dns-query
 [/saffrontech.com/]https://doh.opendns.com:443/dns-query
 [/safood.cl/]https://doh.opendns.com:443/dns-query
@@ -18960,6 +18961,7 @@ https://dns.pub:443/dns-query
 [/trustdoc.ch/]https://doh.opendns.com:443/dns-query
 [/trustedanalytics.com/]https://doh.opendns.com:443/dns-query
 [/trustedanalytics.net/]https://doh.opendns.com:443/dns-query
+[/trustsign.ch/]https://doh.opendns.com:443/dns-query
 [/trustwave.com/]https://doh.opendns.com:443/dns-query
 [/truth-out.org/]https://doh.opendns.com:443/dns-query
 [/truth.atspace.eu/]https://doh.opendns.com:443/dns-query
@@ -42059,6 +42061,7 @@ https://dns.pub:443/dns-query
 [/safeforwork.net/]tls://dns.google:853
 [/safeguarddefenders.com/]tls://dns.google:853
 [/safervpn.com/]tls://dns.google:853
+[/safetunnel.tk/]tls://dns.google:853
 [/safety.google/]tls://dns.google:853
 [/saffrontech.com/]tls://dns.google:853
 [/safood.cl/]tls://dns.google:853
@@ -44300,6 +44303,7 @@ https://dns.pub:443/dns-query
 [/trustdoc.ch/]tls://dns.google:853
 [/trustedanalytics.com/]tls://dns.google:853
 [/trustedanalytics.net/]tls://dns.google:853
+[/trustsign.ch/]tls://dns.google:853
 [/trustwave.com/]tls://dns.google:853
 [/truth-out.org/]tls://dns.google:853
 [/truth.atspace.eu/]tls://dns.google:853
