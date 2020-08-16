@@ -2483,7 +2483,6 @@ https://dns.pub:443/dns-query
 [/applemusicfestival.com/]https://doh.opendns.com:443/dns-query
 [/applenews.berlin/]https://doh.opendns.com:443/dns-query
 [/applenews.hamburg/]https://doh.opendns.com:443/dns-query
-[/appleoriginalproductions.com/]https://doh.opendns.com:443/dns-query
 [/applepay.berlin/]https://doh.opendns.com:443/dns-query
 [/applepay.co.rs/]https://doh.opendns.com:443/dns-query
 [/applepay.hamburg/]https://doh.opendns.com:443/dns-query
@@ -14745,6 +14744,7 @@ https://dns.pub:443/dns-query
 [/officialheadphone.com/]https://doh.opendns.com:443/dns-query
 [/officialwindowsmagazine.com/]https://doh.opendns.com:443/dns-query
 [/offlineapi.sscp555888.com/]https://doh.opendns.com:443/dns-query
+[/ofile.org/]https://doh.opendns.com:443/dns-query
 [/ofmdirect.com/]https://doh.opendns.com:443/dns-query
 [/ofo91.com/]https://doh.opendns.com:443/dns-query
 [/ofoc.sec.b0ne.com/]https://doh.opendns.com:443/dns-query
@@ -27823,7 +27823,6 @@ https://dns.pub:443/dns-query
 [/applemusicfestival.com/]tls://dns.google:853
 [/applenews.berlin/]tls://dns.google:853
 [/applenews.hamburg/]tls://dns.google:853
-[/appleoriginalproductions.com/]tls://dns.google:853
 [/applepay.berlin/]tls://dns.google:853
 [/applepay.co.rs/]tls://dns.google:853
 [/applepay.hamburg/]tls://dns.google:853
@@ -40085,6 +40084,7 @@ https://dns.pub:443/dns-query
 [/officialheadphone.com/]tls://dns.google:853
 [/officialwindowsmagazine.com/]tls://dns.google:853
 [/offlineapi.sscp555888.com/]tls://dns.google:853
+[/ofile.org/]tls://dns.google:853
 [/ofmdirect.com/]tls://dns.google:853
 [/ofo91.com/]tls://dns.google:853
 [/ofoc.sec.b0ne.com/]tls://dns.google:853
