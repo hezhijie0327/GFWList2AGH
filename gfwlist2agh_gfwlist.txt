@@ -6403,7 +6403,6 @@ https://dns.pub:443/dns-query
 [/dilber.se/]https://doh.opendns.com:443/dns-query
 [/dimassatrio.web.id/]https://doh.opendns.com:443/dns-query
 [/dio66.net/]https://doh.opendns.com:443/dns-query
-[/dioguitar23.me/]https://doh.opendns.com:443/dns-query
 [/dioguitar23.net/]https://doh.opendns.com:443/dns-query
 [/dirctv.com/]https://doh.opendns.com:443/dns-query
 [/direcpath.com/]https://doh.opendns.com:443/dns-query
@@ -13906,6 +13905,7 @@ https://dns.pub:443/dns-query
 [/mypornstarblogs.com/]https://doh.opendns.com:443/dns-query
 [/mypornstarbook.net/]https://doh.opendns.com:443/dns-query
 [/mypostcard.com/]https://doh.opendns.com:443/dns-query
+[/myproxies.org/]https://doh.opendns.com:443/dns-query
 [/myps4.eu.org/]https://doh.opendns.com:443/dns-query
 [/myradio.hk/]https://doh.opendns.com:443/dns-query
 [/myreadingmanga.info/]https://doh.opendns.com:443/dns-query
@@ -31749,7 +31749,6 @@ https://dns.pub:443/dns-query
 [/dilber.se/]tls://dns.google:853
 [/dimassatrio.web.id/]tls://dns.google:853
 [/dio66.net/]tls://dns.google:853
-[/dioguitar23.me/]tls://dns.google:853
 [/dioguitar23.net/]tls://dns.google:853
 [/dirctv.com/]tls://dns.google:853
 [/direcpath.com/]tls://dns.google:853
@@ -39252,6 +39251,7 @@ https://dns.pub:443/dns-query
 [/mypornstarblogs.com/]tls://dns.google:853
 [/mypornstarbook.net/]tls://dns.google:853
 [/mypostcard.com/]tls://dns.google:853
+[/myproxies.org/]tls://dns.google:853
 [/myps4.eu.org/]tls://dns.google:853
 [/myradio.hk/]tls://dns.google:853
 [/myreadingmanga.info/]tls://dns.google:853
