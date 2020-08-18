@@ -203,6 +203,7 @@ https://dns.pub:443/dns-query
 [/1236890.com/]https://doh.opendns.com:443/dns-query
 [/1239400.com/]https://doh.opendns.com:443/dns-query
 [/1239770.com/]https://doh.opendns.com:443/dns-query
+[/123amgj.com/]https://doh.opendns.com:443/dns-query
 [/123hplaserjet.com/]https://doh.opendns.com:443/dns-query
 [/123lfz.com/]https://doh.opendns.com:443/dns-query
 [/123rf.com/]https://doh.opendns.com:443/dns-query
@@ -16946,6 +16947,7 @@ https://dns.pub:443/dns-query
 [/savetibet.ru/]https://doh.opendns.com:443/dns-query
 [/savetibet.us/]https://doh.opendns.com:443/dns-query
 [/savetibetstore.org/]https://doh.opendns.com:443/dns-query
+[/savetibetwebshop.nl/]https://doh.opendns.com:443/dns-query
 [/savevideo.me/]https://doh.opendns.com:443/dns-query
 [/saveyoutube.com/]https://doh.opendns.com:443/dns-query
 [/savings.com/]https://doh.opendns.com:443/dns-query
@@ -25757,6 +25759,7 @@ https://dns.pub:443/dns-query
 [/1236890.com/]tls://dns.google:853
 [/1239400.com/]tls://dns.google:853
 [/1239770.com/]tls://dns.google:853
+[/123amgj.com/]tls://dns.google:853
 [/123hplaserjet.com/]tls://dns.google:853
 [/123lfz.com/]tls://dns.google:853
 [/123rf.com/]tls://dns.google:853
@@ -42500,6 +42503,7 @@ https://dns.pub:443/dns-query
 [/savetibet.ru/]tls://dns.google:853
 [/savetibet.us/]tls://dns.google:853
 [/savetibetstore.org/]tls://dns.google:853
+[/savetibetwebshop.nl/]tls://dns.google:853
 [/savevideo.me/]tls://dns.google:853
 [/saveyoutube.com/]tls://dns.google:853
 [/savings.com/]tls://dns.google:853
