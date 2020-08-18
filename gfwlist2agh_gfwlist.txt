@@ -23196,6 +23196,7 @@ https://dns.pub:443/dns-query
 [/www.middleeasteye.net/]https://doh.opendns.com:443/dns-query
 [/www.midphoto.com/]https://doh.opendns.com:443/dns-query
 [/www.mihk.tv/]https://doh.opendns.com:443/dns-query
+[/www.miiicasa.com/]https://doh.opendns.com:443/dns-query
 [/www.milck.it/]https://doh.opendns.com:443/dns-query
 [/www.milffox.com/]https://doh.opendns.com:443/dns-query
 [/www.milivpn.com/]https://doh.opendns.com:443/dns-query
@@ -48750,6 +48751,7 @@ https://dns.pub:443/dns-query
 [/www.middleeasteye.net/]tls://dns.google:853
 [/www.midphoto.com/]tls://dns.google:853
 [/www.mihk.tv/]tls://dns.google:853
+[/www.miiicasa.com/]tls://dns.google:853
 [/www.milck.it/]tls://dns.google:853
 [/www.milffox.com/]tls://dns.google:853
 [/www.milivpn.com/]tls://dns.google:853
