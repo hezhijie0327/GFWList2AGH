@@ -2400,6 +2400,7 @@ https://dns.pub:443/dns-query
 [/apk.tw/]https://doh.opendns.com:443/dns-query
 [/apk.webgis.ro/]https://doh.opendns.com:443/dns-query
 [/apk2.cf/]https://doh.opendns.com:443/dns-query
+[/apk2.ga/]https://doh.opendns.com:443/dns-query
 [/apk2.tk/]https://doh.opendns.com:443/dns-query
 [/apk4fun.com/]https://doh.opendns.com:443/dns-query
 [/apkcombo.com/]https://doh.opendns.com:443/dns-query
@@ -4656,7 +4657,6 @@ https://dns.pub:443/dns-query
 [/bypass.pw/]https://doh.opendns.com:443/dns-query
 [/bypasscensorship.org/]https://doh.opendns.com:443/dns-query
 [/bypasskey.com/]https://doh.opendns.com:443/dns-query
-[/byt707.com/]https://doh.opendns.com:443/dns-query
 [/byt909.com/]https://doh.opendns.com:443/dns-query
 [/c-est-simple.com/]https://doh.opendns.com:443/dns-query
 [/c-span.org/]https://doh.opendns.com:443/dns-query
@@ -27956,6 +27956,7 @@ https://dns.pub:443/dns-query
 [/apk.tw/]tls://dns.google:853
 [/apk.webgis.ro/]tls://dns.google:853
 [/apk2.cf/]tls://dns.google:853
+[/apk2.ga/]tls://dns.google:853
 [/apk2.tk/]tls://dns.google:853
 [/apk4fun.com/]tls://dns.google:853
 [/apkcombo.com/]tls://dns.google:853
@@ -30212,7 +30213,6 @@ https://dns.pub:443/dns-query
 [/bypass.pw/]tls://dns.google:853
 [/bypasscensorship.org/]tls://dns.google:853
 [/bypasskey.com/]tls://dns.google:853
-[/byt707.com/]tls://dns.google:853
 [/byt909.com/]tls://dns.google:853
 [/c-est-simple.com/]tls://dns.google:853
 [/c-span.org/]tls://dns.google:853
