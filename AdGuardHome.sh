@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.8
+# Current Version: 1.0.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -10,9 +10,9 @@
 function AnalyseConfigurationFile() {
     get_root=$(cd $(dirname "$0"); pwd)
     get_bind_host_line="1"
-    get_upstream_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "upstream\_dns" | awk '{print $1}')
-    get_bootstrap_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "bootstrap\_dns" | awk '{print $1}')
-    get_schema_version_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "schema\_version" | awk '{print $1}')
+    get_upstream_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "upstream\_dns" | awk '{ print $1 }')
+    get_bootstrap_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "bootstrap\_dns" | awk '{ print $1 }')
+    get_schema_version_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "schema\_version" | awk '{ print $1 }')
 }
 # Split Configuration File
 function SplitConfigurationFile() {
@@ -31,7 +31,7 @@ function OutputConfigurationFile() {
 }
 # Apply Configuration File
 function ApplyConfigurationFile() {
-    adguardhome_pid=$(ps -ef | grep "AdGuardHome" | grep -v "grep" | awk '{print $2}')
+    adguardhome_pid=$(ps -ef | grep "AdGuardHome" | grep -v "grep" | awk '{ print $2 }')
     if [ "${adguardhome_pid}" == "" ]; then
         systemctl start AdGuardHome.service
         exit 0
