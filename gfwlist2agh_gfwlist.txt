@@ -2431,7 +2431,6 @@ https://dns.pub:443/dns-query
 [/app.staging.nuorder.com/]https://doh.opendns.com:443/dns-query
 [/app.tutanota.com/]https://doh.opendns.com:443/dns-query
 [/app.xively.com/]https://doh.opendns.com:443/dns-query
-[/app2.tk/]https://doh.opendns.com:443/dns-query
 [/app365.gq/]https://doh.opendns.com:443/dns-query
 [/app365.ml/]https://doh.opendns.com:443/dns-query
 [/app6.cf/]https://doh.opendns.com:443/dns-query
@@ -10165,6 +10164,7 @@ https://dns.pub:443/dns-query
 [/hkbc.net/]https://doh.opendns.com:443/dns-query
 [/hkbf.org/]https://doh.opendns.com:443/dns-query
 [/hkbici.com/]https://doh.opendns.com:443/dns-query
+[/hkbn-a.nsl-node.ml/]https://doh.opendns.com:443/dns-query
 [/hkbookcity.com/]https://doh.opendns.com:443/dns-query
 [/hkchurch.org/]https://doh.opendns.com:443/dns-query
 [/hkci.org.hk/]https://doh.opendns.com:443/dns-query
@@ -27986,7 +27986,6 @@ https://dns.pub:443/dns-query
 [/app.staging.nuorder.com/]tls://dns.google:853
 [/app.tutanota.com/]tls://dns.google:853
 [/app.xively.com/]tls://dns.google:853
-[/app2.tk/]tls://dns.google:853
 [/app365.gq/]tls://dns.google:853
 [/app365.ml/]tls://dns.google:853
 [/app6.cf/]tls://dns.google:853
@@ -35720,6 +35719,7 @@ https://dns.pub:443/dns-query
 [/hkbc.net/]tls://dns.google:853
 [/hkbf.org/]tls://dns.google:853
 [/hkbici.com/]tls://dns.google:853
+[/hkbn-a.nsl-node.ml/]tls://dns.google:853
 [/hkbookcity.com/]tls://dns.google:853
 [/hkchurch.org/]tls://dns.google:853
 [/hkci.org.hk/]tls://dns.google:853
