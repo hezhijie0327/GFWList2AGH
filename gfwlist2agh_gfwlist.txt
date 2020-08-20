@@ -991,7 +991,6 @@ https://dns.pub:443/dns-query
 [/637.etowns.org/]https://doh.opendns.com:443/dns-query
 [/638.com/]https://doh.opendns.com:443/dns-query
 [/6388js.com/]https://doh.opendns.com:443/dns-query
-[/6396.com/]https://doh.opendns.com:443/dns-query
 [/63ee.net/]https://doh.opendns.com:443/dns-query
 [/63ff.net/]https://doh.opendns.com:443/dns-query
 [/63gg.net/]https://doh.opendns.com:443/dns-query
@@ -26652,7 +26651,6 @@ https://dns.pub:443/dns-query
 [/637.etowns.org/]tls://dns.google:853
 [/638.com/]tls://dns.google:853
 [/6388js.com/]tls://dns.google:853
-[/6396.com/]tls://dns.google:853
 [/63ee.net/]tls://dns.google:853
 [/63ff.net/]tls://dns.google:853
 [/63gg.net/]tls://dns.google:853
