@@ -593,7 +593,6 @@ https://dns.pub:443/dns-query
 [/3.aa1122.ws/]https://doh.opendns.com:443/dns-query
 [/3.dd.dnsrd.com/]https://doh.opendns.com:443/dns-query
 [/30.etowns.org/]https://doh.opendns.com:443/dns-query
-[/3007vip.com/]https://doh.opendns.com:443/dns-query
 [/300avi.com/]https://doh.opendns.com:443/dns-query
 [/300tube.com/]https://doh.opendns.com:443/dns-query
 [/301.com/]https://doh.opendns.com:443/dns-query
@@ -868,6 +867,7 @@ https://dns.pub:443/dns-query
 [/52hy11.com/]https://doh.opendns.com:443/dns-query
 [/52jav.com/]https://doh.opendns.com:443/dns-query
 [/52kjwang.com/]https://doh.opendns.com:443/dns-query
+[/52ssr.cn/]https://doh.opendns.com:443/dns-query
 [/52ull.com/]https://doh.opendns.com:443/dns-query
 [/52xr.net/]https://doh.opendns.com:443/dns-query
 [/52xtv.net/]https://doh.opendns.com:443/dns-query
@@ -1013,7 +1013,6 @@ https://dns.pub:443/dns-query
 [/654078.cc/]https://doh.opendns.com:443/dns-query
 [/655.shop.tm/]https://doh.opendns.com:443/dns-query
 [/6575888.com/]https://doh.opendns.com:443/dns-query
-[/65780.com/]https://doh.opendns.com:443/dns-query
 [/66.effers.com/]https://doh.opendns.com:443/dns-query
 [/6600aaa.com/]https://doh.opendns.com:443/dns-query
 [/66333885.com/]https://doh.opendns.com:443/dns-query
@@ -6095,7 +6094,6 @@ https://dns.pub:443/dns-query
 [/d1n7qfbcprvx1.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d2621.com/]https://doh.opendns.com:443/dns-query
 [/d2666.com/]https://doh.opendns.com:443/dns-query
-[/d2721.com/]https://doh.opendns.com:443/dns-query
 [/d2755.com/]https://doh.opendns.com:443/dns-query
 [/d2989.com/]https://doh.opendns.com:443/dns-query
 [/d2bay.com/]https://doh.opendns.com:443/dns-query
@@ -26254,7 +26252,6 @@ https://dns.pub:443/dns-query
 [/3.aa1122.ws/]tls://dns.google:853
 [/3.dd.dnsrd.com/]tls://dns.google:853
 [/30.etowns.org/]tls://dns.google:853
-[/3007vip.com/]tls://dns.google:853
 [/300avi.com/]tls://dns.google:853
 [/300tube.com/]tls://dns.google:853
 [/301.com/]tls://dns.google:853
@@ -26529,6 +26526,7 @@ https://dns.pub:443/dns-query
 [/52hy11.com/]tls://dns.google:853
 [/52jav.com/]tls://dns.google:853
 [/52kjwang.com/]tls://dns.google:853
+[/52ssr.cn/]tls://dns.google:853
 [/52ull.com/]tls://dns.google:853
 [/52xr.net/]tls://dns.google:853
 [/52xtv.net/]tls://dns.google:853
@@ -26674,7 +26672,6 @@ https://dns.pub:443/dns-query
 [/654078.cc/]tls://dns.google:853
 [/655.shop.tm/]tls://dns.google:853
 [/6575888.com/]tls://dns.google:853
-[/65780.com/]tls://dns.google:853
 [/66.effers.com/]tls://dns.google:853
 [/6600aaa.com/]tls://dns.google:853
 [/66333885.com/]tls://dns.google:853
@@ -31756,7 +31753,6 @@ https://dns.pub:443/dns-query
 [/d1n7qfbcprvx1.cloudfront.net/]tls://dns.google:853
 [/d2621.com/]tls://dns.google:853
 [/d2666.com/]tls://dns.google:853
-[/d2721.com/]tls://dns.google:853
 [/d2755.com/]tls://dns.google:853
 [/d2989.com/]tls://dns.google:853
 [/d2bay.com/]tls://dns.google:853
