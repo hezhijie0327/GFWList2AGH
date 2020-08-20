@@ -19351,6 +19351,7 @@ https://dns.pub:443/dns-query
 [/tv33.tk/]https://doh.opendns.com:443/dns-query
 [/tv365.cf/]https://doh.opendns.com:443/dns-query
 [/tv365.ga/]https://doh.opendns.com:443/dns-query
+[/tv72.ga/]https://doh.opendns.com:443/dns-query
 [/tvants.com/]https://doh.opendns.com:443/dns-query
 [/tvappstore.net/]https://doh.opendns.com:443/dns-query
 [/tvb.com/]https://doh.opendns.com:443/dns-query
@@ -45011,6 +45012,7 @@ https://dns.pub:443/dns-query
 [/tv33.tk/]tls://dns.google:853
 [/tv365.cf/]tls://dns.google:853
 [/tv365.ga/]tls://dns.google:853
+[/tv72.ga/]tls://dns.google:853
 [/tvants.com/]tls://dns.google:853
 [/tvappstore.net/]tls://dns.google:853
 [/tvb.com/]tls://dns.google:853
