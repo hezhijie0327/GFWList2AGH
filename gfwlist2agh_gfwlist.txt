@@ -5609,7 +5609,6 @@ https://dns.pub:443/dns-query
 [/clusty.com/]https://doh.opendns.com:443/dns-query
 [/clyp.it/]https://doh.opendns.com:443/dns-query
 [/cm04.coaching-baum.de/]https://doh.opendns.com:443/dns-query
-[/cm33.cf/]https://doh.opendns.com:443/dns-query
 [/cm33.ga/]https://doh.opendns.com:443/dns-query
 [/cmail.cornell.edu/]https://doh.opendns.com:443/dns-query
 [/cmail19.com/]https://doh.opendns.com:443/dns-query
@@ -31271,7 +31270,6 @@ https://dns.pub:443/dns-query
 [/clusty.com/]tls://dns.google:853
 [/clyp.it/]tls://dns.google:853
 [/cm04.coaching-baum.de/]tls://dns.google:853
-[/cm33.cf/]tls://dns.google:853
 [/cm33.ga/]tls://dns.google:853
 [/cmail.cornell.edu/]tls://dns.google:853
 [/cmail19.com/]tls://dns.google:853
