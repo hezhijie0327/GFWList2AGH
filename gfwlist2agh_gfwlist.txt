@@ -171,6 +171,7 @@ https://dns.pub:443/dns-query
 [/110447.com/]https://doh.opendns.com:443/dns-query
 [/111222vip.com/]https://doh.opendns.com:443/dns-query
 [/1115168.com/]https://doh.opendns.com:443/dns-query
+[/1119702.com/]https://doh.opendns.com:443/dns-query
 [/111rch.club/]https://doh.opendns.com:443/dns-query
 [/112.b0ne.com/]https://doh.opendns.com:443/dns-query
 [/112.net/]https://doh.opendns.com:443/dns-query
@@ -5412,6 +5413,7 @@ https://dns.pub:443/dns-query
 [/chocolatkey.com/]https://doh.opendns.com:443/dns-query
 [/choicehotels.com/]https://doh.opendns.com:443/dns-query
 [/chomp.com/]https://doh.opendns.com:443/dns-query
+[/chordscenter.net/]https://doh.opendns.com:443/dns-query
 [/chosun.com/]https://doh.opendns.com:443/dns-query
 [/choubb.com/]https://doh.opendns.com:443/dns-query
 [/chouzakeil.com.ar/]https://doh.opendns.com:443/dns-query
@@ -25830,6 +25832,7 @@ https://dns.pub:443/dns-query
 [/110447.com/]tls://dns.google:853
 [/111222vip.com/]tls://dns.google:853
 [/1115168.com/]tls://dns.google:853
+[/1119702.com/]tls://dns.google:853
 [/111rch.club/]tls://dns.google:853
 [/112.b0ne.com/]tls://dns.google:853
 [/112.net/]tls://dns.google:853
@@ -31071,6 +31074,7 @@ https://dns.pub:443/dns-query
 [/chocolatkey.com/]tls://dns.google:853
 [/choicehotels.com/]tls://dns.google:853
 [/chomp.com/]tls://dns.google:853
+[/chordscenter.net/]tls://dns.google:853
 [/chosun.com/]tls://dns.google:853
 [/choubb.com/]tls://dns.google:853
 [/chouzakeil.com.ar/]tls://dns.google:853
