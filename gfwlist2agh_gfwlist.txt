@@ -75,7 +75,6 @@ https://dns.pub:443/dns-query
 [/035002.com/]https://doh.opendns.com:443/dns-query
 [/035007.com/]https://doh.opendns.com:443/dns-query
 [/035009.com/]https://doh.opendns.com:443/dns-query
-[/0369.cc/]https://doh.opendns.com:443/dns-query
 [/038300.com/]https://doh.opendns.com:443/dns-query
 [/03afcp.com/]https://doh.opendns.com:443/dns-query
 [/0403.ca/]https://doh.opendns.com:443/dns-query
@@ -763,13 +762,10 @@ https://dns.pub:443/dns-query
 [/412580.com/]https://doh.opendns.com:443/dns-query
 [/4151.yzc596.com/]https://doh.opendns.com:443/dns-query
 [/4275.yzc622.com/]https://doh.opendns.com:443/dns-query
-[/42842805.com/]https://doh.opendns.com:443/dns-query
-[/42842806.com/]https://doh.opendns.com:443/dns-query
 [/42842808.com/]https://doh.opendns.com:443/dns-query
 [/42842809.com/]https://doh.opendns.com:443/dns-query
 [/42842812.com/]https://doh.opendns.com:443/dns-query
 [/42842813.com/]https://doh.opendns.com:443/dns-query
-[/42842814.com/]https://doh.opendns.com:443/dns-query
 [/42842815.com/]https://doh.opendns.com:443/dns-query
 [/42842823.com/]https://doh.opendns.com:443/dns-query
 [/42842824.com/]https://doh.opendns.com:443/dns-query
@@ -826,7 +822,6 @@ https://dns.pub:443/dns-query
 [/50na50.net/]https://doh.opendns.com:443/dns-query
 [/50webs.com/]https://doh.opendns.com:443/dns-query
 [/51499.com/]https://doh.opendns.com:443/dns-query
-[/51529.com/]https://doh.opendns.com:443/dns-query
 [/5154.18qmm.com/]https://doh.opendns.com:443/dns-query
 [/516nn.net/]https://doh.opendns.com:443/dns-query
 [/517m5.com/]https://doh.opendns.com:443/dns-query
@@ -938,7 +933,6 @@ https://dns.pub:443/dns-query
 [/576.slyip.net/]https://doh.opendns.com:443/dns-query
 [/576166i.com/]https://doh.opendns.com:443/dns-query
 [/579.flnet.org/]https://doh.opendns.com:443/dns-query
-[/58756.com/]https://doh.opendns.com:443/dns-query
 [/5875879.com/]https://doh.opendns.com:443/dns-query
 [/58999.com.tw/]https://doh.opendns.com:443/dns-query
 [/58b.tv/]https://doh.opendns.com:443/dns-query
@@ -1362,7 +1356,6 @@ https://dns.pub:443/dns-query
 [/89333a.com/]https://doh.opendns.com:443/dns-query
 [/89422.com/]https://doh.opendns.com:443/dns-query
 [/8969.org/]https://doh.opendns.com:443/dns-query
-[/8973.cc/]https://doh.opendns.com:443/dns-query
 [/8977.cc/]https://doh.opendns.com:443/dns-query
 [/89901.com/]https://doh.opendns.com:443/dns-query
 [/8996.cc/]https://doh.opendns.com:443/dns-query
@@ -1440,7 +1433,6 @@ https://dns.pub:443/dns-query
 [/9566849.com/]https://doh.opendns.com:443/dns-query
 [/9566956.com/]https://doh.opendns.com:443/dns-query
 [/9599001.net/]https://doh.opendns.com:443/dns-query
-[/95991100.com/]https://doh.opendns.com:443/dns-query
 [/95991144.com/]https://doh.opendns.com:443/dns-query
 [/95992222b.com/]https://doh.opendns.com:443/dns-query
 [/95992222nn.com/]https://doh.opendns.com:443/dns-query
@@ -4715,6 +4707,7 @@ https://dns.pub:443/dns-query
 [/c.c4.workers.dev/]https://doh.opendns.com:443/dns-query
 [/c.cuss.surf/]https://doh.opendns.com:443/dns-query
 [/c.htcc.us/]https://doh.opendns.com:443/dns-query
+[/c.ns02.top/]https://doh.opendns.com:443/dns-query
 [/c.ygto.com/]https://doh.opendns.com:443/dns-query
 [/c07.am/]https://doh.opendns.com:443/dns-query
 [/c07aa.com/]https://doh.opendns.com:443/dns-query
@@ -5917,7 +5910,6 @@ https://dns.pub:443/dns-query
 [/cpk1111.com/]https://doh.opendns.com:443/dns-query
 [/cpk444.com/]https://doh.opendns.com:443/dns-query
 [/cpk55.com/]https://doh.opendns.com:443/dns-query
-[/cpps.cdn-discuz.com/]https://doh.opendns.com:443/dns-query
 [/cproxyer.com/]https://doh.opendns.com:443/dns-query
 [/cpz.to/]https://doh.opendns.com:443/dns-query
 [/cq688.net/]https://doh.opendns.com:443/dns-query
@@ -25942,7 +25934,6 @@ https://dns.pub:443/dns-query
 [/035002.com/]tls://dns.google:853
 [/035007.com/]tls://dns.google:853
 [/035009.com/]tls://dns.google:853
-[/0369.cc/]tls://dns.google:853
 [/038300.com/]tls://dns.google:853
 [/03afcp.com/]tls://dns.google:853
 [/0403.ca/]tls://dns.google:853
@@ -26630,13 +26621,10 @@ https://dns.pub:443/dns-query
 [/412580.com/]tls://dns.google:853
 [/4151.yzc596.com/]tls://dns.google:853
 [/4275.yzc622.com/]tls://dns.google:853
-[/42842805.com/]tls://dns.google:853
-[/42842806.com/]tls://dns.google:853
 [/42842808.com/]tls://dns.google:853
 [/42842809.com/]tls://dns.google:853
 [/42842812.com/]tls://dns.google:853
 [/42842813.com/]tls://dns.google:853
-[/42842814.com/]tls://dns.google:853
 [/42842815.com/]tls://dns.google:853
 [/42842823.com/]tls://dns.google:853
 [/42842824.com/]tls://dns.google:853
@@ -26693,7 +26681,6 @@ https://dns.pub:443/dns-query
 [/50na50.net/]tls://dns.google:853
 [/50webs.com/]tls://dns.google:853
 [/51499.com/]tls://dns.google:853
-[/51529.com/]tls://dns.google:853
 [/5154.18qmm.com/]tls://dns.google:853
 [/516nn.net/]tls://dns.google:853
 [/517m5.com/]tls://dns.google:853
@@ -26805,7 +26792,6 @@ https://dns.pub:443/dns-query
 [/576.slyip.net/]tls://dns.google:853
 [/576166i.com/]tls://dns.google:853
 [/579.flnet.org/]tls://dns.google:853
-[/58756.com/]tls://dns.google:853
 [/5875879.com/]tls://dns.google:853
 [/58999.com.tw/]tls://dns.google:853
 [/58b.tv/]tls://dns.google:853
@@ -27229,7 +27215,6 @@ https://dns.pub:443/dns-query
 [/89333a.com/]tls://dns.google:853
 [/89422.com/]tls://dns.google:853
 [/8969.org/]tls://dns.google:853
-[/8973.cc/]tls://dns.google:853
 [/8977.cc/]tls://dns.google:853
 [/89901.com/]tls://dns.google:853
 [/8996.cc/]tls://dns.google:853
@@ -27307,7 +27292,6 @@ https://dns.pub:443/dns-query
 [/9566849.com/]tls://dns.google:853
 [/9566956.com/]tls://dns.google:853
 [/9599001.net/]tls://dns.google:853
-[/95991100.com/]tls://dns.google:853
 [/95991144.com/]tls://dns.google:853
 [/95992222b.com/]tls://dns.google:853
 [/95992222nn.com/]tls://dns.google:853
@@ -30582,6 +30566,7 @@ https://dns.pub:443/dns-query
 [/c.c4.workers.dev/]tls://dns.google:853
 [/c.cuss.surf/]tls://dns.google:853
 [/c.htcc.us/]tls://dns.google:853
+[/c.ns02.top/]tls://dns.google:853
 [/c.ygto.com/]tls://dns.google:853
 [/c07.am/]tls://dns.google:853
 [/c07aa.com/]tls://dns.google:853
@@ -31784,7 +31769,6 @@ https://dns.pub:443/dns-query
 [/cpk1111.com/]tls://dns.google:853
 [/cpk444.com/]tls://dns.google:853
 [/cpk55.com/]tls://dns.google:853
-[/cpps.cdn-discuz.com/]tls://dns.google:853
 [/cproxyer.com/]tls://dns.google:853
 [/cpz.to/]tls://dns.google:853
 [/cq688.net/]tls://dns.google:853
