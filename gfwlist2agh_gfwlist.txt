@@ -618,7 +618,6 @@ https://dns.pub:443/dns-query
 [/316aa.net/]https://doh.opendns.com:443/dns-query
 [/316qq.net/]https://doh.opendns.com:443/dns-query
 [/3178.com/]https://doh.opendns.com:443/dns-query
-[/3178a.com/]https://doh.opendns.com:443/dns-query
 [/31999xam.com/]https://doh.opendns.com:443/dns-query
 [/32.effers.com/]https://doh.opendns.com:443/dns-query
 [/32.etowns.net/]https://doh.opendns.com:443/dns-query
@@ -717,7 +716,6 @@ https://dns.pub:443/dns-query
 [/39332.com/]https://doh.opendns.com:443/dns-query
 [/3977.tt/]https://doh.opendns.com:443/dns-query
 [/39772019.com/]https://doh.opendns.com:443/dns-query
-[/39772020.com/]https://doh.opendns.com:443/dns-query
 [/39879.com/]https://doh.opendns.com:443/dns-query
 [/39898.com/]https://doh.opendns.com:443/dns-query
 [/399699.com/]https://doh.opendns.com:443/dns-query
@@ -26473,7 +26471,6 @@ https://dns.pub:443/dns-query
 [/316aa.net/]tls://dns.google:853
 [/316qq.net/]tls://dns.google:853
 [/3178.com/]tls://dns.google:853
-[/3178a.com/]tls://dns.google:853
 [/31999xam.com/]tls://dns.google:853
 [/32.effers.com/]tls://dns.google:853
 [/32.etowns.net/]tls://dns.google:853
@@ -26572,7 +26569,6 @@ https://dns.pub:443/dns-query
 [/39332.com/]tls://dns.google:853
 [/3977.tt/]tls://dns.google:853
 [/39772019.com/]tls://dns.google:853
-[/39772020.com/]tls://dns.google:853
 [/39879.com/]tls://dns.google:853
 [/39898.com/]tls://dns.google:853
 [/399699.com/]tls://dns.google:853
