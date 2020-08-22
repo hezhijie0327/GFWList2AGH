@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.6
+# Current Version: 1.3.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -47,22 +47,40 @@ function AnalyseData() {
 }
 # Output Data
 function OutputData() {
-    upstream_dns=(
-        "https://dns.alidns.com:443/dns-query"
-        "https://dns.pub:443/dns-query"
-    )
-    for upstream_dns_task in "${!upstream_dns[@]}"; do
-        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
-        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
-        echo "${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
-        echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_cnacc.yaml
-        echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_combine.yaml
-        echo "  - ${upstream_dns[$upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.yaml
-    done
     cnacc_dns=(
         "tls://dns.alidns.com:853"
         "tls://dns.pub:853"
     )
+    combine_dns=(
+        "https://dns.alidns.com:443/dns-query"
+        "https://dns.pub:443/dns-query"
+    )
+    gfwlist_dns=(
+        "https://doh.opendns.com:443/dns-query"
+        "tls://dns.google:853"
+    )
+    for (( upstream_dns_task = 0; upstream_dns_task < 3; upstream_dns_task++ )); do
+        case ${upstream_dns_task} in
+            0)
+            for cnacc_upstream_dns_task in "${!gfwlist_dns[@]}"; do
+                echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
+                echo "  - ${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.yaml
+            done
+            ;;
+            1)
+            for combine_upstream_dns_task in "${!combine_dns[@]}"; do
+                echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
+                echo "  - ${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.yaml
+            done
+            ;;
+            2)
+            for gfwlist_upstream_dns_task in "${!cnacc_dns[@]}"; do
+                echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
+                echo "  - ${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.yaml
+            done
+            ;;
+        esac
+    done
     for cnacc_dns_task in "${!cnacc_dns[@]}"; do
         for cnacc_data_task in "${!cnacc_data[@]}"; do
             echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
@@ -71,10 +89,6 @@ function OutputData() {
             echo "  - '[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_combine.yaml
         done
     done
-    gfwlist_dns=(
-        "https://doh.opendns.com:443/dns-query"
-        "tls://dns.google:853"
-    )
     for gfwlist_dns_task in "${!gfwlist_dns[@]}"; do
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
             echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
