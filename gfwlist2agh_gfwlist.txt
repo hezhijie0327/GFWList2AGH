@@ -355,6 +355,7 @@ tls://dns.pub:853
 [/1drv.ms/]https://doh.opendns.com:443/dns-query
 [/1dumb.com/]https://doh.opendns.com:443/dns-query
 [/1eew.com/]https://doh.opendns.com:443/dns-query
+[/1fangmtv.com/]https://doh.opendns.com:443/dns-query
 [/1kan.com/]https://doh.opendns.com:443/dns-query
 [/1kapp.co/]https://doh.opendns.com:443/dns-query
 [/1mobile.com/]https://doh.opendns.com:443/dns-query
@@ -764,6 +765,7 @@ tls://dns.pub:853
 [/495777.com/]https://doh.opendns.com:443/dns-query
 [/49oa3o49b6.com/]https://doh.opendns.com:443/dns-query
 [/4afcp.com/]https://doh.opendns.com:443/dns-query
+[/4amgj.com/]https://doh.opendns.com:443/dns-query
 [/4bluestones.biz/]https://doh.opendns.com:443/dns-query
 [/4cdn.org/]https://doh.opendns.com:443/dns-query
 [/4chan.com/]https://doh.opendns.com:443/dns-query
@@ -1138,7 +1140,6 @@ tls://dns.pub:853
 [/7817a8.com/]https://doh.opendns.com:443/dns-query
 [/7855578.com/]https://doh.opendns.com:443/dns-query
 [/78929.com/]https://doh.opendns.com:443/dns-query
-[/78929a.com/]https://doh.opendns.com:443/dns-query
 [/789666365.com/]https://doh.opendns.com:443/dns-query
 [/78ems.com/]https://doh.opendns.com:443/dns-query
 [/78pat.com/]https://doh.opendns.com:443/dns-query
@@ -3557,7 +3558,6 @@ tls://dns.pub:853
 [/c.ygto.com/]https://doh.opendns.com:443/dns-query
 [/c07.am/]https://doh.opendns.com:443/dns-query
 [/c07aa.com/]https://doh.opendns.com:443/dns-query
-[/c07rr.com/]https://doh.opendns.com:443/dns-query
 [/c0909.com/]https://doh.opendns.com:443/dns-query
 [/c1008.com/]https://doh.opendns.com:443/dns-query
 [/c100tibet.org/]https://doh.opendns.com:443/dns-query
@@ -20947,6 +20947,7 @@ tls://dns.pub:853
 [/1drv.ms/]tls://dns.google:853
 [/1dumb.com/]tls://dns.google:853
 [/1eew.com/]tls://dns.google:853
+[/1fangmtv.com/]tls://dns.google:853
 [/1kan.com/]tls://dns.google:853
 [/1kapp.co/]tls://dns.google:853
 [/1mobile.com/]tls://dns.google:853
@@ -21356,6 +21357,7 @@ tls://dns.pub:853
 [/495777.com/]tls://dns.google:853
 [/49oa3o49b6.com/]tls://dns.google:853
 [/4afcp.com/]tls://dns.google:853
+[/4amgj.com/]tls://dns.google:853
 [/4bluestones.biz/]tls://dns.google:853
 [/4cdn.org/]tls://dns.google:853
 [/4chan.com/]tls://dns.google:853
@@ -21730,7 +21732,6 @@ tls://dns.pub:853
 [/7817a8.com/]tls://dns.google:853
 [/7855578.com/]tls://dns.google:853
 [/78929.com/]tls://dns.google:853
-[/78929a.com/]tls://dns.google:853
 [/789666365.com/]tls://dns.google:853
 [/78ems.com/]tls://dns.google:853
 [/78pat.com/]tls://dns.google:853
@@ -24149,7 +24150,6 @@ tls://dns.pub:853
 [/c.ygto.com/]tls://dns.google:853
 [/c07.am/]tls://dns.google:853
 [/c07aa.com/]tls://dns.google:853
-[/c07rr.com/]tls://dns.google:853
 [/c0909.com/]tls://dns.google:853
 [/c1008.com/]tls://dns.google:853
 [/c100tibet.org/]tls://dns.google:853
