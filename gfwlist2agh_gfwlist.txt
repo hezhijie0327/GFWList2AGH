@@ -166,7 +166,6 @@ tls://dns.pub:853
 [/110447.com/]https://doh.opendns.com:443/dns-query
 [/111222vip.com/]https://doh.opendns.com:443/dns-query
 [/1115168.com/]https://doh.opendns.com:443/dns-query
-[/1119702.com/]https://doh.opendns.com:443/dns-query
 [/111rch.club/]https://doh.opendns.com:443/dns-query
 [/112.b0ne.com/]https://doh.opendns.com:443/dns-query
 [/112.net/]https://doh.opendns.com:443/dns-query
@@ -3547,6 +3546,7 @@ tls://dns.pub:853
 [/bypass.pw/]https://doh.opendns.com:443/dns-query
 [/bypasskey.com/]https://doh.opendns.com:443/dns-query
 [/byt020.com/]https://doh.opendns.com:443/dns-query
+[/byt707.com/]https://doh.opendns.com:443/dns-query
 [/byt909.com/]https://doh.opendns.com:443/dns-query
 [/c-est-simple.com/]https://doh.opendns.com:443/dns-query
 [/c-span.org/]https://doh.opendns.com:443/dns-query
@@ -3555,6 +3555,7 @@ tls://dns.pub:853
 [/c.c4.workers.dev/]https://doh.opendns.com:443/dns-query
 [/c.cuss.surf/]https://doh.opendns.com:443/dns-query
 [/c.htcc.us/]https://doh.opendns.com:443/dns-query
+[/c.ns02.top/]https://doh.opendns.com:443/dns-query
 [/c.ygto.com/]https://doh.opendns.com:443/dns-query
 [/c07.am/]https://doh.opendns.com:443/dns-query
 [/c07aa.com/]https://doh.opendns.com:443/dns-query
@@ -20759,7 +20760,6 @@ tls://dns.pub:853
 [/110447.com/]tls://dns.google:853
 [/111222vip.com/]tls://dns.google:853
 [/1115168.com/]tls://dns.google:853
-[/1119702.com/]tls://dns.google:853
 [/111rch.club/]tls://dns.google:853
 [/112.b0ne.com/]tls://dns.google:853
 [/112.net/]tls://dns.google:853
@@ -24140,6 +24140,7 @@ tls://dns.pub:853
 [/bypass.pw/]tls://dns.google:853
 [/bypasskey.com/]tls://dns.google:853
 [/byt020.com/]tls://dns.google:853
+[/byt707.com/]tls://dns.google:853
 [/byt909.com/]tls://dns.google:853
 [/c-est-simple.com/]tls://dns.google:853
 [/c-span.org/]tls://dns.google:853
@@ -24148,6 +24149,7 @@ tls://dns.pub:853
 [/c.c4.workers.dev/]tls://dns.google:853
 [/c.cuss.surf/]tls://dns.google:853
 [/c.htcc.us/]tls://dns.google:853
+[/c.ns02.top/]tls://dns.google:853
 [/c.ygto.com/]tls://dns.google:853
 [/c07.am/]tls://dns.google:853
 [/c07aa.com/]tls://dns.google:853
