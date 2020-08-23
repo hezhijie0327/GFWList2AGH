@@ -834,6 +834,7 @@ tls://dns.pub:853
 [/52hy11.com/]https://doh.opendns.com:443/dns-query
 [/52jav.com/]https://doh.opendns.com:443/dns-query
 [/52kjwang.com/]https://doh.opendns.com:443/dns-query
+[/52ssr.cn/]https://doh.opendns.com:443/dns-query
 [/52ull.com/]https://doh.opendns.com:443/dns-query
 [/52xr.net/]https://doh.opendns.com:443/dns-query
 [/52xtv.net/]https://doh.opendns.com:443/dns-query
@@ -3555,7 +3556,6 @@ tls://dns.pub:853
 [/c.c4.workers.dev/]https://doh.opendns.com:443/dns-query
 [/c.cuss.surf/]https://doh.opendns.com:443/dns-query
 [/c.htcc.us/]https://doh.opendns.com:443/dns-query
-[/c.ns02.top/]https://doh.opendns.com:443/dns-query
 [/c.ygto.com/]https://doh.opendns.com:443/dns-query
 [/c07.am/]https://doh.opendns.com:443/dns-query
 [/c07aa.com/]https://doh.opendns.com:443/dns-query
@@ -21428,6 +21428,7 @@ tls://dns.pub:853
 [/52hy11.com/]tls://dns.google:853
 [/52jav.com/]tls://dns.google:853
 [/52kjwang.com/]tls://dns.google:853
+[/52ssr.cn/]tls://dns.google:853
 [/52ull.com/]tls://dns.google:853
 [/52xr.net/]tls://dns.google:853
 [/52xtv.net/]tls://dns.google:853
@@ -24149,7 +24150,6 @@ tls://dns.pub:853
 [/c.c4.workers.dev/]tls://dns.google:853
 [/c.cuss.surf/]tls://dns.google:853
 [/c.htcc.us/]tls://dns.google:853
-[/c.ns02.top/]tls://dns.google:853
 [/c.ygto.com/]tls://dns.google:853
 [/c07.am/]tls://dns.google:853
 [/c07aa.com/]tls://dns.google:853
