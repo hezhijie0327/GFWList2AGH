@@ -908,6 +908,7 @@ tls://dns.pub:853
 [/59136c.com/]https://doh.opendns.com:443/dns-query
 [/599499.com/]https://doh.opendns.com:443/dns-query
 [/5afcp.com/]https://doh.opendns.com:443/dns-query
+[/5amgj.com/]https://doh.opendns.com:443/dns-query
 [/5best1.com/]https://doh.opendns.com:443/dns-query
 [/5i01.com/]https://doh.opendns.com:443/dns-query
 [/5idd.us/]https://doh.opendns.com:443/dns-query
@@ -3822,7 +3823,6 @@ tls://dns.pub:853
 [/cc1505.com/]https://doh.opendns.com:443/dns-query
 [/cc18.tv/]https://doh.opendns.com:443/dns-query
 [/cc18tv.com/]https://doh.opendns.com:443/dns-query
-[/cc95666666.com/]https://doh.opendns.com:443/dns-query
 [/cca45.com/]https://doh.opendns.com:443/dns-query
 [/ccache.org/]https://doh.opendns.com:443/dns-query
 [/ccavgirl.com/]https://doh.opendns.com:443/dns-query
@@ -13377,6 +13377,7 @@ tls://dns.pub:853
 [/sm5278.com/]https://doh.opendns.com:443/dns-query
 [/smart.businessweekly.com.tw/]https://doh.opendns.com:443/dns-query
 [/smartaddons.com/]https://doh.opendns.com:443/dns-query
+[/smartappsapk.com/]https://doh.opendns.com:443/dns-query
 [/smartbe.be/]https://doh.opendns.com:443/dns-query
 [/smartdnsproxy.com/]https://doh.opendns.com:443/dns-query
 [/smarthide.com/]https://doh.opendns.com:443/dns-query
@@ -16469,6 +16470,7 @@ tls://dns.pub:853
 [/www.608411.com/]https://doh.opendns.com:443/dns-query
 [/www.608c.com/]https://doh.opendns.com:443/dns-query
 [/www.62775k.com/]https://doh.opendns.com:443/dns-query
+[/www.6396c.com/]https://doh.opendns.com:443/dns-query
 [/www.6396z.com/]https://doh.opendns.com:443/dns-query
 [/www.6432a.com/]https://doh.opendns.com:443/dns-query
 [/www.6432z.com/]https://doh.opendns.com:443/dns-query
@@ -21502,6 +21504,7 @@ tls://dns.pub:853
 [/59136c.com/]tls://dns.google:853
 [/599499.com/]tls://dns.google:853
 [/5afcp.com/]tls://dns.google:853
+[/5amgj.com/]tls://dns.google:853
 [/5best1.com/]tls://dns.google:853
 [/5i01.com/]tls://dns.google:853
 [/5idd.us/]tls://dns.google:853
@@ -24416,7 +24419,6 @@ tls://dns.pub:853
 [/cc1505.com/]tls://dns.google:853
 [/cc18.tv/]tls://dns.google:853
 [/cc18tv.com/]tls://dns.google:853
-[/cc95666666.com/]tls://dns.google:853
 [/cca45.com/]tls://dns.google:853
 [/ccache.org/]tls://dns.google:853
 [/ccavgirl.com/]tls://dns.google:853
@@ -33971,6 +33973,7 @@ tls://dns.pub:853
 [/sm5278.com/]tls://dns.google:853
 [/smart.businessweekly.com.tw/]tls://dns.google:853
 [/smartaddons.com/]tls://dns.google:853
+[/smartappsapk.com/]tls://dns.google:853
 [/smartbe.be/]tls://dns.google:853
 [/smartdnsproxy.com/]tls://dns.google:853
 [/smarthide.com/]tls://dns.google:853
@@ -37063,6 +37066,7 @@ tls://dns.pub:853
 [/www.608411.com/]tls://dns.google:853
 [/www.608c.com/]tls://dns.google:853
 [/www.62775k.com/]tls://dns.google:853
+[/www.6396c.com/]tls://dns.google:853
 [/www.6396z.com/]tls://dns.google:853
 [/www.6432a.com/]tls://dns.google:853
 [/www.6432z.com/]tls://dns.google:853
