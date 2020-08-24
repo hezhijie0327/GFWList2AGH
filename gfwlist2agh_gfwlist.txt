@@ -446,7 +446,6 @@ tls://dns.pub:853
 [/2267n.com/]https://doh.opendns.com:443/dns-query
 [/2267s.com/]https://doh.opendns.com:443/dns-query
 [/226vitech.com/]https://doh.opendns.com:443/dns-query
-[/22707.mmavday.com/]https://doh.opendns.com:443/dns-query
 [/228.net.tw/]https://doh.opendns.com:443/dns-query
 [/22888hg.com/]https://doh.opendns.com:443/dns-query
 [/22911.com/]https://doh.opendns.com:443/dns-query
@@ -733,6 +732,7 @@ tls://dns.pub:853
 [/412580.com/]https://doh.opendns.com:443/dns-query
 [/4151.yzc596.com/]https://doh.opendns.com:443/dns-query
 [/4275.yzc622.com/]https://doh.opendns.com:443/dns-query
+[/42842806.com/]https://doh.opendns.com:443/dns-query
 [/42842808.com/]https://doh.opendns.com:443/dns-query
 [/42842809.com/]https://doh.opendns.com:443/dns-query
 [/42842812.com/]https://doh.opendns.com:443/dns-query
@@ -21039,7 +21039,6 @@ tls://dns.pub:853
 [/2267n.com/]tls://dns.google:853
 [/2267s.com/]tls://dns.google:853
 [/226vitech.com/]tls://dns.google:853
-[/22707.mmavday.com/]tls://dns.google:853
 [/228.net.tw/]tls://dns.google:853
 [/22888hg.com/]tls://dns.google:853
 [/22911.com/]tls://dns.google:853
@@ -21326,6 +21325,7 @@ tls://dns.pub:853
 [/412580.com/]tls://dns.google:853
 [/4151.yzc596.com/]tls://dns.google:853
 [/4275.yzc622.com/]tls://dns.google:853
+[/42842806.com/]tls://dns.google:853
 [/42842808.com/]tls://dns.google:853
 [/42842809.com/]tls://dns.google:853
 [/42842812.com/]tls://dns.google:853
