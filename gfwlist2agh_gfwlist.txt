@@ -166,6 +166,7 @@ tls://dns.pub:853
 [/110447.com/]https://doh.opendns.com:443/dns-query
 [/111222vip.com/]https://doh.opendns.com:443/dns-query
 [/1115168.com/]https://doh.opendns.com:443/dns-query
+[/1119702.com/]https://doh.opendns.com:443/dns-query
 [/111rch.club/]https://doh.opendns.com:443/dns-query
 [/112.b0ne.com/]https://doh.opendns.com:443/dns-query
 [/112.net/]https://doh.opendns.com:443/dns-query
@@ -560,6 +561,7 @@ tls://dns.pub:853
 [/2shared.com/]https://doh.opendns.com:443/dns-query
 [/2tj.com/]https://doh.opendns.com:443/dns-query
 [/2waky.com/]https://doh.opendns.com:443/dns-query
+[/2yhgj.com/]https://doh.opendns.com:443/dns-query
 [/3-a.net/]https://doh.opendns.com:443/dns-query
 [/3-ps.googleusercontent.com/]https://doh.opendns.com:443/dns-query
 [/3.0.bailandaily.com/]https://doh.opendns.com:443/dns-query
@@ -1062,6 +1064,7 @@ tls://dns.pub:853
 [/755.etowns.org/]https://doh.opendns.com:443/dns-query
 [/75522.com/]https://doh.opendns.com:443/dns-query
 [/76.effers.com/]https://doh.opendns.com:443/dns-query
+[/7652.com/]https://doh.opendns.com:443/dns-query
 [/76652200.com/]https://doh.opendns.com:443/dns-query
 [/77.4pu.com/]https://doh.opendns.com:443/dns-query
 [/771142.com/]https://doh.opendns.com:443/dns-query
@@ -1385,7 +1388,6 @@ tls://dns.pub:853
 [/942porn.com/]https://doh.opendns.com:443/dns-query
 [/9453666.com/]https://doh.opendns.com:443/dns-query
 [/949766.com/]https://doh.opendns.com:443/dns-query
-[/9499000.com/]https://doh.opendns.com:443/dns-query
 [/9499y.com/]https://doh.opendns.com:443/dns-query
 [/9499zzz.com/]https://doh.opendns.com:443/dns-query
 [/94lsj.com/]https://doh.opendns.com:443/dns-query
@@ -15006,6 +15008,7 @@ tls://dns.pub:853
 [/udomain.hk/]https://doh.opendns.com:443/dns-query
 [/uedbet.com/]https://doh.opendns.com:443/dns-query
 [/uflash.tv/]https://doh.opendns.com:443/dns-query
+[/uforadio.com.tw/]https://doh.opendns.com:443/dns-query
 [/ufosightingsdaily.com/]https://doh.opendns.com:443/dns-query
 [/ufreevpn.com/]https://doh.opendns.com:443/dns-query
 [/ufunr.net/]https://doh.opendns.com:443/dns-query
@@ -20762,6 +20765,7 @@ tls://dns.pub:853
 [/110447.com/]tls://dns.google:853
 [/111222vip.com/]tls://dns.google:853
 [/1115168.com/]tls://dns.google:853
+[/1119702.com/]tls://dns.google:853
 [/111rch.club/]tls://dns.google:853
 [/112.b0ne.com/]tls://dns.google:853
 [/112.net/]tls://dns.google:853
@@ -21156,6 +21160,7 @@ tls://dns.pub:853
 [/2shared.com/]tls://dns.google:853
 [/2tj.com/]tls://dns.google:853
 [/2waky.com/]tls://dns.google:853
+[/2yhgj.com/]tls://dns.google:853
 [/3-a.net/]tls://dns.google:853
 [/3-ps.googleusercontent.com/]tls://dns.google:853
 [/3.0.bailandaily.com/]tls://dns.google:853
@@ -21658,6 +21663,7 @@ tls://dns.pub:853
 [/755.etowns.org/]tls://dns.google:853
 [/75522.com/]tls://dns.google:853
 [/76.effers.com/]tls://dns.google:853
+[/7652.com/]tls://dns.google:853
 [/76652200.com/]tls://dns.google:853
 [/77.4pu.com/]tls://dns.google:853
 [/771142.com/]tls://dns.google:853
@@ -21981,7 +21987,6 @@ tls://dns.pub:853
 [/942porn.com/]tls://dns.google:853
 [/9453666.com/]tls://dns.google:853
 [/949766.com/]tls://dns.google:853
-[/9499000.com/]tls://dns.google:853
 [/9499y.com/]tls://dns.google:853
 [/9499zzz.com/]tls://dns.google:853
 [/94lsj.com/]tls://dns.google:853
@@ -35602,6 +35607,7 @@ tls://dns.pub:853
 [/udomain.hk/]tls://dns.google:853
 [/uedbet.com/]tls://dns.google:853
 [/uflash.tv/]tls://dns.google:853
+[/uforadio.com.tw/]tls://dns.google:853
 [/ufosightingsdaily.com/]tls://dns.google:853
 [/ufreevpn.com/]tls://dns.google:853
 [/ufunr.net/]tls://dns.google:853
