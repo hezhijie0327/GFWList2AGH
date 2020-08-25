@@ -6686,6 +6686,7 @@ tls://dns.pub:853
 [/gdl5vtbbv0lj.com/]https://doh.opendns.com:443/dns-query
 [/gdlcasino.fun7803.com/]https://doh.opendns.com:443/dns-query
 [/gdslots.lt118.com/]https://doh.opendns.com:443/dns-query
+[/gdzf.org/]https://doh.opendns.com:443/dns-query
 [/ge.flnet.org/]https://doh.opendns.com:443/dns-query
 [/geceshop.com/]https://doh.opendns.com:443/dns-query
 [/geek-art.net/]https://doh.opendns.com:443/dns-query
@@ -27287,6 +27288,7 @@ tls://dns.pub:853
 [/gdl5vtbbv0lj.com/]tls://dns.google:853
 [/gdlcasino.fun7803.com/]tls://dns.google:853
 [/gdslots.lt118.com/]tls://dns.google:853
+[/gdzf.org/]tls://dns.google:853
 [/ge.flnet.org/]tls://dns.google:853
 [/geceshop.com/]tls://dns.google:853
 [/geek-art.net/]tls://dns.google:853
