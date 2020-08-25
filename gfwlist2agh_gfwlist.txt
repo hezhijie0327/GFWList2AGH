@@ -4157,7 +4157,6 @@ tls://dns.pub:853
 [/ci88.net/]https://doh.opendns.com:443/dns-query
 [/cide.es/]https://doh.opendns.com:443/dns-query
 [/cienen.com/]https://doh.opendns.com:443/dns-query
-[/cimidi.org/]https://doh.opendns.com:443/dns-query
 [/cincodias.com/]https://doh.opendns.com:443/dns-query
 [/cineastentreff.de/]https://doh.opendns.com:443/dns-query
 [/cinemex.com/]https://doh.opendns.com:443/dns-query
@@ -18126,6 +18125,7 @@ tls://dns.pub:853
 [/www.kao-calligraphy.idv.tw/]https://doh.opendns.com:443/dns-query
 [/www.kaotic.com/]https://doh.opendns.com:443/dns-query
 [/www.karmapa.org/]https://doh.opendns.com:443/dns-query
+[/www.kaspersky.com/]https://doh.opendns.com:443/dns-query
 [/www.kaze-travel.co.jp/]https://doh.opendns.com:443/dns-query
 [/www.kbro.com.tw/]https://doh.opendns.com:443/dns-query
 [/www.kcai226.com/]https://doh.opendns.com:443/dns-query
@@ -24756,7 +24756,6 @@ tls://dns.pub:853
 [/ci88.net/]tls://dns.google:853
 [/cide.es/]tls://dns.google:853
 [/cienen.com/]tls://dns.google:853
-[/cimidi.org/]tls://dns.google:853
 [/cincodias.com/]tls://dns.google:853
 [/cineastentreff.de/]tls://dns.google:853
 [/cinemex.com/]tls://dns.google:853
@@ -38725,6 +38724,7 @@ tls://dns.pub:853
 [/www.kao-calligraphy.idv.tw/]tls://dns.google:853
 [/www.kaotic.com/]tls://dns.google:853
 [/www.karmapa.org/]tls://dns.google:853
+[/www.kaspersky.com/]tls://dns.google:853
 [/www.kaze-travel.co.jp/]tls://dns.google:853
 [/www.kbro.com.tw/]tls://dns.google:853
 [/www.kcai226.com/]tls://dns.google:853
