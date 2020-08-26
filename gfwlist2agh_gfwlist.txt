@@ -1433,6 +1433,7 @@ tls://dns.alidns.com:853
 [/9566849.com/]https://doh.opendns.com:443/dns-query
 [/9566956.com/]https://doh.opendns.com:443/dns-query
 [/9599001.net/]https://doh.opendns.com:443/dns-query
+[/95991100.com/]https://doh.opendns.com:443/dns-query
 [/95992222b.com/]https://doh.opendns.com:443/dns-query
 [/95992222nn.com/]https://doh.opendns.com:443/dns-query
 [/95993333.cc/]https://doh.opendns.com:443/dns-query
@@ -27689,6 +27690,7 @@ tls://dns.alidns.com:853
 [/9566849.com/]tls://dns.google:853
 [/9566956.com/]tls://dns.google:853
 [/9599001.net/]tls://dns.google:853
+[/95991100.com/]tls://dns.google:853
 [/95992222b.com/]tls://dns.google:853
 [/95992222nn.com/]tls://dns.google:853
 [/95993333.cc/]tls://dns.google:853
