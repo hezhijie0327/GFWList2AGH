@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.9
+# Current Version: 1.4.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -51,7 +51,7 @@ function AnalyseData() {
 function OutputData() {
     cnacc_dns=(
         "https://dns.pub:443/dns-query"
-        "tls://dns.pub:853"
+        "tls://dns.alidns.com:853"
     )
     combine_dns=(
         "https://dns.alidns.com:443/dns-query"
