@@ -3845,7 +3845,6 @@ tls://dns.alidns.com:853
 [/bjl0520.com/]https://doh.opendns.com:443/dns-query
 [/bjl11.com/]https://doh.opendns.com:443/dns-query
 [/bjl1588.com/]https://doh.opendns.com:443/dns-query
-[/bjl2799.com/]https://doh.opendns.com:443/dns-query
 [/bjl5.com/]https://doh.opendns.com:443/dns-query
 [/bjl7520.com/]https://doh.opendns.com:443/dns-query
 [/bjl8567.com/]https://doh.opendns.com:443/dns-query
@@ -15242,6 +15241,7 @@ tls://dns.alidns.com:853
 [/ogp.me/]https://doh.opendns.com:443/dns-query
 [/ohara.cl/]https://doh.opendns.com:443/dns-query
 [/ohayoutube.com/]https://doh.opendns.com:443/dns-query
+[/ohcam.net/]https://doh.opendns.com:443/dns-query
 [/ohhfuck.me/]https://doh.opendns.com:443/dns-query
 [/ohiofreenet.org/]https://doh.opendns.com:443/dns-query
 [/oho.slyip.net/]https://doh.opendns.com:443/dns-query
@@ -18633,6 +18633,7 @@ tls://dns.alidns.com:853
 [/stunnel.org/]https://doh.opendns.com:443/dns-query
 [/stupidbeauty.com/]https://doh.opendns.com:443/dns-query
 [/stupidvideos.com/]https://doh.opendns.com:443/dns-query
+[/stweetly.com/]https://doh.opendns.com:443/dns-query
 [/stxmosquito.com/]https://doh.opendns.com:443/dns-query
 [/stxmosquitoproject.com/]https://doh.opendns.com:443/dns-query
 [/stxmosquitoproject.net/]https://doh.opendns.com:443/dns-query
@@ -30103,7 +30104,6 @@ tls://dns.alidns.com:853
 [/bjl0520.com/]tls://dns.google:853
 [/bjl11.com/]tls://dns.google:853
 [/bjl1588.com/]tls://dns.google:853
-[/bjl2799.com/]tls://dns.google:853
 [/bjl5.com/]tls://dns.google:853
 [/bjl7520.com/]tls://dns.google:853
 [/bjl8567.com/]tls://dns.google:853
@@ -41500,6 +41500,7 @@ tls://dns.alidns.com:853
 [/ogp.me/]tls://dns.google:853
 [/ohara.cl/]tls://dns.google:853
 [/ohayoutube.com/]tls://dns.google:853
+[/ohcam.net/]tls://dns.google:853
 [/ohhfuck.me/]tls://dns.google:853
 [/ohiofreenet.org/]tls://dns.google:853
 [/oho.slyip.net/]tls://dns.google:853
@@ -44891,6 +44892,7 @@ tls://dns.alidns.com:853
 [/stunnel.org/]tls://dns.google:853
 [/stupidbeauty.com/]tls://dns.google:853
 [/stupidvideos.com/]tls://dns.google:853
+[/stweetly.com/]tls://dns.google:853
 [/stxmosquito.com/]tls://dns.google:853
 [/stxmosquitoproject.com/]tls://dns.google:853
 [/stxmosquitoproject.net/]tls://dns.google:853
