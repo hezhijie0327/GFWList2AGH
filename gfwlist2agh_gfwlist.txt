@@ -1613,6 +1613,7 @@ tls://dns.alidns.com:853
 [/aa1801.webnode.tw/]https://doh.opendns.com:443/dns-query
 [/aa1802.com/]https://doh.opendns.com:443/dns-query
 [/aa1884.com/]https://doh.opendns.com:443/dns-query
+[/aa2211.com/]https://doh.opendns.com:443/dns-query
 [/aa228.net/]https://doh.opendns.com:443/dns-query
 [/aa6789.com/]https://doh.opendns.com:443/dns-query
 [/aa757.net/]https://doh.opendns.com:443/dns-query
@@ -6764,7 +6765,6 @@ tls://dns.alidns.com:853
 [/dnsshop.xyz/]https://doh.opendns.com:443/dns-query
 [/dnssite.xyz/]https://doh.opendns.com:443/dns-query
 [/dnstool.xyz/]https://doh.opendns.com:443/dns-query
-[/dnsvisa.com/]https://doh.opendns.com:443/dns-query
 [/dnt.twimg.com/]https://doh.opendns.com:443/dns-query
 [/dnvod.tv/]https://doh.opendns.com:443/dns-query
 [/dny555.com/]https://doh.opendns.com:443/dns-query
@@ -7295,7 +7295,6 @@ tls://dns.alidns.com:853
 [/ebaysocial.com/]https://doh.opendns.com:443/dns-query
 [/ebaysoho.com/]https://doh.opendns.com:443/dns-query
 [/ebaysohos.com/]https://doh.opendns.com:443/dns-query
-[/ebaystore.com/]https://doh.opendns.com:443/dns-query
 [/ebaystore77.com/]https://doh.opendns.com:443/dns-query
 [/ebaystyle.com/]https://doh.opendns.com:443/dns-query
 [/ebaysweden.com/]https://doh.opendns.com:443/dns-query
@@ -10529,7 +10528,6 @@ tls://dns.alidns.com:853
 [/home.sina.com/]https://doh.opendns.com:443/dns-query
 [/home.so-net.net.tw/]https://doh.opendns.com:443/dns-query
 [/homecine.be/]https://doh.opendns.com:443/dns-query
-[/homedepot-static.com/]https://doh.opendns.com:443/dns-query
 [/homedepot.com/]https://doh.opendns.com:443/dns-query
 [/homeip.net/]https://doh.opendns.com:443/dns-query
 [/homemademoviez.com/]https://doh.opendns.com:443/dns-query
@@ -13591,7 +13589,6 @@ tls://dns.alidns.com:853
 [/mgstage.com/]https://doh.opendns.com:443/dns-query
 [/mh23.cf/]https://doh.opendns.com:443/dns-query
 [/mhradio.org/]https://doh.opendns.com:443/dns-query
-[/mhshosting.com/]https://doh.opendns.com:443/dns-query
 [/mhub.dafapoker.com/]https://doh.opendns.com:443/dns-query
 [/mi513.com/]https://doh.opendns.com:443/dns-query
 [/mi550.com/]https://doh.opendns.com:443/dns-query
@@ -17908,9 +17905,7 @@ tls://dns.alidns.com:853
 [/shopibay.net/]https://doh.opendns.com:443/dns-query
 [/shopify.com/]https://doh.opendns.com:443/dns-query
 [/shopify.dev/]https://doh.opendns.com:443/dns-query
-[/shopifycdn.com/]https://doh.opendns.com:443/dns-query
 [/shopifystatus.com/]https://doh.opendns.com:443/dns-query
-[/shoping.com/]https://doh.opendns.com:443/dns-query
 [/shoplineimg.com/]https://doh.opendns.com:443/dns-query
 [/shopminiusa.com/]https://doh.opendns.com:443/dns-query
 [/shopmonsterbeats.com/]https://doh.opendns.com:443/dns-query
@@ -20309,7 +20304,6 @@ tls://dns.alidns.com:853
 [/user-images.githubusercontent.com/]https://doh.opendns.com:443/dns-query
 [/userapi.com/]https://doh.opendns.com:443/dns-query
 [/usercenter.firemon.com/]https://doh.opendns.com:443/dns-query
-[/usercontent.dev/]https://doh.opendns.com:443/dns-query
 [/userproxy.com/]https://doh.opendns.com:443/dns-query
 [/userpxt.io/]https://doh.opendns.com:443/dns-query
 [/users.skynet.be/]https://doh.opendns.com:443/dns-query
@@ -20740,7 +20734,6 @@ tls://dns.alidns.com:853
 [/vk.link/]https://doh.opendns.com:443/dns-query
 [/vk.me/]https://doh.opendns.com:443/dns-query
 [/vk4fjam.geckogreen.org/]https://doh.opendns.com:443/dns-query
-[/vkcache.com/]https://doh.opendns.com:443/dns-query
 [/vkgo.app/]https://doh.opendns.com:443/dns-query
 [/vklive.app/]https://doh.opendns.com:443/dns-query
 [/vkmessenger.app/]https://doh.opendns.com:443/dns-query
@@ -27879,6 +27872,7 @@ tls://dns.alidns.com:853
 [/aa1801.webnode.tw/]tls://dns.google:853
 [/aa1802.com/]tls://dns.google:853
 [/aa1884.com/]tls://dns.google:853
+[/aa2211.com/]tls://dns.google:853
 [/aa228.net/]tls://dns.google:853
 [/aa6789.com/]tls://dns.google:853
 [/aa757.net/]tls://dns.google:853
@@ -33030,7 +33024,6 @@ tls://dns.alidns.com:853
 [/dnsshop.xyz/]tls://dns.google:853
 [/dnssite.xyz/]tls://dns.google:853
 [/dnstool.xyz/]tls://dns.google:853
-[/dnsvisa.com/]tls://dns.google:853
 [/dnt.twimg.com/]tls://dns.google:853
 [/dnvod.tv/]tls://dns.google:853
 [/dny555.com/]tls://dns.google:853
@@ -33561,7 +33554,6 @@ tls://dns.alidns.com:853
 [/ebaysocial.com/]tls://dns.google:853
 [/ebaysoho.com/]tls://dns.google:853
 [/ebaysohos.com/]tls://dns.google:853
-[/ebaystore.com/]tls://dns.google:853
 [/ebaystore77.com/]tls://dns.google:853
 [/ebaystyle.com/]tls://dns.google:853
 [/ebaysweden.com/]tls://dns.google:853
@@ -36795,7 +36787,6 @@ tls://dns.alidns.com:853
 [/home.sina.com/]tls://dns.google:853
 [/home.so-net.net.tw/]tls://dns.google:853
 [/homecine.be/]tls://dns.google:853
-[/homedepot-static.com/]tls://dns.google:853
 [/homedepot.com/]tls://dns.google:853
 [/homeip.net/]tls://dns.google:853
 [/homemademoviez.com/]tls://dns.google:853
@@ -39857,7 +39848,6 @@ tls://dns.alidns.com:853
 [/mgstage.com/]tls://dns.google:853
 [/mh23.cf/]tls://dns.google:853
 [/mhradio.org/]tls://dns.google:853
-[/mhshosting.com/]tls://dns.google:853
 [/mhub.dafapoker.com/]tls://dns.google:853
 [/mi513.com/]tls://dns.google:853
 [/mi550.com/]tls://dns.google:853
@@ -44174,9 +44164,7 @@ tls://dns.alidns.com:853
 [/shopibay.net/]tls://dns.google:853
 [/shopify.com/]tls://dns.google:853
 [/shopify.dev/]tls://dns.google:853
-[/shopifycdn.com/]tls://dns.google:853
 [/shopifystatus.com/]tls://dns.google:853
-[/shoping.com/]tls://dns.google:853
 [/shoplineimg.com/]tls://dns.google:853
 [/shopminiusa.com/]tls://dns.google:853
 [/shopmonsterbeats.com/]tls://dns.google:853
@@ -46575,7 +46563,6 @@ tls://dns.alidns.com:853
 [/user-images.githubusercontent.com/]tls://dns.google:853
 [/userapi.com/]tls://dns.google:853
 [/usercenter.firemon.com/]tls://dns.google:853
-[/usercontent.dev/]tls://dns.google:853
 [/userproxy.com/]tls://dns.google:853
 [/userpxt.io/]tls://dns.google:853
 [/users.skynet.be/]tls://dns.google:853
@@ -47006,7 +46993,6 @@ tls://dns.alidns.com:853
 [/vk.link/]tls://dns.google:853
 [/vk.me/]tls://dns.google:853
 [/vk4fjam.geckogreen.org/]tls://dns.google:853
-[/vkcache.com/]tls://dns.google:853
 [/vkgo.app/]tls://dns.google:853
 [/vklive.app/]tls://dns.google:853
 [/vkmessenger.app/]tls://dns.google:853
