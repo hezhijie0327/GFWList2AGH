@@ -1436,6 +1436,7 @@ tls://dns.alidns.com:853
 [/95991100.com/]https://doh.opendns.com:443/dns-query
 [/95992222b.com/]https://doh.opendns.com:443/dns-query
 [/95992222nn.com/]https://doh.opendns.com:443/dns-query
+[/95992266.com/]https://doh.opendns.com:443/dns-query
 [/95993333.cc/]https://doh.opendns.com:443/dns-query
 [/95996611.com/]https://doh.opendns.com:443/dns-query
 [/9599888.cc/]https://doh.opendns.com:443/dns-query
@@ -6978,6 +6979,7 @@ tls://dns.alidns.com:853
 [/droplr.com/]https://doh.opendns.com:443/dns-query
 [/droupnir.com/]https://doh.opendns.com:443/dns-query
 [/drpex.com/]https://doh.opendns.com:443/dns-query
+[/drsunacademy.com/]https://doh.opendns.com:443/dns-query
 [/drtuber.com/]https://doh.opendns.com:443/dns-query
 [/drvhub.net/]https://doh.opendns.com:443/dns-query
 [/ds.dns2.us/]https://doh.opendns.com:443/dns-query
@@ -18963,6 +18965,7 @@ tls://dns.alidns.com:853
 [/tb2.net/]https://doh.opendns.com:443/dns-query
 [/tb555.com/]https://doh.opendns.com:443/dns-query
 [/tb6601.cc/]https://doh.opendns.com:443/dns-query
+[/tb6601.com/]https://doh.opendns.com:443/dns-query
 [/tb6605.com/]https://doh.opendns.com:443/dns-query
 [/tb6606.com/]https://doh.opendns.com:443/dns-query
 [/tb771.com/]https://doh.opendns.com:443/dns-query
@@ -27694,6 +27697,7 @@ tls://dns.alidns.com:853
 [/95991100.com/]tls://dns.google:853
 [/95992222b.com/]tls://dns.google:853
 [/95992222nn.com/]tls://dns.google:853
+[/95992266.com/]tls://dns.google:853
 [/95993333.cc/]tls://dns.google:853
 [/95996611.com/]tls://dns.google:853
 [/9599888.cc/]tls://dns.google:853
@@ -33236,6 +33240,7 @@ tls://dns.alidns.com:853
 [/droplr.com/]tls://dns.google:853
 [/droupnir.com/]tls://dns.google:853
 [/drpex.com/]tls://dns.google:853
+[/drsunacademy.com/]tls://dns.google:853
 [/drtuber.com/]tls://dns.google:853
 [/drvhub.net/]tls://dns.google:853
 [/ds.dns2.us/]tls://dns.google:853
@@ -45221,6 +45226,7 @@ tls://dns.alidns.com:853
 [/tb2.net/]tls://dns.google:853
 [/tb555.com/]tls://dns.google:853
 [/tb6601.cc/]tls://dns.google:853
+[/tb6601.com/]tls://dns.google:853
 [/tb6605.com/]tls://dns.google:853
 [/tb6606.com/]tls://dns.google:853
 [/tb771.com/]tls://dns.google:853
