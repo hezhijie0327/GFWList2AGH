@@ -1242,7 +1242,6 @@ tls://dns.alidns.com:853
 [/828681.com/]https://doh.opendns.com:443/dns-query
 [/828689.com/]https://doh.opendns.com:443/dns-query
 [/828698.com/]https://doh.opendns.com:443/dns-query
-[/828758.com/]https://doh.opendns.com:443/dns-query
 [/828968.com/]https://doh.opendns.com:443/dns-query
 [/829.flnet.org/]https://doh.opendns.com:443/dns-query
 [/829882.com/]https://doh.opendns.com:443/dns-query
@@ -1930,7 +1929,6 @@ tls://dns.alidns.com:853
 [/airtunes.net/]https://doh.opendns.com:443/dns-query
 [/airvpn.org/]https://doh.opendns.com:443/dns-query
 [/airwatchexpress.com/]https://doh.opendns.com:443/dns-query
-[/airwatchqa.com/]https://doh.opendns.com:443/dns-query
 [/airwick.be/]https://doh.opendns.com:443/dns-query
 [/airwick.ch/]https://doh.opendns.com:443/dns-query
 [/airwick.com/]https://doh.opendns.com:443/dns-query
@@ -3833,7 +3831,6 @@ tls://dns.alidns.com:853
 [/bitly.is/]https://doh.opendns.com:443/dns-query
 [/bitmex.com/]https://doh.opendns.com:443/dns-query
 [/bitnami.com/]https://doh.opendns.com:443/dns-query
-[/bitnamiapp.com/]https://doh.opendns.com:443/dns-query
 [/bitnamistudio.com/]https://doh.opendns.com:443/dns-query
 [/bitquick.co/]https://doh.opendns.com:443/dns-query
 [/bitsnoop.com/]https://doh.opendns.com:443/dns-query
@@ -6007,7 +6004,6 @@ tls://dns.alidns.com:853
 [/crikey.com.au/]https://doh.opendns.com:443/dns-query
 [/crisisresponse.google/]https://doh.opendns.com:443/dns-query
 [/cristyli.com/]https://doh.opendns.com:443/dns-query
-[/crit-staging.com/]https://doh.opendns.com:443/dns-query
 [/crittercism.com/]https://doh.opendns.com:443/dns-query
 [/crocotube.com/]https://doh.opendns.com:443/dns-query
 [/cronica.com.mx/]https://doh.opendns.com:443/dns-query
@@ -18463,7 +18459,6 @@ tls://dns.alidns.com:853
 [/ssa.gov/]https://doh.opendns.com:443/dns-query
 [/ssarea.com/]https://doh.opendns.com:443/dns-query
 [/ssd.jpl.nasa.gov/]https://doh.opendns.com:443/dns-query
-[/ssdevrd.com/]https://doh.opendns.com:443/dns-query
 [/ssglobal.co/]https://doh.opendns.com:443/dns-query
 [/ssglobal.me/]https://doh.opendns.com:443/dns-query
 [/ssh91.com/]https://doh.opendns.com:443/dns-query
@@ -20818,15 +20813,12 @@ tls://dns.alidns.com:853
 [/vmwaredemandcenter.com/]https://doh.opendns.com:443/dns-query
 [/vmwareemeablog.com/]https://doh.opendns.com:443/dns-query
 [/vmwaregrid.com/]https://doh.opendns.com:443/dns-query
-[/vmwarehorizon.com/]https://doh.opendns.com:443/dns-query
 [/vmwareidentity.com/]https://doh.opendns.com:443/dns-query
 [/vmwarelearning.com/]https://doh.opendns.com:443/dns-query
 [/vmwarelearningplatform.com/]https://doh.opendns.com:443/dns-query
 [/vmwarestuff.com/]https://doh.opendns.com:443/dns-query
 [/vmwareusergroupstore.com/]https://doh.opendns.com:443/dns-query
 [/vmwareviewpoint.com/]https://doh.opendns.com:443/dns-query
-[/vmwarevmc.com/]https://doh.opendns.com:443/dns-query
-[/vmwdemo.com/]https://doh.opendns.com:443/dns-query
 [/vmwgcomms.com/]https://doh.opendns.com:443/dns-query
 [/vmwhorizonair.com/]https://doh.opendns.com:443/dns-query
 [/vmwidm-ads.com/]https://doh.opendns.com:443/dns-query
@@ -20837,7 +20829,6 @@ tls://dns.alidns.com:853
 [/vmworld2010.com/]https://doh.opendns.com:443/dns-query
 [/vmworld2013.com/]https://doh.opendns.com:443/dns-query
 [/vmwsalesrewards.com/]https://doh.opendns.com:443/dns-query
-[/vmwservices.com/]https://doh.opendns.com:443/dns-query
 [/vn.hao123.com/]https://doh.opendns.com:443/dns-query
 [/vn0765.com/]https://doh.opendns.com:443/dns-query
 [/vn3389.com/]https://doh.opendns.com:443/dns-query
@@ -27604,7 +27595,6 @@ tls://dns.alidns.com:853
 [/828681.com/]tls://dns.google:853
 [/828689.com/]tls://dns.google:853
 [/828698.com/]tls://dns.google:853
-[/828758.com/]tls://dns.google:853
 [/828968.com/]tls://dns.google:853
 [/829.flnet.org/]tls://dns.google:853
 [/829882.com/]tls://dns.google:853
@@ -28292,7 +28282,6 @@ tls://dns.alidns.com:853
 [/airtunes.net/]tls://dns.google:853
 [/airvpn.org/]tls://dns.google:853
 [/airwatchexpress.com/]tls://dns.google:853
-[/airwatchqa.com/]tls://dns.google:853
 [/airwick.be/]tls://dns.google:853
 [/airwick.ch/]tls://dns.google:853
 [/airwick.com/]tls://dns.google:853
@@ -30195,7 +30184,6 @@ tls://dns.alidns.com:853
 [/bitly.is/]tls://dns.google:853
 [/bitmex.com/]tls://dns.google:853
 [/bitnami.com/]tls://dns.google:853
-[/bitnamiapp.com/]tls://dns.google:853
 [/bitnamistudio.com/]tls://dns.google:853
 [/bitquick.co/]tls://dns.google:853
 [/bitsnoop.com/]tls://dns.google:853
@@ -32369,7 +32357,6 @@ tls://dns.alidns.com:853
 [/crikey.com.au/]tls://dns.google:853
 [/crisisresponse.google/]tls://dns.google:853
 [/cristyli.com/]tls://dns.google:853
-[/crit-staging.com/]tls://dns.google:853
 [/crittercism.com/]tls://dns.google:853
 [/crocotube.com/]tls://dns.google:853
 [/cronica.com.mx/]tls://dns.google:853
@@ -44825,7 +44812,6 @@ tls://dns.alidns.com:853
 [/ssa.gov/]tls://dns.google:853
 [/ssarea.com/]tls://dns.google:853
 [/ssd.jpl.nasa.gov/]tls://dns.google:853
-[/ssdevrd.com/]tls://dns.google:853
 [/ssglobal.co/]tls://dns.google:853
 [/ssglobal.me/]tls://dns.google:853
 [/ssh91.com/]tls://dns.google:853
@@ -47180,15 +47166,12 @@ tls://dns.alidns.com:853
 [/vmwaredemandcenter.com/]tls://dns.google:853
 [/vmwareemeablog.com/]tls://dns.google:853
 [/vmwaregrid.com/]tls://dns.google:853
-[/vmwarehorizon.com/]tls://dns.google:853
 [/vmwareidentity.com/]tls://dns.google:853
 [/vmwarelearning.com/]tls://dns.google:853
 [/vmwarelearningplatform.com/]tls://dns.google:853
 [/vmwarestuff.com/]tls://dns.google:853
 [/vmwareusergroupstore.com/]tls://dns.google:853
 [/vmwareviewpoint.com/]tls://dns.google:853
-[/vmwarevmc.com/]tls://dns.google:853
-[/vmwdemo.com/]tls://dns.google:853
 [/vmwgcomms.com/]tls://dns.google:853
 [/vmwhorizonair.com/]tls://dns.google:853
 [/vmwidm-ads.com/]tls://dns.google:853
@@ -47199,7 +47182,6 @@ tls://dns.alidns.com:853
 [/vmworld2010.com/]tls://dns.google:853
 [/vmworld2013.com/]tls://dns.google:853
 [/vmwsalesrewards.com/]tls://dns.google:853
-[/vmwservices.com/]tls://dns.google:853
 [/vn.hao123.com/]tls://dns.google:853
 [/vn0765.com/]tls://dns.google:853
 [/vn3389.com/]tls://dns.google:853
