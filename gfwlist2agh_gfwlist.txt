@@ -6216,7 +6216,6 @@ tls://dns.alidns.com:853
 [/dadi360.com/]https://doh.opendns.com:443/dns-query
 [/dafa888.com/]https://doh.opendns.com:443/dns-query
 [/dafabet.com/]https://doh.opendns.com:443/dns-query
-[/dafacloud.com/]https://doh.opendns.com:443/dns-query
 [/dafagood.com/]https://doh.opendns.com:443/dns-query
 [/dafahao.com/]https://doh.opendns.com:443/dns-query
 [/dafoh.org/]https://doh.opendns.com:443/dns-query
@@ -32571,7 +32570,6 @@ tls://dns.alidns.com:853
 [/dadi360.com/]tls://dns.google:853
 [/dafa888.com/]tls://dns.google:853
 [/dafabet.com/]tls://dns.google:853
-[/dafacloud.com/]tls://dns.google:853
 [/dafagood.com/]tls://dns.google:853
 [/dafahao.com/]tls://dns.google:853
 [/dafoh.org/]tls://dns.google:853
