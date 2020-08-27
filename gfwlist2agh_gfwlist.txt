@@ -33,7 +33,6 @@ tls://dns.alidns.com:853
 [/012492.com/]https://doh.opendns.com:443/dns-query
 [/012495.com/]https://doh.opendns.com:443/dns-query
 [/012497.com/]https://doh.opendns.com:443/dns-query
-[/012956.com/]https://doh.opendns.com:443/dns-query
 [/0136365.com/]https://doh.opendns.com:443/dns-query
 [/015001.com/]https://doh.opendns.com:443/dns-query
 [/015006.com/]https://doh.opendns.com:443/dns-query
@@ -834,7 +833,6 @@ tls://dns.alidns.com:853
 [/517pj.com/]https://doh.opendns.com:443/dns-query
 [/518.com.tw/]https://doh.opendns.com:443/dns-query
 [/5188.18qmm.com/]https://doh.opendns.com:443/dns-query
-[/518839.cn/]https://doh.opendns.com:443/dns-query
 [/51899yx.com/]https://doh.opendns.com:443/dns-query
 [/518ikm.com/]https://doh.opendns.com:443/dns-query
 [/51fanqiang.net/]https://doh.opendns.com:443/dns-query
@@ -26387,7 +26385,6 @@ tls://dns.alidns.com:853
 [/012492.com/]tls://dns.google:853
 [/012495.com/]tls://dns.google:853
 [/012497.com/]tls://dns.google:853
-[/012956.com/]tls://dns.google:853
 [/0136365.com/]tls://dns.google:853
 [/015001.com/]tls://dns.google:853
 [/015006.com/]tls://dns.google:853
@@ -27188,7 +27185,6 @@ tls://dns.alidns.com:853
 [/517pj.com/]tls://dns.google:853
 [/518.com.tw/]tls://dns.google:853
 [/5188.18qmm.com/]tls://dns.google:853
-[/518839.cn/]tls://dns.google:853
 [/51899yx.com/]tls://dns.google:853
 [/518ikm.com/]tls://dns.google:853
 [/51fanqiang.net/]tls://dns.google:853
