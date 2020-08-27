@@ -350,6 +350,7 @@ tls://dns.alidns.com:853
 [/195e195.com/]https://doh.opendns.com:443/dns-query
 [/195q195.com/]https://doh.opendns.com:443/dns-query
 [/197888.com/]https://doh.opendns.com:443/dns-query
+[/197889.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.org/]https://doh.opendns.com:443/dns-query
 [/19850608.com/]https://doh.opendns.com:443/dns-query
@@ -3728,7 +3729,6 @@ tls://dns.alidns.com:853
 [/bi.tvbeee.com/]https://doh.opendns.com:443/dns-query
 [/bi95992.com/]https://doh.opendns.com:443/dns-query
 [/biantai.164ycz.com/]https://doh.opendns.com:443/dns-query
-[/bible-club.co.za/]https://doh.opendns.com:443/dns-query
 [/biblesforamerica.org/]https://doh.opendns.com:443/dns-query
 [/bibox.com/]https://doh.opendns.com:443/dns-query
 [/bicc1993.com/]https://doh.opendns.com:443/dns-query
@@ -3820,7 +3820,6 @@ tls://dns.alidns.com:853
 [/bitballoon.com/]https://doh.opendns.com:443/dns-query
 [/bitbank.cc/]https://doh.opendns.com:443/dns-query
 [/bitbucket.org/]https://doh.opendns.com:443/dns-query
-[/bitc.bme.emory.edu/]https://doh.opendns.com:443/dns-query
 [/bitchute.com/]https://doh.opendns.com:443/dns-query
 [/bitcoin.org/]https://doh.opendns.com:443/dns-query
 [/bitcointalk.org/]https://doh.opendns.com:443/dns-query
@@ -5223,6 +5222,7 @@ tls://dns.alidns.com:853
 [/cervetoria.pt/]https://doh.opendns.com:443/dns-query
 [/cex.io/]https://doh.opendns.com:443/dns-query
 [/cf.gs/]https://doh.opendns.com:443/dns-query
+[/cf7.com/]https://doh.opendns.com:443/dns-query
 [/cfblob.com/]https://doh.opendns.com:443/dns-query
 [/cfna.com/]https://doh.opendns.com:443/dns-query
 [/cfos.de/]https://doh.opendns.com:443/dns-query
@@ -26705,6 +26705,7 @@ tls://dns.alidns.com:853
 [/195e195.com/]tls://dns.google:853
 [/195q195.com/]tls://dns.google:853
 [/197888.com/]tls://dns.google:853
+[/197889.com/]tls://dns.google:853
 [/1984bbs.com/]tls://dns.google:853
 [/1984bbs.org/]tls://dns.google:853
 [/19850608.com/]tls://dns.google:853
@@ -30083,7 +30084,6 @@ tls://dns.alidns.com:853
 [/bi.tvbeee.com/]tls://dns.google:853
 [/bi95992.com/]tls://dns.google:853
 [/biantai.164ycz.com/]tls://dns.google:853
-[/bible-club.co.za/]tls://dns.google:853
 [/biblesforamerica.org/]tls://dns.google:853
 [/bibox.com/]tls://dns.google:853
 [/bicc1993.com/]tls://dns.google:853
@@ -30175,7 +30175,6 @@ tls://dns.alidns.com:853
 [/bitballoon.com/]tls://dns.google:853
 [/bitbank.cc/]tls://dns.google:853
 [/bitbucket.org/]tls://dns.google:853
-[/bitc.bme.emory.edu/]tls://dns.google:853
 [/bitchute.com/]tls://dns.google:853
 [/bitcoin.org/]tls://dns.google:853
 [/bitcointalk.org/]tls://dns.google:853
@@ -31578,6 +31577,7 @@ tls://dns.alidns.com:853
 [/cervetoria.pt/]tls://dns.google:853
 [/cex.io/]tls://dns.google:853
 [/cf.gs/]tls://dns.google:853
+[/cf7.com/]tls://dns.google:853
 [/cfblob.com/]tls://dns.google:853
 [/cfna.com/]tls://dns.google:853
 [/cfos.de/]tls://dns.google:853
