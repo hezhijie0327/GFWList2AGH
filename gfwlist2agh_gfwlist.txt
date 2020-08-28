@@ -226,7 +226,6 @@ tls://dns.alidns.com:853
 [/1337x.to/]https://doh.opendns.com:443/dns-query
 [/1365.com/]https://doh.opendns.com:443/dns-query
 [/13668h.com/]https://doh.opendns.com:443/dns-query
-[/138138i.com/]https://doh.opendns.com:443/dns-query
 [/138138l.com/]https://doh.opendns.com:443/dns-query
 [/1388771.com/]https://doh.opendns.com:443/dns-query
 [/138rra.com/]https://doh.opendns.com:443/dns-query
@@ -349,7 +348,6 @@ tls://dns.alidns.com:853
 [/195e195.com/]https://doh.opendns.com:443/dns-query
 [/195q195.com/]https://doh.opendns.com:443/dns-query
 [/197888.com/]https://doh.opendns.com:443/dns-query
-[/197889.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.org/]https://doh.opendns.com:443/dns-query
 [/19850608.com/]https://doh.opendns.com:443/dns-query
@@ -3019,6 +3017,7 @@ tls://dns.alidns.com:853
 [/b3399.com/]https://doh.opendns.com:443/dns-query
 [/b33r.us/]https://doh.opendns.com:443/dns-query
 [/b464.com/]https://doh.opendns.com:443/dns-query
+[/b5.fe100.net/]https://doh.opendns.com:443/dns-query
 [/b539.com/]https://doh.opendns.com:443/dns-query
 [/b5522.com/]https://doh.opendns.com:443/dns-query
 [/b5566.com/]https://doh.opendns.com:443/dns-query
@@ -26638,7 +26637,6 @@ tls://dns.alidns.com:853
 [/1337x.to/]tls://dns.google:853
 [/1365.com/]tls://dns.google:853
 [/13668h.com/]tls://dns.google:853
-[/138138i.com/]tls://dns.google:853
 [/138138l.com/]tls://dns.google:853
 [/1388771.com/]tls://dns.google:853
 [/138rra.com/]tls://dns.google:853
@@ -26761,7 +26759,6 @@ tls://dns.alidns.com:853
 [/195e195.com/]tls://dns.google:853
 [/195q195.com/]tls://dns.google:853
 [/197888.com/]tls://dns.google:853
-[/197889.com/]tls://dns.google:853
 [/1984bbs.com/]tls://dns.google:853
 [/1984bbs.org/]tls://dns.google:853
 [/19850608.com/]tls://dns.google:853
@@ -29431,6 +29428,7 @@ tls://dns.alidns.com:853
 [/b3399.com/]tls://dns.google:853
 [/b33r.us/]tls://dns.google:853
 [/b464.com/]tls://dns.google:853
+[/b5.fe100.net/]tls://dns.google:853
 [/b539.com/]tls://dns.google:853
 [/b5522.com/]tls://dns.google:853
 [/b5566.com/]tls://dns.google:853
