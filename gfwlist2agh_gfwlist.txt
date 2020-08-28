@@ -1263,7 +1263,6 @@ tls://dns.alidns.com:853
 [/836uuu.net/]https://doh.opendns.com:443/dns-query
 [/836vvv.net/]https://doh.opendns.com:443/dns-query
 [/8370.com/]https://doh.opendns.com:443/dns-query
-[/837881.com/]https://doh.opendns.com:443/dns-query
 [/838888.net/]https://doh.opendns.com:443/dns-query
 [/8419.com/]https://doh.opendns.com:443/dns-query
 [/845.com/]https://doh.opendns.com:443/dns-query
@@ -27671,7 +27670,6 @@ tls://dns.alidns.com:853
 [/836uuu.net/]tls://dns.google:853
 [/836vvv.net/]tls://dns.google:853
 [/8370.com/]tls://dns.google:853
-[/837881.com/]tls://dns.google:853
 [/838888.net/]tls://dns.google:853
 [/8419.com/]tls://dns.google:853
 [/845.com/]tls://dns.google:853
