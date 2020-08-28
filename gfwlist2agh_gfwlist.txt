@@ -1265,7 +1265,6 @@ tls://dns.alidns.com:853
 [/836vvv.net/]https://doh.opendns.com:443/dns-query
 [/8370.com/]https://doh.opendns.com:443/dns-query
 [/837881.com/]https://doh.opendns.com:443/dns-query
-[/837889.com/]https://doh.opendns.com:443/dns-query
 [/838888.net/]https://doh.opendns.com:443/dns-query
 [/8419.com/]https://doh.opendns.com:443/dns-query
 [/845.com/]https://doh.opendns.com:443/dns-query
@@ -3124,6 +3123,7 @@ tls://dns.alidns.com:853
 [/barnabu.co.uk/]https://doh.opendns.com:443/dns-query
 [/barnett.id.au/]https://doh.opendns.com:443/dns-query
 [/barouarges.ro/]https://doh.opendns.com:443/dns-query
+[/barrons.com/]https://doh.opendns.com:443/dns-query
 [/barton.de/]https://doh.opendns.com:443/dns-query
 [/bartvpn.com/]https://doh.opendns.com:443/dns-query
 [/baryes.com/]https://doh.opendns.com:443/dns-query
@@ -3182,6 +3182,7 @@ tls://dns.alidns.com:853
 [/bbdanbao.com/]https://doh.opendns.com:443/dns-query
 [/bbg.gov/]https://doh.opendns.com:443/dns-query
 [/bbgwatch.com/]https://doh.opendns.com:443/dns-query
+[/bbhub.io/]https://doh.opendns.com:443/dns-query
 [/bbkz.com/]https://doh.opendns.com:443/dns-query
 [/bbn23.com/]https://doh.opendns.com:443/dns-query
 [/bbn36.com/]https://doh.opendns.com:443/dns-query
@@ -3234,6 +3235,7 @@ tls://dns.alidns.com:853
 [/bbsland.com/]https://doh.opendns.com:443/dns-query
 [/bbsmo.com/]https://doh.opendns.com:443/dns-query
 [/bbsone.com/]https://doh.opendns.com:443/dns-query
+[/bbthat.com/]https://doh.opendns.com:443/dns-query
 [/bbtoystore.com/]https://doh.opendns.com:443/dns-query
 [/bbwei818.com/]https://doh.opendns.com:443/dns-query
 [/bbwoftheyear.com/]https://doh.opendns.com:443/dns-query
@@ -4101,17 +4103,33 @@ tls://dns.alidns.com:853
 [/bloomberg.fr/]https://doh.opendns.com:443/dns-query
 [/bloomberg.it/]https://doh.opendns.com:443/dns-query
 [/bloomberg.net/]https://doh.opendns.com:443/dns-query
+[/bloombergapps.com/]https://doh.opendns.com:443/dns-query
+[/bloombergarcade.com/]https://doh.opendns.com:443/dns-query
+[/bloombergbeta.com/]https://doh.opendns.com:443/dns-query
 [/bloombergbriefs.com/]https://doh.opendns.com:443/dns-query
 [/bloombergbusiness.com/]https://doh.opendns.com:443/dns-query
+[/bloombergchina.com/]https://doh.opendns.com:443/dns-query
 [/bloombergindexes.com/]https://doh.opendns.com:443/dns-query
+[/bloombergindustry.com/]https://doh.opendns.com:443/dns-query
+[/bloomberglabs.com/]https://doh.opendns.com:443/dns-query
+[/bloomberglaw.com/]https://doh.opendns.com:443/dns-query
+[/bloomberglive.com/]https://doh.opendns.com:443/dns-query
+[/bloomberglp.com/]https://doh.opendns.com:443/dns-query
+[/bloombergmedia.com/]https://doh.opendns.com:443/dns-query
 [/bloombergpolitics.com/]https://doh.opendns.com:443/dns-query
+[/bloombergradio.com/]https://doh.opendns.com:443/dns-query
 [/bloombergsef.com/]https://doh.opendns.com:443/dns-query
+[/bloombergspace.com/]https://doh.opendns.com:443/dns-query
+[/bloombergtax.com/]https://doh.opendns.com:443/dns-query
 [/bloombergtradebook.com/]https://doh.opendns.com:443/dns-query
 [/bloombergview.com/]https://doh.opendns.com:443/dns-query
 [/bloomingdales.com/]https://doh.opendns.com:443/dns-query
 [/blorks.com/]https://doh.opendns.com:443/dns-query
+[/blpcareers.com/]https://doh.opendns.com:443/dns-query
+[/blpevents.com/]https://doh.opendns.com:443/dns-query
 [/blpink.xyz/]https://doh.opendns.com:443/dns-query
 [/blpprofessional.cloud.com/]https://doh.opendns.com:443/dns-query
+[/blpprofessional.com/]https://doh.opendns.com:443/dns-query
 [/blr335.com/]https://doh.opendns.com:443/dns-query
 [/bls.gov/]https://doh.opendns.com:443/dns-query
 [/blubrry.com/]https://doh.opendns.com:443/dns-query
@@ -4134,6 +4152,7 @@ tls://dns.alidns.com:853
 [/bm919.com/]https://doh.opendns.com:443/dns-query
 [/bm969.com/]https://doh.opendns.com:443/dns-query
 [/bmh001.com/]https://doh.opendns.com:443/dns-query
+[/bmia.org/]https://doh.opendns.com:443/dns-query
 [/bml.info/]https://doh.opendns.com:443/dns-query
 [/bmw-abudhabi.com/]https://doh.opendns.com:443/dns-query
 [/bmw-adventskalender.com/]https://doh.opendns.com:443/dns-query
@@ -4330,6 +4349,7 @@ tls://dns.alidns.com:853
 [/bmwzentrum.com/]https://doh.opendns.com:443/dns-query
 [/bn2k.92.etowns.org/]https://doh.opendns.com:443/dns-query
 [/bn65.com/]https://doh.opendns.com:443/dns-query
+[/bnef.com/]https://doh.opendns.com:443/dns-query
 [/bnet.163.com/]https://doh.opendns.com:443/dns-query
 [/bnews.co/]https://doh.opendns.com:443/dns-query
 [/bnf7.ras.flnet.org/]https://doh.opendns.com:443/dns-query
@@ -4524,6 +4544,7 @@ tls://dns.alidns.com:853
 [/bridgetohope.ca/]https://doh.opendns.com:443/dns-query
 [/brightcove.com/]https://doh.opendns.com:443/dns-query
 [/brightcove.net/]https://doh.opendns.com:443/dns-query
+[/brightcove.services/]https://doh.opendns.com:443/dns-query
 [/brightcove01.brightcove.com/]https://doh.opendns.com:443/dns-query
 [/brightkite.com/]https://doh.opendns.com:443/dns-query
 [/briian.com/]https://doh.opendns.com:443/dns-query
@@ -4650,6 +4671,7 @@ tls://dns.alidns.com:853
 [/businesssource.bokf.com/]https://doh.opendns.com:443/dns-query
 [/businesstoday.com.tw/]https://doh.opendns.com:443/dns-query
 [/businessweek.com/]https://doh.opendns.com:443/dns-query
+[/businessweekmag.com/]https://doh.opendns.com:443/dns-query
 [/busracik.tk/]https://doh.opendns.com:443/dns-query
 [/busu.org/]https://doh.opendns.com:443/dns-query
 [/buswk.co/]https://doh.opendns.com:443/dns-query
@@ -5073,8 +5095,22 @@ tls://dns.alidns.com:853
 [/cbcnews.ca/]https://doh.opendns.com:443/dns-query
 [/cbe88.com/]https://doh.opendns.com:443/dns-query
 [/cbfwmentoring.org/]https://doh.opendns.com:443/dns-query
+[/cbs.com/]https://doh.opendns.com:443/dns-query
 [/cbs.ntu.edu.tw/]https://doh.opendns.com:443/dns-query
+[/cbscorporation.com/]https://doh.opendns.com:443/dns-query
+[/cbsi.com/]https://doh.opendns.com:443/dns-query
+[/cbsi.video/]https://doh.opendns.com:443/dns-query
+[/cbsiam.com/]https://doh.opendns.com:443/dns-query
+[/cbsig.net/]https://doh.opendns.com:443/dns-query
+[/cbsimg.net/]https://doh.opendns.com:443/dns-query
+[/cbsinteractive.com/]https://doh.opendns.com:443/dns-query
+[/cbsistatic.com/]https://doh.opendns.com:443/dns-query
+[/cbsivideo.com/]https://doh.opendns.com:443/dns-query
 [/cbsnews.com/]https://doh.opendns.com:443/dns-query
+[/cbspressexpress.com/]https://doh.opendns.com:443/dns-query
+[/cbssports.com/]https://doh.opendns.com:443/dns-query
+[/cbsstatic.com/]https://doh.opendns.com:443/dns-query
+[/cbssvideo.com/]https://doh.opendns.com:443/dns-query
 [/cbtc.org.hk/]https://doh.opendns.com:443/dns-query
 [/cc.ee.ntu.edu.tw/]https://doh.opendns.com:443/dns-query
 [/cc.eye.rs/]https://doh.opendns.com:443/dns-query
@@ -6501,6 +6537,8 @@ tls://dns.alidns.com:853
 [/dettolthailand.com/]https://doh.opendns.com:443/dns-query
 [/deutsche-welle.de/]https://doh.opendns.com:443/dns-query
 [/dev-gameservice-v2.firebaseio.com/]https://doh.opendns.com:443/dns-query
+[/dev-guardianapis.com/]https://doh.opendns.com:443/dns-query
+[/dev-theguardian.com/]https://doh.opendns.com:443/dns-query
 [/devcon.org/]https://doh.opendns.com:443/dns-query
 [/developer.chrome.com/]https://doh.opendns.com:443/dns-query
 [/developerlibrary.com/]https://doh.opendns.com:443/dns-query
@@ -6710,7 +6748,6 @@ tls://dns.alidns.com:853
 [/dizhidizhi.com/]https://doh.opendns.com:443/dns-query
 [/dizhuzhishang.com/]https://doh.opendns.com:443/dns-query
 [/dj2111.com/]https://doh.opendns.com:443/dns-query
-[/dj5677.com/]https://doh.opendns.com:443/dns-query
 [/dj7855.com/]https://doh.opendns.com:443/dns-query
 [/djangosnippets.org/]https://doh.opendns.com:443/dns-query
 [/djbcr.com/]https://doh.opendns.com:443/dns-query
@@ -6885,6 +6922,8 @@ tls://dns.alidns.com:853
 [/dow.etowns.org/]https://doh.opendns.com:443/dns-query
 [/dowei.org/]https://doh.opendns.com:443/dns-query
 [/dowjones.com/]https://doh.opendns.com:443/dns-query
+[/dowjones.io/]https://doh.opendns.com:443/dns-query
+[/dowjoneson.com/]https://doh.opendns.com:443/dns-query
 [/down.99oi.us/]https://doh.opendns.com:443/dns-query
 [/download-a.akamaihd.net/]https://doh.opendns.com:443/dns-query
 [/download.aircrack-ng.org/]https://doh.opendns.com:443/dns-query
@@ -6937,6 +6976,7 @@ tls://dns.alidns.com:853
 [/dreammask.net/]https://doh.opendns.com:443/dns-query
 [/dreamteamfc.com/]https://doh.opendns.com:443/dns-query
 [/dreamtoplay.com/]https://doh.opendns.com:443/dns-query
+[/dreamworks.com/]https://doh.opendns.com:443/dns-query
 [/drebeats-australia.com/]https://doh.opendns.com:443/dns-query
 [/drebeats-france.com/]https://doh.opendns.com:443/dns-query
 [/drebeats-monster.com/]https://doh.opendns.com:443/dns-query
@@ -8601,6 +8641,8 @@ tls://dns.alidns.com:853
 [/for-some.biz/]https://doh.opendns.com:443/dns-query
 [/for-the.biz/]https://doh.opendns.com:443/dns-query
 [/fora.pl/]https://doh.opendns.com:443/dns-query
+[/forbes.com/]https://doh.opendns.com:443/dns-query
+[/forbesimg.com/]https://doh.opendns.com:443/dns-query
 [/force.com/]https://doh.opendns.com:443/dns-query
 [/foreignaffairs.com/]https://doh.opendns.com:443/dns-query
 [/foreignpolicy.com/]https://doh.opendns.com:443/dns-query
@@ -8666,6 +8708,7 @@ tls://dns.alidns.com:853
 [/foxneo.com/]https://doh.opendns.com:443/dns-query
 [/foxnews.com/]https://doh.opendns.com:443/dns-query
 [/foxplus.com/]https://doh.opendns.com:443/dns-query
+[/foxsports.com/]https://doh.opendns.com:443/dns-query
 [/foxsports.com.au/]https://doh.opendns.com:443/dns-query
 [/foxsub.com/]https://doh.opendns.com:443/dns-query
 [/foxtang.com/]https://doh.opendns.com:443/dns-query
@@ -8909,6 +8952,7 @@ tls://dns.alidns.com:853
 [/fscebook.com/]https://doh.opendns.com:443/dns-query
 [/fscked.org/]https://doh.opendns.com:443/dns-query
 [/fsdn.com/]https://doh.opendns.com:443/dns-query
+[/fssta.com/]https://doh.opendns.com:443/dns-query
 [/fstopimages.com/]https://doh.opendns.com:443/dns-query
 [/fsurf.com/]https://doh.opendns.com:443/dns-query
 [/ft.com/]https://doh.opendns.com:443/dns-query
@@ -9131,6 +9175,9 @@ tls://dns.alidns.com:853
 [/gamousa.com/]https://doh.opendns.com:443/dns-query
 [/ganbe.jp/]https://doh.opendns.com:443/dns-query
 [/ganges.com/]https://doh.opendns.com:443/dns-query
+[/gannett-cdn.com/]https://doh.opendns.com:443/dns-query
+[/gannett.com/]https://doh.opendns.com:443/dns-query
+[/gannettdigital.com/]https://doh.opendns.com:443/dns-query
 [/gaobbs.com/]https://doh.opendns.com:443/dns-query
 [/gaoming.net/]https://doh.opendns.com:443/dns-query
 [/gaosemm.com/]https://doh.opendns.com:443/dns-query
@@ -9967,6 +10014,7 @@ tls://dns.alidns.com:853
 [/gtv1.org/]https://doh.opendns.com:443/dns-query
 [/gty.im/]https://doh.opendns.com:443/dns-query
 [/gu-chu-sum.org/]https://doh.opendns.com:443/dns-query
+[/gu-web.net/]https://doh.opendns.com:443/dns-query
 [/gu.com/]https://doh.opendns.com:443/dns-query
 [/guaguass.com/]https://doh.opendns.com:443/dns-query
 [/guaika.cc/]https://doh.opendns.com:443/dns-query
@@ -9978,6 +10026,7 @@ tls://dns.alidns.com:853
 [/guanyincitta.com/]https://doh.opendns.com:443/dns-query
 [/guanyincitta.com.my/]https://doh.opendns.com:443/dns-query
 [/guardian.co.uk/]https://doh.opendns.com:443/dns-query
+[/guardianapis.com/]https://doh.opendns.com:443/dns-query
 [/guardianproject.info/]https://doh.opendns.com:443/dns-query
 [/guardiansofhk.com/]https://doh.opendns.com:443/dns-query
 [/guardster.com/]https://doh.opendns.com:443/dns-query
@@ -11320,7 +11369,10 @@ tls://dns.alidns.com:853
 [/insecam.org/]https://doh.opendns.com:443/dns-query
 [/insidefilms.com/]https://doh.opendns.com:443/dns-query
 [/insidemacintosh.com/]https://doh.opendns.com:443/dns-query
+[/insider-intelligence.com/]https://doh.opendns.com:443/dns-query
+[/insider.com/]https://doh.opendns.com:443/dns-query
 [/insiderdevtour.com/]https://doh.opendns.com:443/dns-query
+[/insiderintelligence.com/]https://doh.opendns.com:443/dns-query
 [/insidevoa.com/]https://doh.opendns.com:443/dns-query
 [/insomnia247.nl/]https://doh.opendns.com:443/dns-query
 [/inspecturgadget.net/]https://doh.opendns.com:443/dns-query
@@ -12924,6 +12976,7 @@ tls://dns.alidns.com:853
 [/lolo.pro/]https://doh.opendns.com:443/dns-query
 [/lolpcs.com/]https://doh.opendns.com:443/dns-query
 [/londonchinese.ca/]https://doh.opendns.com:443/dns-query
+[/londonmithraeum.com/]https://doh.opendns.com:443/dns-query
 [/longhair.hk/]https://doh.opendns.com:443/dns-query
 [/longjinglihua.com/]https://doh.opendns.com:443/dns-query
 [/longlifeint.webnode.tw/]https://doh.opendns.com:443/dns-query
@@ -14208,6 +14261,7 @@ tls://dns.alidns.com:853
 [/msn.com/]https://doh.opendns.com:443/dns-query
 [/msn.com.tw/]https://doh.opendns.com:443/dns-query
 [/msnapk.com/]https://doh.opendns.com:443/dns-query
+[/msnbc.com/]https://doh.opendns.com:443/dns-query
 [/msnewskids.com/]https://doh.opendns.com:443/dns-query
 [/msnewskids.net/]https://doh.opendns.com:443/dns-query
 [/msnewskids.org/]https://doh.opendns.com:443/dns-query
@@ -14545,12 +14599,15 @@ tls://dns.alidns.com:853
 [/nb33.ml/]https://doh.opendns.com:443/dns-query
 [/nb8.com/]https://doh.opendns.com:443/dns-query
 [/nbabot.net/]https://doh.opendns.com:443/dns-query
+[/nbc.co/]https://doh.opendns.com:443/dns-query
 [/nbc.com/]https://doh.opendns.com:443/dns-query
 [/nbcnews.com/]https://doh.opendns.com:443/dns-query
 [/nbcnews.to/]https://doh.opendns.com:443/dns-query
 [/nbcolympics.com/]https://doh.opendns.com:443/dns-query
+[/nbcsports.com/]https://doh.opendns.com:443/dns-query
 [/nbcudigitaladops.com/]https://doh.opendns.com:443/dns-query
 [/nbcuni.com/]https://doh.opendns.com:443/dns-query
+[/nbcuniversal.com/]https://doh.opendns.com:443/dns-query
 [/nbn.org.il/]https://doh.opendns.com:443/dns-query
 [/nbtvpn.com/]https://doh.opendns.com:443/dns-query
 [/nc.slyip.net/]https://doh.opendns.com:443/dns-query
@@ -14643,6 +14700,8 @@ tls://dns.alidns.com:853
 [/newcenturynews.com/]https://doh.opendns.com:443/dns-query
 [/newchen.com/]https://doh.opendns.com:443/dns-query
 [/newdrediscount.com/]https://doh.opendns.com:443/dns-query
+[/neweconomyforum.com/]https://doh.opendns.com:443/dns-query
+[/newenergyfinance.com/]https://doh.opendns.com:443/dns-query
 [/newestbeatsbydre.com/]https://doh.opendns.com:443/dns-query
 [/newgame.ag888.com/]https://doh.opendns.com:443/dns-query
 [/newgeography.com/]https://doh.opendns.com:443/dns-query
@@ -14696,6 +14755,7 @@ tls://dns.alidns.com:853
 [/newsblur.com/]https://doh.opendns.com:443/dns-query
 [/newschinacomment.org/]https://doh.opendns.com:443/dns-query
 [/newscn.org/]https://doh.opendns.com:443/dns-query
+[/newscorp.com/]https://doh.opendns.com:443/dns-query
 [/newsdetox.ca/]https://doh.opendns.com:443/dns-query
 [/newsdh.com/]https://doh.opendns.com:443/dns-query
 [/newser.com/]https://doh.opendns.com:443/dns-query
@@ -15705,6 +15765,7 @@ tls://dns.alidns.com:853
 [/paragon.com/]https://doh.opendns.com:443/dns-query
 [/parallels.com/]https://doh.opendns.com:443/dns-query
 [/paramitadirect.com/]https://doh.opendns.com:443/dns-query
+[/paramount.com/]https://doh.opendns.com:443/dns-query
 [/paranormal88.fr/]https://doh.opendns.com:443/dns-query
 [/parapentemanquehue.cl/]https://doh.opendns.com:443/dns-query
 [/parcocolosseo.it/]https://doh.opendns.com:443/dns-query
@@ -15921,6 +15982,7 @@ tls://dns.alidns.com:853
 [/peacehall.com/]https://doh.opendns.com:443/dns-query
 [/peachy18.com/]https://doh.opendns.com:443/dns-query
 [/peachyforum.com/]https://doh.opendns.com:443/dns-query
+[/peacocktv.com/]https://doh.opendns.com:443/dns-query
 [/peakconsulting.com.au/]https://doh.opendns.com:443/dns-query
 [/pecelmadiun.web.id/]https://doh.opendns.com:443/dns-query
 [/pedrocontador.cl/]https://doh.opendns.com:443/dns-query
@@ -16803,7 +16865,6 @@ tls://dns.alidns.com:853
 [/qiwen.lu/]https://doh.opendns.com:443/dns-query
 [/qixianglu.cn/]https://doh.opendns.com:443/dns-query
 [/qizhenyu.com/]https://doh.opendns.com:443/dns-query
-[/qjvpn.com.cn/]https://doh.opendns.com:443/dns-query
 [/qjz.com.cn/]https://doh.opendns.com:443/dns-query
 [/qk3p.com/]https://doh.opendns.com:443/dns-query
 [/qkshare.com/]https://doh.opendns.com:443/dns-query
@@ -17331,6 +17392,7 @@ tls://dns.alidns.com:853
 [/rssing.com/]https://doh.opendns.com:443/dns-query
 [/rssmeme.com/]https://doh.opendns.com:443/dns-query
 [/rstt-lan.ch/]https://doh.opendns.com:443/dns-query
+[/rt.com/]https://doh.opendns.com:443/dns-query
 [/rtae.in/]https://doh.opendns.com:443/dns-query
 [/rtalabel.org/]https://doh.opendns.com:443/dns-query
 [/rtbot.net/]https://doh.opendns.com:443/dns-query
@@ -17388,6 +17450,7 @@ tls://dns.alidns.com:853
 [/ryukyushimpo.jp/]https://doh.opendns.com:443/dns-query
 [/ryushare.com/]https://doh.opendns.com:443/dns-query
 [/s-dm.com/]https://doh.opendns.com:443/dns-query
+[/s-nbcnews.com/]https://doh.opendns.com:443/dns-query
 [/s-pulsa.co/]https://doh.opendns.com:443/dns-query
 [/s-usc1c-nss-207.firebaseio.com/]https://doh.opendns.com:443/dns-query
 [/s-usc1c-nss-217.firebaseio.com/]https://doh.opendns.com:443/dns-query
@@ -18097,6 +18160,8 @@ tls://dns.alidns.com:853
 [/skimtube.com/]https://doh.opendns.com:443/dns-query
 [/skk96.com/]https://doh.opendns.com:443/dns-query
 [/skn.noip.me/]https://doh.opendns.com:443/dns-query
+[/sky.com/]https://doh.opendns.com:443/dns-query
+[/skyassets.com/]https://doh.opendns.com:443/dns-query
 [/skyav.me/]https://doh.opendns.com:443/dns-query
 [/skybet.com/]https://doh.opendns.com:443/dns-query
 [/skybl.xyz/]https://doh.opendns.com:443/dns-query
@@ -18106,10 +18171,15 @@ tls://dns.alidns.com:853
 [/skylikesun.blogspot.my/]https://doh.opendns.com:443/dns-query
 [/skymirror-cirple-guard.firebaseio.com/]https://doh.opendns.com:443/dns-query
 [/skynet.be/]https://doh.opendns.com:443/dns-query
+[/skyoceanrescue.com/]https://doh.opendns.com:443/dns-query
+[/skyoceanrescue.it/]https://doh.opendns.com:443/dns-query
 [/skype.com/]https://doh.opendns.com:443/dns-query
 [/skype.net/]https://doh.opendns.com:443/dns-query
 [/skypost.hk/]https://doh.opendns.com:443/dns-query
 [/skypost.ulifestyle.com.hk/]https://doh.opendns.com:443/dns-query
+[/skysports.com/]https://doh.opendns.com:443/dns-query
+[/skysportsonline.com/]https://doh.opendns.com:443/dns-query
+[/skysportsracing.com/]https://doh.opendns.com:443/dns-query
 [/skystar.com/]https://doh.opendns.com:443/dns-query
 [/skytorrents.lol/]https://doh.opendns.com:443/dns-query
 [/skyvegas.com/]https://doh.opendns.com:443/dns-query
@@ -19065,6 +19135,7 @@ tls://dns.alidns.com:853
 [/teapartycommunity.com/]https://doh.opendns.com:443/dns-query
 [/tearapeak.com/]https://doh.opendns.com:443/dns-query
 [/techarena.in/]https://doh.opendns.com:443/dns-query
+[/techatbloomberg.com/]https://doh.opendns.com:443/dns-query
 [/techblog.netflix.com/]https://doh.opendns.com:443/dns-query
 [/techcrunch.com/]https://doh.opendns.com:443/dns-query
 [/techliquidators.com/]https://doh.opendns.com:443/dns-query
@@ -19242,6 +19313,7 @@ tls://dns.alidns.com:853
 [/theguardian.co.uk/]https://doh.opendns.com:443/dns-query
 [/theguardian.com/]https://doh.opendns.com:443/dns-query
 [/theguardian.com.au/]https://doh.opendns.com:443/dns-query
+[/theguardiandns.com/]https://doh.opendns.com:443/dns-query
 [/thehimalayantimes.com/]https://doh.opendns.com:443/dns-query
 [/thehindu.com/]https://doh.opendns.com:443/dns-query
 [/thehindu.in/]https://doh.opendns.com:443/dns-query
@@ -19775,6 +19847,7 @@ tls://dns.alidns.com:853
 [/trustwave.com/]https://doh.opendns.com:443/dns-query
 [/truth-out.org/]https://doh.opendns.com:443/dns-query
 [/truth.atspace.eu/]https://doh.opendns.com:443/dns-query
+[/truthontour.org/]https://doh.opendns.com:443/dns-query
 [/truthortrust.com/]https://doh.opendns.com:443/dns-query
 [/truveo.com/]https://doh.opendns.com:443/dns-query
 [/trydurex.net/]https://doh.opendns.com:443/dns-query
@@ -20255,6 +20328,10 @@ tls://dns.alidns.com:853
 [/unitrans.ucdavis.edu/]https://doh.opendns.com:443/dns-query
 [/unity.com/]https://doh.opendns.com:443/dns-query
 [/unity3d.com/]https://doh.opendns.com:443/dns-query
+[/universalorlando.com/]https://doh.opendns.com:443/dns-query
+[/universalpictures.com/]https://doh.opendns.com:443/dns-query
+[/universalpicturesinternational.com/]https://doh.opendns.com:443/dns-query
+[/universalstudioshollywood.com/]https://doh.opendns.com:443/dns-query
 [/universitypressscholarship.com/]https://doh.opendns.com:443/dns-query
 [/unix100.com/]https://doh.opendns.com:443/dns-query
 [/unknownproxy.com/]https://doh.opendns.com:443/dns-query
@@ -20336,6 +20413,8 @@ tls://dns.alidns.com:853
 [/usafreevpn.com/]https://doh.opendns.com:443/dns-query
 [/usahealth.xyz/]https://doh.opendns.com:443/dns-query
 [/usaip.eu/]https://doh.opendns.com:443/dns-query
+[/usatoday.com/]https://doh.opendns.com:443/dns-query
+[/usatodaynetworkservice.com/]https://doh.opendns.com:443/dns-query
 [/usawebproxy.com/]https://doh.opendns.com:443/dns-query
 [/usawebproxy.net/]https://doh.opendns.com:443/dns-query
 [/uscellular.com/]https://doh.opendns.com:443/dns-query
@@ -20587,6 +20666,10 @@ tls://dns.alidns.com:853
 [/vhxqa3.com/]https://doh.opendns.com:443/dns-query
 [/vhxqa4.com/]https://doh.opendns.com:443/dns-query
 [/vhxqa6.com/]https://doh.opendns.com:443/dns-query
+[/viacbs.com/]https://doh.opendns.com:443/dns-query
+[/viacom.com/]https://doh.opendns.com:443/dns-query
+[/viacomcbs.com/]https://doh.opendns.com:443/dns-query
+[/viacomcbspressexpress.com/]https://doh.opendns.com:443/dns-query
 [/viatemperley.com.ar/]https://doh.opendns.com:443/dns-query
 [/viber.com/]https://doh.opendns.com:443/dns-query
 [/vica.info/]https://doh.opendns.com:443/dns-query
@@ -27614,7 +27697,6 @@ tls://dns.alidns.com:853
 [/836vvv.net/]tls://dns.google:853
 [/8370.com/]tls://dns.google:853
 [/837881.com/]tls://dns.google:853
-[/837889.com/]tls://dns.google:853
 [/838888.net/]tls://dns.google:853
 [/8419.com/]tls://dns.google:853
 [/845.com/]tls://dns.google:853
@@ -29473,6 +29555,7 @@ tls://dns.alidns.com:853
 [/barnabu.co.uk/]tls://dns.google:853
 [/barnett.id.au/]tls://dns.google:853
 [/barouarges.ro/]tls://dns.google:853
+[/barrons.com/]tls://dns.google:853
 [/barton.de/]tls://dns.google:853
 [/bartvpn.com/]tls://dns.google:853
 [/baryes.com/]tls://dns.google:853
@@ -29531,6 +29614,7 @@ tls://dns.alidns.com:853
 [/bbdanbao.com/]tls://dns.google:853
 [/bbg.gov/]tls://dns.google:853
 [/bbgwatch.com/]tls://dns.google:853
+[/bbhub.io/]tls://dns.google:853
 [/bbkz.com/]tls://dns.google:853
 [/bbn23.com/]tls://dns.google:853
 [/bbn36.com/]tls://dns.google:853
@@ -29583,6 +29667,7 @@ tls://dns.alidns.com:853
 [/bbsland.com/]tls://dns.google:853
 [/bbsmo.com/]tls://dns.google:853
 [/bbsone.com/]tls://dns.google:853
+[/bbthat.com/]tls://dns.google:853
 [/bbtoystore.com/]tls://dns.google:853
 [/bbwei818.com/]tls://dns.google:853
 [/bbwoftheyear.com/]tls://dns.google:853
@@ -30450,17 +30535,33 @@ tls://dns.alidns.com:853
 [/bloomberg.fr/]tls://dns.google:853
 [/bloomberg.it/]tls://dns.google:853
 [/bloomberg.net/]tls://dns.google:853
+[/bloombergapps.com/]tls://dns.google:853
+[/bloombergarcade.com/]tls://dns.google:853
+[/bloombergbeta.com/]tls://dns.google:853
 [/bloombergbriefs.com/]tls://dns.google:853
 [/bloombergbusiness.com/]tls://dns.google:853
+[/bloombergchina.com/]tls://dns.google:853
 [/bloombergindexes.com/]tls://dns.google:853
+[/bloombergindustry.com/]tls://dns.google:853
+[/bloomberglabs.com/]tls://dns.google:853
+[/bloomberglaw.com/]tls://dns.google:853
+[/bloomberglive.com/]tls://dns.google:853
+[/bloomberglp.com/]tls://dns.google:853
+[/bloombergmedia.com/]tls://dns.google:853
 [/bloombergpolitics.com/]tls://dns.google:853
+[/bloombergradio.com/]tls://dns.google:853
 [/bloombergsef.com/]tls://dns.google:853
+[/bloombergspace.com/]tls://dns.google:853
+[/bloombergtax.com/]tls://dns.google:853
 [/bloombergtradebook.com/]tls://dns.google:853
 [/bloombergview.com/]tls://dns.google:853
 [/bloomingdales.com/]tls://dns.google:853
 [/blorks.com/]tls://dns.google:853
+[/blpcareers.com/]tls://dns.google:853
+[/blpevents.com/]tls://dns.google:853
 [/blpink.xyz/]tls://dns.google:853
 [/blpprofessional.cloud.com/]tls://dns.google:853
+[/blpprofessional.com/]tls://dns.google:853
 [/blr335.com/]tls://dns.google:853
 [/bls.gov/]tls://dns.google:853
 [/blubrry.com/]tls://dns.google:853
@@ -30483,6 +30584,7 @@ tls://dns.alidns.com:853
 [/bm919.com/]tls://dns.google:853
 [/bm969.com/]tls://dns.google:853
 [/bmh001.com/]tls://dns.google:853
+[/bmia.org/]tls://dns.google:853
 [/bml.info/]tls://dns.google:853
 [/bmw-abudhabi.com/]tls://dns.google:853
 [/bmw-adventskalender.com/]tls://dns.google:853
@@ -30679,6 +30781,7 @@ tls://dns.alidns.com:853
 [/bmwzentrum.com/]tls://dns.google:853
 [/bn2k.92.etowns.org/]tls://dns.google:853
 [/bn65.com/]tls://dns.google:853
+[/bnef.com/]tls://dns.google:853
 [/bnet.163.com/]tls://dns.google:853
 [/bnews.co/]tls://dns.google:853
 [/bnf7.ras.flnet.org/]tls://dns.google:853
@@ -30873,6 +30976,7 @@ tls://dns.alidns.com:853
 [/bridgetohope.ca/]tls://dns.google:853
 [/brightcove.com/]tls://dns.google:853
 [/brightcove.net/]tls://dns.google:853
+[/brightcove.services/]tls://dns.google:853
 [/brightcove01.brightcove.com/]tls://dns.google:853
 [/brightkite.com/]tls://dns.google:853
 [/briian.com/]tls://dns.google:853
@@ -30999,6 +31103,7 @@ tls://dns.alidns.com:853
 [/businesssource.bokf.com/]tls://dns.google:853
 [/businesstoday.com.tw/]tls://dns.google:853
 [/businessweek.com/]tls://dns.google:853
+[/businessweekmag.com/]tls://dns.google:853
 [/busracik.tk/]tls://dns.google:853
 [/busu.org/]tls://dns.google:853
 [/buswk.co/]tls://dns.google:853
@@ -31422,8 +31527,22 @@ tls://dns.alidns.com:853
 [/cbcnews.ca/]tls://dns.google:853
 [/cbe88.com/]tls://dns.google:853
 [/cbfwmentoring.org/]tls://dns.google:853
+[/cbs.com/]tls://dns.google:853
 [/cbs.ntu.edu.tw/]tls://dns.google:853
+[/cbscorporation.com/]tls://dns.google:853
+[/cbsi.com/]tls://dns.google:853
+[/cbsi.video/]tls://dns.google:853
+[/cbsiam.com/]tls://dns.google:853
+[/cbsig.net/]tls://dns.google:853
+[/cbsimg.net/]tls://dns.google:853
+[/cbsinteractive.com/]tls://dns.google:853
+[/cbsistatic.com/]tls://dns.google:853
+[/cbsivideo.com/]tls://dns.google:853
 [/cbsnews.com/]tls://dns.google:853
+[/cbspressexpress.com/]tls://dns.google:853
+[/cbssports.com/]tls://dns.google:853
+[/cbsstatic.com/]tls://dns.google:853
+[/cbssvideo.com/]tls://dns.google:853
 [/cbtc.org.hk/]tls://dns.google:853
 [/cc.ee.ntu.edu.tw/]tls://dns.google:853
 [/cc.eye.rs/]tls://dns.google:853
@@ -32850,6 +32969,8 @@ tls://dns.alidns.com:853
 [/dettolthailand.com/]tls://dns.google:853
 [/deutsche-welle.de/]tls://dns.google:853
 [/dev-gameservice-v2.firebaseio.com/]tls://dns.google:853
+[/dev-guardianapis.com/]tls://dns.google:853
+[/dev-theguardian.com/]tls://dns.google:853
 [/devcon.org/]tls://dns.google:853
 [/developer.chrome.com/]tls://dns.google:853
 [/developerlibrary.com/]tls://dns.google:853
@@ -33059,7 +33180,6 @@ tls://dns.alidns.com:853
 [/dizhidizhi.com/]tls://dns.google:853
 [/dizhuzhishang.com/]tls://dns.google:853
 [/dj2111.com/]tls://dns.google:853
-[/dj5677.com/]tls://dns.google:853
 [/dj7855.com/]tls://dns.google:853
 [/djangosnippets.org/]tls://dns.google:853
 [/djbcr.com/]tls://dns.google:853
@@ -33234,6 +33354,8 @@ tls://dns.alidns.com:853
 [/dow.etowns.org/]tls://dns.google:853
 [/dowei.org/]tls://dns.google:853
 [/dowjones.com/]tls://dns.google:853
+[/dowjones.io/]tls://dns.google:853
+[/dowjoneson.com/]tls://dns.google:853
 [/down.99oi.us/]tls://dns.google:853
 [/download-a.akamaihd.net/]tls://dns.google:853
 [/download.aircrack-ng.org/]tls://dns.google:853
@@ -33286,6 +33408,7 @@ tls://dns.alidns.com:853
 [/dreammask.net/]tls://dns.google:853
 [/dreamteamfc.com/]tls://dns.google:853
 [/dreamtoplay.com/]tls://dns.google:853
+[/dreamworks.com/]tls://dns.google:853
 [/drebeats-australia.com/]tls://dns.google:853
 [/drebeats-france.com/]tls://dns.google:853
 [/drebeats-monster.com/]tls://dns.google:853
@@ -34950,6 +35073,8 @@ tls://dns.alidns.com:853
 [/for-some.biz/]tls://dns.google:853
 [/for-the.biz/]tls://dns.google:853
 [/fora.pl/]tls://dns.google:853
+[/forbes.com/]tls://dns.google:853
+[/forbesimg.com/]tls://dns.google:853
 [/force.com/]tls://dns.google:853
 [/foreignaffairs.com/]tls://dns.google:853
 [/foreignpolicy.com/]tls://dns.google:853
@@ -35015,6 +35140,7 @@ tls://dns.alidns.com:853
 [/foxneo.com/]tls://dns.google:853
 [/foxnews.com/]tls://dns.google:853
 [/foxplus.com/]tls://dns.google:853
+[/foxsports.com/]tls://dns.google:853
 [/foxsports.com.au/]tls://dns.google:853
 [/foxsub.com/]tls://dns.google:853
 [/foxtang.com/]tls://dns.google:853
@@ -35258,6 +35384,7 @@ tls://dns.alidns.com:853
 [/fscebook.com/]tls://dns.google:853
 [/fscked.org/]tls://dns.google:853
 [/fsdn.com/]tls://dns.google:853
+[/fssta.com/]tls://dns.google:853
 [/fstopimages.com/]tls://dns.google:853
 [/fsurf.com/]tls://dns.google:853
 [/ft.com/]tls://dns.google:853
@@ -35480,6 +35607,9 @@ tls://dns.alidns.com:853
 [/gamousa.com/]tls://dns.google:853
 [/ganbe.jp/]tls://dns.google:853
 [/ganges.com/]tls://dns.google:853
+[/gannett-cdn.com/]tls://dns.google:853
+[/gannett.com/]tls://dns.google:853
+[/gannettdigital.com/]tls://dns.google:853
 [/gaobbs.com/]tls://dns.google:853
 [/gaoming.net/]tls://dns.google:853
 [/gaosemm.com/]tls://dns.google:853
@@ -36316,6 +36446,7 @@ tls://dns.alidns.com:853
 [/gtv1.org/]tls://dns.google:853
 [/gty.im/]tls://dns.google:853
 [/gu-chu-sum.org/]tls://dns.google:853
+[/gu-web.net/]tls://dns.google:853
 [/gu.com/]tls://dns.google:853
 [/guaguass.com/]tls://dns.google:853
 [/guaika.cc/]tls://dns.google:853
@@ -36327,6 +36458,7 @@ tls://dns.alidns.com:853
 [/guanyincitta.com/]tls://dns.google:853
 [/guanyincitta.com.my/]tls://dns.google:853
 [/guardian.co.uk/]tls://dns.google:853
+[/guardianapis.com/]tls://dns.google:853
 [/guardianproject.info/]tls://dns.google:853
 [/guardiansofhk.com/]tls://dns.google:853
 [/guardster.com/]tls://dns.google:853
@@ -37669,7 +37801,10 @@ tls://dns.alidns.com:853
 [/insecam.org/]tls://dns.google:853
 [/insidefilms.com/]tls://dns.google:853
 [/insidemacintosh.com/]tls://dns.google:853
+[/insider-intelligence.com/]tls://dns.google:853
+[/insider.com/]tls://dns.google:853
 [/insiderdevtour.com/]tls://dns.google:853
+[/insiderintelligence.com/]tls://dns.google:853
 [/insidevoa.com/]tls://dns.google:853
 [/insomnia247.nl/]tls://dns.google:853
 [/inspecturgadget.net/]tls://dns.google:853
@@ -39273,6 +39408,7 @@ tls://dns.alidns.com:853
 [/lolo.pro/]tls://dns.google:853
 [/lolpcs.com/]tls://dns.google:853
 [/londonchinese.ca/]tls://dns.google:853
+[/londonmithraeum.com/]tls://dns.google:853
 [/longhair.hk/]tls://dns.google:853
 [/longjinglihua.com/]tls://dns.google:853
 [/longlifeint.webnode.tw/]tls://dns.google:853
@@ -40557,6 +40693,7 @@ tls://dns.alidns.com:853
 [/msn.com/]tls://dns.google:853
 [/msn.com.tw/]tls://dns.google:853
 [/msnapk.com/]tls://dns.google:853
+[/msnbc.com/]tls://dns.google:853
 [/msnewskids.com/]tls://dns.google:853
 [/msnewskids.net/]tls://dns.google:853
 [/msnewskids.org/]tls://dns.google:853
@@ -40894,12 +41031,15 @@ tls://dns.alidns.com:853
 [/nb33.ml/]tls://dns.google:853
 [/nb8.com/]tls://dns.google:853
 [/nbabot.net/]tls://dns.google:853
+[/nbc.co/]tls://dns.google:853
 [/nbc.com/]tls://dns.google:853
 [/nbcnews.com/]tls://dns.google:853
 [/nbcnews.to/]tls://dns.google:853
 [/nbcolympics.com/]tls://dns.google:853
+[/nbcsports.com/]tls://dns.google:853
 [/nbcudigitaladops.com/]tls://dns.google:853
 [/nbcuni.com/]tls://dns.google:853
+[/nbcuniversal.com/]tls://dns.google:853
 [/nbn.org.il/]tls://dns.google:853
 [/nbtvpn.com/]tls://dns.google:853
 [/nc.slyip.net/]tls://dns.google:853
@@ -40992,6 +41132,8 @@ tls://dns.alidns.com:853
 [/newcenturynews.com/]tls://dns.google:853
 [/newchen.com/]tls://dns.google:853
 [/newdrediscount.com/]tls://dns.google:853
+[/neweconomyforum.com/]tls://dns.google:853
+[/newenergyfinance.com/]tls://dns.google:853
 [/newestbeatsbydre.com/]tls://dns.google:853
 [/newgame.ag888.com/]tls://dns.google:853
 [/newgeography.com/]tls://dns.google:853
@@ -41045,6 +41187,7 @@ tls://dns.alidns.com:853
 [/newsblur.com/]tls://dns.google:853
 [/newschinacomment.org/]tls://dns.google:853
 [/newscn.org/]tls://dns.google:853
+[/newscorp.com/]tls://dns.google:853
 [/newsdetox.ca/]tls://dns.google:853
 [/newsdh.com/]tls://dns.google:853
 [/newser.com/]tls://dns.google:853
@@ -42054,6 +42197,7 @@ tls://dns.alidns.com:853
 [/paragon.com/]tls://dns.google:853
 [/parallels.com/]tls://dns.google:853
 [/paramitadirect.com/]tls://dns.google:853
+[/paramount.com/]tls://dns.google:853
 [/paranormal88.fr/]tls://dns.google:853
 [/parapentemanquehue.cl/]tls://dns.google:853
 [/parcocolosseo.it/]tls://dns.google:853
@@ -42270,6 +42414,7 @@ tls://dns.alidns.com:853
 [/peacehall.com/]tls://dns.google:853
 [/peachy18.com/]tls://dns.google:853
 [/peachyforum.com/]tls://dns.google:853
+[/peacocktv.com/]tls://dns.google:853
 [/peakconsulting.com.au/]tls://dns.google:853
 [/pecelmadiun.web.id/]tls://dns.google:853
 [/pedrocontador.cl/]tls://dns.google:853
@@ -43152,7 +43297,6 @@ tls://dns.alidns.com:853
 [/qiwen.lu/]tls://dns.google:853
 [/qixianglu.cn/]tls://dns.google:853
 [/qizhenyu.com/]tls://dns.google:853
-[/qjvpn.com.cn/]tls://dns.google:853
 [/qjz.com.cn/]tls://dns.google:853
 [/qk3p.com/]tls://dns.google:853
 [/qkshare.com/]tls://dns.google:853
@@ -43680,6 +43824,7 @@ tls://dns.alidns.com:853
 [/rssing.com/]tls://dns.google:853
 [/rssmeme.com/]tls://dns.google:853
 [/rstt-lan.ch/]tls://dns.google:853
+[/rt.com/]tls://dns.google:853
 [/rtae.in/]tls://dns.google:853
 [/rtalabel.org/]tls://dns.google:853
 [/rtbot.net/]tls://dns.google:853
@@ -43737,6 +43882,7 @@ tls://dns.alidns.com:853
 [/ryukyushimpo.jp/]tls://dns.google:853
 [/ryushare.com/]tls://dns.google:853
 [/s-dm.com/]tls://dns.google:853
+[/s-nbcnews.com/]tls://dns.google:853
 [/s-pulsa.co/]tls://dns.google:853
 [/s-usc1c-nss-207.firebaseio.com/]tls://dns.google:853
 [/s-usc1c-nss-217.firebaseio.com/]tls://dns.google:853
@@ -44446,6 +44592,8 @@ tls://dns.alidns.com:853
 [/skimtube.com/]tls://dns.google:853
 [/skk96.com/]tls://dns.google:853
 [/skn.noip.me/]tls://dns.google:853
+[/sky.com/]tls://dns.google:853
+[/skyassets.com/]tls://dns.google:853
 [/skyav.me/]tls://dns.google:853
 [/skybet.com/]tls://dns.google:853
 [/skybl.xyz/]tls://dns.google:853
@@ -44455,10 +44603,15 @@ tls://dns.alidns.com:853
 [/skylikesun.blogspot.my/]tls://dns.google:853
 [/skymirror-cirple-guard.firebaseio.com/]tls://dns.google:853
 [/skynet.be/]tls://dns.google:853
+[/skyoceanrescue.com/]tls://dns.google:853
+[/skyoceanrescue.it/]tls://dns.google:853
 [/skype.com/]tls://dns.google:853
 [/skype.net/]tls://dns.google:853
 [/skypost.hk/]tls://dns.google:853
 [/skypost.ulifestyle.com.hk/]tls://dns.google:853
+[/skysports.com/]tls://dns.google:853
+[/skysportsonline.com/]tls://dns.google:853
+[/skysportsracing.com/]tls://dns.google:853
 [/skystar.com/]tls://dns.google:853
 [/skytorrents.lol/]tls://dns.google:853
 [/skyvegas.com/]tls://dns.google:853
@@ -45414,6 +45567,7 @@ tls://dns.alidns.com:853
 [/teapartycommunity.com/]tls://dns.google:853
 [/tearapeak.com/]tls://dns.google:853
 [/techarena.in/]tls://dns.google:853
+[/techatbloomberg.com/]tls://dns.google:853
 [/techblog.netflix.com/]tls://dns.google:853
 [/techcrunch.com/]tls://dns.google:853
 [/techliquidators.com/]tls://dns.google:853
@@ -45591,6 +45745,7 @@ tls://dns.alidns.com:853
 [/theguardian.co.uk/]tls://dns.google:853
 [/theguardian.com/]tls://dns.google:853
 [/theguardian.com.au/]tls://dns.google:853
+[/theguardiandns.com/]tls://dns.google:853
 [/thehimalayantimes.com/]tls://dns.google:853
 [/thehindu.com/]tls://dns.google:853
 [/thehindu.in/]tls://dns.google:853
@@ -46124,6 +46279,7 @@ tls://dns.alidns.com:853
 [/trustwave.com/]tls://dns.google:853
 [/truth-out.org/]tls://dns.google:853
 [/truth.atspace.eu/]tls://dns.google:853
+[/truthontour.org/]tls://dns.google:853
 [/truthortrust.com/]tls://dns.google:853
 [/truveo.com/]tls://dns.google:853
 [/trydurex.net/]tls://dns.google:853
@@ -46604,6 +46760,10 @@ tls://dns.alidns.com:853
 [/unitrans.ucdavis.edu/]tls://dns.google:853
 [/unity.com/]tls://dns.google:853
 [/unity3d.com/]tls://dns.google:853
+[/universalorlando.com/]tls://dns.google:853
+[/universalpictures.com/]tls://dns.google:853
+[/universalpicturesinternational.com/]tls://dns.google:853
+[/universalstudioshollywood.com/]tls://dns.google:853
 [/universitypressscholarship.com/]tls://dns.google:853
 [/unix100.com/]tls://dns.google:853
 [/unknownproxy.com/]tls://dns.google:853
@@ -46685,6 +46845,8 @@ tls://dns.alidns.com:853
 [/usafreevpn.com/]tls://dns.google:853
 [/usahealth.xyz/]tls://dns.google:853
 [/usaip.eu/]tls://dns.google:853
+[/usatoday.com/]tls://dns.google:853
+[/usatodaynetworkservice.com/]tls://dns.google:853
 [/usawebproxy.com/]tls://dns.google:853
 [/usawebproxy.net/]tls://dns.google:853
 [/uscellular.com/]tls://dns.google:853
@@ -46936,6 +47098,10 @@ tls://dns.alidns.com:853
 [/vhxqa3.com/]tls://dns.google:853
 [/vhxqa4.com/]tls://dns.google:853
 [/vhxqa6.com/]tls://dns.google:853
+[/viacbs.com/]tls://dns.google:853
+[/viacom.com/]tls://dns.google:853
+[/viacomcbs.com/]tls://dns.google:853
+[/viacomcbspressexpress.com/]tls://dns.google:853
 [/viatemperley.com.ar/]tls://dns.google:853
 [/viber.com/]tls://dns.google:853
 [/vica.info/]tls://dns.google:853
