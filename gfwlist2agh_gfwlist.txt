@@ -982,6 +982,7 @@ tls://dns.alidns.com:853
 [/633872.com/]https://doh.opendns.com:443/dns-query
 [/633a.com/]https://doh.opendns.com:443/dns-query
 [/6345345.com/]https://doh.opendns.com:443/dns-query
+[/635-188.com/]https://doh.opendns.com:443/dns-query
 [/6366pp.com/]https://doh.opendns.com:443/dns-query
 [/6366r.com/]https://doh.opendns.com:443/dns-query
 [/637.etowns.org/]https://doh.opendns.com:443/dns-query
@@ -2939,6 +2940,7 @@ tls://dns.alidns.com:853
 [/awseducate.net/]https://doh.opendns.com:443/dns-query
 [/awseducate.org/]https://doh.opendns.com:443/dns-query
 [/awsloft-johannesburg.com/]https://doh.opendns.com:443/dns-query
+[/awsloft-stockholm.com/]https://doh.opendns.com:443/dns-query
 [/awssecworkshops.com/]https://doh.opendns.com:443/dns-query
 [/awsthinkbox.com/]https://doh.opendns.com:443/dns-query
 [/awstrust.com/]https://doh.opendns.com:443/dns-query
@@ -24676,6 +24678,7 @@ tls://dns.alidns.com:853
 [/www.sr-71.org/]https://doh.opendns.com:443/dns-query
 [/www.srkoo.com/]https://doh.opendns.com:443/dns-query
 [/www.sscshishi.com/]https://doh.opendns.com:443/dns-query
+[/www.ssgamer.cn/]https://doh.opendns.com:443/dns-query
 [/www.ssglobal.co/]https://doh.opendns.com:443/dns-query
 [/www.ssh110.com/]https://doh.opendns.com:443/dns-query
 [/www.sshagan.net/]https://doh.opendns.com:443/dns-query
@@ -27389,6 +27392,7 @@ tls://dns.alidns.com:853
 [/633872.com/]tls://dns.google:853
 [/633a.com/]tls://dns.google:853
 [/6345345.com/]tls://dns.google:853
+[/635-188.com/]tls://dns.google:853
 [/6366pp.com/]tls://dns.google:853
 [/6366r.com/]tls://dns.google:853
 [/637.etowns.org/]tls://dns.google:853
@@ -29346,6 +29350,7 @@ tls://dns.alidns.com:853
 [/awseducate.net/]tls://dns.google:853
 [/awseducate.org/]tls://dns.google:853
 [/awsloft-johannesburg.com/]tls://dns.google:853
+[/awsloft-stockholm.com/]tls://dns.google:853
 [/awssecworkshops.com/]tls://dns.google:853
 [/awsthinkbox.com/]tls://dns.google:853
 [/awstrust.com/]tls://dns.google:853
@@ -51083,6 +51088,7 @@ tls://dns.alidns.com:853
 [/www.sr-71.org/]tls://dns.google:853
 [/www.srkoo.com/]tls://dns.google:853
 [/www.sscshishi.com/]tls://dns.google:853
+[/www.ssgamer.cn/]tls://dns.google:853
 [/www.ssglobal.co/]tls://dns.google:853
 [/www.ssh110.com/]tls://dns.google:853
 [/www.sshagan.net/]tls://dns.google:853
