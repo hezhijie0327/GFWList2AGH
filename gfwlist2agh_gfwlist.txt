@@ -1866,7 +1866,6 @@ tls://dns.alidns.com:853
 [/ag.dsd001.com/]https://doh.opendns.com:443/dns-query
 [/ag.mgm777.net/]https://doh.opendns.com:443/dns-query
 [/ag.xw283.com/]https://doh.opendns.com:443/dns-query
-[/ag8809.com/]https://doh.opendns.com:443/dns-query
 [/agapp.net/]https://doh.opendns.com:443/dns-query
 [/agc010.vip/]https://doh.opendns.com:443/dns-query
 [/agc90.com/]https://doh.opendns.com:443/dns-query
@@ -1998,7 +1997,6 @@ tls://dns.alidns.com:853
 [/alabout.com/]https://doh.opendns.com:443/dns-query
 [/alalin.me/]https://doh.opendns.com:443/dns-query
 [/alan.etowns.org/]https://doh.opendns.com:443/dns-query
-[/alanhou.com/]https://doh.opendns.com:443/dns-query
 [/alarab.qa/]https://doh.opendns.com:443/dns-query
 [/alasbarricadas.org/]https://doh.opendns.com:443/dns-query
 [/alazingo.com/]https://doh.opendns.com:443/dns-query
@@ -9432,6 +9430,7 @@ tls://dns.alidns.com:853
 [/glassboards.com/]https://doh.opendns.com:443/dns-query
 [/gleeze.com/]https://doh.opendns.com:443/dns-query
 [/glispa.com/]https://doh.opendns.com:443/dns-query
+[/global-proxy.com/]https://doh.opendns.com:443/dns-query
 [/global-viana.com/]https://doh.opendns.com:443/dns-query
 [/global.bing.com/]https://doh.opendns.com:443/dns-query
 [/global.ishadowx.net/]https://doh.opendns.com:443/dns-query
@@ -28277,7 +28276,6 @@ tls://dns.alidns.com:853
 [/ag.dsd001.com/]tls://dns.google:853
 [/ag.mgm777.net/]tls://dns.google:853
 [/ag.xw283.com/]tls://dns.google:853
-[/ag8809.com/]tls://dns.google:853
 [/agapp.net/]tls://dns.google:853
 [/agc010.vip/]tls://dns.google:853
 [/agc90.com/]tls://dns.google:853
@@ -28409,7 +28407,6 @@ tls://dns.alidns.com:853
 [/alabout.com/]tls://dns.google:853
 [/alalin.me/]tls://dns.google:853
 [/alan.etowns.org/]tls://dns.google:853
-[/alanhou.com/]tls://dns.google:853
 [/alarab.qa/]tls://dns.google:853
 [/alasbarricadas.org/]tls://dns.google:853
 [/alazingo.com/]tls://dns.google:853
@@ -35843,6 +35840,7 @@ tls://dns.alidns.com:853
 [/glassboards.com/]tls://dns.google:853
 [/gleeze.com/]tls://dns.google:853
 [/glispa.com/]tls://dns.google:853
+[/global-proxy.com/]tls://dns.google:853
 [/global-viana.com/]tls://dns.google:853
 [/global.bing.com/]tls://dns.google:853
 [/global.ishadowx.net/]tls://dns.google:853
