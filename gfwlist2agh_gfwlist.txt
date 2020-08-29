@@ -229,7 +229,6 @@ tls://dns.alidns.com:853
 [/138138l.com/]https://doh.opendns.com:443/dns-query
 [/1388771.com/]https://doh.opendns.com:443/dns-query
 [/138rra.com/]https://doh.opendns.com:443/dns-query
-[/138rrc.com/]https://doh.opendns.com:443/dns-query
 [/141hongkong.com/]https://doh.opendns.com:443/dns-query
 [/141jj.com/]https://doh.opendns.com:443/dns-query
 [/141tube.com/]https://doh.opendns.com:443/dns-query
@@ -1243,7 +1242,6 @@ tls://dns.alidns.com:853
 [/828681.com/]https://doh.opendns.com:443/dns-query
 [/828689.com/]https://doh.opendns.com:443/dns-query
 [/829.flnet.org/]https://doh.opendns.com:443/dns-query
-[/829882.com/]https://doh.opendns.com:443/dns-query
 [/829886.com/]https://doh.opendns.com:443/dns-query
 [/83.b0ne.com/]https://doh.opendns.com:443/dns-query
 [/83374.com/]https://doh.opendns.com:443/dns-query
@@ -26846,7 +26844,6 @@ tls://dns.alidns.com:853
 [/138138l.com/]tls://dns.google:853
 [/1388771.com/]tls://dns.google:853
 [/138rra.com/]tls://dns.google:853
-[/138rrc.com/]tls://dns.google:853
 [/141hongkong.com/]tls://dns.google:853
 [/141jj.com/]tls://dns.google:853
 [/141tube.com/]tls://dns.google:853
@@ -27860,7 +27857,6 @@ tls://dns.alidns.com:853
 [/828681.com/]tls://dns.google:853
 [/828689.com/]tls://dns.google:853
 [/829.flnet.org/]tls://dns.google:853
-[/829882.com/]tls://dns.google:853
 [/829886.com/]tls://dns.google:853
 [/83.b0ne.com/]tls://dns.google:853
 [/83374.com/]tls://dns.google:853
