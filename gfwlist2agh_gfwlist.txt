@@ -1243,7 +1243,6 @@ tls://dns.alidns.com:853
 [/828681.com/]https://doh.opendns.com:443/dns-query
 [/828689.com/]https://doh.opendns.com:443/dns-query
 [/829.flnet.org/]https://doh.opendns.com:443/dns-query
-[/829886.com/]https://doh.opendns.com:443/dns-query
 [/83.b0ne.com/]https://doh.opendns.com:443/dns-query
 [/83374.com/]https://doh.opendns.com:443/dns-query
 [/835hhh.net/]https://doh.opendns.com:443/dns-query
@@ -1333,7 +1332,6 @@ tls://dns.alidns.com:853
 [/88kuaibo.com/]https://doh.opendns.com:443/dns-query
 [/88ltou.com/]https://doh.opendns.com:443/dns-query
 [/88nat.com/]https://doh.opendns.com:443/dns-query
-[/88pgz.com/]https://doh.opendns.com:443/dns-query
 [/88pt88.com/]https://doh.opendns.com:443/dns-query
 [/88ptk.com/]https://doh.opendns.com:443/dns-query
 [/88qem.com/]https://doh.opendns.com:443/dns-query
@@ -5107,6 +5105,7 @@ tls://dns.alidns.com:853
 [/cc1505.com/]https://doh.opendns.com:443/dns-query
 [/cc18.tv/]https://doh.opendns.com:443/dns-query
 [/cc18tv.com/]https://doh.opendns.com:443/dns-query
+[/cc95666666.com/]https://doh.opendns.com:443/dns-query
 [/cca45.com/]https://doh.opendns.com:443/dns-query
 [/ccache.org/]https://doh.opendns.com:443/dns-query
 [/ccavgirl.com/]https://doh.opendns.com:443/dns-query
@@ -27859,7 +27858,6 @@ tls://dns.alidns.com:853
 [/828681.com/]tls://dns.google:853
 [/828689.com/]tls://dns.google:853
 [/829.flnet.org/]tls://dns.google:853
-[/829886.com/]tls://dns.google:853
 [/83.b0ne.com/]tls://dns.google:853
 [/83374.com/]tls://dns.google:853
 [/835hhh.net/]tls://dns.google:853
@@ -27949,7 +27947,6 @@ tls://dns.alidns.com:853
 [/88kuaibo.com/]tls://dns.google:853
 [/88ltou.com/]tls://dns.google:853
 [/88nat.com/]tls://dns.google:853
-[/88pgz.com/]tls://dns.google:853
 [/88pt88.com/]tls://dns.google:853
 [/88ptk.com/]tls://dns.google:853
 [/88qem.com/]tls://dns.google:853
@@ -31723,6 +31720,7 @@ tls://dns.alidns.com:853
 [/cc1505.com/]tls://dns.google:853
 [/cc18.tv/]tls://dns.google:853
 [/cc18tv.com/]tls://dns.google:853
+[/cc95666666.com/]tls://dns.google:853
 [/cca45.com/]tls://dns.google:853
 [/ccache.org/]tls://dns.google:853
 [/ccavgirl.com/]tls://dns.google:853
