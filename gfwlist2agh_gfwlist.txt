@@ -603,7 +603,6 @@ tls://dns.alidns.com:853
 [/30508.com/]https://doh.opendns.com:443/dns-query
 [/306969i.com/]https://doh.opendns.com:443/dns-query
 [/30boxes.com/]https://doh.opendns.com:443/dns-query
-[/3100tk.com/]https://doh.opendns.com:443/dns-query
 [/310128.com/]https://doh.opendns.com:443/dns-query
 [/310359.web.ioshow.com/]https://doh.opendns.com:443/dns-query
 [/310a.com/]https://doh.opendns.com:443/dns-query
@@ -27221,7 +27220,6 @@ tls://dns.alidns.com:853
 [/30508.com/]tls://dns.google:853
 [/306969i.com/]tls://dns.google:853
 [/30boxes.com/]tls://dns.google:853
-[/3100tk.com/]tls://dns.google:853
 [/310128.com/]tls://dns.google:853
 [/310359.web.ioshow.com/]tls://dns.google:853
 [/310a.com/]tls://dns.google:853
