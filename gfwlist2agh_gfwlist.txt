@@ -2283,7 +2283,6 @@ tls://dns.alidns.com:853
 [/angola.org/]https://doh.opendns.com:443/dns-query
 [/angulardart.org/]https://doh.opendns.com:443/dns-query
 [/angularjs.org/]https://doh.opendns.com:443/dns-query
-[/anidom.com/]https://doh.opendns.com:443/dns-query
 [/animebracket.com/]https://doh.opendns.com:443/dns-query
 [/animedreaming.tv/]https://doh.opendns.com:443/dns-query
 [/animephile.com/]https://doh.opendns.com:443/dns-query
@@ -28902,7 +28901,6 @@ tls://dns.alidns.com:853
 [/angola.org/]tls://dns.google:853
 [/angulardart.org/]tls://dns.google:853
 [/angularjs.org/]tls://dns.google:853
-[/anidom.com/]tls://dns.google:853
 [/animebracket.com/]tls://dns.google:853
 [/animedreaming.tv/]tls://dns.google:853
 [/animephile.com/]tls://dns.google:853
