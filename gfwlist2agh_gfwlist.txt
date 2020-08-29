@@ -16413,6 +16413,7 @@ tls://dns.alidns.com:853
 [/playoverwatch.com/]https://doh.opendns.com:443/dns-query
 [/playparagon.com/]https://doh.opendns.com:443/dns-query
 [/playpcesor.com/]https://doh.opendns.com:443/dns-query
+[/plays.com.tw/]https://doh.opendns.com:443/dns-query
 [/playshowtv.com/]https://doh.opendns.com:443/dns-query
 [/playssh.com/]https://doh.opendns.com:443/dns-query
 [/playstation.com/]https://doh.opendns.com:443/dns-query
@@ -43026,6 +43027,7 @@ tls://dns.alidns.com:853
 [/playoverwatch.com/]tls://dns.google:853
 [/playparagon.com/]tls://dns.google:853
 [/playpcesor.com/]tls://dns.google:853
+[/plays.com.tw/]tls://dns.google:853
 [/playshowtv.com/]tls://dns.google:853
 [/playssh.com/]tls://dns.google:853
 [/playstation.com/]tls://dns.google:853
