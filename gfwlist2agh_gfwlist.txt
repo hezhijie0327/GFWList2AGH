@@ -4142,7 +4142,6 @@ tls://dns.alidns.com:853
 [/bm700.com/]https://doh.opendns.com:443/dns-query
 [/bm880.cc/]https://doh.opendns.com:443/dns-query
 [/bm919.com/]https://doh.opendns.com:443/dns-query
-[/bm969.com/]https://doh.opendns.com:443/dns-query
 [/bmh001.com/]https://doh.opendns.com:443/dns-query
 [/bmia.org/]https://doh.opendns.com:443/dns-query
 [/bml.info/]https://doh.opendns.com:443/dns-query
@@ -30757,7 +30756,6 @@ tls://dns.alidns.com:853
 [/bm700.com/]tls://dns.google:853
 [/bm880.cc/]tls://dns.google:853
 [/bm919.com/]tls://dns.google:853
-[/bm969.com/]tls://dns.google:853
 [/bmh001.com/]tls://dns.google:853
 [/bmia.org/]tls://dns.google:853
 [/bml.info/]tls://dns.google:853
