@@ -1009,6 +1009,7 @@ tls://dns.alidns.com:853
 [/654078.cc/]https://doh.opendns.com:443/dns-query
 [/655.shop.tm/]https://doh.opendns.com:443/dns-query
 [/6575888.com/]https://doh.opendns.com:443/dns-query
+[/65780.com/]https://doh.opendns.com:443/dns-query
 [/66.effers.com/]https://doh.opendns.com:443/dns-query
 [/6600aaa.com/]https://doh.opendns.com:443/dns-query
 [/66333885.com/]https://doh.opendns.com:443/dns-query
@@ -1203,7 +1204,6 @@ tls://dns.alidns.com:853
 [/7xx8.com/]https://doh.opendns.com:443/dns-query
 [/8-d.com/]https://doh.opendns.com:443/dns-query
 [/8-ps.googleusercontent.com/]https://doh.opendns.com:443/dns-query
-[/8000.com/]https://doh.opendns.com:443/dns-query
 [/800805.com/]https://doh.opendns.com:443/dns-query
 [/8008206616.com/]https://doh.opendns.com:443/dns-query
 [/801250.com/]https://doh.opendns.com:443/dns-query
@@ -27623,6 +27623,7 @@ tls://dns.alidns.com:853
 [/654078.cc/]tls://dns.google:853
 [/655.shop.tm/]tls://dns.google:853
 [/6575888.com/]tls://dns.google:853
+[/65780.com/]tls://dns.google:853
 [/66.effers.com/]tls://dns.google:853
 [/6600aaa.com/]tls://dns.google:853
 [/66333885.com/]tls://dns.google:853
@@ -27817,7 +27818,6 @@ tls://dns.alidns.com:853
 [/7xx8.com/]tls://dns.google:853
 [/8-d.com/]tls://dns.google:853
 [/8-ps.googleusercontent.com/]tls://dns.google:853
-[/8000.com/]tls://dns.google:853
 [/800805.com/]tls://dns.google:853
 [/8008206616.com/]tls://dns.google:853
 [/801250.com/]tls://dns.google:853
