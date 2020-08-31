@@ -1313,7 +1313,6 @@ tls://dns.alidns.com:853
 [/888funcity.net/]https://doh.opendns.com:443/dns-query
 [/888poker.com/]https://doh.opendns.com:443/dns-query
 [/888xjs.net/]https://doh.opendns.com:443/dns-query
-[/88922a.com/]https://doh.opendns.com:443/dns-query
 [/8899bn.com/]https://doh.opendns.com:443/dns-query
 [/889ut.com/]https://doh.opendns.com:443/dns-query
 [/88aah.com/]https://doh.opendns.com:443/dns-query
@@ -11999,6 +11998,7 @@ tls://dns.alidns.com:853
 [/javdb.com/]https://doh.opendns.com:443/dns-query
 [/javdove.club/]https://doh.opendns.com:443/dns-query
 [/javdove.com/]https://doh.opendns.com:443/dns-query
+[/javdove.live/]https://doh.opendns.com:443/dns-query
 [/javdove.me/]https://doh.opendns.com:443/dns-query
 [/javdove1.fun/]https://doh.opendns.com:443/dns-query
 [/javdove2.club/]https://doh.opendns.com:443/dns-query
@@ -27931,7 +27931,6 @@ tls://dns.alidns.com:853
 [/888funcity.net/]tls://dns.google:853
 [/888poker.com/]tls://dns.google:853
 [/888xjs.net/]tls://dns.google:853
-[/88922a.com/]tls://dns.google:853
 [/8899bn.com/]tls://dns.google:853
 [/889ut.com/]tls://dns.google:853
 [/88aah.com/]tls://dns.google:853
@@ -38617,6 +38616,7 @@ tls://dns.alidns.com:853
 [/javdb.com/]tls://dns.google:853
 [/javdove.club/]tls://dns.google:853
 [/javdove.com/]tls://dns.google:853
+[/javdove.live/]tls://dns.google:853
 [/javdove.me/]tls://dns.google:853
 [/javdove1.fun/]tls://dns.google:853
 [/javdove2.club/]tls://dns.google:853
