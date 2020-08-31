@@ -759,6 +759,7 @@ tls://dns.alidns.com:853
 [/412580.com/]https://doh.opendns.com:443/dns-query
 [/4151.yzc596.com/]https://doh.opendns.com:443/dns-query
 [/4275.yzc622.com/]https://doh.opendns.com:443/dns-query
+[/42842805.com/]https://doh.opendns.com:443/dns-query
 [/42842806.com/]https://doh.opendns.com:443/dns-query
 [/42842808.com/]https://doh.opendns.com:443/dns-query
 [/42842809.com/]https://doh.opendns.com:443/dns-query
@@ -1437,6 +1438,7 @@ tls://dns.alidns.com:853
 [/95wen.com/]https://doh.opendns.com:443/dns-query
 [/960987.com/]https://doh.opendns.com:443/dns-query
 [/966cp1.com/]https://doh.opendns.com:443/dns-query
+[/966cpa.com/]https://doh.opendns.com:443/dns-query
 [/96777.cc/]https://doh.opendns.com:443/dns-query
 [/9685.com/]https://doh.opendns.com:443/dns-query
 [/968558.com/]https://doh.opendns.com:443/dns-query
@@ -4925,7 +4927,6 @@ tls://dns.alidns.com:853
 [/calibre-ebook.com/]https://doh.opendns.com:443/dns-query
 [/callersbane.com/]https://doh.opendns.com:443/dns-query
 [/callhulu.com/]https://doh.opendns.com:443/dns-query
-[/callmexo.club/]https://doh.opendns.com:443/dns-query
 [/cam4.be/]https://doh.opendns.com:443/dns-query
 [/cam4.com/]https://doh.opendns.com:443/dns-query
 [/cam4.jp/]https://doh.opendns.com:443/dns-query
@@ -27376,6 +27377,7 @@ tls://dns.alidns.com:853
 [/412580.com/]tls://dns.google:853
 [/4151.yzc596.com/]tls://dns.google:853
 [/4275.yzc622.com/]tls://dns.google:853
+[/42842805.com/]tls://dns.google:853
 [/42842806.com/]tls://dns.google:853
 [/42842808.com/]tls://dns.google:853
 [/42842809.com/]tls://dns.google:853
@@ -28054,6 +28056,7 @@ tls://dns.alidns.com:853
 [/95wen.com/]tls://dns.google:853
 [/960987.com/]tls://dns.google:853
 [/966cp1.com/]tls://dns.google:853
+[/966cpa.com/]tls://dns.google:853
 [/96777.cc/]tls://dns.google:853
 [/9685.com/]tls://dns.google:853
 [/968558.com/]tls://dns.google:853
@@ -31542,7 +31545,6 @@ tls://dns.alidns.com:853
 [/calibre-ebook.com/]tls://dns.google:853
 [/callersbane.com/]tls://dns.google:853
 [/callhulu.com/]tls://dns.google:853
-[/callmexo.club/]tls://dns.google:853
 [/cam4.be/]tls://dns.google:853
 [/cam4.com/]tls://dns.google:853
 [/cam4.jp/]tls://dns.google:853
