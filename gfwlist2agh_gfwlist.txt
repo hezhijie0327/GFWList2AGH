@@ -9696,6 +9696,7 @@ tls://dns.alidns.com:853
 [/goldnikeclub.com/]https://doh.opendns.com:443/dns-query
 [/goldporntube.com/]https://doh.opendns.com:443/dns-query
 [/goldspot.us/]https://doh.opendns.com:443/dns-query
+[/goldstep.net/]https://doh.opendns.com:443/dns-query
 [/goldwave.com/]https://doh.opendns.com:443/dns-query
 [/goliathguitartutorials.com/]https://doh.opendns.com:443/dns-query
 [/golpebaixo.com.br/]https://doh.opendns.com:443/dns-query
@@ -36314,6 +36315,7 @@ tls://dns.alidns.com:853
 [/goldnikeclub.com/]tls://dns.google:853
 [/goldporntube.com/]tls://dns.google:853
 [/goldspot.us/]tls://dns.google:853
+[/goldstep.net/]tls://dns.google:853
 [/goldwave.com/]tls://dns.google:853
 [/goliathguitartutorials.com/]tls://dns.google:853
 [/golpebaixo.com.br/]tls://dns.google:853
