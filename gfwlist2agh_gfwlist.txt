@@ -6735,7 +6735,6 @@ tls://dns.alidns.com:853
 [/dizhidizhi.com/]https://doh.opendns.com:443/dns-query
 [/dizhuzhishang.com/]https://doh.opendns.com:443/dns-query
 [/dj2111.com/]https://doh.opendns.com:443/dns-query
-[/dj7855.com/]https://doh.opendns.com:443/dns-query
 [/djangosnippets.org/]https://doh.opendns.com:443/dns-query
 [/djbcr.com/]https://doh.opendns.com:443/dns-query
 [/djorz.com/]https://doh.opendns.com:443/dns-query
@@ -33353,7 +33352,6 @@ tls://dns.alidns.com:853
 [/dizhidizhi.com/]tls://dns.google:853
 [/dizhuzhishang.com/]tls://dns.google:853
 [/dj2111.com/]tls://dns.google:853
-[/dj7855.com/]tls://dns.google:853
 [/djangosnippets.org/]tls://dns.google:853
 [/djbcr.com/]tls://dns.google:853
 [/djorz.com/]tls://dns.google:853
