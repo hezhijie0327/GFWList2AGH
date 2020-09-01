@@ -1,1 +1,7 @@
-
+## CNACC 列表 - 开始
+# 阿里 DNS
+dns.alidns.com
+# DNSPod
+dns.pub
+doh.pub
+## CNACC 列表 - 结束
