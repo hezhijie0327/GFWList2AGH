@@ -14806,6 +14806,7 @@ tls://dns.alidns.com:853
 [/neowin.net/]https://doh.opendns.com:443/dns-query
 [/nepalesepost.com/]https://doh.opendns.com:443/dns-query
 [/neptune.cathayglory.org/]https://doh.opendns.com:443/dns-query
+[/nepusoku.com/]https://doh.opendns.com:443/dns-query
 [/neraex.pro/]https://doh.opendns.com:443/dns-query
 [/nervanasys.com/]https://doh.opendns.com:443/dns-query
 [/nesnode.com/]https://doh.opendns.com:443/dns-query
@@ -25163,6 +25164,7 @@ tls://dns.alidns.com:853
 [/www.tuolsleng.com/]https://doh.opendns.com:443/dns-query
 [/www.turfclub.com.sg/]https://doh.opendns.com:443/dns-query
 [/www.tusi8.com/]https://doh.opendns.com:443/dns-query
+[/www.tuwang.org/]https://doh.opendns.com:443/dns-query
 [/www.tv.com.pk/]https://doh.opendns.com:443/dns-query
 [/www.tv51xapp.com/]https://doh.opendns.com:443/dns-query
 [/www.tvple.com/]https://doh.opendns.com:443/dns-query
@@ -41428,6 +41430,7 @@ tls://dns.alidns.com:853
 [/neowin.net/]tls://dns.google:853
 [/nepalesepost.com/]tls://dns.google:853
 [/neptune.cathayglory.org/]tls://dns.google:853
+[/nepusoku.com/]tls://dns.google:853
 [/neraex.pro/]tls://dns.google:853
 [/nervanasys.com/]tls://dns.google:853
 [/nesnode.com/]tls://dns.google:853
@@ -51785,6 +51788,7 @@ tls://dns.alidns.com:853
 [/www.tuolsleng.com/]tls://dns.google:853
 [/www.turfclub.com.sg/]tls://dns.google:853
 [/www.tusi8.com/]tls://dns.google:853
+[/www.tuwang.org/]tls://dns.google:853
 [/www.tv.com.pk/]tls://dns.google:853
 [/www.tv51xapp.com/]tls://dns.google:853
 [/www.tvple.com/]tls://dns.google:853
