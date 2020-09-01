@@ -4750,6 +4750,7 @@ tls://dns.alidns.com:853
 [/bypasskey.com/]https://doh.opendns.com:443/dns-query
 [/byt020.com/]https://doh.opendns.com:443/dns-query
 [/byt101.com/]https://doh.opendns.com:443/dns-query
+[/byt707.com/]https://doh.opendns.com:443/dns-query
 [/byt909.com/]https://doh.opendns.com:443/dns-query
 [/c-est-simple.com/]https://doh.opendns.com:443/dns-query
 [/c-span.org/]https://doh.opendns.com:443/dns-query
@@ -6776,6 +6777,7 @@ tls://dns.alidns.com:853
 [/dmstudios.cl/]https://doh.opendns.com:443/dns-query
 [/dn.ignorelist.com/]https://doh.opendns.com:443/dns-query
 [/dnaspaces.io/]https://doh.opendns.com:443/dns-query
+[/dnb99.com/]https://doh.opendns.com:443/dns-query
 [/dndbeyond.com/]https://doh.opendns.com:443/dns-query
 [/dnhsmusic.org/]https://doh.opendns.com:443/dns-query
 [/dns-dns.com/]https://doh.opendns.com:443/dns-query
@@ -13993,6 +13995,7 @@ tls://dns.alidns.com:853
 [/mini.com.do/]https://doh.opendns.com:443/dns-query
 [/mini.com.hr/]https://doh.opendns.com:443/dns-query
 [/mini.com.py/]https://doh.opendns.com:443/dns-query
+[/mini.gp/]https://doh.opendns.com:443/dns-query
 [/mini.is/]https://doh.opendns.com:443/dns-query
 [/mini.it/]https://doh.opendns.com:443/dns-query
 [/mini.pt/]https://doh.opendns.com:443/dns-query
@@ -31374,6 +31377,7 @@ tls://dns.alidns.com:853
 [/bypasskey.com/]tls://dns.google:853
 [/byt020.com/]tls://dns.google:853
 [/byt101.com/]tls://dns.google:853
+[/byt707.com/]tls://dns.google:853
 [/byt909.com/]tls://dns.google:853
 [/c-est-simple.com/]tls://dns.google:853
 [/c-span.org/]tls://dns.google:853
@@ -33400,6 +33404,7 @@ tls://dns.alidns.com:853
 [/dmstudios.cl/]tls://dns.google:853
 [/dn.ignorelist.com/]tls://dns.google:853
 [/dnaspaces.io/]tls://dns.google:853
+[/dnb99.com/]tls://dns.google:853
 [/dndbeyond.com/]tls://dns.google:853
 [/dnhsmusic.org/]tls://dns.google:853
 [/dns-dns.com/]tls://dns.google:853
@@ -40617,6 +40622,7 @@ tls://dns.alidns.com:853
 [/mini.com.do/]tls://dns.google:853
 [/mini.com.hr/]tls://dns.google:853
 [/mini.com.py/]tls://dns.google:853
+[/mini.gp/]tls://dns.google:853
 [/mini.is/]tls://dns.google:853
 [/mini.it/]tls://dns.google:853
 [/mini.pt/]tls://dns.google:853
