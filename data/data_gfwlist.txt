@@ -1,1 +1,6 @@
-
+## GFWList 列表 - 开始
+# Google DNS
+dns.google
+# OpenDNS
+doh.opendns.com
+## GFWList 列表 - 结束
