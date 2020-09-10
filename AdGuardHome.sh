@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.1
+# Current Version: 1.1.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/AdGuardHome.sh && bash ./GFWList2AGH/AdGuardHome.sh
@@ -9,15 +9,15 @@
 # Analyse Configuration File
 function AnalyseConfigurationFile() {
     get_root=$(cd $(dirname "$0"); pwd)
-    get_bind_host_line="1"
-    get_upstream_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "upstream\_dns" | awk '{ print $1 }')
-    get_bootstrap_dns_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "bootstrap\_dns" | awk '{ print $1 }')
+    get_bind_host_line=$(( $(cat -n ${get_root}/AdGuardHome.yaml | grep "bind\_port" | awk '{ print $1 }') - 1 ))
+    get_upstream_dns_line=$(( $(cat -n ${get_root}/AdGuardHome.yaml | grep "refuse\_any" | awk '{ print $1 }') + 1 ))
+    get_upstream_dns_file_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "upstream\_dns\_file" | awk '{ print $1 }')
     get_schema_version_line=$(cat -n ${get_root}/AdGuardHome.yaml | grep "schema\_version" | awk '{ print $1 }')
 }
 # Split Configuration File
 function SplitConfigurationFile() {
     configuration_part_1=$(cat ${get_root}/AdGuardHome.yaml | head -n ${get_upstream_dns_line} | tail -n +${get_bind_host_line})
-    configuration_part_2=$(cat ${get_root}/AdGuardHome.yaml | head -n ${get_schema_version_line} | tail -n +${get_bootstrap_dns_line})
+    configuration_part_2=$(cat ${get_root}/AdGuardHome.yaml | head -n ${get_schema_version_line} | tail -n +${get_upstream_dns_file_line})
 }
 # Get GFWList2AGH Data
 function GetGFWList2AGHData() {
