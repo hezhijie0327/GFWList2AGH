@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.1
+# Current Version: 1.4.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
@@ -66,19 +66,16 @@ function OutputData() {
             0)
             for cnacc_upstream_dns_task in "${!gfwlist_dns[@]}"; do
                 echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
-                echo "  - ${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.yaml
             done
             ;;
             1)
             for combine_upstream_dns_task in "${!combine_dns[@]}"; do
                 echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
-                echo "  - ${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.yaml
             done
             ;;
             2)
             for gfwlist_upstream_dns_task in "${!cnacc_dns[@]}"; do
                 echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
-                echo "  - ${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.yaml
             done
             ;;
         esac
@@ -86,34 +83,22 @@ function OutputData() {
     for cnacc_dns_task in "${!cnacc_dns[@]}"; do
         echo -n "[/" >> ../gfwlist2agh_cnacc.txt
         echo -n "[/" >> ../gfwlist2agh_combine.txt
-        echo -n "  - '[/" >> ../gfwlist2agh_cnacc.yaml
-        echo -n "  - '[/" >> ../gfwlist2agh_combine.yaml
         for cnacc_data_task in "${!cnacc_data[@]}"; do
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_cnacc.txt
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_combine.txt
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_cnacc.yaml
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_combine.yaml
         done
         echo -e "]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
         echo -e "]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine.txt
-        echo -e "]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_cnacc.yaml
-        echo -e "]${cnacc_dns[cnacc_dns_task]}'" >> ../gfwlist2agh_combine.yaml
     done
     for gfwlist_dns_task in "${!gfwlist_dns[@]}"; do
         echo -n "[/" >> ../gfwlist2agh_combine.txt
         echo -n "[/" >> ../gfwlist2agh_gfwlist.txt
-        echo -n "  - '[/" >> ../gfwlist2agh_combine.yaml
-        echo -n "  - '[/" >> ../gfwlist2agh_gfwlist.yaml
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_combine.txt
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_gfwlist.txt
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_combine.yaml
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_gfwlist.yaml
         done
         echo -e "]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
         echo -e "]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
-        echo -e "]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_combine.yaml
-        echo -e "]${gfwlist_dns[gfwlist_dns_task]}'" >> ../gfwlist2agh_gfwlist.yaml
     done
     cd .. && rm -rf ./Temp
     exit 0
