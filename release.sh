@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Current Version: 1.4.2
+# Current Version: 1.4.3
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && chmod 0777 ./GFWList2AGH/release.sh && bash ./GFWList2AGH/release.sh
+# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
 
 ## Function
 # Get Data
