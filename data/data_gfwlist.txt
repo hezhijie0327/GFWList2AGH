@@ -1,4 +1,9 @@
 ## GFWList 列表 - 开始
+# AcgnX
+share.acgnx.se
+www.acgnx.se
+# AniX.Moe
+www.anix.moe
 # Google DNS
 dns.google
 # OpenDNS
