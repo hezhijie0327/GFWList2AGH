@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/dnsproxy.sh
@@ -49,8 +49,8 @@ function CheckEnvironment() {
         fi
     fi
 }
-# Generate Defafult Template
-function GenerateDefafultTemplate() {
+# Generate Default Runtime Script
+function GenerateDefaultRuntimeScript() {
     echo '#!/bin/bash' > /etc/dnsproxy/conf/runtime.sh
     echo "dnsproxy ${MODE:---all-servers} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --listen=${LISTEN:-0.0.0.0} --ratelimit=${RATELIMIT:-500}" '\' >> /etc/dnsproxy/conf/runtime.sh
@@ -59,8 +59,8 @@ function GenerateDefafultTemplate() {
     wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_combine.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
     echo "    --bootstrap=${BOOTSTRAP:-223.5.5.5:53} --fallback=${FALLBACK:-223.6.6.6:53}" '\' >> /etc/dnsproxy/conf/runtime.sh
 }
-# Generate Encrypt Template
-function GenerateEncryptTemplate() {
+# Generate Encrypt Runtime Script
+function GenerateEncryptRuntimeScript() {
     echo '#!/bin/bash' > /etc/dnsproxy/conf/runtime.sh
     echo "dnsproxy ${MODE:---all-servers} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --listen=${LISTEN:-0.0.0.0} --ratelimit=${RATELIMIT:-500}" '\' >> /etc/dnsproxy/conf/runtime.sh
@@ -73,9 +73,9 @@ function GenerateEncryptTemplate() {
 # Generate Runtime Script
 function GenerateRuntimeScript() {
     if [ "${ENCRYPT:-disable}" == "disable" ]; then
-        GenerateDefafultTemplate && GenerateUpstreamConfig
+        GenerateDefaultRuntimeScript
     elif [ "${ENCRYPT:-disable}" == "enable" ]; then
-        GenerateEncryptTemplate && GenerateUpstreamConfig
+        GenerateEncryptRuntimeScript
     else
         exit 1
     fi
@@ -85,4 +85,4 @@ function GenerateRuntimeScript() {
 # Call CheckEnvironment
 CheckEnvironment
 # Run dnsproxy
-bash /etc/dnsproxy/conf/runtime.sh
+sh /etc/dnsproxy/conf/runtime.sh
