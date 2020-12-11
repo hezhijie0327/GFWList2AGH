@@ -1387,7 +1387,6 @@ tls://doh.pub:853
 [/85tube.com/]https://doh.opendns.com:443/dns-query
 [/863.zyns.com/]https://doh.opendns.com:443/dns-query
 [/8696.cc/]https://doh.opendns.com:443/dns-query
-[/8702000.com/]https://doh.opendns.com:443/dns-query
 [/87080.com/]https://doh.opendns.com:443/dns-query
 [/875.sellclassics.com/]https://doh.opendns.com:443/dns-query
 [/87559.com/]https://doh.opendns.com:443/dns-query
@@ -21627,6 +21626,7 @@ tls://doh.pub:853
 [/usma.edu/]https://doh.opendns.com:443/dns-query
 [/usmagazine.com/]https://doh.opendns.com:443/dns-query
 [/usmgtcg.ning.com/]https://doh.opendns.com:443/dns-query
+[/usno.navy.mil/]https://doh.opendns.com:443/dns-query
 [/usocctn.com/]https://doh.opendns.com:443/dns-query
 [/uspto.gov/]https://doh.opendns.com:443/dns-query
 [/ustibetcommittee.org/]https://doh.opendns.com:443/dns-query
@@ -29438,7 +29438,6 @@ tls://doh.pub:853
 [/85tube.com/]tls://dns.google:853
 [/863.zyns.com/]tls://dns.google:853
 [/8696.cc/]tls://dns.google:853
-[/8702000.com/]tls://dns.google:853
 [/87080.com/]tls://dns.google:853
 [/875.sellclassics.com/]tls://dns.google:853
 [/87559.com/]tls://dns.google:853
@@ -49678,6 +49677,7 @@ tls://doh.pub:853
 [/usma.edu/]tls://dns.google:853
 [/usmagazine.com/]tls://dns.google:853
 [/usmgtcg.ning.com/]tls://dns.google:853
+[/usno.navy.mil/]tls://dns.google:853
 [/usocctn.com/]tls://dns.google:853
 [/uspto.gov/]tls://dns.google:853
 [/ustibetcommittee.org/]tls://dns.google:853
