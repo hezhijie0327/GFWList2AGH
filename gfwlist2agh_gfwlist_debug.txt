@@ -1461,6 +1461,7 @@ tls://doh.pub:853
 [/8916822.com/]https://doh.opendns.com:443/dns-query
 [/89333a.com/]https://doh.opendns.com:443/dns-query
 [/8969.org/]https://doh.opendns.com:443/dns-query
+[/8977.cc/]https://doh.opendns.com:443/dns-query
 [/8996.cc/]https://doh.opendns.com:443/dns-query
 [/899722.com/]https://doh.opendns.com:443/dns-query
 [/89ppt.com/]https://doh.opendns.com:443/dns-query
@@ -1507,7 +1508,6 @@ tls://doh.pub:853
 [/920share.com/]https://doh.opendns.com:443/dns-query
 [/9234.com/]https://doh.opendns.com:443/dns-query
 [/9269av.co/]https://doh.opendns.com:443/dns-query
-[/928.plus/]https://doh.opendns.com:443/dns-query
 [/9288js.com/]https://doh.opendns.com:443/dns-query
 [/92ccav.com/]https://doh.opendns.com:443/dns-query
 [/931.dnset.com/]https://doh.opendns.com:443/dns-query
@@ -29513,6 +29513,7 @@ tls://doh.pub:853
 [/8916822.com/]tls://dns.google:853
 [/89333a.com/]tls://dns.google:853
 [/8969.org/]tls://dns.google:853
+[/8977.cc/]tls://dns.google:853
 [/8996.cc/]tls://dns.google:853
 [/899722.com/]tls://dns.google:853
 [/89ppt.com/]tls://dns.google:853
@@ -29559,7 +29560,6 @@ tls://doh.pub:853
 [/920share.com/]tls://dns.google:853
 [/9234.com/]tls://dns.google:853
 [/9269av.co/]tls://dns.google:853
-[/928.plus/]tls://dns.google:853
 [/9288js.com/]tls://dns.google:853
 [/92ccav.com/]tls://dns.google:853
 [/931.dnset.com/]tls://dns.google:853
