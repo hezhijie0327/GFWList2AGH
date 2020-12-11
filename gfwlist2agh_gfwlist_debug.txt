@@ -796,6 +796,7 @@ tls://doh.pub:853
 [/404museum.com/]https://doh.opendns.com:443/dns-query
 [/404url.com/]https://doh.opendns.com:443/dns-query
 [/4050.cabet511.com/]https://doh.opendns.com:443/dns-query
+[/40shopping.com/]https://doh.opendns.com:443/dns-query
 [/412580.com/]https://doh.opendns.com:443/dns-query
 [/4151.yzc596.com/]https://doh.opendns.com:443/dns-query
 [/422555.com/]https://doh.opendns.com:443/dns-query
@@ -1606,7 +1607,6 @@ tls://doh.pub:853
 [/992.flnet.org/]https://doh.opendns.com:443/dns-query
 [/99363973-sd.cp168.ws/]https://doh.opendns.com:443/dns-query
 [/9960xl.com/]https://doh.opendns.com:443/dns-query
-[/9961234.com/]https://doh.opendns.com:443/dns-query
 [/999.088m5.com/]https://doh.opendns.com:443/dns-query
 [/999.118m5.com/]https://doh.opendns.com:443/dns-query
 [/999.158m5.com/]https://doh.opendns.com:443/dns-query
@@ -3993,7 +3993,6 @@ tls://doh.pub:853
 [/bjl2088.com/]https://doh.opendns.com:443/dns-query
 [/bjl2799.com/]https://doh.opendns.com:443/dns-query
 [/bjl4777.com/]https://doh.opendns.com:443/dns-query
-[/bjl5.com/]https://doh.opendns.com:443/dns-query
 [/bjl666.com/]https://doh.opendns.com:443/dns-query
 [/bjl6777.com/]https://doh.opendns.com:443/dns-query
 [/bjl7520.com/]https://doh.opendns.com:443/dns-query
@@ -28849,6 +28848,7 @@ tls://doh.pub:853
 [/404museum.com/]tls://dns.google:853
 [/404url.com/]tls://dns.google:853
 [/4050.cabet511.com/]tls://dns.google:853
+[/40shopping.com/]tls://dns.google:853
 [/412580.com/]tls://dns.google:853
 [/4151.yzc596.com/]tls://dns.google:853
 [/422555.com/]tls://dns.google:853
@@ -29659,7 +29659,6 @@ tls://doh.pub:853
 [/992.flnet.org/]tls://dns.google:853
 [/99363973-sd.cp168.ws/]tls://dns.google:853
 [/9960xl.com/]tls://dns.google:853
-[/9961234.com/]tls://dns.google:853
 [/999.088m5.com/]tls://dns.google:853
 [/999.118m5.com/]tls://dns.google:853
 [/999.158m5.com/]tls://dns.google:853
@@ -32046,7 +32045,6 @@ tls://doh.pub:853
 [/bjl2088.com/]tls://dns.google:853
 [/bjl2799.com/]tls://dns.google:853
 [/bjl4777.com/]tls://dns.google:853
-[/bjl5.com/]tls://dns.google:853
 [/bjl666.com/]tls://dns.google:853
 [/bjl6777.com/]tls://dns.google:853
 [/bjl7520.com/]tls://dns.google:853
