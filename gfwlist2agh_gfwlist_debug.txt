@@ -5293,6 +5293,7 @@ tls://doh.pub:853
 [/cc18sm.tv/]https://doh.opendns.com:443/dns-query
 [/cc18tv.com/]https://doh.opendns.com:443/dns-query
 [/cc353.com/]https://doh.opendns.com:443/dns-query
+[/cc9514.com/]https://doh.opendns.com:443/dns-query
 [/cca45.com/]https://doh.opendns.com:443/dns-query
 [/ccache.org/]https://doh.opendns.com:443/dns-query
 [/ccavgirl.com/]https://doh.opendns.com:443/dns-query
@@ -33345,6 +33346,7 @@ tls://doh.pub:853
 [/cc18sm.tv/]tls://dns.google:853
 [/cc18tv.com/]tls://dns.google:853
 [/cc353.com/]tls://dns.google:853
+[/cc9514.com/]tls://dns.google:853
 [/cca45.com/]tls://dns.google:853
 [/ccache.org/]tls://dns.google:853
 [/ccavgirl.com/]tls://dns.google:853
