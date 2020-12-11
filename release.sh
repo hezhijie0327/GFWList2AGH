@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.5
+# Current Version: 1.4.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -66,16 +66,19 @@ function OutputData() {
             0)
             for cnacc_upstream_dns_task in "${!gfwlist_dns[@]}"; do
                 echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
+                echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc_debug.txt
             done
             ;;
             1)
             for combine_upstream_dns_task in "${!combine_dns[@]}"; do
                 echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
+                echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
             done
             ;;
             2)
             for gfwlist_upstream_dns_task in "${!cnacc_dns[@]}"; do
                 echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
+                echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist_debug.txt
             done
             ;;
         esac
@@ -84,6 +87,8 @@ function OutputData() {
         echo -n "[/" >> ../gfwlist2agh_cnacc.txt
         echo -n "[/" >> ../gfwlist2agh_combine.txt
         for cnacc_data_task in "${!cnacc_data[@]}"; do
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc_debug.txt
+            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_cnacc.txt
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_combine.txt
         done
@@ -94,6 +99,8 @@ function OutputData() {
         echo -n "[/" >> ../gfwlist2agh_combine.txt
         echo -n "[/" >> ../gfwlist2agh_gfwlist.txt
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
+            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist_debug.txt
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_combine.txt
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_gfwlist.txt
         done
