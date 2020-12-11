@@ -1619,6 +1619,7 @@ tls://doh.pub:853
 [/999.aoke33.com/]https://doh.opendns.com:443/dns-query
 [/999.ba8880.com/]https://doh.opendns.com:443/dns-query
 [/999.cai87.com/]https://doh.opendns.com:443/dns-query
+[/999.ch3088.com/]https://doh.opendns.com:443/dns-query
 [/999.cyl7777.com/]https://doh.opendns.com:443/dns-query
 [/999.dlg111.com/]https://doh.opendns.com:443/dns-query
 [/999.dlg567.com/]https://doh.opendns.com:443/dns-query
@@ -29670,6 +29671,7 @@ tls://doh.pub:853
 [/999.aoke33.com/]tls://dns.google:853
 [/999.ba8880.com/]tls://dns.google:853
 [/999.cai87.com/]tls://dns.google:853
+[/999.ch3088.com/]tls://dns.google:853
 [/999.cyl7777.com/]tls://dns.google:853
 [/999.dlg111.com/]tls://dns.google:853
 [/999.dlg567.com/]tls://dns.google:853
