@@ -370,6 +370,7 @@ tls://doh.pub:853
 [/197888.com/]https://doh.opendns.com:443/dns-query
 [/1984bbs.com/]https://doh.opendns.com:443/dns-query
 [/1984blog.com/]https://doh.opendns.com:443/dns-query
+[/19850608.com/]https://doh.opendns.com:443/dns-query
 [/198k7.com/]https://doh.opendns.com:443/dns-query
 [/1afcp.com/]https://doh.opendns.com:443/dns-query
 [/1bao.org/]https://doh.opendns.com:443/dns-query
@@ -2840,6 +2841,7 @@ tls://doh.pub:853
 [/asianwomensfilm.de/]https://doh.opendns.com:443/dns-query
 [/asiaone.com/]https://doh.opendns.com:443/dns-query
 [/asiatgp.com/]https://doh.opendns.com:443/dns-query
+[/asiatoday.us/]https://doh.opendns.com:443/dns-query
 [/asiaxxtv.com/]https://doh.opendns.com:443/dns-query
 [/asis-sugianto.blogspot.hk/]https://doh.opendns.com:443/dns-query
 [/ask.com/]https://doh.opendns.com:443/dns-query
@@ -3254,6 +3256,7 @@ tls://doh.pub:853
 [/bankiowa.com/]https://doh.opendns.com:443/dns-query
 [/bankmandiri.co.id/]https://doh.opendns.com:443/dns-query
 [/bankmobilevibe.com/]https://doh.opendns.com:443/dns-query
+[/banned.video/]https://doh.opendns.com:443/dns-query
 [/bannedbook.org/]https://doh.opendns.com:443/dns-query
 [/bannednews.org/]https://doh.opendns.com:443/dns-query
 [/banorte.com/]https://doh.opendns.com:443/dns-query
@@ -7745,6 +7748,7 @@ tls://doh.pub:853
 [/edmontonchina.cn/]https://doh.opendns.com:443/dns-query
 [/edmontonchina.com/]https://doh.opendns.com:443/dns-query
 [/edmontonservice.com/]https://doh.opendns.com:443/dns-query
+[/edninfo.com/]https://doh.opendns.com:443/dns-query
 [/edns.biz/]https://doh.opendns.com:443/dns-query
 [/edoors.com/]https://doh.opendns.com:443/dns-query
 [/edson.net.br/]https://doh.opendns.com:443/dns-query
@@ -7968,9 +7972,14 @@ tls://doh.pub:853
 [/episcopalchurch.org/]https://doh.opendns.com:443/dns-query
 [/episodic.com/]https://doh.opendns.com:443/dns-query
 [/epmedios.com.mx/]https://doh.opendns.com:443/dns-query
+[/epoch.cloud/]https://doh.opendns.com:443/dns-query
 [/epoch.com/]https://doh.opendns.com:443/dns-query
+[/epochbuy.com/]https://doh.opendns.com:443/dns-query
+[/epochcar.com/]https://doh.opendns.com:443/dns-query
 [/epochhk.com/]https://doh.opendns.com:443/dns-query
+[/epochmall.com/]https://doh.opendns.com:443/dns-query
 [/epochmediagroup.com/]https://doh.opendns.com:443/dns-query
+[/epochshop.com/]https://doh.opendns.com:443/dns-query
 [/epochstories.com/]https://doh.opendns.com:443/dns-query
 [/epochtime.com/]https://doh.opendns.com:443/dns-query
 [/epochtimes-bg.com/]https://doh.opendns.com:443/dns-query
@@ -7991,6 +8000,7 @@ tls://doh.pub:853
 [/epochtimes.jp/]https://doh.opendns.com:443/dns-query
 [/epochtimes.ru/]https://doh.opendns.com:443/dns-query
 [/epochtimes.se/]https://doh.opendns.com:443/dns-query
+[/epochtimeshk.org/]https://doh.opendns.com:443/dns-query
 [/epochtimestr.com/]https://doh.opendns.com:443/dns-query
 [/epochweek.com/]https://doh.opendns.com:443/dns-query
 [/epochweekly.com/]https://doh.opendns.com:443/dns-query
@@ -8082,6 +8092,7 @@ tls://doh.pub:853
 [/etsy.com/]https://doh.opendns.com:443/dns-query
 [/ettego.com/]https://doh.opendns.com:443/dns-query
 [/ettoday.net/]https://doh.opendns.com:443/dns-query
+[/etviet.com/]https://doh.opendns.com:443/dns-query
 [/etvonline.hk/]https://doh.opendns.com:443/dns-query
 [/eu-consumer-empowerment.com/]https://doh.opendns.com:443/dns-query
 [/eu.12bet.co.uk/]https://doh.opendns.com:443/dns-query
@@ -10157,6 +10168,7 @@ tls://doh.pub:853
 [/goldstep.net/]https://doh.opendns.com:443/dns-query
 [/goldwave.com/]https://doh.opendns.com:443/dns-query
 [/goliathguitartutorials.com/]https://doh.opendns.com:443/dns-query
+[/golosameriki.com/]https://doh.opendns.com:443/dns-query
 [/golpebaixo.com.br/]https://doh.opendns.com:443/dns-query
 [/gomextv.com/]https://doh.opendns.com:443/dns-query
 [/gommehd.net/]https://doh.opendns.com:443/dns-query
@@ -11936,6 +11948,8 @@ tls://doh.pub:853
 [/infoqube.biz/]https://doh.opendns.com:443/dns-query
 [/informer.com/]https://doh.opendns.com:443/dns-query
 [/informs.org/]https://doh.opendns.com:443/dns-query
+[/infowars.com/]https://doh.opendns.com:443/dns-query
+[/infowarsmedia.com/]https://doh.opendns.com:443/dns-query
 [/infrapedia.com/]https://doh.opendns.com:443/dns-query
 [/ingads.com/]https://doh.opendns.com:443/dns-query
 [/ingarden.pt/]https://doh.opendns.com:443/dns-query
@@ -15351,9 +15365,10 @@ tls://doh.pub:853
 [/n2.flnet.org/]https://doh.opendns.com:443/dns-query
 [/n24.de/]https://doh.opendns.com:443/dns-query
 [/n2k2.ch/]https://doh.opendns.com:443/dns-query
-[/n3ro.fun/]https://doh.opendns.com:443/dns-query
 [/n3ro.live/]https://doh.opendns.com:443/dns-query
+[/n3ro.lol/]https://doh.opendns.com:443/dns-query
 [/n3ro.net/]https://doh.opendns.com:443/dns-query
+[/n3ro.wtf/]https://doh.opendns.com:443/dns-query
 [/n47s.ras.flnet.org/]https://doh.opendns.com:443/dns-query
 [/n70717.com/]https://doh.opendns.com:443/dns-query
 [/n88800.com/]https://doh.opendns.com:443/dns-query
@@ -16056,7 +16071,9 @@ tls://doh.pub:853
 [/ntc.party/]https://doh.opendns.com:443/dns-query
 [/ntd.com/]https://doh.opendns.com:443/dns-query
 [/ntd.tv/]https://doh.opendns.com:443/dns-query
+[/ntdca.com/]https://doh.opendns.com:443/dns-query
 [/ntdcantonese.com/]https://doh.opendns.com:443/dns-query
+[/ntdimg.com/]https://doh.opendns.com:443/dns-query
 [/ntdtv.ca/]https://doh.opendns.com:443/dns-query
 [/ntdtv.com/]https://doh.opendns.com:443/dns-query
 [/ntdtv.com.tw/]https://doh.opendns.com:443/dns-query
@@ -16953,6 +16970,7 @@ tls://doh.pub:853
 [/persagg.com/]https://doh.opendns.com:443/dns-query
 [/persecution.net/]https://doh.opendns.com:443/dns-query
 [/persecutionblog.com/]https://doh.opendns.com:443/dns-query
+[/persianepochtimes.com/]https://doh.opendns.com:443/dns-query
 [/persiankitty.com/]https://doh.opendns.com:443/dns-query
 [/personal.cityu.edu.hk/]https://doh.opendns.com:443/dns-query
 [/personaltrainermath.com/]https://doh.opendns.com:443/dns-query
@@ -22488,6 +22506,7 @@ tls://doh.pub:853
 [/wanip.ch/]https://doh.opendns.com:443/dns-query
 [/wankspider.com/]https://doh.opendns.com:443/dns-query
 [/wannaflix.com/]https://doh.opendns.com:443/dns-query
+[/wanokokorosoh.com/]https://doh.opendns.com:443/dns-query
 [/wanqiucai.com/]https://doh.opendns.com:443/dns-query
 [/want-daily.com/]https://doh.opendns.com:443/dns-query
 [/wanyepu.com/]https://doh.opendns.com:443/dns-query
@@ -28422,6 +28441,7 @@ tls://doh.pub:853
 [/197888.com/]tls://dns.google:853
 [/1984bbs.com/]tls://dns.google:853
 [/1984blog.com/]tls://dns.google:853
+[/19850608.com/]tls://dns.google:853
 [/198k7.com/]tls://dns.google:853
 [/1afcp.com/]tls://dns.google:853
 [/1bao.org/]tls://dns.google:853
@@ -30892,6 +30912,7 @@ tls://doh.pub:853
 [/asianwomensfilm.de/]tls://dns.google:853
 [/asiaone.com/]tls://dns.google:853
 [/asiatgp.com/]tls://dns.google:853
+[/asiatoday.us/]tls://dns.google:853
 [/asiaxxtv.com/]tls://dns.google:853
 [/asis-sugianto.blogspot.hk/]tls://dns.google:853
 [/ask.com/]tls://dns.google:853
@@ -31306,6 +31327,7 @@ tls://doh.pub:853
 [/bankiowa.com/]tls://dns.google:853
 [/bankmandiri.co.id/]tls://dns.google:853
 [/bankmobilevibe.com/]tls://dns.google:853
+[/banned.video/]tls://dns.google:853
 [/bannedbook.org/]tls://dns.google:853
 [/bannednews.org/]tls://dns.google:853
 [/banorte.com/]tls://dns.google:853
@@ -35797,6 +35819,7 @@ tls://doh.pub:853
 [/edmontonchina.cn/]tls://dns.google:853
 [/edmontonchina.com/]tls://dns.google:853
 [/edmontonservice.com/]tls://dns.google:853
+[/edninfo.com/]tls://dns.google:853
 [/edns.biz/]tls://dns.google:853
 [/edoors.com/]tls://dns.google:853
 [/edson.net.br/]tls://dns.google:853
@@ -36020,9 +36043,14 @@ tls://doh.pub:853
 [/episcopalchurch.org/]tls://dns.google:853
 [/episodic.com/]tls://dns.google:853
 [/epmedios.com.mx/]tls://dns.google:853
+[/epoch.cloud/]tls://dns.google:853
 [/epoch.com/]tls://dns.google:853
+[/epochbuy.com/]tls://dns.google:853
+[/epochcar.com/]tls://dns.google:853
 [/epochhk.com/]tls://dns.google:853
+[/epochmall.com/]tls://dns.google:853
 [/epochmediagroup.com/]tls://dns.google:853
+[/epochshop.com/]tls://dns.google:853
 [/epochstories.com/]tls://dns.google:853
 [/epochtime.com/]tls://dns.google:853
 [/epochtimes-bg.com/]tls://dns.google:853
@@ -36043,6 +36071,7 @@ tls://doh.pub:853
 [/epochtimes.jp/]tls://dns.google:853
 [/epochtimes.ru/]tls://dns.google:853
 [/epochtimes.se/]tls://dns.google:853
+[/epochtimeshk.org/]tls://dns.google:853
 [/epochtimestr.com/]tls://dns.google:853
 [/epochweek.com/]tls://dns.google:853
 [/epochweekly.com/]tls://dns.google:853
@@ -36134,6 +36163,7 @@ tls://doh.pub:853
 [/etsy.com/]tls://dns.google:853
 [/ettego.com/]tls://dns.google:853
 [/ettoday.net/]tls://dns.google:853
+[/etviet.com/]tls://dns.google:853
 [/etvonline.hk/]tls://dns.google:853
 [/eu-consumer-empowerment.com/]tls://dns.google:853
 [/eu.12bet.co.uk/]tls://dns.google:853
@@ -38209,6 +38239,7 @@ tls://doh.pub:853
 [/goldstep.net/]tls://dns.google:853
 [/goldwave.com/]tls://dns.google:853
 [/goliathguitartutorials.com/]tls://dns.google:853
+[/golosameriki.com/]tls://dns.google:853
 [/golpebaixo.com.br/]tls://dns.google:853
 [/gomextv.com/]tls://dns.google:853
 [/gommehd.net/]tls://dns.google:853
@@ -39988,6 +40019,8 @@ tls://doh.pub:853
 [/infoqube.biz/]tls://dns.google:853
 [/informer.com/]tls://dns.google:853
 [/informs.org/]tls://dns.google:853
+[/infowars.com/]tls://dns.google:853
+[/infowarsmedia.com/]tls://dns.google:853
 [/infrapedia.com/]tls://dns.google:853
 [/ingads.com/]tls://dns.google:853
 [/ingarden.pt/]tls://dns.google:853
@@ -43403,9 +43436,10 @@ tls://doh.pub:853
 [/n2.flnet.org/]tls://dns.google:853
 [/n24.de/]tls://dns.google:853
 [/n2k2.ch/]tls://dns.google:853
-[/n3ro.fun/]tls://dns.google:853
 [/n3ro.live/]tls://dns.google:853
+[/n3ro.lol/]tls://dns.google:853
 [/n3ro.net/]tls://dns.google:853
+[/n3ro.wtf/]tls://dns.google:853
 [/n47s.ras.flnet.org/]tls://dns.google:853
 [/n70717.com/]tls://dns.google:853
 [/n88800.com/]tls://dns.google:853
@@ -44108,7 +44142,9 @@ tls://doh.pub:853
 [/ntc.party/]tls://dns.google:853
 [/ntd.com/]tls://dns.google:853
 [/ntd.tv/]tls://dns.google:853
+[/ntdca.com/]tls://dns.google:853
 [/ntdcantonese.com/]tls://dns.google:853
+[/ntdimg.com/]tls://dns.google:853
 [/ntdtv.ca/]tls://dns.google:853
 [/ntdtv.com/]tls://dns.google:853
 [/ntdtv.com.tw/]tls://dns.google:853
@@ -45005,6 +45041,7 @@ tls://doh.pub:853
 [/persagg.com/]tls://dns.google:853
 [/persecution.net/]tls://dns.google:853
 [/persecutionblog.com/]tls://dns.google:853
+[/persianepochtimes.com/]tls://dns.google:853
 [/persiankitty.com/]tls://dns.google:853
 [/personal.cityu.edu.hk/]tls://dns.google:853
 [/personaltrainermath.com/]tls://dns.google:853
@@ -50540,6 +50577,7 @@ tls://doh.pub:853
 [/wanip.ch/]tls://dns.google:853
 [/wankspider.com/]tls://dns.google:853
 [/wannaflix.com/]tls://dns.google:853
+[/wanokokorosoh.com/]tls://dns.google:853
 [/wanqiucai.com/]tls://dns.google:853
 [/want-daily.com/]tls://dns.google:853
 [/wanyepu.com/]tls://dns.google:853
