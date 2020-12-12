@@ -15363,6 +15363,7 @@ tls://doh.pub:853
 [/n.yam.com/]https://doh.opendns.com:443/dns-query
 [/n1g.org/]https://doh.opendns.com:443/dns-query
 [/n2.flnet.org/]https://doh.opendns.com:443/dns-query
+[/n2.n4t.co/]https://doh.opendns.com:443/dns-query
 [/n24.de/]https://doh.opendns.com:443/dns-query
 [/n2k2.ch/]https://doh.opendns.com:443/dns-query
 [/n3ro.live/]https://doh.opendns.com:443/dns-query
@@ -43434,6 +43435,7 @@ tls://doh.pub:853
 [/n.yam.com/]tls://dns.google:853
 [/n1g.org/]tls://dns.google:853
 [/n2.flnet.org/]tls://dns.google:853
+[/n2.n4t.co/]tls://dns.google:853
 [/n24.de/]tls://dns.google:853
 [/n2k2.ch/]tls://dns.google:853
 [/n3ro.live/]tls://dns.google:853
