@@ -5973,6 +5973,7 @@ tls://doh.pub:853
 [/cn.streetvoice.com/]https://doh.opendns.com:443/dns-query
 [/cn.theaustralian.com.au/]https://doh.opendns.com:443/dns-query
 [/cn.thegay.com/]https://doh.opendns.com:443/dns-query
+[/cn.tmagazine.com.nyud.net/]https://doh.opendns.com:443/dns-query
 [/cn.uncyclopedia.wikia.com/]https://doh.opendns.com:443/dns-query
 [/cn.uptodown.com/]https://doh.opendns.com:443/dns-query
 [/cn.venetianmacau.com/]https://doh.opendns.com:443/dns-query
@@ -34044,6 +34045,7 @@ tls://doh.pub:853
 [/cn.streetvoice.com/]tls://dns.google:853
 [/cn.theaustralian.com.au/]tls://dns.google:853
 [/cn.thegay.com/]tls://dns.google:853
+[/cn.tmagazine.com.nyud.net/]tls://dns.google:853
 [/cn.uncyclopedia.wikia.com/]tls://dns.google:853
 [/cn.uptodown.com/]tls://dns.google:853
 [/cn.venetianmacau.com/]tls://dns.google:853
