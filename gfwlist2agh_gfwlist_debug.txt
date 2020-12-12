@@ -3145,7 +3145,6 @@ tls://doh.pub:853
 [/b0ne.com/]https://doh.opendns.com:443/dns-query
 [/b10f.jp/]https://doh.opendns.com:443/dns-query
 [/b1106.com/]https://doh.opendns.com:443/dns-query
-[/b1533.com/]https://doh.opendns.com:443/dns-query
 [/b16.com/]https://doh.opendns.com:443/dns-query
 [/b1722.com/]https://doh.opendns.com:443/dns-query
 [/b2.b0ne.com/]https://doh.opendns.com:443/dns-query
@@ -31217,7 +31216,6 @@ tls://doh.pub:853
 [/b0ne.com/]tls://dns.google:853
 [/b10f.jp/]tls://dns.google:853
 [/b1106.com/]tls://dns.google:853
-[/b1533.com/]tls://dns.google:853
 [/b16.com/]tls://dns.google:853
 [/b1722.com/]tls://dns.google:853
 [/b2.b0ne.com/]tls://dns.google:853
