@@ -728,7 +728,6 @@ tls://doh.pub:853
 [/3688js.com/]https://doh.opendns.com:443/dns-query
 [/36mmm.net/]https://doh.opendns.com:443/dns-query
 [/36rain.com/]https://doh.opendns.com:443/dns-query
-[/37077d.com/]https://doh.opendns.com:443/dns-query
 [/3709.com/]https://doh.opendns.com:443/dns-query
 [/375.gruppuso.net/]https://doh.opendns.com:443/dns-query
 [/3788js.com/]https://doh.opendns.com:443/dns-query
@@ -28800,7 +28799,6 @@ tls://doh.pub:853
 [/3688js.com/]tls://dns.google:853
 [/36mmm.net/]tls://dns.google:853
 [/36rain.com/]tls://dns.google:853
-[/37077d.com/]tls://dns.google:853
 [/3709.com/]tls://dns.google:853
 [/375.gruppuso.net/]tls://dns.google:853
 [/3788js.com/]tls://dns.google:853
