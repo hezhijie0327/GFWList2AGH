@@ -195,6 +195,7 @@ tls://doh.pub:853
 [/116.etowns.org/]https://doh.opendns.com:443/dns-query
 [/1165g.com/]https://doh.opendns.com:443/dns-query
 [/1165p.com/]https://doh.opendns.com:443/dns-query
+[/119hg.com/]https://doh.opendns.com:443/dns-query
 [/11afcp.com/]https://doh.opendns.com:443/dns-query
 [/11cpk.com/]https://doh.opendns.com:443/dns-query
 [/11sebb.com/]https://doh.opendns.com:443/dns-query
@@ -28267,6 +28268,7 @@ tls://doh.pub:853
 [/116.etowns.org/]tls://dns.google:853
 [/1165g.com/]tls://dns.google:853
 [/1165p.com/]tls://dns.google:853
+[/119hg.com/]tls://dns.google:853
 [/11afcp.com/]tls://dns.google:853
 [/11cpk.com/]tls://dns.google:853
 [/11sebb.com/]tls://dns.google:853
