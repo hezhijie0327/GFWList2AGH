@@ -1553,6 +1553,7 @@ tls://doh.pub:853
 [/97333vip.com/]https://doh.opendns.com:443/dns-query
 [/97777vip.com/]https://doh.opendns.com:443/dns-query
 [/977ai.com/]https://doh.opendns.com:443/dns-query
+[/97888vip.com/]https://doh.opendns.com:443/dns-query
 [/97919.com/]https://doh.opendns.com:443/dns-query
 [/97gae.com/]https://doh.opendns.com:443/dns-query
 [/97lm.com/]https://doh.opendns.com:443/dns-query
@@ -29624,6 +29625,7 @@ tls://doh.pub:853
 [/97333vip.com/]tls://dns.google:853
 [/97777vip.com/]tls://dns.google:853
 [/977ai.com/]tls://dns.google:853
+[/97888vip.com/]tls://dns.google:853
 [/97919.com/]tls://dns.google:853
 [/97gae.com/]tls://dns.google:853
 [/97lm.com/]tls://dns.google:853
