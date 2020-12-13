@@ -3209,7 +3209,6 @@ tls://doh.pub:853
 [/badoo.co/]https://doh.opendns.com:443/dns-query
 [/badoo.com/]https://doh.opendns.com:443/dns-query
 [/baicaonetwork.com/]https://doh.opendns.com:443/dns-query
-[/baid.ws/]https://doh.opendns.com:443/dns-query
 [/baidu-18.com/]https://doh.opendns.com:443/dns-query
 [/baidu-av.com/]https://doh.opendns.com:443/dns-query
 [/baidu-sex.com/]https://doh.opendns.com:443/dns-query
@@ -31283,7 +31282,6 @@ tls://doh.pub:853
 [/badoo.co/]tls://dns.google:853
 [/badoo.com/]tls://dns.google:853
 [/baicaonetwork.com/]tls://dns.google:853
-[/baid.ws/]tls://dns.google:853
 [/baidu-18.com/]tls://dns.google:853
 [/baidu-av.com/]tls://dns.google:853
 [/baidu-sex.com/]tls://dns.google:853
