@@ -3832,6 +3832,7 @@ tls://doh.pub:853
 [/beyondfirewall.com/]https://doh.opendns.com:443/dns-query
 [/bf168.pomiav.com/]https://doh.opendns.com:443/dns-query
 [/bf2468.com/]https://doh.opendns.com:443/dns-query
+[/bf550.com/]https://doh.opendns.com:443/dns-query
 [/bf633.com/]https://doh.opendns.com:443/dns-query
 [/bf730.com/]https://doh.opendns.com:443/dns-query
 [/bf750.com/]https://doh.opendns.com:443/dns-query
@@ -31904,6 +31905,7 @@ tls://doh.pub:853
 [/beyondfirewall.com/]tls://dns.google:853
 [/bf168.pomiav.com/]tls://dns.google:853
 [/bf2468.com/]tls://dns.google:853
+[/bf550.com/]tls://dns.google:853
 [/bf633.com/]tls://dns.google:853
 [/bf730.com/]tls://dns.google:853
 [/bf750.com/]tls://dns.google:853
