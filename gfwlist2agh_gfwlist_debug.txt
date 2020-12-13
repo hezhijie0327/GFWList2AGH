@@ -472,7 +472,6 @@ tls://doh.pub:853
 [/223pp.net/]https://doh.opendns.com:443/dns-query
 [/223ww.net/]https://doh.opendns.com:443/dns-query
 [/223zz.net/]https://doh.opendns.com:443/dns-query
-[/224.cc/]https://doh.opendns.com:443/dns-query
 [/2245z.com/]https://doh.opendns.com:443/dns-query
 [/225.etowns.org/]https://doh.opendns.com:443/dns-query
 [/225540.com/]https://doh.opendns.com:443/dns-query
@@ -28545,7 +28544,6 @@ tls://doh.pub:853
 [/223pp.net/]tls://dns.google:853
 [/223ww.net/]tls://dns.google:853
 [/223zz.net/]tls://dns.google:853
-[/224.cc/]tls://dns.google:853
 [/2245z.com/]tls://dns.google:853
 [/225.etowns.org/]tls://dns.google:853
 [/225540.com/]tls://dns.google:853
