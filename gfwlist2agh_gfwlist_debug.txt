@@ -8566,6 +8566,7 @@ tls://doh.pub:853
 [/family.acethon.com/]https://doh.opendns.com:443/dns-query
 [/familyfed.org/]https://doh.opendns.com:443/dns-query
 [/familyradio.com/]https://doh.opendns.com:443/dns-query
+[/famosascalvas.com/]https://doh.opendns.com:443/dns-query
 [/famousfootwear.com/]https://doh.opendns.com:443/dns-query
 [/fan-qiang.com/]https://doh.opendns.com:443/dns-query
 [/fanatical.com/]https://doh.opendns.com:443/dns-query
@@ -36639,6 +36640,7 @@ tls://doh.pub:853
 [/family.acethon.com/]tls://dns.google:853
 [/familyfed.org/]tls://dns.google:853
 [/familyradio.com/]tls://dns.google:853
+[/famosascalvas.com/]tls://dns.google:853
 [/famousfootwear.com/]tls://dns.google:853
 [/fan-qiang.com/]tls://dns.google:853
 [/fanatical.com/]tls://dns.google:853
