@@ -5297,7 +5297,6 @@ tls://doh.pub:853
 [/cca45.com/]https://doh.opendns.com:443/dns-query
 [/ccache.org/]https://doh.opendns.com:443/dns-query
 [/ccavgirl.com/]https://doh.opendns.com:443/dns-query
-[/ccbao168.com/]https://doh.opendns.com:443/dns-query
 [/ccc112.net/]https://doh.opendns.com:443/dns-query
 [/ccc63.net/]https://doh.opendns.com:443/dns-query
 [/cccp004.com/]https://doh.opendns.com:443/dns-query
@@ -33370,7 +33369,6 @@ tls://doh.pub:853
 [/cca45.com/]tls://dns.google:853
 [/ccache.org/]tls://dns.google:853
 [/ccavgirl.com/]tls://dns.google:853
-[/ccbao168.com/]tls://dns.google:853
 [/ccc112.net/]tls://dns.google:853
 [/ccc63.net/]tls://dns.google:853
 [/cccp004.com/]tls://dns.google:853
