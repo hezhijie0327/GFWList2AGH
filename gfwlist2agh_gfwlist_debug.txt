@@ -3192,7 +3192,6 @@ tls://doh.pub:853
 [/babueco.com/]https://doh.opendns.com:443/dns-query
 [/baby-kingdom.com/]https://doh.opendns.com:443/dns-query
 [/babykan.com/]https://doh.opendns.com:443/dns-query
-[/babynet.com.hk/]https://doh.opendns.com:443/dns-query
 [/babyzone.com/]https://doh.opendns.com:443/dns-query
 [/bacc.game88city.net/]https://doh.opendns.com:443/dns-query
 [/bachelorsgrove.net/]https://doh.opendns.com:443/dns-query
@@ -31264,7 +31263,6 @@ tls://doh.pub:853
 [/babueco.com/]tls://dns.google:853
 [/baby-kingdom.com/]tls://dns.google:853
 [/babykan.com/]tls://dns.google:853
-[/babynet.com.hk/]tls://dns.google:853
 [/babyzone.com/]tls://dns.google:853
 [/bacc.game88city.net/]tls://dns.google:853
 [/bachelorsgrove.net/]tls://dns.google:853
