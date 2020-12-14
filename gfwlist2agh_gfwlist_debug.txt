@@ -22781,6 +22781,7 @@ tls://doh.pub:853
 [/wholefoodsmarket.com/]https://doh.opendns.com:443/dns-query
 [/wholekidsfoundation.org/]https://doh.opendns.com:443/dns-query
 [/wholeplanetfoundation.org/]https://doh.opendns.com:443/dns-query
+[/wholesale-exporter1.com/]https://doh.opendns.com:443/dns-query
 [/whonix.org/]https://doh.opendns.com:443/dns-query
 [/whosthehost.com/]https://doh.opendns.com:443/dns-query
 [/whotalking.com/]https://doh.opendns.com:443/dns-query
@@ -50853,6 +50854,7 @@ tls://doh.pub:853
 [/wholefoodsmarket.com/]tls://dns.google:853
 [/wholekidsfoundation.org/]tls://dns.google:853
 [/wholeplanetfoundation.org/]tls://dns.google:853
+[/wholesale-exporter1.com/]tls://dns.google:853
 [/whonix.org/]tls://dns.google:853
 [/whosthehost.com/]tls://dns.google:853
 [/whotalking.com/]tls://dns.google:853
