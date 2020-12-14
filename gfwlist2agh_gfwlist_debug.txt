@@ -744,7 +744,6 @@ tls://doh.pub:853
 [/3885hd.com/]https://doh.opendns.com:443/dns-query
 [/38kq.com/]https://doh.opendns.com:443/dns-query
 [/39.suroot.com/]https://doh.opendns.com:443/dns-query
-[/39077b.com/]https://doh.opendns.com:443/dns-query
 [/39170055.com/]https://doh.opendns.com:443/dns-query
 [/39171122.com/]https://doh.opendns.com:443/dns-query
 [/39174455.com/]https://doh.opendns.com:443/dns-query
@@ -1498,7 +1497,6 @@ tls://doh.pub:853
 [/91porn.com/]https://doh.opendns.com:443/dns-query
 [/91porn.w3p.la/]https://doh.opendns.com:443/dns-query
 [/91sp.v3p.co/]https://doh.opendns.com:443/dns-query
-[/91stw.net/]https://doh.opendns.com:443/dns-query
 [/91taa.com/]https://doh.opendns.com:443/dns-query
 [/91tvh5.tv/]https://doh.opendns.com:443/dns-query
 [/91vnn.com/]https://doh.opendns.com:443/dns-query
@@ -1617,6 +1615,7 @@ tls://doh.pub:853
 [/999.488m5.com/]https://doh.opendns.com:443/dns-query
 [/999.588m5.com/]https://doh.opendns.com:443/dns-query
 [/999.988m5.com/]https://doh.opendns.com:443/dns-query
+[/999.a88866.cc/]https://doh.opendns.com:443/dns-query
 [/999.abccp44.com/]https://doh.opendns.com:443/dns-query
 [/999.aoke33.com/]https://doh.opendns.com:443/dns-query
 [/999.ba8880.com/]https://doh.opendns.com:443/dns-query
@@ -28815,7 +28814,6 @@ tls://doh.pub:853
 [/3885hd.com/]tls://dns.google:853
 [/38kq.com/]tls://dns.google:853
 [/39.suroot.com/]tls://dns.google:853
-[/39077b.com/]tls://dns.google:853
 [/39170055.com/]tls://dns.google:853
 [/39171122.com/]tls://dns.google:853
 [/39174455.com/]tls://dns.google:853
@@ -29569,7 +29567,6 @@ tls://doh.pub:853
 [/91porn.com/]tls://dns.google:853
 [/91porn.w3p.la/]tls://dns.google:853
 [/91sp.v3p.co/]tls://dns.google:853
-[/91stw.net/]tls://dns.google:853
 [/91taa.com/]tls://dns.google:853
 [/91tvh5.tv/]tls://dns.google:853
 [/91vnn.com/]tls://dns.google:853
@@ -29688,6 +29685,7 @@ tls://doh.pub:853
 [/999.488m5.com/]tls://dns.google:853
 [/999.588m5.com/]tls://dns.google:853
 [/999.988m5.com/]tls://dns.google:853
+[/999.a88866.cc/]tls://dns.google:853
 [/999.abccp44.com/]tls://dns.google:853
 [/999.aoke33.com/]tls://dns.google:853
 [/999.ba8880.com/]tls://dns.google:853
