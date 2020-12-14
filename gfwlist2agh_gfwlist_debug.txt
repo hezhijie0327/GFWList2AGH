@@ -876,6 +876,7 @@ tls://doh.pub:853
 [/50webs.com/]https://doh.opendns.com:443/dns-query
 [/51489.godxtv.com/]https://doh.opendns.com:443/dns-query
 [/51499.com/]https://doh.opendns.com:443/dns-query
+[/51529.com/]https://doh.opendns.com:443/dns-query
 [/5154.18qmm.com/]https://doh.opendns.com:443/dns-query
 [/516nn.net/]https://doh.opendns.com:443/dns-query
 [/517pj.com/]https://doh.opendns.com:443/dns-query
@@ -922,6 +923,7 @@ tls://doh.pub:853
 [/52kjwang.com/]https://doh.opendns.com:443/dns-query
 [/52news.chinatimes.com/]https://doh.opendns.com:443/dns-query
 [/52sod.co/]https://doh.opendns.com:443/dns-query
+[/52ssr.cn/]https://doh.opendns.com:443/dns-query
 [/52ull.com/]https://doh.opendns.com:443/dns-query
 [/52xr.net/]https://doh.opendns.com:443/dns-query
 [/52xtv.net/]https://doh.opendns.com:443/dns-query
@@ -998,7 +1000,6 @@ tls://doh.pub:853
 [/567.etowns.org/]https://doh.opendns.com:443/dns-query
 [/56869.com/]https://doh.opendns.com:443/dns-query
 [/56cun04.jigsy.com/]https://doh.opendns.com:443/dns-query
-[/57138.com/]https://doh.opendns.com:443/dns-query
 [/576.slyip.net/]https://doh.opendns.com:443/dns-query
 [/576166i.com/]https://doh.opendns.com:443/dns-query
 [/579.flnet.org/]https://doh.opendns.com:443/dns-query
@@ -5729,7 +5730,6 @@ tls://doh.pub:853
 [/chrs.me.uk/]https://doh.opendns.com:443/dns-query
 [/chuang-yen.org/]https://doh.opendns.com:443/dns-query
 [/chuangcn.org/]https://doh.opendns.com:443/dns-query
-[/chubbysextgp.com/]https://doh.opendns.com:443/dns-query
 [/chubold.com/]https://doh.opendns.com:443/dns-query
 [/chubun.com/]https://doh.opendns.com:443/dns-query
 [/chuizi.net/]https://doh.opendns.com:443/dns-query
@@ -28947,6 +28947,7 @@ tls://doh.pub:853
 [/50webs.com/]tls://dns.google:853
 [/51489.godxtv.com/]tls://dns.google:853
 [/51499.com/]tls://dns.google:853
+[/51529.com/]tls://dns.google:853
 [/5154.18qmm.com/]tls://dns.google:853
 [/516nn.net/]tls://dns.google:853
 [/517pj.com/]tls://dns.google:853
@@ -28993,6 +28994,7 @@ tls://doh.pub:853
 [/52kjwang.com/]tls://dns.google:853
 [/52news.chinatimes.com/]tls://dns.google:853
 [/52sod.co/]tls://dns.google:853
+[/52ssr.cn/]tls://dns.google:853
 [/52ull.com/]tls://dns.google:853
 [/52xr.net/]tls://dns.google:853
 [/52xtv.net/]tls://dns.google:853
@@ -29069,7 +29071,6 @@ tls://doh.pub:853
 [/567.etowns.org/]tls://dns.google:853
 [/56869.com/]tls://dns.google:853
 [/56cun04.jigsy.com/]tls://dns.google:853
-[/57138.com/]tls://dns.google:853
 [/576.slyip.net/]tls://dns.google:853
 [/576166i.com/]tls://dns.google:853
 [/579.flnet.org/]tls://dns.google:853
@@ -33800,7 +33801,6 @@ tls://doh.pub:853
 [/chrs.me.uk/]tls://dns.google:853
 [/chuang-yen.org/]tls://dns.google:853
 [/chuangcn.org/]tls://dns.google:853
-[/chubbysextgp.com/]tls://dns.google:853
 [/chubold.com/]tls://dns.google:853
 [/chubun.com/]tls://dns.google:853
 [/chuizi.net/]tls://dns.google:853
