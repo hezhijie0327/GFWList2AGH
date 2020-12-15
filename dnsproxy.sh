@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/dnsproxy.sh
+# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh
 
 ## Parameter
 while getopts b:c:e:f:h:k:l:m:p:q:r:t:v GetParameter; do
@@ -52,7 +52,7 @@ function CheckEnvironment() {
 }
 # Generate Default Runtime Script
 function GenerateDefaultRuntimeScript() {
-    echo '#!/bin/bash' > /etc/dnsproxy/conf/runtime.sh
+    echo '#!/bin/sh' > /etc/dnsproxy/conf/runtime.sh
     echo "dnsproxy ${MODE:---all-servers} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --listen=${LISTEN:-0.0.0.0} --ratelimit=${RATELIMIT:-500}" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=65536" '\' >> /etc/dnsproxy/conf/runtime.sh
