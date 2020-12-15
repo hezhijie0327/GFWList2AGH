@@ -87,7 +87,6 @@ tls://doh.pub:853
 [/053860.com/]https://doh.opendns.com:443/dns-query
 [/056508.com/]https://doh.opendns.com:443/dns-query
 [/056577.com/]https://doh.opendns.com:443/dns-query
-[/059007.com/]https://doh.opendns.com:443/dns-query
 [/059008.com/]https://doh.opendns.com:443/dns-query
 [/05afcp.com/]https://doh.opendns.com:443/dns-query
 [/0618.us/]https://doh.opendns.com:443/dns-query
@@ -28156,7 +28155,6 @@ tls://doh.pub:853
 [/053860.com/]tls://dns.google:853
 [/056508.com/]tls://dns.google:853
 [/056577.com/]tls://dns.google:853
-[/059007.com/]tls://dns.google:853
 [/059008.com/]tls://dns.google:853
 [/05afcp.com/]tls://dns.google:853
 [/0618.us/]tls://dns.google:853
