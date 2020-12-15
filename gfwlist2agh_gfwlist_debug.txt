@@ -6463,6 +6463,7 @@ tls://doh.pub:853
 [/d36cz9buwru1tt.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d3c33hcgiwev3.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d3dsacqprgcsqh.cloudfront.net/]https://doh.opendns.com:443/dns-query
+[/d3rkfw22xppori.cloudfront.net/]https://doh.opendns.com:443/dns-query
 [/d42i.r5.cr.rs/]https://doh.opendns.com:443/dns-query
 [/d5562.com/]https://doh.opendns.com:443/dns-query
 [/d5585.com/]https://doh.opendns.com:443/dns-query
@@ -34531,6 +34532,7 @@ tls://doh.pub:853
 [/d36cz9buwru1tt.cloudfront.net/]tls://dns.google:853
 [/d3c33hcgiwev3.cloudfront.net/]tls://dns.google:853
 [/d3dsacqprgcsqh.cloudfront.net/]tls://dns.google:853
+[/d3rkfw22xppori.cloudfront.net/]tls://dns.google:853
 [/d42i.r5.cr.rs/]tls://dns.google:853
 [/d5562.com/]tls://dns.google:853
 [/d5585.com/]tls://dns.google:853
