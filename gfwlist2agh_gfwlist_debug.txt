@@ -5729,6 +5729,7 @@ tls://doh.pub:853
 [/chrs.me.uk/]https://doh.opendns.com:443/dns-query
 [/chuang-yen.org/]https://doh.opendns.com:443/dns-query
 [/chuangcn.org/]https://doh.opendns.com:443/dns-query
+[/chubbysextgp.com/]https://doh.opendns.com:443/dns-query
 [/chubold.com/]https://doh.opendns.com:443/dns-query
 [/chubun.com/]https://doh.opendns.com:443/dns-query
 [/chuizi.net/]https://doh.opendns.com:443/dns-query
@@ -19549,6 +19550,7 @@ tls://doh.pub:853
 [/spike.com/]https://doh.opendns.com:443/dns-query
 [/spin808.com/]https://doh.opendns.com:443/dns-query
 [/spin868.com/]https://doh.opendns.com:443/dns-query
+[/spiritclubs.com/]https://doh.opendns.com:443/dns-query
 [/spiritofecstasy.com/]https://doh.opendns.com:443/dns-query
 [/spisicbukovica.hr/]https://doh.opendns.com:443/dns-query
 [/spizoo.com/]https://doh.opendns.com:443/dns-query
@@ -33799,6 +33801,7 @@ tls://doh.pub:853
 [/chrs.me.uk/]tls://dns.google:853
 [/chuang-yen.org/]tls://dns.google:853
 [/chuangcn.org/]tls://dns.google:853
+[/chubbysextgp.com/]tls://dns.google:853
 [/chubold.com/]tls://dns.google:853
 [/chubun.com/]tls://dns.google:853
 [/chuizi.net/]tls://dns.google:853
@@ -47619,6 +47622,7 @@ tls://doh.pub:853
 [/spike.com/]tls://dns.google:853
 [/spin808.com/]tls://dns.google:853
 [/spin868.com/]tls://dns.google:853
+[/spiritclubs.com/]tls://dns.google:853
 [/spiritofecstasy.com/]tls://dns.google:853
 [/spisicbukovica.hr/]tls://dns.google:853
 [/spizoo.com/]tls://dns.google:853
