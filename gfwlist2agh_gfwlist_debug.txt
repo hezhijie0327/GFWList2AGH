@@ -299,7 +299,6 @@ tls://doh.pub:853
 [/1785178.com/]https://doh.opendns.com:443/dns-query
 [/17pps.com/]https://doh.opendns.com:443/dns-query
 [/17t17p.com/]https://doh.opendns.com:443/dns-query
-[/17xtv.com/]https://doh.opendns.com:443/dns-query
 [/18123cpw.com/]https://doh.opendns.com:443/dns-query
 [/1818.net/]https://doh.opendns.com:443/dns-query
 [/1818luckluck.net/]https://doh.opendns.com:443/dns-query
@@ -3316,7 +3315,6 @@ tls://doh.pub:853
 [/bbb112.net/]https://doh.opendns.com:443/dns-query
 [/bbb26.net/]https://doh.opendns.com:443/dns-query
 [/bbb678.com/]https://doh.opendns.com:443/dns-query
-[/bbb858.com/]https://doh.opendns.com:443/dns-query
 [/bbc.co/]https://doh.opendns.com:443/dns-query
 [/bbc.co.uk/]https://doh.opendns.com:443/dns-query
 [/bbc.com/]https://doh.opendns.com:443/dns-query
@@ -4020,7 +4018,6 @@ tls://doh.pub:853
 [/blacked.com/]https://doh.opendns.com:443/dns-query
 [/blackfridaydrebeatsnew.com/]https://doh.opendns.com:443/dns-query
 [/blackfridaydrebeatsshop.com/]https://doh.opendns.com:443/dns-query
-[/blackis.net/]https://doh.opendns.com:443/dns-query
 [/blacklogic.com/]https://doh.opendns.com:443/dns-query
 [/blacksonblondes.com/]https://doh.opendns.com:443/dns-query
 [/blackstonespoliceservice.com/]https://doh.opendns.com:443/dns-query
@@ -28371,7 +28368,6 @@ tls://doh.pub:853
 [/1785178.com/]tls://dns.google:853
 [/17pps.com/]tls://dns.google:853
 [/17t17p.com/]tls://dns.google:853
-[/17xtv.com/]tls://dns.google:853
 [/18123cpw.com/]tls://dns.google:853
 [/1818.net/]tls://dns.google:853
 [/1818luckluck.net/]tls://dns.google:853
@@ -31388,7 +31384,6 @@ tls://doh.pub:853
 [/bbb112.net/]tls://dns.google:853
 [/bbb26.net/]tls://dns.google:853
 [/bbb678.com/]tls://dns.google:853
-[/bbb858.com/]tls://dns.google:853
 [/bbc.co/]tls://dns.google:853
 [/bbc.co.uk/]tls://dns.google:853
 [/bbc.com/]tls://dns.google:853
@@ -32092,7 +32087,6 @@ tls://doh.pub:853
 [/blacked.com/]tls://dns.google:853
 [/blackfridaydrebeatsnew.com/]tls://dns.google:853
 [/blackfridaydrebeatsshop.com/]tls://dns.google:853
-[/blackis.net/]tls://dns.google:853
 [/blacklogic.com/]tls://dns.google:853
 [/blacksonblondes.com/]tls://dns.google:853
 [/blackstonespoliceservice.com/]tls://dns.google:853
