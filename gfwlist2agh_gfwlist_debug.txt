@@ -3403,7 +3403,6 @@ tls://doh.pub:853
 [/bcast.co.nz/]https://doh.opendns.com:443/dns-query
 [/bccard.xyz/]https://doh.opendns.com:443/dns-query
 [/bcchinese.net/]https://doh.opendns.com:443/dns-query
-[/bccp6666.com/]https://doh.opendns.com:443/dns-query
 [/bcex.ca/]https://doh.opendns.com:443/dns-query
 [/bckbc.com/]https://doh.opendns.com:443/dns-query
 [/bcleg.com/]https://doh.opendns.com:443/dns-query
@@ -31472,7 +31471,6 @@ tls://doh.pub:853
 [/bcast.co.nz/]tls://dns.google:853
 [/bccard.xyz/]tls://dns.google:853
 [/bcchinese.net/]tls://dns.google:853
-[/bccp6666.com/]tls://dns.google:853
 [/bcex.ca/]tls://dns.google:853
 [/bckbc.com/]tls://dns.google:853
 [/bcleg.com/]tls://dns.google:853
