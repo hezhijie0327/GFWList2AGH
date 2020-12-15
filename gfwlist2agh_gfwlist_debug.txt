@@ -378,6 +378,7 @@ tls://doh.pub:853
 [/1dpw.com/]https://doh.opendns.com:443/dns-query
 [/1drv.com/]https://doh.opendns.com:443/dns-query
 [/1drv.ms/]https://doh.opendns.com:443/dns-query
+[/1dumb.com/]https://doh.opendns.com:443/dns-query
 [/1eew.com/]https://doh.opendns.com:443/dns-query
 [/1ittlecup.com/]https://doh.opendns.com:443/dns-query
 [/1jjdg2.vip/]https://doh.opendns.com:443/dns-query
@@ -10841,6 +10842,7 @@ tls://doh.pub:853
 [/headphonesbeatsbydre.com/]https://doh.opendns.com:443/dns-query
 [/headphoneses.com/]https://doh.opendns.com:443/dns-query
 [/headphonesretailer.com/]https://doh.opendns.com:443/dns-query
+[/headset987.com/]https://doh.opendns.com:443/dns-query
 [/health.businessweekly.com.tw/]https://doh.opendns.com:443/dns-query
 [/health2.fun/]https://doh.opendns.com:443/dns-query
 [/health2.icu/]https://doh.opendns.com:443/dns-query
@@ -28446,6 +28448,7 @@ tls://doh.pub:853
 [/1dpw.com/]tls://dns.google:853
 [/1drv.com/]tls://dns.google:853
 [/1drv.ms/]tls://dns.google:853
+[/1dumb.com/]tls://dns.google:853
 [/1eew.com/]tls://dns.google:853
 [/1ittlecup.com/]tls://dns.google:853
 [/1jjdg2.vip/]tls://dns.google:853
@@ -38909,6 +38912,7 @@ tls://doh.pub:853
 [/headphonesbeatsbydre.com/]tls://dns.google:853
 [/headphoneses.com/]tls://dns.google:853
 [/headphonesretailer.com/]tls://dns.google:853
+[/headset987.com/]tls://dns.google:853
 [/health.businessweekly.com.tw/]tls://dns.google:853
 [/health2.fun/]tls://dns.google:853
 [/health2.icu/]tls://dns.google:853
