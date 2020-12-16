@@ -125,6 +125,7 @@ tls://doh.pub:853
 [/1.bb6688.ws/]https://doh.opendns.com:443/dns-query
 [/10.eve.dyx.com/]https://doh.opendns.com:443/dns-query
 [/1000.tv/]https://doh.opendns.com:443/dns-query
+[/1000717.com/]https://doh.opendns.com:443/dns-query
 [/1000826.com/]https://doh.opendns.com:443/dns-query
 [/1000860006.com/]https://doh.opendns.com:443/dns-query
 [/1000giri.net/]https://doh.opendns.com:443/dns-query
@@ -1182,7 +1183,6 @@ tls://doh.pub:853
 [/7377.com/]https://doh.opendns.com:443/dns-query
 [/738bm.com/]https://doh.opendns.com:443/dns-query
 [/73999.02322.cc/]https://doh.opendns.com:443/dns-query
-[/73999z.com/]https://doh.opendns.com:443/dns-query
 [/739bm.com/]https://doh.opendns.com:443/dns-query
 [/73m4v.x.incapdns.net/]https://doh.opendns.com:443/dns-query
 [/742919.com/]https://doh.opendns.com:443/dns-query
@@ -28195,6 +28195,7 @@ tls://doh.pub:853
 [/1.bb6688.ws/]tls://dns.google:853
 [/10.eve.dyx.com/]tls://dns.google:853
 [/1000.tv/]tls://dns.google:853
+[/1000717.com/]tls://dns.google:853
 [/1000826.com/]tls://dns.google:853
 [/1000860006.com/]tls://dns.google:853
 [/1000giri.net/]tls://dns.google:853
@@ -29252,7 +29253,6 @@ tls://doh.pub:853
 [/7377.com/]tls://dns.google:853
 [/738bm.com/]tls://dns.google:853
 [/73999.02322.cc/]tls://dns.google:853
-[/73999z.com/]tls://dns.google:853
 [/739bm.com/]tls://dns.google:853
 [/73m4v.x.incapdns.net/]tls://dns.google:853
 [/742919.com/]tls://dns.google:853
