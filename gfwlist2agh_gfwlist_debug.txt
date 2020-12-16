@@ -410,6 +410,7 @@ tls://doh.pub:853
 [/2.cr.rs/]https://doh.opendns.com:443/dns-query
 [/2000717.com/]https://doh.opendns.com:443/dns-query
 [/2000fun.com/]https://doh.opendns.com:443/dns-query
+[/2000yl.com/]https://doh.opendns.com:443/dns-query
 [/2008xianzhang.info/]https://doh.opendns.com:443/dns-query
 [/2010hg.com/]https://doh.opendns.com:443/dns-query
 [/2013beatsbydrdreonline.com/]https://doh.opendns.com:443/dns-query
@@ -734,6 +735,7 @@ tls://doh.pub:853
 [/380033.com/]https://doh.opendns.com:443/dns-query
 [/383qq.net/]https://doh.opendns.com:443/dns-query
 [/383ww.net/]https://doh.opendns.com:443/dns-query
+[/38666567.com/]https://doh.opendns.com:443/dns-query
 [/38666876.com/]https://doh.opendns.com:443/dns-query
 [/387.am/]https://doh.opendns.com:443/dns-query
 [/38777.com/]https://doh.opendns.com:443/dns-query
@@ -28480,6 +28482,7 @@ tls://doh.pub:853
 [/2.cr.rs/]tls://dns.google:853
 [/2000717.com/]tls://dns.google:853
 [/2000fun.com/]tls://dns.google:853
+[/2000yl.com/]tls://dns.google:853
 [/2008xianzhang.info/]tls://dns.google:853
 [/2010hg.com/]tls://dns.google:853
 [/2013beatsbydrdreonline.com/]tls://dns.google:853
@@ -28804,6 +28807,7 @@ tls://doh.pub:853
 [/380033.com/]tls://dns.google:853
 [/383qq.net/]tls://dns.google:853
 [/383ww.net/]tls://dns.google:853
+[/38666567.com/]tls://dns.google:853
 [/38666876.com/]tls://dns.google:853
 [/387.am/]tls://dns.google:853
 [/38777.com/]tls://dns.google:853
