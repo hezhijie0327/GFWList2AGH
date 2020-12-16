@@ -1407,6 +1407,7 @@ tls://doh.pub:853
 [/886666.com/]https://doh.opendns.com:443/dns-query
 [/8870.com/]https://doh.opendns.com:443/dns-query
 [/887he.com/]https://doh.opendns.com:443/dns-query
+[/887yp.com/]https://doh.opendns.com:443/dns-query
 [/888.com/]https://doh.opendns.com:443/dns-query
 [/888.etowns.org/]https://doh.opendns.com:443/dns-query
 [/888.gl000.com/]https://doh.opendns.com:443/dns-query
@@ -29479,6 +29480,7 @@ tls://doh.pub:853
 [/886666.com/]tls://dns.google:853
 [/8870.com/]tls://dns.google:853
 [/887he.com/]tls://dns.google:853
+[/887yp.com/]tls://dns.google:853
 [/888.com/]tls://dns.google:853
 [/888.etowns.org/]tls://dns.google:853
 [/888.gl000.com/]tls://dns.google:853
