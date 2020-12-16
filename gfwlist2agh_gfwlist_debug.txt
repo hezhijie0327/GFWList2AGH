@@ -12,6 +12,7 @@ tls://doh.pub:853
 [/001lv.com/]https://doh.opendns.com:443/dns-query
 [/002.com/]https://doh.opendns.com:443/dns-query
 [/002blr.com/]https://doh.opendns.com:443/dns-query
+[/002tcw.com/]https://doh.opendns.com:443/dns-query
 [/00365365.com/]https://doh.opendns.com:443/dns-query
 [/004904.com/]https://doh.opendns.com:443/dns-query
 [/0055msc.com/]https://doh.opendns.com:443/dns-query
@@ -354,6 +355,7 @@ tls://doh.pub:853
 [/1911900.com/]https://doh.opendns.com:443/dns-query
 [/192.com/]https://doh.opendns.com:443/dns-query
 [/19463333.com/]https://doh.opendns.com:443/dns-query
+[/1949er.org/]https://doh.opendns.com:443/dns-query
 [/1952222.com/]https://doh.opendns.com:443/dns-query
 [/195aaa195.com/]https://doh.opendns.com:443/dns-query
 [/195aaaa195.com/]https://doh.opendns.com:443/dns-query
@@ -925,7 +927,6 @@ tls://doh.pub:853
 [/52news.chinatimes.com/]https://doh.opendns.com:443/dns-query
 [/52sod.co/]https://doh.opendns.com:443/dns-query
 [/52ssr.cn/]https://doh.opendns.com:443/dns-query
-[/52ull.com/]https://doh.opendns.com:443/dns-query
 [/52xr.net/]https://doh.opendns.com:443/dns-query
 [/52xtv.net/]https://doh.opendns.com:443/dns-query
 [/53.etowns.net/]https://doh.opendns.com:443/dns-query
@@ -3854,7 +3855,6 @@ tls://doh.pub:853
 [/bi-si2.xyz/]https://doh.opendns.com:443/dns-query
 [/bi-si777.xyz/]https://doh.opendns.com:443/dns-query
 [/bi.tvbeee.com/]https://doh.opendns.com:443/dns-query
-[/bianlei.com/]https://doh.opendns.com:443/dns-query
 [/biblesforamerica.org/]https://doh.opendns.com:443/dns-query
 [/bibox.com/]https://doh.opendns.com:443/dns-query
 [/bichosout.cl/]https://doh.opendns.com:443/dns-query
@@ -28085,6 +28085,7 @@ tls://doh.pub:853
 [/001lv.com/]tls://dns.google:853
 [/002.com/]tls://dns.google:853
 [/002blr.com/]tls://dns.google:853
+[/002tcw.com/]tls://dns.google:853
 [/00365365.com/]tls://dns.google:853
 [/004904.com/]tls://dns.google:853
 [/0055msc.com/]tls://dns.google:853
@@ -28427,6 +28428,7 @@ tls://doh.pub:853
 [/1911900.com/]tls://dns.google:853
 [/192.com/]tls://dns.google:853
 [/19463333.com/]tls://dns.google:853
+[/1949er.org/]tls://dns.google:853
 [/1952222.com/]tls://dns.google:853
 [/195aaa195.com/]tls://dns.google:853
 [/195aaaa195.com/]tls://dns.google:853
@@ -28998,7 +29000,6 @@ tls://doh.pub:853
 [/52news.chinatimes.com/]tls://dns.google:853
 [/52sod.co/]tls://dns.google:853
 [/52ssr.cn/]tls://dns.google:853
-[/52ull.com/]tls://dns.google:853
 [/52xr.net/]tls://dns.google:853
 [/52xtv.net/]tls://dns.google:853
 [/53.etowns.net/]tls://dns.google:853
@@ -31927,7 +31928,6 @@ tls://doh.pub:853
 [/bi-si2.xyz/]tls://dns.google:853
 [/bi-si777.xyz/]tls://dns.google:853
 [/bi.tvbeee.com/]tls://dns.google:853
-[/bianlei.com/]tls://dns.google:853
 [/biblesforamerica.org/]tls://dns.google:853
 [/bibox.com/]tls://dns.google:853
 [/bichosout.cl/]tls://dns.google:853
