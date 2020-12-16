@@ -3415,7 +3415,6 @@ tls://doh.pub:853
 [/bd275.com/]https://doh.opendns.com:443/dns-query
 [/bd302.com/]https://doh.opendns.com:443/dns-query
 [/bd537.com/]https://doh.opendns.com:443/dns-query
-[/bd625.com/]https://doh.opendns.com:443/dns-query
 [/bd739.com/]https://doh.opendns.com:443/dns-query
 [/bd790.com/]https://doh.opendns.com:443/dns-query
 [/bd835.com/]https://doh.opendns.com:443/dns-query
@@ -31486,7 +31485,6 @@ tls://doh.pub:853
 [/bd275.com/]tls://dns.google:853
 [/bd302.com/]tls://dns.google:853
 [/bd537.com/]tls://dns.google:853
-[/bd625.com/]tls://dns.google:853
 [/bd739.com/]tls://dns.google:853
 [/bd790.com/]tls://dns.google:853
 [/bd835.com/]tls://dns.google:853
