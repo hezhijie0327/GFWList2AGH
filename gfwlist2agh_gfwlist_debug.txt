@@ -14365,6 +14365,7 @@ tls://doh.pub:853
 [/meibath.com/]https://doh.opendns.com:443/dns-query
 [/meijer.com/]https://doh.opendns.com:443/dns-query
 [/meirifuli.org/]https://doh.opendns.com:443/dns-query
+[/meirixiaochao.com/]https://doh.opendns.com:443/dns-query
 [/melbournetibetan.com/]https://doh.opendns.com:443/dns-query
 [/meltdownintibet.com/]https://doh.opendns.com:443/dns-query
 [/meltoday.com/]https://doh.opendns.com:443/dns-query
@@ -42438,6 +42439,7 @@ tls://doh.pub:853
 [/meibath.com/]tls://dns.google:853
 [/meijer.com/]tls://dns.google:853
 [/meirifuli.org/]tls://dns.google:853
+[/meirixiaochao.com/]tls://dns.google:853
 [/melbournetibetan.com/]tls://dns.google:853
 [/meltdownintibet.com/]tls://dns.google:853
 [/meltoday.com/]tls://dns.google:853
