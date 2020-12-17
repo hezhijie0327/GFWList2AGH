@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Current Version: 1.0.5
+# Current Version: 1.0.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh
@@ -55,7 +55,7 @@ function GenerateDefaultRuntimeScript() {
     echo '#!/bin/sh' > /etc/dnsproxy/conf/runtime.sh
     echo "dnsproxy ${MODE:---all-servers} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --listen=${LISTEN:-0.0.0.0} --ratelimit=${RATELIMIT:-500}" '\' >> /etc/dnsproxy/conf/runtime.sh
-    echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=65536" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=67108864" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --https-port=${HTTPSPORT:-0} --port=${PORT:-53} --quic-port=${QUICPORT:-0} --tls-port=${TLSPORT:-0}" '\' >> /etc/dnsproxy/conf/runtime.sh
     wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_${VERSION:-combine}.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
     echo "    --bootstrap=${BOOTSTRAP:-223.5.5.5:53} --fallback=${FALLBACK:-223.6.6.6:53}" '\' >> /etc/dnsproxy/conf/runtime.sh
@@ -65,7 +65,7 @@ function GenerateEncryptRuntimeScript() {
     echo '#!/bin/bash' > /etc/dnsproxy/conf/runtime.sh
     echo "dnsproxy ${MODE:---all-servers} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --listen=${LISTEN:-0.0.0.0} --ratelimit=${RATELIMIT:-500}" '\' >> /etc/dnsproxy/conf/runtime.sh
-    echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=65536" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=67108864" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --https-port=${HTTPSPORT:-443} --port=${PORT:-53} --quic-port=${QUICPORT:-784} --tls-port=${TLSPORT:-853}" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --tls-crt=/etc/dnsproxy/cert/${TLSCRT:-fullchain.pem} --tls-key=/etc/dnsproxy/cert/${TLSKEY:-privkey.pem}" '\' >> /etc/dnsproxy/conf/runtime.sh
     wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_combine_debug.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
