@@ -162,6 +162,7 @@ tls://doh.pub:853
 [/10bo10000.com/]https://doh.opendns.com:443/dns-query
 [/10bo10111.com/]https://doh.opendns.com:443/dns-query
 [/10bo8118.com/]https://doh.opendns.com:443/dns-query
+[/10bo88.com/]https://doh.opendns.com:443/dns-query
 [/10bobetbo.com/]https://doh.opendns.com:443/dns-query
 [/10bocn.com/]https://doh.opendns.com:443/dns-query
 [/10c.pat.flnet.org/]https://doh.opendns.com:443/dns-query
@@ -27819,6 +27820,7 @@ tls://doh.pub:853
 [/10bo10000.com/]tls://dns.google:853
 [/10bo10111.com/]tls://dns.google:853
 [/10bo8118.com/]tls://dns.google:853
+[/10bo88.com/]tls://dns.google:853
 [/10bobetbo.com/]tls://dns.google:853
 [/10bocn.com/]tls://dns.google:853
 [/10c.pat.flnet.org/]tls://dns.google:853
