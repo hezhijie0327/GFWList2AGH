@@ -1,15 +1,16 @@
 #!/bin/sh
 
-# Current Version: 1.0.9
+# Current Version: 1.1.0
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -e enable -v combine -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
+# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -d disable -e enable -v combine -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
 
 ## Parameter
-while getopts b:c:e:f:h:k:l:m:p:q:r:t:v GetParameter; do
+while getopts b:c:d:e:f:h:k:l:m:p:q:r:t:u:v GetParameter; do
     case ${GetParameter} in
         b) BOOTSTRAP="${OPTARG:-223.5.5.5:53}";;
         c) TLSCRT="${OPTARG:-fullchain.pem}";;
+        d) DEBUG="${OPTARG:-disable}";;
         e) ENCRYPT="${OPTARG:-disable}";;
         f) FALLBACK="${OPTARG:-223.6.6.6:53}";;
         h) HTTPSPORT="${OPTARG}";;
@@ -20,6 +21,7 @@ while getopts b:c:e:f:h:k:l:m:p:q:r:t:v GetParameter; do
         q) QUICPORT="${OPTARG}";;
         r) RATELIMIT="${OPTARG:-500}";;
         t) TLSPORT="${OPTARG}";;
+        u) UPSTEAM="${OPTARG:127.0.0.1:5353}";;
         v) VERSION="${OPTARG:-combine}";;
     esac
 done
@@ -50,6 +52,16 @@ function CheckEnvironment() {
         fi
     fi
 }
+# Generate Debug Runtime Script
+function GenerateDebugRuntimeScript() {
+    echo '#!/bin/sh' > /etc/dnsproxy/conf/runtime.sh
+    echo "dnsproxy ${MODE} --cache --edns --refuse-any --verbose" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --listen=${LISTEN} --ratelimit=${RATELIMIT}" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=67108864" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --https-port=${HTTPSPORT:-0} --port=${PORT} --quic-port=${QUICPORT:-0} --tls-port=${TLSPORT:-0}" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --upstream=${UPSTEAM}" '\' >> /etc/dnsproxy/conf/runtime.sh
+    echo "    --bootstrap=${BOOTSTRAP} --fallback=${FALLBACK}" '\' >> /etc/dnsproxy/conf/runtime.sh
+}
 # Generate Default Runtime Script
 function GenerateDefaultRuntimeScript() {
     echo '#!/bin/sh' > /etc/dnsproxy/conf/runtime.sh
@@ -73,10 +85,16 @@ function GenerateEncryptRuntimeScript() {
 }
 # Generate Runtime Script
 function GenerateRuntimeScript() {
-    if [ "${ENCRYPT}" == "disable" ]; then
-        GenerateDefaultRuntimeScript
-    elif [ "${ENCRYPT}" == "enable" ]; then
-        GenerateEncryptRuntimeScript
+    if [ "${DEBUG}" == "disable" ]; then
+        if [ "${ENCRYPT}" == "disable" ]; then
+            GenerateDefaultRuntimeScript
+        elif [ "${ENCRYPT}" == "enable" ]; then
+            GenerateEncryptRuntimeScript
+        else
+            exit 1
+        fi
+    elif [ "${DEBUG}" == "enable" ]; then
+        GenerateDebugRuntimeScript
     else
         exit 1
     fi
