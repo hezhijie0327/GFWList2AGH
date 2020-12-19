@@ -407,7 +407,6 @@ tls://doh.pub:853
 [/2-ps.googleusercontent.com/]https://doh.opendns.com:443/dns-query
 [/2.4.je/]https://doh.opendns.com:443/dns-query
 [/2.cr.rs/]https://doh.opendns.com:443/dns-query
-[/2000717.com/]https://doh.opendns.com:443/dns-query
 [/2000fun.com/]https://doh.opendns.com:443/dns-query
 [/2000yl.com/]https://doh.opendns.com:443/dns-query
 [/2008xianzhang.info/]https://doh.opendns.com:443/dns-query
@@ -20878,6 +20877,7 @@ tls://doh.pub:853
 [/twishort.com/]https://doh.opendns.com:443/dns-query
 [/twistar.cc/]https://doh.opendns.com:443/dns-query
 [/twister.net.co/]https://doh.opendns.com:443/dns-query
+[/twisterio.com/]https://doh.opendns.com:443/dns-query
 [/twisternow.com/]https://doh.opendns.com:443/dns-query
 [/twistory.net/]https://doh.opendns.com:443/dns-query
 [/twistys.com/]https://doh.opendns.com:443/dns-query
@@ -28065,7 +28065,6 @@ tls://doh.pub:853
 [/2-ps.googleusercontent.com/]tls://dns.google:853
 [/2.4.je/]tls://dns.google:853
 [/2.cr.rs/]tls://dns.google:853
-[/2000717.com/]tls://dns.google:853
 [/2000fun.com/]tls://dns.google:853
 [/2000yl.com/]tls://dns.google:853
 [/2008xianzhang.info/]tls://dns.google:853
@@ -48536,6 +48535,7 @@ tls://doh.pub:853
 [/twishort.com/]tls://dns.google:853
 [/twistar.cc/]tls://dns.google:853
 [/twister.net.co/]tls://dns.google:853
+[/twisterio.com/]tls://dns.google:853
 [/twisternow.com/]tls://dns.google:853
 [/twistory.net/]tls://dns.google:853
 [/twistys.com/]tls://dns.google:853
