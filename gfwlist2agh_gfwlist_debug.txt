@@ -9432,6 +9432,7 @@ tls://doh.pub:853
 [/furbo.org/]https://doh.opendns.com:443/dns-query
 [/furhhdl.org/]https://doh.opendns.com:443/dns-query
 [/furinkan.com/]https://doh.opendns.com:443/dns-query
+[/furl.net/]https://doh.opendns.com:443/dns-query
 [/fury.blog/]https://doh.opendns.com:443/dns-query
 [/fury.co/]https://doh.opendns.com:443/dns-query
 [/fury.dev/]https://doh.opendns.com:443/dns-query
@@ -37090,6 +37091,7 @@ tls://doh.pub:853
 [/furbo.org/]tls://dns.google:853
 [/furhhdl.org/]tls://dns.google:853
 [/furinkan.com/]tls://dns.google:853
+[/furl.net/]tls://dns.google:853
 [/fury.blog/]tls://dns.google:853
 [/fury.co/]tls://dns.google:853
 [/fury.dev/]tls://dns.google:853
