@@ -607,7 +607,6 @@ tls://doh.pub:853
 [/2shared.com/]https://doh.opendns.com:443/dns-query
 [/2st8.ch/]https://doh.opendns.com:443/dns-query
 [/2tj.com/]https://doh.opendns.com:443/dns-query
-[/2waky.com/]https://doh.opendns.com:443/dns-query
 [/2yhgj.com/]https://doh.opendns.com:443/dns-query
 [/3-a.net/]https://doh.opendns.com:443/dns-query
 [/3-ps.googleusercontent.com/]https://doh.opendns.com:443/dns-query
@@ -28266,7 +28265,6 @@ tls://doh.pub:853
 [/2shared.com/]tls://dns.google:853
 [/2st8.ch/]tls://dns.google:853
 [/2tj.com/]tls://dns.google:853
-[/2waky.com/]tls://dns.google:853
 [/2yhgj.com/]tls://dns.google:853
 [/3-a.net/]tls://dns.google:853
 [/3-ps.googleusercontent.com/]tls://dns.google:853
