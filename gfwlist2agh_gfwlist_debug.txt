@@ -220,6 +220,7 @@ tls://doh.pub:853
 [/12vpn.com/]https://doh.opendns.com:443/dns-query
 [/12vpn.net/]https://doh.opendns.com:443/dns-query
 [/1300kai.com/]https://doh.opendns.com:443/dns-query
+[/130599.com/]https://doh.opendns.com:443/dns-query
 [/1314.4irc.com/]https://doh.opendns.com:443/dns-query
 [/1337.cx/]https://doh.opendns.com:443/dns-query
 [/1365.com/]https://doh.opendns.com:443/dns-query
@@ -981,6 +982,7 @@ tls://doh.pub:853
 [/566.biz/]https://doh.opendns.com:443/dns-query
 [/567.etowns.org/]https://doh.opendns.com:443/dns-query
 [/56cun04.jigsy.com/]https://doh.opendns.com:443/dns-query
+[/57138.com/]https://doh.opendns.com:443/dns-query
 [/576.slyip.net/]https://doh.opendns.com:443/dns-query
 [/576166i.com/]https://doh.opendns.com:443/dns-query
 [/579.flnet.org/]https://doh.opendns.com:443/dns-query
@@ -27878,6 +27880,7 @@ tls://doh.pub:853
 [/12vpn.com/]tls://dns.google:853
 [/12vpn.net/]tls://dns.google:853
 [/1300kai.com/]tls://dns.google:853
+[/130599.com/]tls://dns.google:853
 [/1314.4irc.com/]tls://dns.google:853
 [/1337.cx/]tls://dns.google:853
 [/1365.com/]tls://dns.google:853
@@ -28639,6 +28642,7 @@ tls://doh.pub:853
 [/566.biz/]tls://dns.google:853
 [/567.etowns.org/]tls://dns.google:853
 [/56cun04.jigsy.com/]tls://dns.google:853
+[/57138.com/]tls://dns.google:853
 [/576.slyip.net/]tls://dns.google:853
 [/576166i.com/]tls://dns.google:853
 [/579.flnet.org/]tls://dns.google:853
