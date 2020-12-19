@@ -511,7 +511,6 @@ tls://doh.pub:853
 [/2365a.com/]https://doh.opendns.com:443/dns-query
 [/237rr.com/]https://doh.opendns.com:443/dns-query
 [/237yu.com/]https://doh.opendns.com:443/dns-query
-[/24.2waky.com/]https://doh.opendns.com:443/dns-query
 [/24.dns2.us/]https://doh.opendns.com:443/dns-query
 [/24.now-ip.net/]https://doh.opendns.com:443/dns-query
 [/24.slyip.net/]https://doh.opendns.com:443/dns-query
@@ -28171,7 +28170,6 @@ tls://doh.pub:853
 [/2365a.com/]tls://dns.google:853
 [/237rr.com/]tls://dns.google:853
 [/237yu.com/]tls://dns.google:853
-[/24.2waky.com/]tls://dns.google:853
 [/24.dns2.us/]tls://dns.google:853
 [/24.now-ip.net/]tls://dns.google:853
 [/24.slyip.net/]tls://dns.google:853
