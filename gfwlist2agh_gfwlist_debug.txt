@@ -494,7 +494,6 @@ tls://doh.pub:853
 [/22find.com/]https://doh.opendns.com:443/dns-query
 [/22gg940.com/]https://doh.opendns.com:443/dns-query
 [/22jinsha.com/]https://doh.opendns.com:443/dns-query
-[/22pj009.com/]https://doh.opendns.com:443/dns-query
 [/22ppk.com/]https://doh.opendns.com:443/dns-query
 [/22xtv.com/]https://doh.opendns.com:443/dns-query
 [/23.25u.com/]https://doh.opendns.com:443/dns-query
@@ -28152,7 +28151,6 @@ tls://doh.pub:853
 [/22find.com/]tls://dns.google:853
 [/22gg940.com/]tls://dns.google:853
 [/22jinsha.com/]tls://dns.google:853
-[/22pj009.com/]tls://dns.google:853
 [/22ppk.com/]tls://dns.google:853
 [/22xtv.com/]tls://dns.google:853
 [/23.25u.com/]tls://dns.google:853
