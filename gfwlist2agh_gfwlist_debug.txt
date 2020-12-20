@@ -4776,7 +4776,6 @@ tls://doh.pub:853
 [/bypasskey.com/]https://doh.opendns.com:443/dns-query
 [/bypassthe.net/]https://doh.opendns.com:443/dns-query
 [/bypassy.com/]https://doh.opendns.com:443/dns-query
-[/byt0011.com/]https://doh.opendns.com:443/dns-query
 [/byt0022.com/]https://doh.opendns.com:443/dns-query
 [/byt010.com/]https://doh.opendns.com:443/dns-query
 [/byt020.com/]https://doh.opendns.com:443/dns-query
@@ -32435,7 +32434,6 @@ tls://doh.pub:853
 [/bypasskey.com/]tls://dns.google:853
 [/bypassthe.net/]tls://dns.google:853
 [/bypassy.com/]tls://dns.google:853
-[/byt0011.com/]tls://dns.google:853
 [/byt0022.com/]tls://dns.google:853
 [/byt010.com/]tls://dns.google:853
 [/byt020.com/]tls://dns.google:853
