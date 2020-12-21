@@ -2929,7 +2929,6 @@ tls://doh.pub:853
 [/avilab.com.mx/]https://doh.opendns.com:443/dns-query
 [/avinetworks.com/]https://doh.opendns.com:443/dns-query
 [/avinin.com/]https://doh.opendns.com:443/dns-query
-[/avjoy.me/]https://doh.opendns.com:443/dns-query
 [/avl.box.com/]https://doh.opendns.com:443/dns-query
 [/avmo.pw/]https://doh.opendns.com:443/dns-query
 [/avmoo.com/]https://doh.opendns.com:443/dns-query
@@ -30580,7 +30579,6 @@ tls://doh.pub:853
 [/avilab.com.mx/]tls://dns.google:853
 [/avinetworks.com/]tls://dns.google:853
 [/avinin.com/]tls://dns.google:853
-[/avjoy.me/]tls://dns.google:853
 [/avl.box.com/]tls://dns.google:853
 [/avmo.pw/]tls://dns.google:853
 [/avmoo.com/]tls://dns.google:853
