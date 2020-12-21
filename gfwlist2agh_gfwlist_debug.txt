@@ -743,7 +743,6 @@ tls://doh.pub:853
 [/39898.com/]https://doh.opendns.com:443/dns-query
 [/399699.com/]https://doh.opendns.com:443/dns-query
 [/3a5a.com/]https://doh.opendns.com:443/dns-query
-[/3ambusiness.com.au/]https://doh.opendns.com:443/dns-query
 [/3amgj.com/]https://doh.opendns.com:443/dns-query
 [/3animalsextube.com/]https://doh.opendns.com:443/dns-query
 [/3arabtv.com/]https://doh.opendns.com:443/dns-query
@@ -1285,7 +1284,6 @@ tls://doh.pub:853
 [/829882.com/]https://doh.opendns.com:443/dns-query
 [/829886.com/]https://doh.opendns.com:443/dns-query
 [/83.b0ne.com/]https://doh.opendns.com:443/dns-query
-[/83374.com/]https://doh.opendns.com:443/dns-query
 [/835dd.net/]https://doh.opendns.com:443/dns-query
 [/835hhh.net/]https://doh.opendns.com:443/dns-query
 [/835iii.net/]https://doh.opendns.com:443/dns-query
@@ -4962,7 +4960,6 @@ tls://doh.pub:853
 [/calibre-ebook.com/]https://doh.opendns.com:443/dns-query
 [/callersbane.com/]https://doh.opendns.com:443/dns-query
 [/callhulu.com/]https://doh.opendns.com:443/dns-query
-[/calvappd.me/]https://doh.opendns.com:443/dns-query
 [/cam4.be/]https://doh.opendns.com:443/dns-query
 [/cam4.com/]https://doh.opendns.com:443/dns-query
 [/cam4.jp/]https://doh.opendns.com:443/dns-query
@@ -28397,7 +28394,6 @@ tls://doh.pub:853
 [/39898.com/]tls://dns.google:853
 [/399699.com/]tls://dns.google:853
 [/3a5a.com/]tls://dns.google:853
-[/3ambusiness.com.au/]tls://dns.google:853
 [/3amgj.com/]tls://dns.google:853
 [/3animalsextube.com/]tls://dns.google:853
 [/3arabtv.com/]tls://dns.google:853
@@ -28939,7 +28935,6 @@ tls://doh.pub:853
 [/829882.com/]tls://dns.google:853
 [/829886.com/]tls://dns.google:853
 [/83.b0ne.com/]tls://dns.google:853
-[/83374.com/]tls://dns.google:853
 [/835dd.net/]tls://dns.google:853
 [/835hhh.net/]tls://dns.google:853
 [/835iii.net/]tls://dns.google:853
@@ -32616,7 +32611,6 @@ tls://doh.pub:853
 [/calibre-ebook.com/]tls://dns.google:853
 [/callersbane.com/]tls://dns.google:853
 [/callhulu.com/]tls://dns.google:853
-[/calvappd.me/]tls://dns.google:853
 [/cam4.be/]tls://dns.google:853
 [/cam4.com/]tls://dns.google:853
 [/cam4.jp/]tls://dns.google:853
