@@ -1356,7 +1356,6 @@ tls://doh.pub:853
 [/88857.org/]https://doh.opendns.com:443/dns-query
 [/888888xh.com/]https://doh.opendns.com:443/dns-query
 [/8888boma365.com/]https://doh.opendns.com:443/dns-query
-[/888bifa.com/]https://doh.opendns.com:443/dns-query
 [/888diao.com/]https://doh.opendns.com:443/dns-query
 [/888funcity.net/]https://doh.opendns.com:443/dns-query
 [/888poker.com/]https://doh.opendns.com:443/dns-query
@@ -5074,7 +5073,6 @@ tls://doh.pub:853
 [/casadeltibetbcn.org/]https://doh.opendns.com:443/dns-query
 [/casatibet.org.mx/]https://doh.opendns.com:443/dns-query
 [/cash-168.com/]https://doh.opendns.com:443/dns-query
-[/cash-168.net/]https://doh.opendns.com:443/dns-query
 [/cash.tbet88.com/]https://doh.opendns.com:443/dns-query
 [/cash2.com/]https://doh.opendns.com:443/dns-query
 [/cashier.cff888.com/]https://doh.opendns.com:443/dns-query
@@ -29013,7 +29011,6 @@ tls://doh.pub:853
 [/88857.org/]tls://dns.google:853
 [/888888xh.com/]tls://dns.google:853
 [/8888boma365.com/]tls://dns.google:853
-[/888bifa.com/]tls://dns.google:853
 [/888diao.com/]tls://dns.google:853
 [/888funcity.net/]tls://dns.google:853
 [/888poker.com/]tls://dns.google:853
@@ -32731,7 +32728,6 @@ tls://doh.pub:853
 [/casadeltibetbcn.org/]tls://dns.google:853
 [/casatibet.org.mx/]tls://dns.google:853
 [/cash-168.com/]tls://dns.google:853
-[/cash-168.net/]tls://dns.google:853
 [/cash.tbet88.com/]tls://dns.google:853
 [/cash2.com/]tls://dns.google:853
 [/cashier.cff888.com/]tls://dns.google:853
