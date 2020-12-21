@@ -4793,7 +4793,6 @@ tls://doh.pub:853
 [/c.win7.us/]https://doh.opendns.com:443/dns-query
 [/c.ygto.com/]https://doh.opendns.com:443/dns-query
 [/c100tibet.org/]https://doh.opendns.com:443/dns-query
-[/c1286.com/]https://doh.opendns.com:443/dns-query
 [/c155ee.com/]https://doh.opendns.com:443/dns-query
 [/c2.flnet.org/]https://doh.opendns.com:443/dns-query
 [/c2cx.com/]https://doh.opendns.com:443/dns-query
@@ -32448,7 +32447,6 @@ tls://doh.pub:853
 [/c.win7.us/]tls://dns.google:853
 [/c.ygto.com/]tls://dns.google:853
 [/c100tibet.org/]tls://dns.google:853
-[/c1286.com/]tls://dns.google:853
 [/c155ee.com/]tls://dns.google:853
 [/c2.flnet.org/]tls://dns.google:853
 [/c2cx.com/]tls://dns.google:853
