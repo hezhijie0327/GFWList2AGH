@@ -13796,6 +13796,7 @@ tls://doh.pub:853
 [/maiya3.com/]https://doh.opendns.com:443/dns-query
 [/makebettercode.com/]https://doh.opendns.com:443/dns-query
 [/makecode.org/]https://doh.opendns.com:443/dns-query
+[/makeeu.com/]https://doh.opendns.com:443/dns-query
 [/makeitopen.com/]https://doh.opendns.com:443/dns-query
 [/makemymood.com/]https://doh.opendns.com:443/dns-query
 [/makesenseofdata.com/]https://doh.opendns.com:443/dns-query
@@ -41444,6 +41445,7 @@ tls://doh.pub:853
 [/maiya3.com/]tls://dns.google:853
 [/makebettercode.com/]tls://dns.google:853
 [/makecode.org/]tls://dns.google:853
+[/makeeu.com/]tls://dns.google:853
 [/makeitopen.com/]tls://dns.google:853
 [/makemymood.com/]tls://dns.google:853
 [/makesenseofdata.com/]tls://dns.google:853
