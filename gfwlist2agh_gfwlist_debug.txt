@@ -518,7 +518,6 @@ tls://doh.pub:853
 [/2421js.com/]https://doh.opendns.com:443/dns-query
 [/244kk.com/]https://doh.opendns.com:443/dns-query
 [/245.slyip.net/]https://doh.opendns.com:443/dns-query
-[/24538.com/]https://doh.opendns.com:443/dns-query
 [/246.etowns.org/]https://doh.opendns.com:443/dns-query
 [/246.pcanywhere.net/]https://doh.opendns.com:443/dns-query
 [/247.slyip.net/]https://doh.opendns.com:443/dns-query
@@ -28167,7 +28166,6 @@ tls://doh.pub:853
 [/2421js.com/]tls://dns.google:853
 [/244kk.com/]tls://dns.google:853
 [/245.slyip.net/]tls://dns.google:853
-[/24538.com/]tls://dns.google:853
 [/246.etowns.org/]tls://dns.google:853
 [/246.pcanywhere.net/]tls://dns.google:853
 [/247.slyip.net/]tls://dns.google:853
