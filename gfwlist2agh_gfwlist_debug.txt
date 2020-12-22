@@ -1262,7 +1262,6 @@ tls://doh.pub:853
 [/82.effers.com/]https://doh.opendns.com:443/dns-query
 [/82.otzo.com/]https://doh.opendns.com:443/dns-query
 [/822.cc/]https://doh.opendns.com:443/dns-query
-[/82204.com/]https://doh.opendns.com:443/dns-query
 [/82553.com/]https://doh.opendns.com:443/dns-query
 [/8260077.com/]https://doh.opendns.com:443/dns-query
 [/8261101.com/]https://doh.opendns.com:443/dns-query
@@ -19911,6 +19910,7 @@ tls://doh.pub:853
 [/telegraph.co.uk/]https://doh.opendns.com:443/dns-query
 [/telekom.com/]https://doh.opendns.com:443/dns-query
 [/telephony.goog/]https://doh.opendns.com:443/dns-query
+[/teleplus.in/]https://doh.opendns.com:443/dns-query
 [/telesco.pe/]https://doh.opendns.com:443/dns-query
 [/telesell.com/]https://doh.opendns.com:443/dns-query
 [/teletrade-asia.com/]https://doh.opendns.com:443/dns-query
@@ -28911,7 +28911,6 @@ tls://doh.pub:853
 [/82.effers.com/]tls://dns.google:853
 [/82.otzo.com/]tls://dns.google:853
 [/822.cc/]tls://dns.google:853
-[/82204.com/]tls://dns.google:853
 [/82553.com/]tls://dns.google:853
 [/8260077.com/]tls://dns.google:853
 [/8261101.com/]tls://dns.google:853
@@ -47560,6 +47559,7 @@ tls://doh.pub:853
 [/telegraph.co.uk/]tls://dns.google:853
 [/telekom.com/]tls://dns.google:853
 [/telephony.goog/]tls://dns.google:853
+[/teleplus.in/]tls://dns.google:853
 [/telesco.pe/]tls://dns.google:853
 [/telesell.com/]tls://dns.google:853
 [/teletrade-asia.com/]tls://dns.google:853
