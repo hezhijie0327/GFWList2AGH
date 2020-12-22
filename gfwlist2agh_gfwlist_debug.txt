@@ -1405,7 +1405,6 @@ tls://doh.pub:853
 [/900days.cyaontheroad.com/]https://doh.opendns.com:443/dns-query
 [/907.suendigen.ml/]https://doh.opendns.com:443/dns-query
 [/908taiwan.org/]https://doh.opendns.com:443/dns-query
-[/9090cc.com/]https://doh.opendns.com:443/dns-query
 [/90x40.cl/]https://doh.opendns.com:443/dns-query
 [/91.51rmc.com/]https://doh.opendns.com:443/dns-query
 [/911919.com/]https://doh.opendns.com:443/dns-query
@@ -29055,7 +29054,6 @@ tls://doh.pub:853
 [/900days.cyaontheroad.com/]tls://dns.google:853
 [/907.suendigen.ml/]tls://dns.google:853
 [/908taiwan.org/]tls://dns.google:853
-[/9090cc.com/]tls://dns.google:853
 [/90x40.cl/]tls://dns.google:853
 [/91.51rmc.com/]tls://dns.google:853
 [/911919.com/]tls://dns.google:853
