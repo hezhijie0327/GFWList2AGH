@@ -1410,6 +1410,7 @@ tls://doh.pub:853
 [/9130.com/]https://doh.opendns.com:443/dns-query
 [/91av.us/]https://doh.opendns.com:443/dns-query
 [/91avv.cc/]https://doh.opendns.com:443/dns-query
+[/91cqmm.com/]https://doh.opendns.com:443/dns-query
 [/91dizhi.com/]https://doh.opendns.com:443/dns-query
 [/91pic.net/]https://doh.opendns.com:443/dns-query
 [/91porn.com/]https://doh.opendns.com:443/dns-query
@@ -1535,6 +1536,7 @@ tls://doh.pub:853
 [/999.aoke33.com/]https://doh.opendns.com:443/dns-query
 [/999.ba8880.com/]https://doh.opendns.com:443/dns-query
 [/999.cai87.com/]https://doh.opendns.com:443/dns-query
+[/999.ch3088.com/]https://doh.opendns.com:443/dns-query
 [/999.cyl7777.com/]https://doh.opendns.com:443/dns-query
 [/999.dlg567.com/]https://doh.opendns.com:443/dns-query
 [/999.dlg678.com/]https://doh.opendns.com:443/dns-query
@@ -3660,7 +3662,6 @@ tls://doh.pub:853
 [/bet98.com/]https://doh.opendns.com:443/dns-query
 [/bet999.com/]https://doh.opendns.com:443/dns-query
 [/betak.net/]https://doh.opendns.com:443/dns-query
-[/betboy.cc/]https://doh.opendns.com:443/dns-query
 [/betfair.com/]https://doh.opendns.com:443/dns-query
 [/betflag.it/]https://doh.opendns.com:443/dns-query
 [/beth.games/]https://doh.opendns.com:443/dns-query
@@ -29059,6 +29060,7 @@ tls://doh.pub:853
 [/9130.com/]tls://dns.google:853
 [/91av.us/]tls://dns.google:853
 [/91avv.cc/]tls://dns.google:853
+[/91cqmm.com/]tls://dns.google:853
 [/91dizhi.com/]tls://dns.google:853
 [/91pic.net/]tls://dns.google:853
 [/91porn.com/]tls://dns.google:853
@@ -29184,6 +29186,7 @@ tls://doh.pub:853
 [/999.aoke33.com/]tls://dns.google:853
 [/999.ba8880.com/]tls://dns.google:853
 [/999.cai87.com/]tls://dns.google:853
+[/999.ch3088.com/]tls://dns.google:853
 [/999.cyl7777.com/]tls://dns.google:853
 [/999.dlg567.com/]tls://dns.google:853
 [/999.dlg678.com/]tls://dns.google:853
@@ -31309,7 +31312,6 @@ tls://doh.pub:853
 [/bet98.com/]tls://dns.google:853
 [/bet999.com/]tls://dns.google:853
 [/betak.net/]tls://dns.google:853
-[/betboy.cc/]tls://dns.google:853
 [/betfair.com/]tls://dns.google:853
 [/betflag.it/]tls://dns.google:853
 [/beth.games/]tls://dns.google:853
