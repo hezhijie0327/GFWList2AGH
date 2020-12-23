@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.8
+# Current Version: 1.4.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -50,6 +50,8 @@ function GetData() {
 function AnalyseData() {
     cnacc_data=($(cat ./cnacc_domain.tmp ../data/data_cnacc.txt | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_data.tmp > ./cnacc_alive.tmp && cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ../data/data_gfwlist.txt | tr -d "|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_data.tmp > ./gfwlist_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_alive.tmp ./cnacc_alive.tmp | awk "{ print $2 }"))
     gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_alive.tmp ./gfwlist_alive.tmp | awk "{ print $2 }"))
+    lite_cnacc_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_alive.tmp ./cnacc_alive.tmp | rev | cut -d "." -f 1-2 | rev | sort | uniq | awk "{ print $2 }"))
+    lite_gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_alive.tmp ./gfwlist_alive.tmp | rev | cut -d "." -f 1-2 | rev | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
@@ -66,34 +68,52 @@ function OutputData() {
             0)
             for domestic_upstream_dns_task in "${!domestic_dns[@]}"; do
                 echo "${domestic_dns[$domestic_upstream_dns_task]}" >> ../gfwlist2agh_blacklist.txt
+                echo "${domestic_dns[$domestic_upstream_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
             done
             ;;
             1)
             for foreign_upstream_dns_task in "${!foreign_dns[@]}"; do
                 echo "${foreign_dns[$foreign_upstream_dns_task]}" >> ../gfwlist2agh_whitelist.txt
+                echo "${foreign_dns[$foreign_upstream_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
             done
             ;;
         esac
     done
     for domestic_dns_task in "${!domestic_dns[@]}"; do
         echo -n "[/" >> ../gfwlist2agh_blacklist.txt
+        echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
         echo -n "[/" >> ../gfwlist2agh_whitelist.txt
+        echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
         for cnacc_data_task in "${!cnacc_data[@]}"; do
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_blacklist.txt
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
+        for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
+            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
+        done
         echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_blacklist.txt
+        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
         echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist.txt
+        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
     done
     for foreign_dns_task in "${!foreign_dns[@]}"; do
         echo -n "[/" >> ../gfwlist2agh_blacklist.txt
+        echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
         echo -n "[/" >> ../gfwlist2agh_whitelist.txt
+        echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist.txt
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
+        for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
+            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
+        done
         echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist.txt
+        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
         echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_whitelist.txt
+        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
