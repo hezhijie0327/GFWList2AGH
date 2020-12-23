@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Current Version: 1.1.0
+# Current Version: 1.1.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -d disable -e enable -v combine -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
@@ -22,7 +22,7 @@ while getopts b:c:d:e:f:h:k:l:m:p:q:r:t:u:v GetParameter; do
         r) RATELIMIT="${OPTARG:-500}";;
         t) TLSPORT="${OPTARG}";;
         u) UPSTEAM="${OPTARG:127.0.0.1:5353}";;
-        v) VERSION="${OPTARG:-combine}";;
+        v) VERSION="${OPTARG:-blacklist}";;
     esac
 done
 
