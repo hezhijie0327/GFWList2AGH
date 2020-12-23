@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.7
+# Current Version: 1.4.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -53,63 +53,47 @@ function AnalyseData() {
 }
 # Output Data
 function OutputData() {
-    cnacc_dns=(
-        "tls://dns.alidns.com:853"
-        "tls://doh.pub:853"
-    )
-    combine_dns=(
-        "https://dns.alidns.com:443/dns-query"
+    domestic_dns=(
         "https://doh.pub:443/dns-query"
+        "tls://dns.alidns.com:853"
     )
-    gfwlist_dns=(
+    foreign_dns=(
         "https://doh.opendns.com:443/dns-query"
         "tls://dns.google:853"
     )
-    for (( upstream_dns_task = 0; upstream_dns_task < 3; upstream_dns_task++ )); do
+    for (( upstream_dns_task = 0; upstream_dns_task < 2; upstream_dns_task++ )); do
         case ${upstream_dns_task} in
             0)
-            for cnacc_upstream_dns_task in "${!gfwlist_dns[@]}"; do
-                echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc.txt
-                echo "${gfwlist_dns[$cnacc_upstream_dns_task]}" >> ../gfwlist2agh_cnacc_debug.txt
+            for domestic_upstream_dns_task in "${!domestic_dns[@]}"; do
+                echo "${domestic_dns[$domestic_upstream_dns_task]}" >> ../gfwlist2agh_blacklist.txt
             done
             ;;
             1)
-            for combine_upstream_dns_task in "${!combine_dns[@]}"; do
-                echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine.txt
-                echo "${combine_dns[$combine_upstream_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
-            done
-            ;;
-            2)
-            for gfwlist_upstream_dns_task in "${!cnacc_dns[@]}"; do
-                echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
-                echo "${cnacc_dns[$gfwlist_upstream_dns_task]}" >> ../gfwlist2agh_gfwlist_debug.txt
+            for foreign_upstream_dns_task in "${!foreign_dns[@]}"; do
+                echo "${foreign_dns[$foreign_upstream_dns_task]}" >> ../gfwlist2agh_whitelist.txt
             done
             ;;
         esac
     done
-    for cnacc_dns_task in "${!cnacc_dns[@]}"; do
-        echo -n "[/" >> ../gfwlist2agh_cnacc.txt
-        echo -n "[/" >> ../gfwlist2agh_combine.txt
+    for domestic_dns_task in "${!domestic_dns[@]}"; do
+        echo -n "[/" >> ../gfwlist2agh_blacklist.txt
+        echo -n "[/" >> ../gfwlist2agh_whitelist.txt
         for cnacc_data_task in "${!cnacc_data[@]}"; do
-            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc_debug.txt
-            echo "[/${cnacc_data[$cnacc_data_task]}/]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_cnacc.txt
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_combine.txt
+            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_blacklist.txt
+            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
-        echo -e "]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_cnacc.txt
-        echo -e "]${cnacc_dns[cnacc_dns_task]}" >> ../gfwlist2agh_combine.txt
+        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_blacklist.txt
+        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist.txt
     done
-    for gfwlist_dns_task in "${!gfwlist_dns[@]}"; do
-        echo -n "[/" >> ../gfwlist2agh_combine.txt
-        echo -n "[/" >> ../gfwlist2agh_gfwlist.txt
+    for foreign_dns_task in "${!foreign_dns[@]}"; do
+        echo -n "[/" >> ../gfwlist2agh_blacklist.txt
+        echo -n "[/" >> ../gfwlist2agh_whitelist.txt
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine_debug.txt
-            echo "[/${gfwlist_data[$gfwlist_data_task]}/]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist_debug.txt
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_combine.txt
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_gfwlist.txt
+            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist.txt
+            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
-        echo -e "]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_combine.txt
-        echo -e "]${gfwlist_dns[gfwlist_dns_task]}" >> ../gfwlist2agh_gfwlist.txt
+        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist.txt
+        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_whitelist.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
