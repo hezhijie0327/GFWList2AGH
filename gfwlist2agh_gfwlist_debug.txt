@@ -2136,7 +2136,6 @@ tls://doh.pub:853
 [/am357.com/]https://doh.opendns.com:443/dns-query
 [/am730.com.hk/]https://doh.opendns.com:443/dns-query
 [/am738.com/]https://doh.opendns.com:443/dns-query
-[/am777.com/]https://doh.opendns.com:443/dns-query
 [/amaaozn.com/]https://doh.opendns.com:443/dns-query
 [/amakings.com/]https://doh.opendns.com:443/dns-query
 [/amamanualofstyle.com/]https://doh.opendns.com:443/dns-query
@@ -2180,7 +2179,6 @@ tls://doh.pub:853
 [/amazonworkdocs.com/]https://doh.opendns.com:443/dns-query
 [/ambit.chat/]https://doh.opendns.com:443/dns-query
 [/ambitvpn.com/]https://doh.opendns.com:443/dns-query
-[/ambjl01.com/]https://doh.opendns.com:443/dns-query
 [/ambjl02.com/]https://doh.opendns.com:443/dns-query
 [/ambjl04.com/]https://doh.opendns.com:443/dns-query
 [/amcas.org/]https://doh.opendns.com:443/dns-query
@@ -4933,7 +4931,6 @@ tls://doh.pub:853
 [/cahi.com/]https://doh.opendns.com:443/dns-query
 [/cai-cai.me/]https://doh.opendns.com:443/dns-query
 [/cai8wan.com/]https://doh.opendns.com:443/dns-query
-[/cai950.com/]https://doh.opendns.com:443/dns-query
 [/caijinglengyan.com/]https://doh.opendns.com:443/dns-query
 [/caise888.com/]https://doh.opendns.com:443/dns-query
 [/calameo.com/]https://doh.opendns.com:443/dns-query
@@ -12843,6 +12840,7 @@ tls://doh.pub:853
 [/kknews.cc/]https://doh.opendns.com:443/dns-query
 [/kkp.org.hk/]https://doh.opendns.com:443/dns-query
 [/kkswami.com/]https://doh.opendns.com:443/dns-query
+[/kktix.com/]https://doh.opendns.com:443/dns-query
 [/kktv-theater.kk.stream/]https://doh.opendns.com:443/dns-query
 [/kktv.me/]https://doh.opendns.com:443/dns-query
 [/kl8888.com/]https://doh.opendns.com:443/dns-query
@@ -29786,7 +29784,6 @@ tls://doh.pub:853
 [/am357.com/]tls://dns.google:853
 [/am730.com.hk/]tls://dns.google:853
 [/am738.com/]tls://dns.google:853
-[/am777.com/]tls://dns.google:853
 [/amaaozn.com/]tls://dns.google:853
 [/amakings.com/]tls://dns.google:853
 [/amamanualofstyle.com/]tls://dns.google:853
@@ -29830,7 +29827,6 @@ tls://doh.pub:853
 [/amazonworkdocs.com/]tls://dns.google:853
 [/ambit.chat/]tls://dns.google:853
 [/ambitvpn.com/]tls://dns.google:853
-[/ambjl01.com/]tls://dns.google:853
 [/ambjl02.com/]tls://dns.google:853
 [/ambjl04.com/]tls://dns.google:853
 [/amcas.org/]tls://dns.google:853
@@ -32583,7 +32579,6 @@ tls://doh.pub:853
 [/cahi.com/]tls://dns.google:853
 [/cai-cai.me/]tls://dns.google:853
 [/cai8wan.com/]tls://dns.google:853
-[/cai950.com/]tls://dns.google:853
 [/caijinglengyan.com/]tls://dns.google:853
 [/caise888.com/]tls://dns.google:853
 [/calameo.com/]tls://dns.google:853
@@ -40493,6 +40488,7 @@ tls://doh.pub:853
 [/kknews.cc/]tls://dns.google:853
 [/kkp.org.hk/]tls://dns.google:853
 [/kkswami.com/]tls://dns.google:853
+[/kktix.com/]tls://dns.google:853
 [/kktv-theater.kk.stream/]tls://dns.google:853
 [/kktv.me/]tls://dns.google:853
 [/kl8888.com/]tls://dns.google:853
