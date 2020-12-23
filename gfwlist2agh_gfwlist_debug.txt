@@ -3190,6 +3190,7 @@ tls://doh.pub:853
 [/bbb112.net/]https://doh.opendns.com:443/dns-query
 [/bbb26.net/]https://doh.opendns.com:443/dns-query
 [/bbb678.com/]https://doh.opendns.com:443/dns-query
+[/bbb858.com/]https://doh.opendns.com:443/dns-query
 [/bbc.co/]https://doh.opendns.com:443/dns-query
 [/bbc.co.uk/]https://doh.opendns.com:443/dns-query
 [/bbc.com/]https://doh.opendns.com:443/dns-query
@@ -30838,6 +30839,7 @@ tls://doh.pub:853
 [/bbb112.net/]tls://dns.google:853
 [/bbb26.net/]tls://dns.google:853
 [/bbb678.com/]tls://dns.google:853
+[/bbb858.com/]tls://dns.google:853
 [/bbc.co/]tls://dns.google:853
 [/bbc.co.uk/]tls://dns.google:853
 [/bbc.com/]tls://dns.google:853
