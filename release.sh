@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.9
+# Current Version: 1.5.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -79,41 +79,49 @@ function OutputData() {
             ;;
         esac
     done
+    echo -n "[/" >> ../gfwlist2agh_blacklist.txt
+    echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
+    echo -n "[/" >> ../gfwlist2agh_whitelist.txt
+    echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
+    for cnacc_data_task in "${!cnacc_data[@]}"; do
+        echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_blacklist.txt
+    done
+    for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+        echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist.txt
+    done
+    for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+        echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
+    done
+    for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+        echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
+    done
+    echo -e "]#" >> ../gfwlist2agh_blacklist.txt
+    echo -e "]#" >> ../gfwlist2agh_blacklist_lite.txt
+    echo -e "]#" >> ../gfwlist2agh_whitelist.txt
+    echo -e "]#" >> ../gfwlist2agh_whitelist_lite.txt
     for domestic_dns_task in "${!domestic_dns[@]}"; do
-        echo -n "[/" >> ../gfwlist2agh_blacklist.txt
-        echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
         echo -n "[/" >> ../gfwlist2agh_whitelist.txt
         echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
         for cnacc_data_task in "${!cnacc_data[@]}"; do
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_blacklist.txt
             echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
         for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
             echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
         done
-        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_blacklist.txt
-        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
         echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist.txt
         echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
     done
     for foreign_dns_task in "${!foreign_dns[@]}"; do
         echo -n "[/" >> ../gfwlist2agh_blacklist.txt
         echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
-        echo -n "[/" >> ../gfwlist2agh_whitelist.txt
-        echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
             echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist.txt
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist.txt
         done
         for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
             echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
-            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
         done
         echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist.txt
         echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
-        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_whitelist.txt
-        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
