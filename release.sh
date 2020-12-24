@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.0
+# Current Version: 1.5.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -50,8 +50,8 @@ function GetData() {
 function AnalyseData() {
     cnacc_data=($(cat ./cnacc_domain.tmp ../data/data_cnacc.txt | sed 's/\/114\.114\.114\.114//g;s/server\=\///g' | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_data.tmp > ./cnacc_alive.tmp && cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ../data/data_gfwlist.txt | tr -d "|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_data.tmp > ./gfwlist_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_alive.tmp ./cnacc_alive.tmp | awk "{ print $2 }"))
     gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_alive.tmp ./gfwlist_alive.tmp | awk "{ print $2 }"))
-    lite_cnacc_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_alive.tmp ./cnacc_alive.tmp | rev | cut -d "." -f 1-2 | rev | sort | uniq | awk "{ print $2 }"))
-    lite_gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_alive.tmp ./gfwlist_alive.tmp | rev | cut -d "." -f 1-2 | rev | sort | uniq | awk "{ print $2 }"))
+    lite_cnacc_data=($(cat ./gfwlist_alive.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > lite_gfwlist_alive.tmp && cat ./cnacc_alive.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > lite_cnacc_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_gfwlist_alive.tmp ./lite_cnacc_alive.tmp | awk "{ print $2 }"))
+    lite_gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_cnacc_alive.tmp ./lite_gfwlist_alive.tmp | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {
