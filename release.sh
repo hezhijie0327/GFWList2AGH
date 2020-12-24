@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.1
+# Current Version: 1.5.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -53,6 +53,104 @@ function AnalyseData() {
     lite_cnacc_data=($(cat ./gfwlist_alive.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > lite_gfwlist_alive.tmp && cat ./cnacc_alive.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > lite_cnacc_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_gfwlist_alive.tmp ./lite_cnacc_alive.tmp | awk "{ print $2 }"))
     lite_gfwlist_data=($(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_cnacc_alive.tmp ./lite_gfwlist_alive.tmp | awk "{ print $2 }"))
 }
+# File Switch
+function FileSwitch() {
+    if [ "${generate_file}" == "blackwhite" ]; then
+        generate_temp="white"
+    elif [ "${generate_file}" == "whiteblack" ]; then
+        generate_temp="black"
+    else
+        generate_temp="${generate_file}"
+    fi
+}
+# Generate Default Upstream
+function GenerateDefaultUpstream() {
+    FileSwitch
+    if [ "${generate_temp}" == "black" ]; then
+        for domestic_dns_task in "${!domestic_dns[@]}"; do
+            echo "${domestic_dns[$domestic_dns_task]}" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+        done
+    elif [ "${generate_temp}" == "white" ]; then
+        for foreign_dns_task in "${!foreign_dns[@]}"; do
+            echo "${foreign_dns[$foreign_dns_task]}" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+        done
+    else
+        exit 1
+    fi
+}
+# Generate Rules
+function GenerateRules() {
+    function GenerateRulesHeader() {
+        echo -n "[/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+    }
+    function GenerateRulesBody() {
+        if [ "${generate_mode}" == "full" ] && [ "${generate_file}" == "black" ]; then
+            for cnacc_data_task in "${!cnacc_data[@]}"; do
+                echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "full" ] && [ "${generate_file}" == "blackwhite" ]; then
+            for cnacc_data_task in "${!cnacc_data[@]}"; do
+                echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "full" ] && [ "${generate_file}" == "white" ]; then
+            for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "full" ] && [ "${generate_file}" == "whiteblack" ]; then
+            for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "black" ]; then
+            for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "blackwhite" ]; then
+            for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "white" ]; then
+            for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        elif [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "whiteblack" ]; then
+            for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+            done
+        else
+            exit 1
+        fi
+    }
+    function GenerateRulesFooter() {
+        if [ "${dns_mode}" == "default" ]; then
+            echo -e "]#" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+        elif [ "${dns_mode}" == "domestic" ]; then
+            echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+        elif [ "${dns_mode}" == "foreign" ]; then
+            echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_${generate_temp}list_${generate_mode}.txt
+        else
+            exit 1
+        fi
+    }
+    function GenerateRulesProcess() {
+        FileSwitch
+        GenerateRulesHeader
+        GenerateRulesBody
+        GenerateRulesFooter
+    }
+    if [ "${dns_mode}" == "default" ]; then
+        GenerateRulesProcess
+    elif [ "${dns_mode}" == "domestic" ]; then
+        for domestic_dns_task in "${!domestic_dns[@]}"; do
+            GenerateRulesProcess
+        done
+    elif [ "${dns_mode}" == "foreign" ]; then
+        for foreign_dns_task in "${!foreign_dns[@]}"; do
+            GenerateRulesProcess
+        done
+    else
+        exit 1
+    fi
+}
 # Output Data
 function OutputData() {
     domestic_dns=(
@@ -63,65 +161,27 @@ function OutputData() {
         "https://doh.opendns.com:443/dns-query"
         "tls://dns.google:853"
     )
-    for (( upstream_dns_task = 0; upstream_dns_task < 2; upstream_dns_task++ )); do
-        case ${upstream_dns_task} in
+    for (( generate_task = 0; generate_task < 3; generate_task++ )); do
+        case ${generate_task} in
             0)
-            for domestic_upstream_dns_task in "${!domestic_dns[@]}"; do
-                echo "${domestic_dns[$domestic_upstream_dns_task]}" >> ../gfwlist2agh_blacklist.txt
-                echo "${domestic_dns[$domestic_upstream_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
-            done
+            generate_file="black" && generate_mode="full" && GenerateDefaultUpstream
+            generate_file="black" && generate_mode="lite" && GenerateDefaultUpstream
+            generate_file="white" && generate_mode="full" && GenerateDefaultUpstream
+            generate_file="white" && generate_mode="lite" && GenerateDefaultUpstream
             ;;
             1)
-            for foreign_upstream_dns_task in "${!foreign_dns[@]}"; do
-                echo "${foreign_dns[$foreign_upstream_dns_task]}" >> ../gfwlist2agh_whitelist.txt
-                echo "${foreign_dns[$foreign_upstream_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
-            done
+            dns_mode="default" && generate_file="black" && generate_mode="full" && GenerateRules
+            dns_mode="default" && generate_file="black" && generate_mode="lite" && GenerateRules
+            dns_mode="default" && generate_file="white" && generate_mode="full" && GenerateRules
+            dns_mode="default" && generate_file="white" && generate_mode="lite" && GenerateRules
+            ;;
+            2)
+            dns_mode="domestic" && generate_file="blackwhite" && generate_mode="full" && GenerateRules
+            dns_mode="domestic" && generate_file="blackwhite" && generate_mode="lite" && GenerateRules
+            dns_mode="foreign" && generate_file="whiteblack" && generate_mode="full" && GenerateRules
+            dns_mode="foreign" && generate_file="whiteblack" && generate_mode="lite" && GenerateRules
             ;;
         esac
-    done
-    echo -n "[/" >> ../gfwlist2agh_blacklist.txt
-    echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
-    echo -n "[/" >> ../gfwlist2agh_whitelist.txt
-    echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
-    for cnacc_data_task in "${!cnacc_data[@]}"; do
-        echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_blacklist.txt
-    done
-    for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-        echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist.txt
-    done
-    for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-        echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
-    done
-    for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-        echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
-    done
-    echo -e "]#" >> ../gfwlist2agh_blacklist.txt
-    echo -e "]#" >> ../gfwlist2agh_blacklist_lite.txt
-    echo -e "]#" >> ../gfwlist2agh_whitelist.txt
-    echo -e "]#" >> ../gfwlist2agh_whitelist_lite.txt
-    for domestic_dns_task in "${!domestic_dns[@]}"; do
-        echo -n "[/" >> ../gfwlist2agh_whitelist.txt
-        echo -n "[/" >> ../gfwlist2agh_whitelist_lite.txt
-        for cnacc_data_task in "${!cnacc_data[@]}"; do
-            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../gfwlist2agh_whitelist.txt
-        done
-        for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../gfwlist2agh_whitelist_lite.txt
-        done
-        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist.txt
-        echo -e "]${domestic_dns[domestic_dns_task]}" >> ../gfwlist2agh_whitelist_lite.txt
-    done
-    for foreign_dns_task in "${!foreign_dns[@]}"; do
-        echo -n "[/" >> ../gfwlist2agh_blacklist.txt
-        echo -n "[/" >> ../gfwlist2agh_blacklist_lite.txt
-        for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist.txt
-        done
-        for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../gfwlist2agh_blacklist_lite.txt
-        done
-        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist.txt
-        echo -e "]${foreign_dns[foreign_dns_task]}" >> ../gfwlist2agh_blacklist_lite.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
