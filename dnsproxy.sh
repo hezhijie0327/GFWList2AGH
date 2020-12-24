@@ -1,12 +1,12 @@
 #!/bin/sh
 
-# Current Version: 1.1.1
+# Current Version: 1.1.2
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -d disable -e enable -v combine -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
+# git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -d disable -e enable -v black -s full -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
 
 ## Parameter
-while getopts b:c:d:e:f:h:k:l:m:p:q:r:t:u:v GetParameter; do
+while getopts b:c:d:e:f:h:k:l:m:p:q:r:s:t:u:v GetParameter; do
     case ${GetParameter} in
         b) BOOTSTRAP="${OPTARG:-223.5.5.5:53}";;
         c) TLSCRT="${OPTARG:-fullchain.pem}";;
@@ -20,9 +20,10 @@ while getopts b:c:d:e:f:h:k:l:m:p:q:r:t:u:v GetParameter; do
         p) PORT="${OPTARG:-53}";;
         q) QUICPORT="${OPTARG}";;
         r) RATELIMIT="${OPTARG:-500}";;
+        s) SIZE="${OPTARG:-full}";;
         t) TLSPORT="${OPTARG}";;
         u) UPSTEAM="${OPTARG:127.0.0.1:5353}";;
-        v) VERSION="${OPTARG:-blacklist}";;
+        v) VERSION="${OPTARG:-black}";;
     esac
 done
 
@@ -69,7 +70,7 @@ function GenerateDefaultRuntimeScript() {
     echo "    --listen=${LISTEN} --ratelimit=${RATELIMIT}" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=67108864" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --https-port=${HTTPSPORT:-0} --port=${PORT} --quic-port=${QUICPORT:-0} --tls-port=${TLSPORT:-0}" '\' >> /etc/dnsproxy/conf/runtime.sh
-    wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_${VERSION}.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
+    wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_${VERSION}list_${SIZE}.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
     echo "    --bootstrap=${BOOTSTRAP} --fallback=${FALLBACK}" '\' >> /etc/dnsproxy/conf/runtime.sh
 }
 # Generate Encrypt Runtime Script
@@ -80,7 +81,7 @@ function GenerateEncryptRuntimeScript() {
     echo "    --cache-max-ttl=86400 --cache-min-ttl=10 --cache-size=67108864" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --https-port=${HTTPSPORT:-443} --port=${PORT} --quic-port=${QUICPORT:-784} --tls-port=${TLSPORT:-853}" '\' >> /etc/dnsproxy/conf/runtime.sh
     echo "    --tls-crt=/etc/dnsproxy/cert/${TLSCRT} --tls-key=/etc/dnsproxy/cert/${TLSKEY}" '\' >> /etc/dnsproxy/conf/runtime.sh
-    wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_${VERSION}.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
+    wget -qO- "https://source.zhijie.online/GFWList2AGH/main/gfwlist2agh_${VERSION}list_${SIZE}.txt" | sed "s/$/\ \\\/g;s/^/\ \ \ \ \-\-upstream\=/g" >> /etc/dnsproxy/conf/runtime.sh
     echo "    --bootstrap=${BOOTSTRAP} --fallback=${FALLBACK}" '\' >> /etc/dnsproxy/conf/runtime.sh
 }
 # Generate Runtime Script
