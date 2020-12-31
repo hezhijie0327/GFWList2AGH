@@ -1,6 +1,8 @@
 ## CNACC 列表 - 开始
 # 阿里 DNS
 dns.alidns.com
+# 百度翻译 #8 - Loyalsoldier/v2ray-rules-dat
+fanyi.baidu.com
 # DNSPod
 dns.pub
 doh.pub
