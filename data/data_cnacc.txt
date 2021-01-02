@@ -1,18 +1,20 @@
 ## CNACC 列表 - 开始
 # 阿里 DNS
 dns.alidns.com
-# 阿里巴巴 CDN
+# 阿里巴巴 CDN #8
 @alibabadns.com
 # 百度翻译 #8 - Loyalsoldier/v2ray-rules-dat
 fanyi.baidu.com
 # DNSPod
 dns.pub
 doh.pub
-# 钱美流量
+# it-global.cn #8
+@it-global.cn
+# 钱美流量 #8
 ssnm.xyz
-# 上海闪耀信息科技有限公司 / 闪耀科技
+# 上海闪耀信息科技有限公司 / 闪耀科技 #8
 @global-ict.cn
 @global-idc.net
-# UC 浏览器
+# UC 浏览器 #8
 uc.cn
 ## CNACC 列表 - 结束
