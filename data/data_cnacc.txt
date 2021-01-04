@@ -8,6 +8,8 @@ fanyi.baidu.com
 # DNSPod
 dns.pub
 doh.pub
+# 抖音 #10
+@douyincdn.com
 # it-global.cn #8
 @it-global.cn
 # 钱美流量 #8
