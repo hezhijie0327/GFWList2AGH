@@ -1,5 +1,6 @@
 ## GFWList 列表 - 开始
 # AcgnX
+share.acgnx.net
 share.acgnx.se
 www.acgnx.se
 # AniX.Moe
