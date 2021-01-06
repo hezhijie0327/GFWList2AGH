@@ -5,6 +5,10 @@ share.acgnx.se
 www.acgnx.se
 # AniX.Moe
 www.anix.moe
+# GitHub
+github.com
+@githubusercontent.com
+desktop.githubusercontent.com
 # Google DNS
 dns.google
 # OpenDNS
