@@ -5,6 +5,9 @@ dns.alidns.com
 @alibabadns.com
 # 百度翻译 #8 - Loyalsoldier/v2ray-rules-dat
 fanyi.baidu.com
+# 必应
+cn.bing.com
+www.bing.com
 # DNSPod
 dns.pub
 doh.pub
