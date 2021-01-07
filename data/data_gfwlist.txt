@@ -5,6 +5,8 @@ share.acgnx.se
 www.acgnx.se
 # AniX.Moe
 www.anix.moe
+# 百度翻译 #8 - Loyalsoldier/v2ray-rules-dat
+!fanyi.baidu.com
 # GitHub
 github.com
 @githubusercontent.com
