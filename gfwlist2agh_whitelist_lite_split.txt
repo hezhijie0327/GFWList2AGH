@@ -1,4 +1,4 @@
 https://doh.opendns.com:443/dns-query
 tls://dns.google:853
-[/alibabadns.com/bing.net/douyincdn.com/global-ict.cn/global-idc.net/it-global.cn/]https://doh.pub:443/dns-query
-[/alibabadns.com/bing.net/douyincdn.com/global-ict.cn/global-idc.net/it-global.cn/]tls://dns.alidns.com:853
+[/alibabadns.com/douyincdn.com/global-ict.cn/global-idc.net/it-global.cn/]https://doh.pub:443/dns-query
+[/alibabadns.com/douyincdn.com/global-ict.cn/global-idc.net/it-global.cn/]tls://dns.alidns.com:853
