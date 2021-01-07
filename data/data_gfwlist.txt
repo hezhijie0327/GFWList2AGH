@@ -1,3 +1,13 @@
+## 自定义规则语法 - 开始
+# 常规添加
+example.org
+# 强制添加
+@example.org
+# 强制移除
+!example.org
+# 优先级：强制移除 > 强制添加 > 常规添加
+## 自定义规则语法 - 结束
+
 ## GFWList 列表 - 开始
 # AcgnX
 share.acgnx.net
