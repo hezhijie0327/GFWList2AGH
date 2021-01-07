@@ -21,6 +21,8 @@ www.anix.moe
 github.com
 @githubusercontent.com
 desktop.githubusercontent.com
+# Google - 修正 LITE 中规则丢失
+@google.com
 # Google DNS
 dns.google
 # OpenDNS
