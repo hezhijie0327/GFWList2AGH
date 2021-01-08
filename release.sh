@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.6
+# Current Version: 1.6.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -15,6 +15,7 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
+        "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/direct.txt"
     )
     cnacc_other=(
         "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt"
@@ -37,6 +38,7 @@ function GetData() {
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     gfwlist_other=(
