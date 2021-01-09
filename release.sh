@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.7
+# Current Version: 1.6.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -16,12 +16,6 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/direct.txt"
-    )
-    cnacc_other=(
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt"
     )
     dead_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
@@ -41,17 +35,9 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
-    gfwlist_other=(
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/gfw.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/greatfire.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt"
-    )
     rm -rf ./gfwlist2agh_* ./Temp && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
         curl -s --connect-timeout 15 "${cnacc_domain[$cnacc_domain_task]}" >> ./cnacc_domain.tmp
-    done
-    for cnacc_other_task in "${!cnacc_other[@]}"; do
-        curl -s --connect-timeout 15 "${cnacc_other[$cnacc_other_task]}" >> ./cnacc_other.tmp
     done
     for dead_domain_task in "${!dead_domain[@]}"; do
         curl -s --connect-timeout 15 "${dead_domain[$dead_domain_task]}" >> ./dead_domain.tmp
@@ -62,13 +48,10 @@ function GetData() {
     for gfwlist_domain_task in "${!gfwlist_domain[@]}"; do
         curl -s --connect-timeout 15 "${gfwlist_domain[$gfwlist_domain_task]}" >> ./gfwlist_domain.tmp
     done
-    for gfwlist_other_task in "${!gfwlist_other[@]}"; do
-        curl -s --connect-timeout 15 "${gfwlist_other[$gfwlist_other_task]}" >> ./gfwlist_other.tmp
-    done
 }
 # Analyse Data
 function AnalyseData() {
-    cnacc_data=($(cat ../data/data_cnacc.txt | grep "\@" | tr -d "\@" > ./cnacc_addition.tmp && cat ../data/data_gfwlist.txt | grep "\@" | tr -d "\@" > ./gfwlist_addition.tmp && cat ../data/data_cnacc.txt | grep "\!" | tr -d "\!" > ./cnacc_subtraction.tmp && cat ../data/data_gfwlist.txt | grep "\!" | tr -d "\!" > ./gfwlist_subtraction.tmp && cat ./cnacc_domain.tmp ./cnacc_other.tmp ../data/data_cnacc.txt | sed "s/\/114\.114\.114\.114//g;s/DOMAIN\-SUFFIX\,//g;s/server\=\///g" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./cnacc_checklist.tmp && cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ./gfwlist_other.tmp ../data/data_gfwlist.txt | sed "s/DOMAIN\-SUFFIX\,//g;s/http\:\/\///g;s/https\:\/\///g" | tr -d "|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > gfwlist_checklist.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_checklist.tmp > ./cnacc_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_checklist.tmp > ./gfwlist_alive.tmp && cat ./cnacc_alive.tmp ./cnacc_addition.tmp | sort | uniq > ./cnacc_added.tmp && cat ./gfwlist_alive.tmp ./gfwlist_addition.tmp | sort | uniq > ./gfwlist_added.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_subtraction.tmp ./cnacc_added.tmp > ./cnacc_subtracted.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_subtraction.tmp ./gfwlist_added.tmp > ./gfwlist_subtracted.tmp && cat ./cnacc_subtracted.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > ./lite_cnacc_subtracted.tmp && cat ./gfwlist_subtracted.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > ./lite_gfwlist_subtracted.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_subtracted.tmp ./cnacc_subtracted.tmp > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_subtracted.tmp ./gfwlist_subtracted.tmp > ./gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_gfwlist_subtracted.tmp ./lite_cnacc_subtracted.tmp > ./lite_cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_cnacc_subtracted.tmp ./lite_gfwlist_subtracted.tmp > ./lite_gfwlist_data.tmp && cat ./cnacc_data.tmp ./lite_cnacc_data.tmp | sort | uniq | awk "{ print $2 }"))
+    cnacc_data=($(cat ../data/data_cnacc.txt | grep "\@" | tr -d "\@" > ./cnacc_addition.tmp && cat ../data/data_gfwlist.txt | grep "\@" | tr -d "\@" > ./gfwlist_addition.tmp && cat ../data/data_cnacc.txt | grep "\!" | tr -d "\!" > ./cnacc_subtraction.tmp && cat ../data/data_gfwlist.txt | grep "\!" | tr -d "\!" > ./gfwlist_subtraction.tmp && cat ./cnacc_domain.tmp ../data/data_cnacc.txt | sed "s/\/114\.114\.114\.114//g;s/server\=\///g" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./cnacc_checklist.tmp && cat ./gfwlist_base64.tmp ./gfwlist_domain.tmp ../data/data_gfwlist.txt | sed "s/http\:\/\///g;s/https\:\/\///g" | tr -d "|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > gfwlist_checklist.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./cnacc_checklist.tmp > ./cnacc_alive.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dead_domain.tmp ./gfwlist_checklist.tmp > ./gfwlist_alive.tmp && cat ./cnacc_alive.tmp ./cnacc_addition.tmp | sort | uniq > ./cnacc_added.tmp && cat ./gfwlist_alive.tmp ./gfwlist_addition.tmp | sort | uniq > ./gfwlist_added.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_subtraction.tmp ./cnacc_added.tmp > ./cnacc_subtracted.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_subtraction.tmp ./gfwlist_added.tmp > ./gfwlist_subtracted.tmp && cat ./cnacc_subtracted.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > ./lite_cnacc_subtracted.tmp && cat ./gfwlist_subtracted.tmp | rev | cut -d "." -f 1,2 | rev | sort | uniq > ./lite_gfwlist_subtracted.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./gfwlist_subtracted.tmp ./cnacc_subtracted.tmp > ./cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./cnacc_subtracted.tmp ./gfwlist_subtracted.tmp > ./gfwlist_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_gfwlist_subtracted.tmp ./lite_cnacc_subtracted.tmp > ./lite_cnacc_data.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./lite_cnacc_subtracted.tmp ./lite_gfwlist_subtracted.tmp > ./lite_gfwlist_data.tmp && cat ./cnacc_data.tmp ./lite_cnacc_data.tmp | sort | uniq | awk "{ print $2 }"))
     gfwlist_data=($(cat ./gfwlist_data.tmp ./lite_gfwlist_data.tmp | sort | uniq | awk "{ print $2 }"))
     lite_cnacc_data=($(cat ./lite_cnacc_data.tmp | sort | uniq | awk "{ print $2 }"))
     lite_gfwlist_data=($(cat ./lite_gfwlist_data.tmp | sort | uniq | awk "{ print $2 }"))
