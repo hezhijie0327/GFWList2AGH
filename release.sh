@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.7.1
+# Current Version: 1.7.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -71,12 +71,20 @@ function FileName() {
 function GenerateRules() {
     case ${software_name} in
         agh)
+            domestic_dns=(
+                "https://doh.pub:443/dns-query"
+                "tls://dns.alidns.com:853"
+            )
+            foreign_dns=(
+                "https://doh.opendns.com:443/dns-query"
+                "tls://dns.google:853"
+            )
             function GenerateDefaultUpstream() {
-                if [ "${generate_temp}" == "black" ]; then
-                for domestic_dns_task in "${!domestic_dns[@]}"; do
-                    echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
-                done
-                elif [ "${generate_temp}" == "white" ]; then
+                if [ "${generate_file}" == "black" ]; then
+                    for domestic_dns_task in "${!domestic_dns[@]}"; do
+                        echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                    done
+                elif [ "${generate_file}" == "white" ]; then
                     for foreign_dns_task in "${!foreign_dns[@]}"; do
                         echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
                     done
@@ -183,26 +191,18 @@ function GenerateRules() {
 }
 # Output Data
 function OutputData() {
-    domestic_dns=(
-        "https://doh.pub:443/dns-query"
-        "tls://dns.alidns.com:853"
-    )
-    foreign_dns=(
-        "https://doh.opendns.com:443/dns-query"
-        "tls://dns.google:853"
-    )
-    software_name="agh" && generate_file="black" && generate_mode="full" && dns_mode="default"  && GenerateRules
-    software_name="agh" && generate_file="black" && generate_mode="lite" && dns_mode="default"  && GenerateRules
-    software_name="agh" && generate_file="white" && generate_mode="full" && dns_mode="default"  && GenerateRules
-    software_name="agh" && generate_file="white" && generate_mode="lite" && dns_mode="default"  && GenerateRules
+    software_name="agh" && generate_file="black" && generate_mode="full" && dns_mode="default" && GenerateRules
+    software_name="agh" && generate_file="black" && generate_mode="lite" && dns_mode="default" && GenerateRules
+    software_name="agh" && generate_file="white" && generate_mode="full" && dns_mode="default" && GenerateRules
+    software_name="agh" && generate_file="white" && generate_mode="lite" && dns_mode="default" && GenerateRules
     software_name="agh" && generate_file="blackwhite" && generate_mode="full" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="full_split" && dns_mode="domestic" && GenerateRules
+    #software_name="agh" && generate_file="blackwhite" && generate_mode="full_split" && dns_mode="domestic" && GenerateRules
     software_name="agh" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
+    #software_name="agh" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
     software_name="agh" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
+    #software_name="agh" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
     software_name="agh" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
+    #software_name="agh" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
     #software_name="raw" && generate_file="black" && generate_mode="full" && GenerateRules
     #software_name="raw" && generate_file="black" && generate_mode="lite" && GenerateRules
     #software_name="raw" && generate_file="white" && generate_mode="full" && GenerateRules
