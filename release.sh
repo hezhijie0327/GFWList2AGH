@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.7.7
+# Current Version: 1.7.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -56,57 +56,55 @@ function AnalyseData() {
     lite_cnacc_data=($(cat ./lite_cnacc_data.tmp | sort | uniq | awk "{ print $2 }"))
     lite_gfwlist_data=($(cat ./lite_gfwlist_data.tmp | sort | uniq | awk "{ print $2 }"))
 }
-# File Name
-function FileName() {
-    if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "whiteblack" ]; then
-        generate_temp="black"
-    elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "blackwhite" ]; then
-        generate_temp="white"
-    else
-        generate_temp="debug"
-    fi
-    if [ "${software_name}" == "agh" ] || [ "${software_name}" == "raw" ]; then
-        file_extension="txt"
-    elif [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ]; then
-        file_extension="conf"
-    else
-        file_extension="dev"
-    fi
-    file_name="gfwlist2${software_name}_${generate_temp}list_${generate_mode}.${file_extension}"
-}
-# Generate Default Upstream
-function GenerateDefaultUpstream() {
-    case ${software_name} in
-        agh)
-            if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
-                if [ "${generate_file}" == "blackwhite" ]; then
-                    for foreign_dns_task in "${!foreign_dns[@]}"; do
-                        echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
-                    done
-                elif [ "${generate_file}" == "whiteblack" ]; then
-                    for domestic_dns_task in "${!domestic_dns[@]}"; do
-                        echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
-                    done
-                fi
-            else
-                if [ "${generate_file}" == "black" ]; then
-                    for domestic_dns_task in "${!domestic_dns[@]}"; do
-                        echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
-                    done
-                elif [ "${generate_file}" == "white" ]; then
-                    for foreign_dns_task in "${!foreign_dns[@]}"; do
-                        echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
-                    done
-                fi
-            fi
-        ;;
-        *)
-            exit 1
-        ;;
-    esac
-}
 # Generate Rules
 function GenerateRules() {
+    function FileName() {
+        if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "whiteblack" ]; then
+            generate_temp="black"
+        elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "blackwhite" ]; then
+            generate_temp="white"
+        else
+            generate_temp="debug"
+        fi
+        if [ "${software_name}" == "agh" ] || [ "${software_name}" == "domain" ]; then
+            file_extension="txt"
+        elif [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ]; then
+            file_extension="conf"
+        else
+            file_extension="dev"
+        fi
+        file_name="gfwlist2${software_name}_${generate_temp}list_${generate_mode}.${file_extension}"
+    }
+    function GenerateDefaultUpstream() {
+        case ${software_name} in
+            agh)
+                if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
+                    if [ "${generate_file}" == "blackwhite" ]; then
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                        done
+                    elif [ "${generate_file}" == "whiteblack" ]; then
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                        done
+                    fi
+                else
+                    if [ "${generate_file}" == "black" ]; then
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                        done
+                    elif [ "${generate_file}" == "white" ]; then
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                        done
+                    fi
+                fi
+            ;;
+            *)
+                exit 1
+            ;;
+        esac
+    }
     case ${software_name} in
         agh)
             domestic_dns=(
@@ -208,7 +206,7 @@ function GenerateRules() {
                 fi
             fi
         ;;
-        raw)
+        domain)
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
@@ -278,11 +276,11 @@ function OutputData() {
     #software_name="dnsmasq" && generate_file="black" && generate_mode="lite" && GenerateRules
     #software_name="dnsmasq" && generate_file="white" && generate_mode="full" && GenerateRules
     #software_name="dnsmasq" && generate_file="white" && generate_mode="lite" && GenerateRules
-    ## Raw
-    #software_name="raw" && generate_file="black" && generate_mode="full" && GenerateRules
-    #software_name="raw" && generate_file="black" && generate_mode="lite" && GenerateRules
-    #software_name="raw" && generate_file="white" && generate_mode="full" && GenerateRules
-    #software_name="raw" && generate_file="white" && generate_mode="lite" && GenerateRules
+    ## Domain
+    #software_name="domain" && generate_file="black" && generate_mode="full" && GenerateRules
+    #software_name="domain" && generate_file="black" && generate_mode="lite" && GenerateRules
+    #software_name="domain" && generate_file="white" && generate_mode="full" && GenerateRules
+    #software_name="domain" && generate_file="white" && generate_mode="lite" && GenerateRules
     ## SmartDNS
     #software_name="smartdns" && generate_file="black" && generate_mode="full" && foreign_group="foreign" && GenerateRules
     #software_name="smartdns" && generate_file="black" && generate_mode="lite" && foreign_group="foreign" && GenerateRules
