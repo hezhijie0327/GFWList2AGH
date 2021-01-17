@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.7.8
+# Current Version: 1.7.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -66,7 +66,7 @@ function GenerateRules() {
         else
             generate_temp="debug"
         fi
-        if [ "${software_name}" == "agh" ] || [ "${software_name}" == "domain" ]; then
+        if [ "${software_name}" == "adguardhome" ] || [ "${software_name}" == "domain" ]; then
             file_extension="txt"
         elif [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ]; then
             file_extension="conf"
@@ -77,7 +77,7 @@ function GenerateRules() {
     }
     function GenerateDefaultUpstream() {
         case ${software_name} in
-            agh)
+            adguardhome)
                 if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
                     if [ "${generate_file}" == "blackwhite" ]; then
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
@@ -106,7 +106,7 @@ function GenerateRules() {
         esac
     }
     case ${software_name} in
-        agh)
+        adguardhome)
             domestic_dns=(
                 "https://doh.pub:443/dns-query"
                 "tls://dns.alidns.com:853"
@@ -259,18 +259,18 @@ function GenerateRules() {
 # Output Data
 function OutputData() {
     ## AdGuard Home
-    software_name="agh" && generate_file="black" && generate_mode="full" && dns_mode="default" && GenerateRules
-    software_name="agh" && generate_file="black" && generate_mode="lite" && dns_mode="default" && GenerateRules
-    software_name="agh" && generate_file="white" && generate_mode="full" && dns_mode="default" && GenerateRules
-    software_name="agh" && generate_file="white" && generate_mode="lite" && dns_mode="default" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="full" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="full_split" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome" && generate_file="black" && generate_mode="full" && dns_mode="default" && GenerateRules
+    software_name="adguardhome" && generate_file="black" && generate_mode="lite" && dns_mode="default" && GenerateRules
+    software_name="adguardhome" && generate_file="white" && generate_mode="full" && dns_mode="default" && GenerateRules
+    software_name="adguardhome" && generate_file="white" && generate_mode="lite" && dns_mode="default" && GenerateRules
+    software_name="adguardhome" && generate_file="blackwhite" && generate_mode="full" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome" && generate_file="blackwhite" && generate_mode="full_split" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
     ## DNSMasq
     #software_name="dnsmasq" && generate_file="black" && generate_mode="full" && GenerateRules
     #software_name="dnsmasq" && generate_file="black" && generate_mode="lite" && GenerateRules
