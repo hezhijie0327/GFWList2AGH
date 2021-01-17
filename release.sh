@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.7.3
+# Current Version: 1.7.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -79,7 +79,7 @@ function GenerateDefaultUpstream() {
                 "https://doh.opendns.com:443/dns-query"
                 "tls://dns.google:853"
             )
-            FileName && if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
+            if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
                 if [ "${generate_file}" == "blackwhite" ]; then
                     for foreign_dns_task in "${!foreign_dns[@]}"; do
                         echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
@@ -146,19 +146,18 @@ function GenerateRules() {
                 fi
             }
             function GenerateRulesProcess() {
-                FileName
                 GenerateRulesHeader
                 GenerateRulesBody
                 GenerateRulesFooter
             }
             if [ "${dns_mode}" == "default" ]; then
-                GenerateDefaultUpstream && GenerateRulesProcess
+                FileName && GenerateDefaultUpstream && GenerateRulesProcess
             elif [ "${dns_mode}" == "domestic" ]; then
-                GenerateDefaultUpstream && for domestic_dns_task in "${!domestic_dns[@]}"; do
+                FileName && GenerateDefaultUpstream && for domestic_dns_task in "${!domestic_dns[@]}"; do
                     GenerateRulesProcess
                 done
             elif [ "${dns_mode}" == "foreign" ]; then
-                GenerateDefaultUpstream && for foreign_dns_task in "${!foreign_dns[@]}"; do
+                FileName && GenerateDefaultUpstream && for foreign_dns_task in "${!foreign_dns[@]}"; do
                    GenerateRulesProcess
                 done
             fi
@@ -203,10 +202,10 @@ function OutputData() {
     software_name="agh" && generate_file="black" && generate_mode="lite" && dns_mode="default" && GenerateRules
     software_name="agh" && generate_file="white" && generate_mode="full" && dns_mode="default" && GenerateRules
     software_name="agh" && generate_file="white" && generate_mode="lite" && dns_mode="default" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="full" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="full" && dns_mode="domestic" && GenerateRules
-    software_name="agh" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
+    software_name="agh" && generate_file="blackwhite" && generate_mode="full" && dns_mode="domestic" && GenerateRules
+    software_name="agh" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
+    software_name="agh" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
+    software_name="agh" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
     software_name="agh" && generate_file="blackwhite" && generate_mode="full_split" && dns_mode="domestic" && GenerateRules
     software_name="agh" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
     software_name="agh" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
