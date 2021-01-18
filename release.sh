@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.0
+# Current Version: 1.8.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -178,28 +178,28 @@ function GenerateRules() {
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
-                    for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                        FileName && for foreign_dns_task in "${!foreign_dns[@]}"; do
+                    FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
                             echo "server=/${gfwlist_data[$gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
                         done
                     done
                 elif [ "${generate_file}" == "white" ]; then
-                    for cnacc_data_task in "${!cnacc_data[@]}"; do
-                        FileName && for domestic_dns_task in "${!domestic_dns[@]}"; do
+                    FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
                             echo "server=/${cnacc_data[$cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
                         done
                     done
                 fi
             elif [ "${generate_mode}" == "lite" ]; then
                 if [ "${generate_file}" == "black" ]; then
-                    for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                        FileName && for foreign_dns_task in "${!foreign_dns[@]}"; do
+                    FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
                             echo "server=/${lite_gfwlist_data[$lite_gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
                         done
                     done
                 elif [ "${generate_file}" == "white" ]; then
-                    for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                        FileName && for domestic_dns_task in "${!domestic_dns[@]}"; do
+                    FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
                             echo "server=/${lite_cnacc_data[$lite_cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
                         done
                     done
