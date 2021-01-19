@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.2
+# Current Version: 1.8.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -73,7 +73,11 @@ function GenerateRules() {
         else
             file_extension="dev"
         fi
-        file_name="gfwlist2${software_name}_${generate_temp}list_${generate_mode}.${file_extension}"
+        if [ ! -d "../gfwlist2${software_name}" ]; then
+            mkdir "../gfwlist2${software_name}"
+        fi
+        file_name="${generate_temp}list_${generate_mode}.${file_extension}"
+        file_path="../gfwlist2${software_name}/${file_name}"
     }
     function GenerateDefaultUpstream() {
         case ${software_name} in
@@ -81,21 +85,21 @@ function GenerateRules() {
                 if [ "${generate_mode}" == "full_split" ] || [ "${generate_mode}" == "lite_split" ]; then
                     if [ "${generate_file}" == "blackwhite" ]; then
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
-                            echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                            echo "${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
                         done
                     elif [ "${generate_file}" == "whiteblack" ]; then
                         for domestic_dns_task in "${!domestic_dns[@]}"; do
-                            echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                            echo "${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
                         done
                     fi
                 else
                     if [ "${generate_file}" == "black" ]; then
                         for domestic_dns_task in "${!domestic_dns[@]}"; do
-                            echo "${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                            echo "${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
                         done
                     elif [ "${generate_file}" == "white" ]; then
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
-                            echo "${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                            echo "${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
                         done
                     fi
                 fi
@@ -116,38 +120,38 @@ function GenerateRules() {
                 "tls://dns.google:853"
             )
             function GenerateRulesHeader() {
-                echo -n "[/" >> ../${file_name}
+                echo -n "[/" >> "${file_path}"
             }
             function GenerateRulesBody() {
                 if [ "${generate_mode}" == "full" ] || [ "${generate_mode}" == "full_split" ]; then
                     if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "blackwhite" ]; then
                         for cnacc_data_task in "${!cnacc_data[@]}"; do
-                            echo -n "${cnacc_data[$cnacc_data_task]}/" >> ../${file_name}
+                            echo -n "${cnacc_data[$cnacc_data_task]}/" >> "${file_path}"
                         done
                     elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "whiteblack" ]; then
                         for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> ../${file_name}
+                            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> "${file_path}"
                         done
                     fi
                 elif [ "${generate_mode}" == "lite" ] || [ "${generate_mode}" == "lite_split" ]; then
                     if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "blackwhite" ]; then
                         for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> ../${file_name}
+                            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> "${file_path}"
                         done
                     elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "whiteblack" ]; then
                         for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> ../${file_name}
+                            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> "${file_path}"
                         done
                     fi
                 fi
             }
             function GenerateRulesFooter() {
                 if [ "${dns_mode}" == "default" ]; then
-                    echo -e "]#" >> ../${file_name}
+                    echo -e "]#" >> "${file_path}"
                 elif [ "${dns_mode}" == "domestic" ]; then
-                    echo -e "]${domestic_dns[domestic_dns_task]}" >> ../${file_name}
+                    echo -e "]${domestic_dns[domestic_dns_task]}" >> "${file_path}"
                 elif [ "${dns_mode}" == "foreign" ]; then
-                    echo -e "]${foreign_dns[foreign_dns_task]}" >> ../${file_name}
+                    echo -e "]${foreign_dns[foreign_dns_task]}" >> "${file_path}"
                 fi
             }
             function GenerateRulesProcess() {
@@ -180,13 +184,13 @@ function GenerateRules() {
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
-                            echo "server=/${gfwlist_data[$gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                            echo "server=/${gfwlist_data[$gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
                         done
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
                         for domestic_dns_task in "${!domestic_dns[@]}"; do
-                            echo "server=/${cnacc_data[$cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                            echo "server=/${cnacc_data[$cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
                         done
                     done
                 fi
@@ -194,13 +198,13 @@ function GenerateRules() {
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
-                            echo "server=/${lite_gfwlist_data[$lite_gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                            echo "server=/${lite_gfwlist_data[$lite_gfwlist_data_task]}/${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
                         done
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
                         for domestic_dns_task in "${!domestic_dns[@]}"; do
-                            echo "server=/${lite_cnacc_data[$lite_cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                            echo "server=/${lite_cnacc_data[$lite_cnacc_data_task]}/${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
                         done
                     done
                 fi
@@ -210,21 +214,21 @@ function GenerateRules() {
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                        echo "${gfwlist_data[$gfwlist_data_task]}" >> ../${file_name}
+                        echo "${gfwlist_data[$gfwlist_data_task]}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
-                        echo "${cnacc_data[$cnacc_data_task]}" >> ../${file_name}
+                        echo "${cnacc_data[$cnacc_data_task]}" >> "${file_path}"
                     done
                 fi
             elif [ "${generate_mode}" == "lite" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                        echo "${lite_gfwlist_data[$lite_gfwlist_data_task]}" >> ../${file_name}
+                        echo "${lite_gfwlist_data[$lite_gfwlist_data_task]}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                        echo "${lite_cnacc_data[$lite_cnacc_data_task]}" >> ../${file_name}
+                        echo "${lite_cnacc_data[$lite_cnacc_data_task]}" >> "${file_path}"
                     done
                 fi
             fi
@@ -233,21 +237,21 @@ function GenerateRules() {
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                        echo "nameserver /${gfwlist_data[$gfwlist_data_task]}/${foreign_group:-foreign}" >> ../${file_name}
+                        echo "nameserver /${gfwlist_data[$gfwlist_data_task]}/${foreign_group:-foreign}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
-                        echo "nameserver /${cnacc_data[$cnacc_data_task]}/${domestic_group:-domestic}" >> ../${file_name}
+                        echo "nameserver /${cnacc_data[$cnacc_data_task]}/${domestic_group:-domestic}" >> "${file_path}"
                     done
                 fi
             elif [ "${generate_mode}" == "lite" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                        echo "nameserver /${lite_gfwlist_data[$lite_gfwlist_data_task]}/${foreign_group:-foreign}" >> ../${file_name}
+                        echo "nameserver /${lite_gfwlist_data[$lite_gfwlist_data_task]}/${foreign_group:-foreign}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                        echo "nameserver /${lite_cnacc_data[$lite_cnacc_data_task]}/${domestic_group:-domestic}" >> ../${file_name}
+                        echo "nameserver /${lite_cnacc_data[$lite_cnacc_data_task]}/${domestic_group:-domestic}" >> "${file_path}"
                     done
                 fi
             fi
@@ -261,40 +265,43 @@ function GenerateRules() {
                 "8.8.4.4@853#dns.google"
                 "8.8.8.8@853#dns.google"
             )
-            forward_tls_upstream="yes"
+            forward_ssl_tls_upstream="yes"
             function GenerateRulesHeader() {
-                echo "forward-zone:" >> ../${file_name}
+                echo "forward-zone:" >> "${file_path}"
             }
             function GenerateRulesFooter() {
-                echo "    forward-tls-upstream: ${forward_tls_upstream}" >> ../${file_name}
                 if [ "${dns_mode}" == "domestic" ]; then
                     for domestic_dns_task in "${!domestic_dns[@]}"; do
-                        echo "    forward-addr: ${domestic_dns[$domestic_dns_task]}" >> ../${file_name}
+                        echo "    forward-addr: \"${domestic_dns[$domestic_dns_task]}\"" >> "${file_path}"
                     done
                 elif [ "${dns_mode}" == "foreign" ]; then
                     for foreign_dns_task in "${!foreign_dns[@]}"; do
-                        echo "    forward-addr: ${foreign_dns[$foreign_dns_task]}" >> ../${file_name}
+                        echo "    forward-addr: \"${foreign_dns[$foreign_dns_task]}\"" >> "${file_path}"
                     done
                 fi
+                echo "    forward-first: \"yes\"" >> "${file_path}"
+                echo "    forward-no-cache: \"yes\"" >> "${file_path}"
+                echo "    forward-ssl-upstream: \"${forward_ssl_tls_upstream}\"" >> "${file_path}"
+                echo "    forward-tls-upstream: \"${forward_ssl_tls_upstream}\"" >> "${file_path}"
             }
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                        GenerateRulesHeader && echo "    name: \"${gfwlist_data[$gfwlist_data_task]}.\"" >> ../${file_name} && GenerateRulesFooter
+                        GenerateRulesHeader && echo "    name: \"${gfwlist_data[$gfwlist_data_task]}.\"" >> "${file_path}" && GenerateRulesFooter
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
-                        GenerateRulesHeader && echo "    name: \"${cnacc_data[$cnacc_data_task]}.\"" >> ../${file_name} && GenerateRulesFooter
+                        GenerateRulesHeader && echo "    name: \"${cnacc_data[$cnacc_data_task]}.\"" >> "${file_path}" && GenerateRulesFooter
                     done
                 fi
             elif [ "${generate_mode}" == "lite" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                        GenerateRulesHeader && echo "    name: \"${lite_gfwlist_data[$lite_gfwlist_data_task]}.\"" >> ../${file_name} && GenerateRulesFooter
+                        GenerateRulesHeader && echo "    name: \"${lite_gfwlist_data[$lite_gfwlist_data_task]}.\"" >> "${file_path}" && GenerateRulesFooter
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                        GenerateRulesHeader && echo "    name: \"${lite_cnacc_data[$lite_cnacc_data_task]}.\"" >> ../${file_name} && GenerateRulesFooter
+                        GenerateRulesHeader && echo "    name: \"${lite_cnacc_data[$lite_cnacc_data_task]}.\"" >> "${file_path}" && GenerateRulesFooter
                     done
                 fi
             fi
@@ -319,25 +326,25 @@ function OutputData() {
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
     ## DNSMasq
-    #software_name="dnsmasq" && generate_file="black" && generate_mode="full" && GenerateRules
-    #software_name="dnsmasq" && generate_file="black" && generate_mode="lite" && GenerateRules
-    #software_name="dnsmasq" && generate_file="white" && generate_mode="full" && GenerateRules
-    #software_name="dnsmasq" && generate_file="white" && generate_mode="lite" && GenerateRules
+    software_name="dnsmasq" && generate_file="black" && generate_mode="full" && GenerateRules
+    software_name="dnsmasq" && generate_file="black" && generate_mode="lite" && GenerateRules
+    software_name="dnsmasq" && generate_file="white" && generate_mode="full" && GenerateRules
+    software_name="dnsmasq" && generate_file="white" && generate_mode="lite" && GenerateRules
     ## Domain
-    #software_name="domain" && generate_file="black" && generate_mode="full" && GenerateRules
-    #software_name="domain" && generate_file="black" && generate_mode="lite" && GenerateRules
-    #software_name="domain" && generate_file="white" && generate_mode="full" && GenerateRules
-    #software_name="domain" && generate_file="white" && generate_mode="lite" && GenerateRules
+    software_name="domain" && generate_file="black" && generate_mode="full" && GenerateRules
+    software_name="domain" && generate_file="black" && generate_mode="lite" && GenerateRules
+    software_name="domain" && generate_file="white" && generate_mode="full" && GenerateRules
+    software_name="domain" && generate_file="white" && generate_mode="lite" && GenerateRules
     ## SmartDNS
-    #software_name="smartdns" && generate_file="black" && generate_mode="full" && foreign_group="foreign" && GenerateRules
-    #software_name="smartdns" && generate_file="black" && generate_mode="lite" && foreign_group="foreign" && GenerateRules
-    #software_name="smartdns" && generate_file="white" && generate_mode="full" && domestic_group="domestic" && GenerateRules
-    #software_name="smartdns" && generate_file="white" && generate_mode="lite" && domestic_group="domestic" && GenerateRules
+    software_name="smartdns" && generate_file="black" && generate_mode="full" && foreign_group="foreign" && GenerateRules
+    software_name="smartdns" && generate_file="black" && generate_mode="lite" && foreign_group="foreign" && GenerateRules
+    software_name="smartdns" && generate_file="white" && generate_mode="full" && domestic_group="domestic" && GenerateRules
+    software_name="smartdns" && generate_file="white" && generate_mode="lite" && domestic_group="domestic" && GenerateRules
     ## Unbound
-    #software_name="unbound" && generate_file="black" && generate_mode="full" && dns_mode="foreign" && GenerateRules
-    #software_name="unbound" && generate_file="black" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
-    #software_name="unbound" && generate_file="white" && generate_mode="full" && dns_mode="domestic" && GenerateRules
-    #software_name="unbound" && generate_file="white" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
+    software_name="unbound" && generate_file="black" && generate_mode="full" && dns_mode="foreign" && GenerateRules
+    software_name="unbound" && generate_file="black" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
+    software_name="unbound" && generate_file="white" && generate_mode="full" && dns_mode="domestic" && GenerateRules
+    software_name="unbound" && generate_file="white" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
     cd .. && rm -rf ./Temp
     exit 0
 }
