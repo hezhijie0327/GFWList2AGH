@@ -78,7 +78,6 @@
 010jianzhan.com
 010jing-pc.com
 0110m.com
-0123366.com
 0123401234.com
 0123456789.biz
 0123456789.com
@@ -2627,6 +2626,7 @@
 360hqb.com
 360huzhubao.com
 360hyzj.com
+360ibm.com
 360ic.com
 360ito.com
 360jbw.com
@@ -3797,6 +3797,7 @@
 51xueyingyu.com
 51xumei.com
 51xw.net
+51xxs.com
 51xxyy.com
 51yabei.com
 51yala.com
@@ -8063,7 +8064,6 @@ app17.com
 app178.com
 app2pixel.com
 app4life.mobi
-app522.com
 app887.com
 appadhoc.com
 appao.com
@@ -13564,6 +13564,7 @@ cn0434.com
 cn0556.com
 cn0713.com
 cn0851.com
+cn0917.com
 cn12365.org
 cn168.com
 cn18k.com
@@ -15828,7 +15829,6 @@ de518.com
 deaconhousewuxi.com
 deadnine.com
 deahu.com
-dealiser.com
 dealsmake.com
 deansys.com
 dear520dear.com
@@ -18034,7 +18034,6 @@ edwardshaw.net
 edwiv.com
 edzx.com
 ee-forum.org
-ee1117.com
 ee1234.com
 ee68.com
 ee8828.com
@@ -21208,7 +21207,6 @@ globeauto.org
 globeedu.com
 globeimmi.com
 globepv.com
-globipo.com
 globrand.com
 glodon.com
 glofang.com
@@ -23152,6 +23150,7 @@ hc23.com
 hc360.com
 hc39.com
 hc79.com
+hcbbs.com
 hcbus.com
 hcbuy.com
 hccpcba.com
@@ -24262,7 +24261,6 @@ hostadm.net
 hostbuf.com
 hostcto.com
 hostdie.com
-hostelcentraal.com
 hostelxian.com
 hostker.com
 hostkvm.com
@@ -24579,7 +24577,6 @@ htzyw.com
 hua-lan.com
 hua-yong.com
 hua.com
-hua.sh
 huaan.com.cn
 huaaosoft.com
 huaaotech.com
@@ -27131,7 +27128,6 @@ itziy.com
 itzjj.com
 itzk.com
 itzm.com
-itzmx.com
 itzmx.net
 itzpark.com
 itzych.site
@@ -28548,7 +28544,6 @@ jlzsw.com
 jlzyz.com
 jm1ph.com
 jm3q.com
-jm84.com
 jmabroad.com
 jmads.net
 jmbbs.com
@@ -31160,7 +31155,6 @@ lcfby.com
 lcfile.com
 lcgod.com
 lchot.com
-lchx-pipe.com
 lcjfz.com
 lckeshun.com
 lckiss.com
@@ -33720,7 +33714,6 @@ mcdusiv.com
 mcdvisa.com
 mcearnmore.com
 mcfuzhu.net
-mcgcn.com
 mchat.com
 mchifi.com
 mcjcjx.com
@@ -36772,7 +36765,6 @@ ofmonkey.com
 ofo.com
 ofo.so
 ofpay.com
-oft16.com
 ofuns.com
 ofweek.com
 ofyoo.com
@@ -48463,7 +48455,6 @@ walatao.com
 walidream.com
 walimaker.com
 walkerdu.com
-walkereye.com
 walkthechat.com
 wall321.com
 wallba.com
@@ -54806,7 +54797,6 @@ yrcbank.com
 yrkj8.com
 yrksd.com
 yrom.net
-yrrj.net
 yruan.com
 yrucd.com
 yrw.cc
