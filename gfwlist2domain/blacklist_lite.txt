@@ -7293,6 +7293,7 @@ duckduckgo.ca
 duckduckgo.co
 duckduckgo.com
 duckduckgo.de
+duckduckgo.dk
 duckduckgo.in
 duckduckgo.jp
 duckduckgo.ke
