@@ -3690,6 +3690,7 @@
 51rc.com
 51rcsl.com
 51read.site
+51readhome.com
 51reboot.com
 51rencai.com
 51render.com
@@ -9134,6 +9135,7 @@ bayescom.com
 bayimob.com
 bayinfu.com
 bayinh.com
+bayinmao.com
 bayuegua.com
 bayueju.com
 bayueweb.com
@@ -13902,6 +13904,7 @@ cnnanbowang.com
 cnnb.com
 cnnbfdc.com
 cnndns.com
+cnnetsec.com
 cnnewss.com
 cnnfootballclub.com
 cnnmol.com
