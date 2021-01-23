@@ -17,6 +17,8 @@ www.acgnx.se
 www.anix.moe
 # 百度翻译 #8 - Loyalsoldier/v2ray-rules-dat
 !fanyi.baidu.com
+# Denpasoft
+denpasoft.com
 # GitHub
 github.com
 @githubusercontent.com
