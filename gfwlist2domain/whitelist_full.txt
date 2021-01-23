@@ -2860,7 +2860,6 @@
 39ask.net
 39box.com
 39clean.com
-39cs.com
 39dg.com
 39ej7e.com
 39fengliao.com
@@ -8099,6 +8098,7 @@ applex.net
 applicationloader.net
 applinzi.com
 applysquare.com
+appmifile.com
 appnode.com
 appnz.com
 appotronics.com
@@ -8449,6 +8449,7 @@ autobaidu.com
 autobizreview.com
 autocamel.com
 autochina360.com
+autocsdn.xyz
 autodmp.com
 autodwg.com
 autoesd.com
@@ -16485,6 +16486,7 @@ djdkk.com
 djduoduo.com
 djec.net
 djfsm.com
+djhuying.com
 dji.com
 djicdn.com
 djivideos.com
@@ -52638,6 +52640,7 @@ xuechebu.com
 xuechela.com
 xueda.com
 xuedi.com
+xuedong97.com
 xueersen.com
 xueersi.com
 xueerxing.com
