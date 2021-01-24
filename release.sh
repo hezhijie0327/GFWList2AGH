@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.4
+# Current Version: 1.8.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -24,7 +24,6 @@ function GetData() {
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
-        "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/gh-pages/gfwlist_domain.txt"
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
