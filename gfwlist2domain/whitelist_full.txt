@@ -7416,6 +7416,7 @@ aliavv.com
 alibaba-inc.com
 alibaba.com
 alibabacapital.com
+alibabacloud.com
 alibabacorp.com
 alibabadns.com
 alibabafuturehotel.com
@@ -8030,6 +8031,7 @@ apowogame.com
 apoyl.com
 apozh.com
 app-echo.com
+app-measurement.com
 app-router.com
 app-store.name
 app-web-seo-aso.com
@@ -15960,6 +15962,7 @@ devclub.cc
 devdiv.com
 developer.dji.com
 developer.htcvive.com
+developer.microsoft.com
 developer.vive.com
 devemi.com
 devework.com
@@ -16938,6 +16941,7 @@ doubaojf.com
 doubean.com
 doubimeizhi.com
 doubimm.net
+doubleclick.net
 douboshi.net
 douc.cc
 doucang.com
@@ -21454,6 +21458,8 @@ goodrain.com
 goods-brand.com
 goodstudydayup.com
 goofish.com
+google.cn
+googleadservices.com
 googleadsl.com
 googlebridge.com
 googlecnapps.cn
@@ -25243,6 +25249,7 @@ hxkvm.com
 hxland.com
 hxlover.com
 hxlsw.com
+hxltad.com
 hxmeishi.com
 hxmrys.com
 hxnews.com
@@ -25487,6 +25494,7 @@ i9wang.com
 ia-shenzhen.com
 iacblog.com
 iadmob.com
+iadsdk.apple.com
 iaikx.com
 ialicdn.com
 ialloc.com
@@ -37794,6 +37802,7 @@ philm.cc
 philosophypeople.com
 phnixpool.com
 pho.so
+phobos.apple.com
 phodal.com
 phoemix.net
 phoenixcenter.cn
