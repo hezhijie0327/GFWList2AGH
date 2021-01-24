@@ -2159,6 +2159,7 @@
 263ytx.com
 264006.com
 264434.com
+265.com
 265660.com
 26595.com
 265g.com
@@ -6545,6 +6546,7 @@ aadongman.com
 aamachina.org
 aaniao.com
 aapig.com
+aaplimg.com
 aaqqw.com
 aarch64.me
 aardio.com
@@ -6743,6 +6745,7 @@ adbox.sina.com.cn
 adbxb.com
 adccd.com
 adcdownload.apple.com
+adcdownload.apple.com.akadns.net
 adchina.com
 adchitu.net
 adcmove.com
@@ -8076,6 +8079,7 @@ appkaifa.com
 appkefu.com
 appkg.com
 appldnld.apple.com
+appldnld.g.aaplimg.com
 apple.cn
 apple.com.cn
 apple110.com
@@ -11637,7 +11641,9 @@ cdronghai.com
 cdrtvu.com
 cdruzhu.com
 cdryny.com
+cds-cdn.v.aaplimg.com
 cds.apple.com
+cds.apple.com.akadns.net
 cdsb.mobi
 cdshangceng.com
 cdshijue.com
@@ -13305,13 +13311,18 @@ cl-hs.com
 cl-kongtiao.com
 cl-mail.ru
 cl0438.com
+cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
 cl2-cn.apple.com
 cl2.apple.com
+cl2.apple.com.edgekey.net.globalredir.akadns.net
 cl2009.com
+cl3-cdn.origin-apple.com.akadns.net
 cl3.apple.com
+cl4-cdn.origin-apple.com.akadns.net
 cl4-cn.apple.com
 cl4.apple.com
+cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 cl597.com
 clady.cc
@@ -13351,6 +13362,7 @@ clicksun.net
 client-api.itunes.apple.com
 client51.com
 clientflow.apple.com
+clientflow.apple.com.akadns.net
 clientservices.googleapis.com
 cliim.com
 cliim.net
@@ -14262,6 +14274,7 @@ comvps.com
 conchdesktop.com
 concox.net
 configuration.apple.com
+configuration.apple.com.akadns.net
 conflictmgmtassociates.com
 confuciusinstitute.net
 cong9184.com
@@ -15726,6 +15739,7 @@ dcwj168.com
 dcxnews.com
 dczopi.com
 dczou.com
+dd-cdn.origin-apple.com.akadns.net
 dd-kan.com
 dd2007.com
 dd321.com
@@ -21669,10 +21683,12 @@ gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
+gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com
+gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn.ls.apple.com
 gspe21-ssl.ls.apple.com
 gspe21.ls.apple.com
@@ -21715,6 +21731,7 @@ gtm-a2b3.com
 gtm-a3b1.com
 gtm-a4b8.com
 gtm-a4b9.com
+gtm.oasisfeng.com
 gtmlufax.com
 gtms01.alicdn.com
 gtms02.alicdn.com
@@ -25668,6 +25685,7 @@ icjiemi.com
 ickeep.com
 icketang.com
 iclickstatic.com
+icloud-cdn.icloud.com.akadns.net
 icloud.cdn-apple.com
 icloud.com.cn
 icloudnews.net
@@ -26239,6 +26257,8 @@ images-cache.com
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 images.apple.com
+images.apple.com.akadns.net
+images.apple.com.edgekey.net.globalredir.akadns.net
 images.benchmarkemail.com
 images.samsung.com
 imageter.com
@@ -26490,8 +26510,11 @@ inhi.kim
 inibiru.com
 inicoapp.com
 ininin.com
+init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
+init-p01st-lb.push-apple.com.akadns.net
 init-p01st.push.apple.com
+init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.itunes.apple.com
 init.phpwind.com
@@ -26605,6 +26628,7 @@ ioperat.com
 ioqq.com
 ios8.app
 iosapps.itunes.apple.com
+iosapps.itunes.g.aaplimg.com
 iosappx.com
 iosask.com
 iosfengwo.com
@@ -33413,6 +33437,7 @@ manhualang.com
 manhuama.net
 manhuaniu.com
 manhuapi.com
+manhuaren.com
 manhuatai.com
 manhuav.com
 manhuayang.com
@@ -34024,6 +34049,8 @@ meshiot.com
 mesince.com
 mesky.net
 mesresearch.com
+mesu-cdn.apple.com.akadns.net
+mesu-china.apple.com.akadns.net
 mesu.apple.com
 mesule.com
 metacd.com
@@ -36629,6 +36656,7 @@ oacn.org
 oadun.com
 oadz.com
 oahelp.com
+oasisfeng.com
 oatos.com
 oauto.com
 oawhy.com
@@ -36662,6 +36690,7 @@ ocone.loan
 ocooca.com
 ocpan.org
 ocrmaker.com
+ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.globalsign.com
 ocsp.pki.goog
@@ -37109,6 +37138,7 @@ osbzr.com
 oscarma.com
 oscartutor.com
 oscdn.apple.com
+oscdn.origin-apple.com.akadns.net
 oschina.com
 oschina.io
 oschina.net
@@ -37360,6 +37390,7 @@ pan8.net
 panasonic.cn
 panbaidu.com
 pancake.apple.com
+pancake.cdn-apple.com.akadns.net
 panchuang.net
 pancishe.com
 panda.tv
@@ -38455,6 +38486,7 @@ proassist-hsv.com
 procar.cc
 process-safety-lab.com
 processon.com
+prod-support.apple-support.akadns.net
 product1.djicdn.com
 productcard.gog-statics.com
 productivity.wiki
@@ -38848,6 +38880,7 @@ qdzhongli.com
 qdzmm.com
 qdzxyy.com
 qdzz.com
+qeefee.com
 qeegee.com
 qeejoo.com
 qeeka.com
@@ -43958,6 +43991,7 @@ stnn.cc
 stnts.com
 stocke.com.cn
 stockhn.com
+stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com
 stockstar.com
 stockwei.com
@@ -43975,9 +44009,11 @@ stor-age.com
 storagesemicon.com
 store.apple.com
 store.apple.com.edgekey.net
+store.apple.com.edgekey.net.globalredir.akadns.net
 store.dji.com
 store.nike.com
 store.samsung.com
+store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 storeedgefd.dsx.mp.microsoft.com
 stormcodec.com
@@ -44276,6 +44312,7 @@ supmil.com
 supmil.net
 supoin.com
 supool.com
+support-china.apple-support.akadns.net
 support-cn.samsung.com
 support.apple.com
 support.lenovo.com
@@ -44351,10 +44388,13 @@ swarma.net
 swarma.org
 swatou.com
 swbbsc.com
+swcatalog-cdn.apple.com.akadns.net
 swcatalog.apple.com
 swcdn.apple.com
+swcdn.g.aaplimg.com
 swchina.org
 swdist.apple.com
+swdist.apple.com.akadns.net
 sweetalkos.com
 sweetdan.com
 sweetlove.cc
@@ -44391,6 +44431,7 @@ swordofmorning.com
 swotbbs.com
 swothouse.com
 swsbw.com
+swscan-cdn.apple.com.akadns.net
 swscan.apple.com
 swsm.net
 swstsg.com
@@ -47443,6 +47484,7 @@ upchina.com
 upchinaproduct.com
 update.googleapis.com
 updates-http.cdn-apple.com
+updates-http.cdn-apple.com.akadns.net
 updba.com
 upho2015.com
 upin.com
@@ -47719,6 +47761,7 @@ vacmic.com
 vaikan.com
 vakku.com
 valid.apple.com
+valid.origin-apple.com.akadns.net
 validform.club
 valinbl.com
 valinresources.com
@@ -50616,6 +50659,7 @@ www.akamai.com
 www.analog.com
 www.apple.com
 www.apple.com.edgekey.net
+www.apple.com.edgekey.net.globalredir.akadns.net
 www.bing.com
 www.cc
 www.cg
@@ -50983,6 +51027,7 @@ xchuxing.com
 xcj.com
 xcjd.net
 xcktsb.com
+xclient.info
 xcloudbase.com
 xcmg.com
 xcmgmall.com
@@ -52560,6 +52605,7 @@ xtao.me
 xtbank.com
 xtciming.com
 xtea.org
+xteko.com
 xtfcjt.com
 xtfml.com
 xthinking.net
