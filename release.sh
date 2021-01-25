@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.5
+# Current Version: 1.8.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -15,7 +15,7 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/direct.txt"
     )
     dead_domain=(
-        "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_dead.txt"
     )
     gfwlist_base64=(
         "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
