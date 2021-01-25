@@ -3371,6 +3371,7 @@ aq202.com
 aqy103.com
 ar.hao123.com
 aransa.com.ar
+aranzadi.es
 arcgis.com
 arcgisonline.com
 archive.anvil.org.ph
@@ -4093,7 +4094,6 @@ bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
 bbs.omnitalk.org
-bbs.qmzdd.com
 bbs.qoos.com
 bbs.sex169.org
 bbs.sgchinese.com
@@ -7043,7 +7043,6 @@ chromecast.com
 chromeexperiments.com
 chromegae.com
 chromeos.dev
-chromercise.com
 chromes.cn
 chromestatus.com
 chromium.org
@@ -7374,6 +7373,7 @@ co.ng.mil
 co.ni
 co.nz
 co.rs
+co.spacetechnology.net
 co.tz
 co.ug
 co.uz
@@ -7656,6 +7656,7 @@ coreduo.com
 coreextreme.com
 corelead.cn
 coreoptics.net
+corepublishingsolutions.com
 coreyjew.com
 cornell.edu
 cornerstone.edu
@@ -9715,6 +9716,7 @@ elgusto.com.br
 elhamdashti.ir
 elifesciences.org
 eligemadera.cl
+elite.com
 elitebabes.com
 elitter.net
 elixir-lang.org
@@ -16363,6 +16365,7 @@ left21.hk
 legaldocker.com
 legalporno.com
 legaltech.law.com
+legaltracker.com
 legend.pandafan.org
 legend95.com
 leggycash.com
@@ -16636,6 +16639,7 @@ livevideo.com
 livingotherwise.com
 livingstream.com
 livingyourambition.com
+livrariart.com.br
 liwenlianghero.github.io
 lizakii.000webhostapp.com
 lizhizhuangbi.com
@@ -21615,6 +21619,7 @@ puffss.me
 puffstore.com
 pugetsoundbmw.com
 pugetsoundmini.com
+pugpig.com
 pullfolio.com
 pullishy.ca
 pullstring.net
@@ -22214,6 +22219,7 @@ reuters.es
 reuters.fr
 reuters.it
 reuters.tv
+reutersagency.cn
 reutersmedia.net
 reutersreprints.com
 revenue-performance-management.com
@@ -24362,6 +24368,7 @@ sway.com
 swc5555.com
 swc888.com
 swdevelop.de
+sweetandmaxwell.co.uk
 sweetkiss.me
 sweetpacks-search.com
 sweltering-inferno-6276.firebaseio.com
@@ -25004,7 +25011,25 @@ thomasbernhard.org
 thomasmckenzie.com
 thomassmart.com
 thompent.com
+thomsonreuters.ca
+thomsonreuters.cn
+thomsonreuters.co.jp
+thomsonreuters.co.kr
+thomsonreuters.co.nz
+thomsonreuters.co.uk
 thomsonreuters.com
+thomsonreuters.com.ar
+thomsonreuters.com.au
+thomsonreuters.com.br
+thomsonreuters.com.hk
+thomsonreuters.com.my
+thomsonreuters.com.pe
+thomsonreuters.com.sg
+thomsonreuters.com.tr
+thomsonreuters.es
+thomsonreuters.in
+thomsonreuters.ru
+thomsonreutersmexico.com
 thongdreams.com
 thoof.com
 threefloorfashion.com
@@ -25283,6 +25308,7 @@ tmdfish.com
 tmforumlive.org
 tmhk.org
 tmpp.org
+tmsnrt.rs
 tn1.shemalez.com
 tn2.shemalez.com
 tn3.shemalez.com
@@ -25443,6 +25469,7 @@ tpms-il.com
 tpn.flnet.org
 tpprc.org
 tps.bus.flnet.org
+tr.com
 tr.im
 tra.tvbjjj.com
 trace.org

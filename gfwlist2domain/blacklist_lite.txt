@@ -2729,6 +2729,7 @@ apuestasdemurcia.es
 apyle.com
 aq202.com
 aqy103.com
+aranzadi.es
 arcgis.com
 arcgisonline.com
 archive.fo
@@ -5824,7 +5825,6 @@ chromecast.com
 chromeexperiments.com
 chromegae.com
 chromeos.dev
-chromercise.com
 chromes.cn
 chromestatus.com
 chromium.org
@@ -6324,6 +6324,7 @@ coreduo.com
 coreextreme.com
 corelead.cn
 coreoptics.net
+corepublishingsolutions.com
 coreyjew.com
 cornell.edu
 cornerstone.edu
@@ -8078,6 +8079,7 @@ elgoog.im
 elhamdashti.ir
 elifesciences.org
 eligemadera.cl
+elite.com
 elitebabes.com
 elitter.net
 elixir-lang.org
@@ -13776,6 +13778,7 @@ lefora.com
 left21.hk
 legaldocker.com
 legalporno.com
+legaltracker.com
 legend95.com
 leggycash.com
 leglegs.com
@@ -18145,6 +18148,7 @@ puffss.me
 puffstore.com
 pugetsoundbmw.com
 pugetsoundmini.com
+pugpig.com
 pullfolio.com
 pullishy.ca
 pullstring.net
@@ -18661,6 +18665,7 @@ reuters.es
 reuters.fr
 reuters.it
 reuters.tv
+reutersagency.cn
 reutersmedia.net
 reutersreprints.com
 revenue-performance-management.com
@@ -20890,7 +20895,13 @@ thomasbernhard.org
 thomasmckenzie.com
 thomassmart.com
 thompent.com
+thomsonreuters.ca
+thomsonreuters.cn
 thomsonreuters.com
+thomsonreuters.es
+thomsonreuters.in
+thomsonreuters.ru
+thomsonreutersmexico.com
 thongdreams.com
 thoof.com
 threefloorfashion.com
@@ -21142,6 +21153,7 @@ tmdfish.com
 tmforumlive.org
 tmhk.org
 tmpp.org
+tmsnrt.rs
 tnaflix.com
 tnbt1.xyz
 tnejp.com
@@ -21276,6 +21288,7 @@ tpeman.com
 tpimage.com
 tpms-il.com
 tpprc.org
+tr.com
 tr.im
 trace.org
 tracfone.com
