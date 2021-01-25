@@ -5824,6 +5824,7 @@ chromecast.com
 chromeexperiments.com
 chromegae.com
 chromeos.dev
+chromercise.com
 chromes.cn
 chromestatus.com
 chromium.org
