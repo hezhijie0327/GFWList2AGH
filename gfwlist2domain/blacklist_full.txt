@@ -2664,7 +2664,6 @@ altavista.com
 altera.com
 alteraforum.com
 alteraforums.com
-alterauserforum.com
 alterauserforums.com
 alternate-tools.com
 alternativeto.net
@@ -6610,6 +6609,7 @@ ccue.com
 ccvoice.ca
 ccw.org.tw
 cczhan.com
+cd.nard.ca
 cd43.com
 cd4o.com
 cdbook.info

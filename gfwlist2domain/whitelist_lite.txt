@@ -1602,6 +1602,7 @@
 168job.com
 168kk.com
 168kn.com
+168lyq.com
 168pd.com
 168rc.com
 168tea.com
@@ -3466,7 +3467,6 @@
 3d-yizao.com
 3d-zh.com
 3d2000.com
-3d2013.com
 3d2s.com
 3d414.com
 3d56.net
@@ -4688,7 +4688,6 @@
 527pk.com
 5281.com
 52841819.com
-528500.com
 528529.com
 52892.com
 528btc.com
@@ -5228,6 +5227,7 @@
 58xs.tw
 58xueche.com
 58xuexi.com
+58yiji.com
 58yuefu.com
 58yuesao.com
 58zcw.com
@@ -26022,6 +26022,7 @@ hacpai.com
 haczjob.com
 hadax.com
 hadns.net
+hadobi.com
 hadoop1024.com
 hadsky.com
 haers.com
@@ -31899,6 +31900,7 @@ jdhyplay.com
 jdiy.club
 jdjinrong.com
 jdjob88.com
+jdjrdns.com
 jdjygold.com
 jdkcb.com
 jdkindle.com
@@ -39219,7 +39221,6 @@ meiwenfen.com
 meiwenting.com
 meiwentx.com
 meixie.com
-meixincdn.com
 meixueyuan.com
 meiyaapp.com
 meiyan.com
