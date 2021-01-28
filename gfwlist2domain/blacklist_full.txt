@@ -1682,7 +1682,6 @@
 8964.in
 8964.xyz
 8969.org
-8977.cc
 8977.com
 89925.com
 899722.com
@@ -2487,7 +2486,6 @@ akriluss.cl
 aktualne.cz
 aku-tak-peduli.blogspot.hk
 al-islam.com
-al-qimmah.net
 alabout.com
 alalam.ir
 alalin.me
@@ -7423,6 +7421,7 @@ coinonecore.com
 coinonecorp.com
 coinrail.co.kr
 cointiger.com
+cointobe.com
 coinut.com
 coinx.ph
 cokeconsolidated.com
@@ -7473,6 +7472,7 @@ com.fr
 com.ge
 com.gh
 com.gi
+com.google
 com.gr
 com.gt
 com.gy
@@ -8071,7 +8071,6 @@ dajiyuan.com
 dajiyuan.de
 dajiyuan.eu
 dakaba.pw
-dakaba.xyz
 dakashangche.com
 dakashangche.net
 dalailama-archives.org
@@ -27571,7 +27570,6 @@ walderviolin.com
 wallet.com
 walllink.cc
 wallmama.com
-wallornot.org
 wallpapercasa.com
 wallproxy.com
 walls.io
