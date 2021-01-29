@@ -483,7 +483,6 @@
 0570fc.com
 0570zs.com
 057191.com
-0571dns.com
 0571ok.com
 0573fang.com
 0573ren.com
@@ -930,6 +929,7 @@
 101.com
 10100000.com
 10101111.com
+10101111cdn.com
 1010jiajiao.com
 1010jz.com
 1010pic.com
@@ -5095,6 +5095,7 @@
 57auto.com
 57dj.com
 57ee.net
+57fx.com
 57go.com
 57lai.com
 57px.com
@@ -12782,7 +12783,6 @@ cabontek.com
 cabplink.com
 cabxgw.com
 cacfo.com
-cacg.cc
 cachecn.com
 cachecn.net
 cachekit.com
@@ -16616,6 +16616,7 @@ coffee08.com
 cofly.com
 cofool.com
 cofoolfx.com
+cogcpa.org
 cogitosoft.com
 cogobuy.com
 cogonline.com
@@ -21842,7 +21843,6 @@ exuanpin.com
 exuanshi.com
 exuekt.com
 exunchi.com
-exxstar.com
 exxvip.com
 exziyuan.com
 ey-app.com
@@ -26941,6 +26941,7 @@ hdchina.net
 hddhhn.com
 hddznet.com
 hdfimg.com
+hdggapi.com
 hdgogogo.com
 hdhgzx.com
 hdhospital.com
@@ -40280,6 +40281,7 @@ moqilin.net
 moqing.com
 moqipobing.com
 moqu8.com
+moquu.com
 moracoffee.cc
 morechinese.cc
 moreck.com
@@ -43841,6 +43843,7 @@ pioneertimes.net
 pip919.com
 pipa.com
 pipacoding.com
+pipapai.com
 pipaw.com
 pipaw.net
 pipedetect.com
@@ -43949,6 +43952,7 @@ play910.com
 playbeta.net
 playcomet.jp
 playcrab.com
+playcvn.com
 playfifa.com
 playlu.com
 playnail.com
@@ -44808,6 +44812,7 @@ qhd.net
 qhdae.com
 qhdaikuan.com
 qhdatongnews.com
+qhdfxkj.com
 qhdgjj.com
 qhdjcbj.com
 qhdnews.com
@@ -45082,6 +45087,7 @@ qiigame.com
 qiji.tech
 qijiadianzi.com
 qijianzs.com
+qijiapay.com
 qijiayoudao.net
 qijishow.com
 qijizuopin.com
@@ -47395,6 +47401,7 @@ sao.so
 saohuo7.com
 saoic.com
 saolife.com
+saomadang.com
 saopu.com
 saoso.com
 saowen.net
@@ -49431,6 +49438,7 @@ sinocateringexpo.com
 sinocax.com
 sinoces.com
 sinochem.com
+sinochemb2c.com
 sinochemitc.com
 sinocul.com
 sinoec.net
@@ -54058,6 +54066,7 @@ txxtw16.com
 txy8.com
 txyapp.com
 txyes.com
+txylab.com
 txzad.com
 txzdq.com
 ty-im.com
@@ -54733,6 +54742,7 @@ utf8.hk
 uthinks.com
 utiankong.com
 utkang.com
+utogame.com
 utom.design
 utoper.com
 utourworld.com
@@ -61400,6 +61410,7 @@ ycjyjt.com
 ycku.com
 ycl37.com
 yclh6.com
+yclunwen.com
 ycmbcd.com
 ycnuli.com
 ycpack.net
