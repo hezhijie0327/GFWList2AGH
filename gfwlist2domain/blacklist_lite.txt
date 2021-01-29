@@ -2200,7 +2200,6 @@ altavista.com
 altera.com
 alteraforum.com
 alteraforums.com
-alterauserforums.com
 alternate-tools.com
 alternativeto.net
 altimiras.cl
@@ -12966,6 +12965,7 @@ jetbrains.com
 jetbrains.net
 jetfuelapp.com
 jetfuelapps.com
+jeth.tk
 jetos.com
 jewishpathways.com
 jex.com
@@ -16808,6 +16808,7 @@ openweave.io
 openwebster.com
 openwrt.org
 opera.com
+oppc.tk
 opposk.ga
 optanedifference.com
 optibrium.net

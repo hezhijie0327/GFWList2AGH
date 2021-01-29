@@ -2662,7 +2662,6 @@ altavista.com
 altera.com
 alteraforum.com
 alteraforums.com
-alterauserforums.com
 alternate-tools.com
 alternativeto.net
 alternet.co.il
@@ -15420,6 +15419,7 @@ jetbrains.com
 jetbrains.net
 jetfuelapp.com
 jetfuelapps.com
+jeth.tk
 jetos.com
 jewishpathways.com
 jex.com
@@ -20083,6 +20083,7 @@ opera-mini.net
 opera.com
 opgg-static.akamaized.net
 opml.radiotime.com
+oppc.tk
 opposk.ga
 optanedifference.com
 optibrium.net
