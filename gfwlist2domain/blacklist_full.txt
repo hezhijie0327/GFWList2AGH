@@ -1235,6 +1235,7 @@
 6024941669-sd.cp168.ws
 60404.vip
 6042.vip
+6047.vip
 605660.com
 606305.com
 60655.com
@@ -6916,7 +6917,6 @@ chinagate.com
 chinageeks.org
 chinagfw.org
 chinagonet.com
-chinagreenparty.org
 chinagrows.com
 chinaheritage.net
 chinahistorypodcast.com
@@ -7082,6 +7082,7 @@ cisco.com
 cisco.evergage.com
 cisco.mobi
 ciscoconnectcloud.com
+ciscoconnectcloud.org
 ciscocontest.com
 ciscoerate.com
 ciscofax.com
@@ -7275,6 +7276,7 @@ cn.akinator.com
 cn.akinator.mobi
 cn.bongacams.sexy
 cn.calameo.com
+cn.cf.gs
 cn.chosun.com
 cn.com
 cn.epac.to
@@ -13299,6 +13301,7 @@ hg3838.com
 hg70777.com
 hg7078.com
 hg86228.com
+hga017.com
 hga025.com
 hgamecn.com
 hgamedb.com
