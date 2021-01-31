@@ -3679,6 +3679,7 @@
 4124.com
 41443.com
 415.net
+41717.net
 417418.com
 4177.com
 418999.com
@@ -5096,6 +5097,7 @@
 57auto.com
 57dj.com
 57ee.net
+57gif.com
 57go.com
 57lai.com
 57px.com
@@ -5454,6 +5456,7 @@
 5xiaobo.com
 5xini.com
 5xts.com
+5xue.com
 5xuni.com
 5y100.com
 5y6s.com
@@ -8626,7 +8629,6 @@ aiyuke.com
 aiyunxiao.com
 aizaoqi.com
 aizhan.com
-aizhangfen.com
 aizhanku.com
 aizhaomu.com
 aizhenghun.com
@@ -9370,6 +9372,7 @@ aoye.com
 aoyii.com
 aoyor.com
 aoyotech.com
+aoyou.cc
 aoyou.com
 aoyoux.com
 aoyuge.com
@@ -10011,6 +10014,7 @@ aw.cc
 aw99.com
 awa919.com
 awaimai.com
+awaker.hk
 awaysoft.com
 awbang.com
 awc618.com
@@ -10273,6 +10277,7 @@ baiduvv.com
 baiduyiyi.com
 baiduyun.com
 baiduyun.wiki
+baiduyundns.com
 baiduyundns.net
 baiduyunpan.com
 baiduyunpan.net
@@ -12117,7 +12122,6 @@ bm8885.com
 bmadx.com
 bmatch.tech
 bmdbr.com
-bmdxcx.com
 bmeol.com
 bmfsm.com
 bmijs.com
@@ -12673,7 +12677,6 @@ buyanshufa.com
 buyaor.cc
 buybieshu.com
 buycarcn.com
-buychuan.com
 buycolle.com
 buyfine.net
 buyigang.com
@@ -15964,7 +15967,6 @@ cloudgap.net
 cloudgertopage.com
 cloudgfw.com
 cloudgfw.net
-cloudglb.com
 cloudglb.net
 cloudgoing.com
 cloudguarding.com
@@ -17730,6 +17732,7 @@ ctohome.com
 ctoutiao.com
 ctquan.com
 ctrip-lvyou.com
+ctrip-ttd.hk
 ctrip.cn
 ctrip.co.id
 ctrip.co.kr
@@ -36554,6 +36557,7 @@ laonanren.com
 laoniushuju.com
 laoqiange.club
 laoqiange.com
+laoqianzhuang.com
 laoqu123.net
 laoren.com
 laosiji.com
@@ -39433,6 +39437,7 @@ marakaro.com
 mararun.com
 marcores.com
 marineoverseas.com
+marioin.com
 mariokart.cn
 mariokart.com.cn
 markchao.org
@@ -47348,6 +47353,7 @@ renmaiku.com
 renmaitong.com
 renminkaiguan.com
 renniaofei.com
+renqibaohe.com
 renren-inc.com
 renren.com
 renren.io
@@ -54204,6 +54210,7 @@ top3456.com
 topacg.com
 topbester.com
 topbiz360.com
+topbm.com
 topbook.cc
 topcfo.net
 topcheer.com
@@ -58332,6 +58339,7 @@ windowszj.net
 windrunner.me
 winds.red
 windsns.com
+windtch.com
 wine-world.com
 wine9.com
 winegame.net
@@ -61548,6 +61556,7 @@ xs8.cn
 xs82.net
 xs880.com
 xs91.net
+xsasn.com
 xsb.tw
 xsb120.com
 xsbashi.net
@@ -64299,7 +64308,6 @@ yuanbaohui.com
 yuanbaojiaozi.com
 yuanbin.me
 yuancailiao.net
-yuancdn.com
 yuancefund.com
 yuanchengxiezuo.com
 yuanchuangchi.com
@@ -65788,6 +65796,7 @@ zhangyoubao.com
 zhangyoushijie.com
 zhangyu.com
 zhangyue.com
+zhangyue.net
 zhangyugg.com
 zhangyulive.com
 zhangyunling.com
@@ -67431,7 +67440,6 @@ zswcn.com
 zsweai.club
 zsxq.com
 zsxq100.com
-zsxt91.com
 zsythink.net
 zszq.com
 zt-express.com
