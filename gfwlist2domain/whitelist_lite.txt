@@ -787,7 +787,6 @@
 1-b.tc
 1-cs.net
 1-du.net
-1-yuan.net
 100-tong.com
 100.com
 100.me
@@ -1999,7 +1998,6 @@
 19where.com
 19xsf.com
 19yxw.com
-19zhan.com
 1an.com
 1aq.com
 1b23.com
@@ -3697,14 +3695,12 @@
 435214.com
 4366.com
 436675.com
-4377.com
 439.cc
 4399-xyx.com
 4399.com
 4399.net
 43999yx.com
 4399api.com
-4399biule.com
 4399data.com
 4399dmw.com
 4399er.com
@@ -3862,7 +3858,6 @@
 4ting43.site
 4u4v.net
 4usky.cc
-4wad.com
 4wxw.com
 4xiazai.com
 4xseo.com
@@ -5695,7 +5690,6 @@
 6711img.com
 676z.com
 67712a.com
-677dy.com
 678266.com
 678678.com
 67876.com
@@ -6111,7 +6105,6 @@
 789294.cc
 789314.cc
 789515.com
-789box.com
 789gg.com
 789msw.com
 78bar.com
@@ -10680,6 +10673,7 @@ bctmo.com
 bcty365.com
 bcvbw.com
 bcweibo.com
+bcwhy.com
 bcxgame.com
 bcxww.com
 bcy.net
@@ -11180,7 +11174,6 @@ bigdata-expo.org
 bigdata.ren
 bigdatabbs.com
 bigdatabuy.com
-bigdataedu.org
 bigdatasafe.org
 bigdatastudy.net
 bigdiao.cc
@@ -12226,7 +12219,6 @@ boyunso.com
 boyuonline.com
 bozhihua.com
 bozhong.com
-bp576.com
 bphetaomiao.com
 bphots.com
 bppan.com
@@ -12554,7 +12546,6 @@ bxgjyc.com
 bxgtd.com
 bxhaibao.com
 bxjob.net
-bxjyw.com
 bxkejian.com
 bxkxw.com
 bxlac.com
@@ -29014,7 +29005,6 @@ huiyuandao.com
 huiyuanyy.com
 huize.com
 huizecdn.com
-huizhan-inc.com
 huizhaofang.com
 huizhek.com
 huizheko.com
@@ -30309,7 +30299,6 @@ iibechina.com
 iicp.net
 iidns.com
 iidvd.com
-iiedns.xyz
 iiexe.com
 iifab.com
 iii80.com
@@ -37767,7 +37756,6 @@ lrdzt.com
 lread.net
 lrhold.net
 lrist.com
-lrs001.com
 lrscloud2.com
 lrscloud3.com
 lrswl.com
@@ -42990,7 +42978,6 @@ oxiaohua.com
 oxrm.com
 oxyry.com
 oyangiz.com
-oycode.com
 oycslia.xyz
 oyeahgame.com
 oyekeji.com
@@ -43339,7 +43326,6 @@ pcbtech.net
 pcbtime.com
 pccpa.hk
 pccppc.com
-pcdog.com
 pcdrv.com
 pcdsp.com
 pceggs.com
@@ -47158,7 +47144,6 @@ ruyitianrong.com
 ruyo.net
 ruyu.com
 ruzw.com
-rvfdp.com
 rvmcu.com
 rwtext.com
 rwxqfbj.com
@@ -55003,7 +54988,6 @@ vankeservice.mobi
 vankeweekly.com
 vanlos.com
 vanmai.com
-vanmatt.com
 vanrui.com
 vanterc.com
 vants.org
@@ -56534,7 +56518,6 @@ weixinmenu.com
 weixinmuban.com
 weixinmvp.com
 weixinnu.com
-weixinpy.com
 weixinqing.com
 weixinqn.com
 weixinquanzi.com
@@ -58379,7 +58362,6 @@ wyn88.com
 wynnad.com
 wyptk.com
 wypxj.com
-wyq9.com
 wyr.me
 wyrj.com
 wys.net
@@ -58648,7 +58630,6 @@ xcdesign.net
 xcexe.com
 xcfee.com
 xcfunds.com
-xcgjj.com
 xcgogo.club
 xcgogo.site
 xcgp.com
@@ -58899,7 +58880,6 @@ xhidc.com
 xhj.com
 xhj88.com
 xhjdwp.com
-xhjingling.com
 xhlgfsc.com
 xhma.com
 xhmyy.com
@@ -59209,7 +59189,6 @@ xiaolinyuan.com
 xiaolist.com
 xiaolixiaoxue.com
 xiaolizhuli.com
-xiaolu123.com
 xiaoluboke.com
 xiaoluhaohuo.com
 xiaoluyouxuan.com
@@ -59575,7 +59554,6 @@ ximiued.com
 ximiyouxi.com
 ximizi.com
 ximopanda.com
-ximuok.com
 ximuw.com
 xin.com
 xin.xin
@@ -60944,7 +60922,6 @@ xxtiao.com
 xxtjs.com
 xxwenda.com
 xxwolo.com
-xxxfeng.com
 xxxilinmen.com
 xxxlbox.com
 xxxmeng.com
@@ -65555,7 +65532,6 @@ zhuticlub.com
 zhutihome.net
 zhutix.net
 zhutixiazai.com
-zhutizhijia.net
 zhutools.com
 zhutou.com
 zhutousan.net
