@@ -8011,6 +8011,7 @@ d100.net
 d14qd3he45186l.cloudfront.net
 d1k2us671qcoau.cloudfront.net
 d1n7qfbcprvx1.cloudfront.net
+d2.dhcp.biz
 d29vzk4ow07wi7.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
 d2bay.com
@@ -15645,7 +15646,6 @@ jomblo.asia
 jomsocial.com
 jonatin.com
 joomag.com
-joox.com
 joragupra.com
 jorgepileggi.com.ar
 jorn.net
@@ -22589,6 +22589,7 @@ s-usc1c-nss-239.firebaseio.com
 s-xoom.com
 s.mobileread.com
 s.team
+s.vos.io
 s.xiaod.in
 s.ytimg.com
 s0016.com
