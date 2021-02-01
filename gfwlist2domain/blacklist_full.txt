@@ -4086,6 +4086,7 @@ bbs.gudicn.com
 bbs.hanminzu.org
 bbs.huasing.org
 bbs.junglobal.net
+bbs.k369.eu.org
 bbs.kanshifang.com
 bbs.kimy.com.tw
 bbs.lxty8.com
@@ -4103,7 +4104,6 @@ bbs.sou-tong.org
 bbs.soul-plus.org
 bbs.south-plus.org
 bbs.tianshi2.com
-bbs.tuitui.info
 bbs169.com
 bbs4.2djgame.net
 bbsdigest.com
@@ -21217,6 +21217,7 @@ pomiav.com
 pon.com
 ponhub.com
 ponselhp.blogspot.hk
+poofreesky.gq
 poofx.com
 poontown.net
 poopeegirls.com
@@ -25834,7 +25835,6 @@ tuintuin.nl
 tuite.im
 tuite.in
 tuitt.ch
-tuitui.info
 tuitwit.com
 tukif.com
 tumbleonapp.com
@@ -28134,6 +28134,7 @@ wiki.zhtube.com
 wiki2.org
 wiki22.tk
 wiki3.cf
+wiki9.ml
 wikia.com
 wikia.nocookie.net
 wikia.org
@@ -31092,6 +31093,7 @@ www.pokerstars.net
 www.politiscales.net
 www.pomiav.com
 www.ponhub.com
+www.poofreesky.gq
 www.popkontv.com
 www.poppen.de
 www.popyard.com
