@@ -7547,7 +7547,6 @@ coinonecore.com
 coinonecorp.com
 coinrail.co.kr
 cointiger.com
-cointobe.com
 coinut.com
 coinx.ph
 cokeconsolidated.com
@@ -13034,7 +13033,6 @@ greatfirewall.biz
 greatfirewallofchina.org
 greatproxies.com
 greatroc.org
-greatroc.tw
 greatwallofchina.com
 greatzhonghua.org
 greenbed.com
@@ -16601,6 +16599,7 @@ leagueoflegends.co.kr
 leagueoflegends.com
 leagueoflegends.info
 leagueoflegends.net
+leagueoflegendsscripts.com
 leaguesharp.info
 leaguoflegends.com
 leancloud.com
@@ -23535,6 +23534,7 @@ sharethis.com
 shark-chinaz.com
 sharks-lagoon.fr
 sharpdaily.hk
+sharpdaily.tw
 shat-tibet.com
 shattered.io
 shayunet.net
@@ -27199,6 +27199,7 @@ video-proxy.com
 video.aol.ca
 video.aol.co.uk
 video.aol.com
+video.ap.org
 video.enlighten.org.tw
 video.fkhh1-2.fna.fbcdn.net
 video.foxbusiness.com
@@ -32647,7 +32648,6 @@ www.yule.hk
 www.yundong.idv.tw
 www.yungton.org
 www.yungyunghk.com
-www.yuntipub.com
 www.yuyanlive.com
 www.yyh3.com
 www.yzc212.com
@@ -33872,7 +33872,6 @@ yunfan.pw
 yungton.org
 yungyunghk.com
 yunti.me
-yuntipub.com
 yuri.soshistagram.com
 yuspa.co.za
 yustu.net
