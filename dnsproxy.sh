@@ -1,12 +1,12 @@
 #!/bin/sh
 
-# Current Version: 1.1.3
+# Current Version: 1.1.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && sh ./GFWList2AGH/dnsproxy.sh -d disable -e enable -v black -s full -m --all-servers -l 0.0.0.0 -r 500 -h 443 -p 53 -q 784 -t 853 -c fullchain.pem -k privkey.pem -b 223.5.5.5:53 -f 223.6.6.6:53
 
 ## Parameter
-while getopts b:c:d:e:f:h:k:l:m:p:q:r:s:t:u:v GetParameter; do
+while getopts b:c:d:e:f:h:k:l:m:p:q:r:s:t:u:v: GetParameter; do
     case ${GetParameter} in
         b) BOOTSTRAP="${OPTARG:-223.5.5.5:53}";;
         c) TLSCRT="${OPTARG:-fullchain.pem}";;
