@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.6
+# Current Version: 1.8.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -60,7 +60,7 @@ function GenerateRules() {
         fi
         if [ "${software_name}" == "adguardhome" ] || [ "${software_name}" == "domain" ]; then
             file_extension="txt"
-        elif [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ] || [ "${software_name}" == "unbound" ]; then
+        elif [ "${software_name}" == "bind9" ] || [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ] || [ "${software_name}" == "unbound" ]; then
             file_extension="conf"
         else
             file_extension="dev"
@@ -161,6 +161,53 @@ function GenerateRules() {
                 FileName && GenerateDefaultUpstream && for foreign_dns_task in "${!foreign_dns[@]}"; do
                    GenerateRulesProcess
                 done
+            fi
+        ;;
+        bind9)
+            domestic_dns=(
+                "119.29.29.29 port 53"
+                "223.5.5.5 port 53"
+            )
+            foreign_dns=(
+                "208.67.222.222 port 53"
+                "8.8.8.8 port 53"
+            )
+            if [ "${generate_mode}" == "full" ]; then
+                if [ "${generate_file}" == "black" ]; then
+                    FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                        echo -n "zone \"${gfwlist_data[$gfwlist_data_task]}.\" {type forward; forwarders { " >> "${file_path}"
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo -n "${foreign_dns[$foreign_dns_task]}; " >> "${file_path}"
+                        done
+                        echo "}; };" >> "${file_path}"
+                    done
+                elif [ "${generate_file}" == "white" ]; then
+                    FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
+                        echo -n "zone \"${cnacc_data[$cnacc_data_task]}.\" {type forward; forwarders { " >> "${file_path}"
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo -n "${domestic_dns[$domestic_dns_task]}; " >> "${file_path}"
+                        done
+                        echo "}; };" >> "${file_path}"
+                    done
+                fi
+            elif [ "${generate_mode}" == "lite" ]; then
+                if [ "${generate_file}" == "black" ]; then
+                    FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                        echo -n "zone \"${lite_gfwlist_data[$lite_gfwlist_data_task]}.\" {type forward; forwarders { " >> "${file_path}"
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo -n "${foreign_dns[$foreign_dns_task]}; " >> "${file_path}"
+                        done
+                        echo "}; };" >> "${file_path}"
+                    done
+                elif [ "${generate_file}" == "white" ]; then
+                    FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                        echo -n "zone \"${lite_cnacc_data[$lite_cnacc_data_task]}.\" {type forward; forwarders { " >> "${file_path}"
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo -n "${domestic_dns[$domestic_dns_task]}; " >> "${file_path}"
+                        done
+                        echo "}; };" >> "${file_path}"
+                    done
+                fi
             fi
         ;;
         dnsmasq)
@@ -317,6 +364,11 @@ function OutputData() {
     software_name="adguardhome" && generate_file="blackwhite" && generate_mode="lite_split" && dns_mode="domestic" && GenerateRules
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="full_split" && dns_mode="foreign" && GenerateRules
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="lite_split" && dns_mode="foreign" && GenerateRules
+    ## Bind9
+    software_name="bind9" && generate_file="black" && generate_mode="full" && GenerateRules
+    software_name="bind9" && generate_file="black" && generate_mode="lite" && GenerateRules
+    software_name="bind9" && generate_file="white" && generate_mode="full" && GenerateRules
+    software_name="bind9" && generate_file="white" && generate_mode="lite" && GenerateRules
     ## DNSMasq
     software_name="dnsmasq" && generate_file="black" && generate_mode="full" && GenerateRules
     software_name="dnsmasq" && generate_file="black" && generate_mode="lite" && GenerateRules
