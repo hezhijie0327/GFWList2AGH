@@ -7547,6 +7547,7 @@ coinonecore.com
 coinonecorp.com
 coinrail.co.kr
 cointiger.com
+cointobe.com
 coinut.com
 coinx.ph
 cokeconsolidated.com
@@ -7600,7 +7601,6 @@ com.fr
 com.ge
 com.gh
 com.gi
-com.google
 com.gr
 com.gt
 com.gy
@@ -10687,7 +10687,6 @@ falundafanevada.org
 falundafanorge.com
 falundafaradio.org
 falundafautah.org
-falungong-wa.org
 falungong.club
 falungong.cz
 falungong.de
@@ -13035,6 +13034,7 @@ greatfirewall.biz
 greatfirewallofchina.org
 greatproxies.com
 greatroc.org
+greatroc.tw
 greatwallofchina.com
 greatzhonghua.org
 greenbed.com
@@ -32647,6 +32647,7 @@ www.yule.hk
 www.yundong.idv.tw
 www.yungton.org
 www.yungyunghk.com
+www.yuntipub.com
 www.yuyanlive.com
 www.yyh3.com
 www.yzc212.com

@@ -6212,6 +6212,7 @@ coingi.com
 coinonecore.com
 coinonecorp.com
 cointiger.com
+cointobe.com
 coinut.com
 coinx.ph
 cokeconsolidated.com
@@ -6263,7 +6264,6 @@ com.fr
 com.ge
 com.gh
 com.gi
-com.google
 com.gr
 com.gt
 com.gy
@@ -8881,7 +8881,6 @@ falundafanevada.org
 falundafanorge.com
 falundafaradio.org
 falundafautah.org
-falungong-wa.org
 falungong.club
 falungong.cz
 falungong.de
@@ -10863,6 +10862,7 @@ greatfirewall.biz
 greatfirewallofchina.org
 greatproxies.com
 greatroc.org
+greatroc.tw
 greatwallofchina.com
 greatzhonghua.org
 greenbed.com
