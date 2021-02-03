@@ -5,7 +5,6 @@
 000aa.com
 000webhost.com
 000webhostapp.com
-001717.com
 001lv.com
 001www.com
 00330033.net
@@ -27,6 +26,7 @@
 00899i.com
 00899j.com
 00899k.com
+009199.com
 00afcp.com
 01001.com
 01077.cc
@@ -43,6 +43,8 @@
 020usa.com
 021330.com
 02166.cc
+021df.com
+023001.com
 02322.cc
 0235.com
 0235aa.com
@@ -81,7 +83,6 @@
 03afcp.com
 0403.ca
 04afcp.com
-053860.com
 055009.com
 056508.com
 056577.com
@@ -131,7 +132,6 @@
 10.tt
 1000.tv
 1000717.com
-1000826.com
 1000giri.net
 1000novel.com
 10010388.com
@@ -2041,6 +2041,7 @@ aizhaofuli.com
 aizhi.co
 ajcheng.com
 aje.io
+ajiyuming.com
 ajplus.net
 ajsands.com
 ajtalk.com
@@ -11593,6 +11594,7 @@ houtroos.com
 howardfq.net
 howbbs.com
 howtoforge.com
+hoxo.info
 hoxx.com
 hp-imagine.com
 hp-infolab.com
@@ -11895,6 +11897,7 @@ hymzw.net
 hyperrate.com
 hyperscan.io
 hypothes.is
+hysou.com
 hyva.com
 hz8801.com
 hz8803.com
@@ -12162,6 +12165,7 @@ ilovelongtoes.com
 iltk.it
 iltk.org
 ilvpn.com
+im.cz
 im.tv
 im099.com
 im88.tw
@@ -13535,6 +13539,7 @@ kcdgs.com
 kcoolonline.com
 kdwcl.com
 kearney.cn
+kebhana.mx
 kebrum.com
 kechara.com
 kedna.com
@@ -15446,6 +15451,7 @@ modernchinastudies.org
 modfetish.com
 modix.biz
 modmyi.com
+modzj.net
 moe-acg.cc
 moeerolibrary.com
 moefuns.com
@@ -20136,6 +20142,7 @@ sostibet.org
 sothathappened.tv
 sou-tong.org
 soubory.com
+soufy.cn
 sougouwiki.com
 souguge.net
 soul-plus.net
@@ -20267,6 +20274,7 @@ sproxy.net
 spyjinx.com
 spyoff.com
 spys.one
+sqfuwu.cn
 sqlite.org
 sqlserveronlinux.com
 squarespace.com
@@ -23248,6 +23256,7 @@ vs8989.com
 vsallin.net
 vsassets.io
 vsco.co
+vsimg.com
 vspace.ro
 vsphere.com
 vsphere.net

@@ -8,7 +8,6 @@
 000webhost.com
 000webhostapp.com
 001.0x1f4b0.com
-001717.com
 001lv.com
 001www.com
 002.0x1f4b0.com
@@ -39,6 +38,7 @@
 00899j.com
 00899k.com
 009.0x1f4b0.com
+009199.com
 00afcp.com
 01.gxso.net
 01001.com
@@ -59,6 +59,8 @@
 020usa.com
 021330.com
 02166.cc
+021df.com
+023001.com
 02322.cc
 0235.com
 0235aa.com
@@ -97,7 +99,6 @@
 03afcp.com
 0403.ca
 04afcp.com
-053860.com
 055009.com
 056508.com
 056577.com
@@ -142,20 +143,34 @@
 098.com
 099529.com
 09afcp.com
+0d.kebhana.mx
 0dayporno.com
 0fbhhfxdxc.com
 0mm.nl
 0plkijj.vip
+0qizz.super-promo.hoxo.info
 0rz.tw
+0sbm.consobaby.co.uk
 0x0.st
 0x1f4b0.com
 1-apple.com.tw
-1.bb6688.ws
+1.ajiyuming.com
+1.bh5.com.cn
+1.cn716.com
+1.feihua.net.cn
+1.hysou.com
+1.kk.sqfuwu.cn
+1.modzj.net
+1.nanrenwo.net
+1.soufy.cn
+1.ttxs123.net
+1.vsimg.com
+1.win7sky.com
 10.eve.dyx.com
+10.im.cz
 10.tt
 1000.tv
 1000717.com
-1000826.com
 1000giri.net
 1000nik.blogspot.hk
 1000novel.com
@@ -2489,6 +2504,7 @@ ajax.googleapis.com
 ajax.loli.net
 ajcheng.com
 aje.io
+ajiyuming.com
 ajplus.net
 ajsands.com
 ajtalk.com
@@ -13923,6 +13939,7 @@ howardfq.net
 howbbs.com
 howtoforge.com
 howtogetmo.co.uk
+hoxo.info
 hoxx.com
 hp-imagine.com
 hp-infolab.com
@@ -14244,6 +14261,7 @@ hyperrate.com
 hyperscan.io
 hypothes.is
 hyread.com.tw
+hysou.com
 hyva.com
 hz8801.com
 hz8803.com
@@ -14550,6 +14568,7 @@ ilovelongtoes.com
 iltk.it
 iltk.org
 ilvpn.com
+im.cz
 im.tv
 im099.com
 im88.tw
@@ -16125,6 +16144,7 @@ kcoolonline.com
 kdwcl.com
 ke2.fengherili.cc
 kearney.cn
+kebhana.mx
 kebrum.com
 kechara.com
 kedna.com
@@ -18503,6 +18523,7 @@ modfetish.com
 modix.biz
 modmyi.com
 modpingouin.free.fr
+modzj.net
 moe-acg.cc
 moeaic.gov.tw
 moeerolibrary.com
@@ -24152,6 +24173,7 @@ sostibet.org
 sothathappened.tv
 sou-tong.org
 soubory.com
+soufy.cn
 sougouwiki.com
 souguge.net
 soul-plus.net
@@ -24319,6 +24341,7 @@ spyno1.webnode.tw
 spyoff.com
 spys.one
 sq.itimemachine.net
+sqfuwu.cn
 sqlite.org
 sqlserveronlinux.com
 sqs.ap-northeast-1.amazonaws.com
@@ -27951,6 +27974,7 @@ vsallin.net
 vsassets.io
 vsb.edsby.com
 vsco.co
+vsimg.com
 vspace.ro
 vsphere.com
 vsphere.net
