@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.8.7
+# Current Version: 1.8.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -12,6 +12,7 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_domestic.txt"
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/direct.txt"
     )
     dead_domain=(
@@ -24,6 +25,7 @@ function GetData() {
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_foreign.txt"
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
