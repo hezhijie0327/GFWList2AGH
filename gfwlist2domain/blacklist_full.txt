@@ -7430,7 +7430,6 @@ baywords.com
 bazarartelar.net
 bazarfuyang.com
 bazel.build
-bb-chat.tv
 bb-in.cc
 bb-in.com
 bb-in.net
@@ -7457,7 +7456,6 @@ bbb111.com
 bbb112.net
 bbb26.net
 bbb36.net
-bbb678.com
 bbb858.com
 bbc.co
 bbc.co.uk
@@ -7466,7 +7464,6 @@ bbc.de
 bbc.in
 bbcchinese.com
 bbcdn.go.arbopl.bbelements.com
-bbchat.tv
 bbci.co.uk
 bbclearningenglish.com
 bbcmundo.com
@@ -7585,25 +7582,17 @@ bd1-china.6789.com
 bd1.fengdu100.com
 bd1.idgdmg.com.cn
 bd107.com
-bd275.com
-bd302.com
 bd373.com
-bd537.com
 bd625.com
 bd739.com
-bd790.com
 bd831.com
 bd835.com
 bd935.com
 bdg-analytics.appspot.com
-bdg190.com
 bdg251.com
 bdg256.com
-bdg381.com
-bdg6227.com
 bdg663.com
 bdg693.com
-bdg88.com
 bdg909.com
 bdg99.com
 bdgg.youbian.com
@@ -7612,7 +7601,6 @@ bdjs.91zhuti.com
 bdm.911cha.com
 bdnad1.bangornews.com
 bdoce.cl
-bdsmforall.com
 bdsmstreak.com
 bdsmtv.cc
 bdsmtv.co
@@ -8367,7 +8355,6 @@ bitmovin.com
 bitnami.com
 bitnamistudio.com
 bitp.it
-bitporno.com
 bitquick.co
 bitrix.info
 bitsngo.net
@@ -8519,7 +8506,6 @@ blockedinchina.net
 blockediniran.com
 blockedonweibo.com
 blockedsiteaccess.com
-blockfi.com
 blockless.com
 blockscout.com
 blog.51.ca
@@ -8530,11 +8516,9 @@ blog.bitsrc.io
 blog.boxcar.io
 blog.calibre-ebook.com
 blog.cloudboost.io
-blog.cnyes.com
 blog.com
 blog.cotten.io
 blog.cyaontheroad.com
-blog.daum.net
 blog.davidziegler.net
 blog.de
 blog.duduzui.com
@@ -8591,7 +8575,6 @@ blog.usejournal.com
 blog.vic.mh4u.org
 blog.vipin.us
 blog.workflow.is
-blog.xuite.net
 blog.yahoo.com
 blog.yitianshijie.net
 blog.young.twgogo.org
@@ -9236,14 +9219,8 @@ bod.asia
 bodenwart.at
 bodog.com
 bodog127.com
-bodog168.com
-bodog26.com
 bodog68.com
-bodog788.com
-bodog88.com
-bodog888.com
 bodog88asia.com
-bodog97.com
 bodogasia.com
 bodyandsoul.com.au
 bodyfluids-jav.com
@@ -9458,9 +9435,7 @@ bridgestone.cl
 bridgestone.co.cr
 bridgestone.co.id
 bridgestone.co.in
-bridgestone.co.jp
 bridgestone.co.th
-bridgestone.com
 bridgestone.com.ar
 bridgestone.com.br
 bridgestone.com.co
@@ -9683,7 +9658,6 @@ bumptunes.com
 bunbunhk.com
 bundesdruckerei.de
 bungzhu.web.id
-bunshun.jp
 buny.uk
 bupropion-hcl.1.p2l.info
 burdadigital.pl
@@ -9884,7 +9858,6 @@ bwbx.io
 bwei101.com
 bwei8668.com
 bwei88.com
-bwgyhw.com
 bwh1.net
 bwh8.net
 bwh88.net
@@ -10070,6 +10043,7 @@ c3.gostats.cn
 c3.myapkcdn.in
 c3285.app
 c3344.com
+c3edge.com
 c3j.fun
 c3metrics.medifast1.com
 c4.myway.com
@@ -10087,7 +10061,6 @@ c8763.com
 c88588.com
 c88788.com
 c888.net
-c8881.com
 c8b.jcdb88.com
 c9998.com
 ca-desktop-premium.zenmateuser.com
