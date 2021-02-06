@@ -30,7 +30,7 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
-    rm -rf ./gfwlist2* ./Temp && mkdir ./Temp && cd ./Temp
+    rm -rf ./gfwlist2* ./Temp ./domains.txt* ./gfwlist-extras.txt* ./proxy.txt* && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
         curl -s --connect-timeout 15 "${cnacc_domain[$cnacc_domain_task]}" >> ./cnacc_domain.tmp
     done
