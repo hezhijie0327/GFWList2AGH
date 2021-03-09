@@ -2604,7 +2604,6 @@ a02342.bridportnews.co.uk
 a02342.bromsgroveadvertiser.co.uk
 a02342.bucksfreepress.co.uk
 a02342.burnhamandhighbridgeweeklynews.co.uk
-a02342.campaignseries.co.uk
 a02342.chardandilminsternews.co.uk
 a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
@@ -5141,7 +5140,6 @@ affiliates.letou.com
 affiliates.londonmarketing.com
 affiliates.lynda.com
 affiliates.minglematch.com
-affiliates.mozy.com
 affiliates.purevpn.com
 affiliates.rozetka.com.ua
 affiliates.streamray.com
@@ -7674,7 +7672,6 @@ attwifi.com
 attwirelessinternet.com
 attwirelessonline.com
 attwirelesssolutions.com
-atv-ext.amazon.com
 atv-ps.amazon.com
 atv98.com
 atwola.com
@@ -11250,7 +11247,6 @@ buy-fioricet.hut1.ru
 buy-hydrocodone.scromble.com
 buy-lortab-online.iscool.nl
 buy-lortab.hut1.ru
-buy-phentermine-online.135.it
 buy-phentermine.thepizza.net
 buy-ultram-online.iscool.nl
 buy-valium.hut1.ru
@@ -12875,7 +12871,6 @@ chattha.ca
 chaturbate.com
 chausport.com
 chavesasoc.com.ar
-chcblog.tk
 cheabit.com
 cheap-adipex.hut1.ru
 cheap-beats-by-dre.net
@@ -14425,7 +14420,6 @@ content.streamplay.to
 content.yieldmanager.edgesuite.net
 content22.online.citi.com
 contentabc.com
-contentclick.co.uk
 contentexchange.me
 contentforces.com
 contentful.com
@@ -14859,7 +14853,6 @@ cqolg.cn
 cqpmvc.programme-tv.net
 cqqggqw.com
 cqubdd.metro.co.uk
-cqwufangzhai.com
 cqzqqx.com
 cr-p16.ladsp.com
 cr.rs
@@ -21649,7 +21642,6 @@ fq.wikia.com
 fqcebook.com
 fqok.org
 fqrouter.com
-fqseo.org
 fqzds.com
 fqzhan.com
 fr-beatsbydrestore.com
@@ -26858,6 +26850,7 @@ ingtv.me
 inikesneakers.com
 init-ag.de
 init-cdn.itunes-apple.com.akadns.net
+init.ess.apple.com
 init.gc.apple.com
 init.homekit.push.apple.com
 init.push-apple.com.akadns.net
@@ -28394,7 +28387,6 @@ jobmarket.com.hk
 jobnewera.wordpress.com
 jobs.ie
 jobs.thejobnetwork.com
-jobsadspk.com
 jobsdb.com
 jobstreet.com
 jobxtv.com
@@ -29058,7 +29050,6 @@ khaiafi.com
 khanacademy.org
 kharkov.ua
 khatrimaza.org
-khbj.net
 khd.qjvpn.com
 khg56.com
 khgtwn.reifendirekt.de
@@ -41698,7 +41689,6 @@ richmedia.yimg.com
 richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 richporntube.com
 rickaube.com
-rickh.cf
 rickhuang.asuscomm.com
 ricpt.com
 rideexpress.com
@@ -62126,6 +62116,7 @@ zhuangbi.me
 zhuatieba.com
 zhuatube.com
 zhuba8.com
+zhuce.la
 zhuichaguoji.org
 zhuoyaju.com
 zhwp.org
@@ -62165,6 +62156,7 @@ ziprealty.com
 ziprecruiter.com
 zisu.cn.com
 ziyuanhai.com
+ziziyy.net
 zjcapital.cn
 zjcqoo.github.io
 zjeban.si
@@ -62309,6 +62301,7 @@ zrw1.destinia.jp
 zryydi.com
 zs.dhl.de
 zs1111.youzue.com
+zsdaoyi.com
 zsdexun.com.cn
 zsdxzk.com
 zsh.org
