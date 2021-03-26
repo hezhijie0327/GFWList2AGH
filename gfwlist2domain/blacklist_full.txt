@@ -210,10 +210,8 @@
 1-courier.sandbox.push.apple.com
 1-courier2.push.apple.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bb6688.ws
 1.bh5.com.cn
-1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -355,6 +353,7 @@
 119089.com
 119hg.com
 119sihu.com
+11a12.com
 11afcp.com
 11btjia.com
 11c07.com
@@ -423,7 +422,6 @@
 1300kai.com
 1303483.live173.com
 1314.4irc.com
-131wz.com
 1337.abcvg.info
 1337.cx
 1337x.org
@@ -773,6 +771,7 @@
 1i.kz
 1ittlecup.com
 1j1j.com
+1jiaju.com
 1jjdg2.vip
 1jsa22.vip
 1k3.com
@@ -1529,6 +1528,7 @@
 432758.com
 432lb.com
 43423.cc
+43yl.com
 44-courier.push.apple.com
 44.courier-push-apple.com.akadns.net
 44.dragonparking.com
@@ -1974,6 +1974,7 @@
 62.slyip.net
 62066tc.com
 62365t.com
+626367.com
 626ccc.net
 626ee.net
 626eee.net
@@ -2967,11 +2968,9 @@ a02342.burnhamandhighbridgeweeklynews.co.uk
 a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
-a02342.dorsetecho.co.uk
 a02342.dudleynews.co.uk
 a02342.echo-news.co.uk
 a02342.eveshamjournal.co.uk
-a02342.falmouthpacket.co.uk
 a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
@@ -3553,7 +3552,6 @@ ad-stir.com
 ad-track.paravi.jp
 ad-us.24hstatic.com
 ad-x.co.uk
-ad.100.tbn.ru
 ad.1k3.com
 ad.1kxun.com
 ad.24h.com.vn
@@ -6405,7 +6403,6 @@ amp.akamaized.net
 amp.dev
 amp.rd.linksynergy.com
 ampiri.com
-ampj2000.com
 ampj223.com
 ampj224.com
 ampj226.com
@@ -14031,6 +14028,7 @@ chithu.org
 chitujsq.com
 chiuhua.com.cn
 chkci.org.hk
+chnfit.com
 chnfree.com
 chnqiang.com
 chobit.cc
@@ -14044,6 +14042,7 @@ choice.microsoft.com.nsatc.net
 choicehotels.com
 choices.truste.com
 chomp.com
+chongjianghu.com
 choosechicago.com
 chordboard.com
 chosun.com
@@ -14692,7 +14691,6 @@ cn.man655.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
-cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -15155,6 +15153,7 @@ comhealth.xyz
 comic-mega.me
 comicbook.com
 comiccb.com
+comice.net
 comico.jp
 comico.tw
 comics-sanctuary.com
@@ -15786,7 +15785,6 @@ cox.net
 coylefamily.co.uk
 coza.com
 cozydrdrebeats.com
-cozyee.com
 cp-839qp.internet7.vip
 cp-8824js.internet7.cc
 cp-8824js.internet7.vip
@@ -16151,7 +16149,6 @@ cstudiohd.com
 csuchen.de
 csw.org.uk
 csweek.com
-csyangsheng.com
 ct.5.p2l.info
 ct.eid.co.nz
 ct.itbusinessedge.com
@@ -18425,7 +18422,6 @@ dnainfo.com
 dnaspaces.io
 dnb.com
 dnb99.com
-dnbcw.com
 dnbcw.net
 dndbeyond.com
 dndde.com
@@ -18695,7 +18691,6 @@ dowjones.hb-api.omtrdc.net
 dowjones.io
 dowjoneson.com
 down.99oi.us
-down12.com
 down2crazy.com
 downbook.org
 downdetector.com
@@ -20834,7 +20829,6 @@ errorception.com
 errorcode67.com
 errors.snackly.co
 errotica-archives.com
-ershenghuo.com
 ert5.rmcsport.tv
 ertya.com
 erutinmo.snagajob.com
@@ -21319,7 +21313,6 @@ extrutor.org
 exusr.com
 exxxtv.com
 ey.com
-eyahei.com
 eye.flnet.org
 eye.rs
 eye.swfchan.com
@@ -21728,7 +21721,6 @@ falunau.org
 falunaustin.org
 falunaz.net
 faluncanada.net
-falunchicago.org
 falundafa-br.org
 falundafa-dc.org
 falundafa-florida.org
@@ -23682,6 +23674,7 @@ futuroscope.com
 futuroscope.mobi
 fux.com
 fuxids.com
+fuycai.com
 fuyin.net
 fuyin.tv
 fuyin.win
@@ -25623,7 +25616,6 @@ gtlp.net.cn
 gtnde.com
 gtricks.com
 gtrk.s3.amazonaws.com
-gts-ads.twistbox.com
 gts-vpn.com
 gtsmobi.com
 gtv.org
@@ -25759,6 +25751,7 @@ gzrsw.com
 gzsanxiaomingshi.cn
 gzsqhu.patirti.com
 gzxxty168.com
+gzzbtbzx.com
 gzzt.org
 h-adashx4ae.ut.taobao.com
 h-china.org
@@ -28196,7 +28189,6 @@ img.uyangyong.cn
 img.vim-cn.com
 img.xiacaidd.com
 img.youtube.com
-img.yzcdn.cn
 img.zeruinong.com
 img001.36man.cc
 img1.ak.crunchyroll.com
@@ -30041,7 +30033,6 @@ jfhuzhu.com
 jfmedier.dk
 jfrog.com
 jfrog.org
-jftrf.com
 jg.bjpengyi.com
 jgg18.com
 jgg18.xyz
@@ -30627,6 +30618,7 @@ k.cocooncenter.com
 k.cocooncenter.de
 k.cocooncenter.es
 k.direct-assurance.fr
+k.fuycai.com
 k.iinfo.cz
 k.intellitxt.com
 k.jacadi.ch
@@ -30716,7 +30708,6 @@ kalahari.net
 kalaydo.fnp.de
 kali.org
 kalone.net
-kaloo.ga
 kalooga.com
 kalstats.kaltura.com
 kaltura.com
@@ -31287,7 +31278,6 @@ krypt.com
 krza.org
 ks.5.p2l.info
 ks0866.com
-ks1110.com
 ks1122.com
 ks1133.com
 ks1177.com
@@ -31341,6 +31331,7 @@ ku18.net
 ku555.net
 ku9888.net
 kuaibaopay.com
+kuaibo.com
 kuaichuanmirror.com
 kuaigao.rrsdl.com
 kuaikan8686gs.weebly.com
@@ -32162,7 +32153,6 @@ limetorrents.cc
 limevpn.com
 limontec.com
 lin.ee
-lin.internetofthings-china.com
 lin08.com
 linco.cl
 linda.de
@@ -32489,6 +32479,7 @@ log.aimtell.com
 log.anninhthudo.vn
 log.api.zaloapp.com
 log.apk.v-mate.mobi
+log.avlyun.com
 log.baodatviet.vn
 log.baodauthau.vn
 log.baomoi.com
@@ -34374,6 +34365,7 @@ mcs-va.tiktokv.com
 mcshe.com
 mct.etherscan.com
 mct188.com
+mcw55.com
 md-alu.com
 md-cc.org
 md-t.org
@@ -35949,7 +35941,6 @@ mlb.com
 mlcool.com
 mldy.rsgbt.cn
 mldy.wttpgq.cn
-mldy.yxxgab.cn
 mlh.tv
 mlib.browsermine.com
 mlive.com
@@ -36151,7 +36142,6 @@ moeaic.gov.tw
 moebelmarkt.tv
 moeerolibrary.com
 moefuns.com
-moeking.me
 moengage.com
 moesalih.com
 moeshare.com
@@ -40944,6 +40934,7 @@ personalcreations.com
 personalizationmall.com
 personaltrainermath.com
 personalvpn.com
+peru.subventas.com
 peryi.net
 pes20-x64-gate.cs.konami.net
 pes9.changeip.net
@@ -41560,6 +41551,7 @@ plastamasta.net.au
 plastichk.blogspot.hk
 plasticnews.wf
 plasticsnews.com
+platform.amedia.network
 platform.bidgear.com
 platform.bing.com
 platform.cn.bing.com
@@ -41607,6 +41599,7 @@ play.play1.videos.videos.vidto.me
 play.play1.videos.vidto.me
 play.pocketgolf.host
 play.proxy.multikonline.ru
+play.qs01.cn
 play.s01.vidtod.me
 play.s01.vidtodo.pro
 play.s02.vidtod.me
@@ -42224,7 +42217,6 @@ pressrepublican.com
 prestige-av.com
 prestige.minimafia.nl
 prestigecasino.com
-prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 prettylittlething.com
 prettyvirgin.com
 prevacid.1.p2l.info
@@ -43115,7 +43107,6 @@ qctconnect.com
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
 qcw.com
-qd.dhzw.org
 qd.snwx.com
 qde.chinaqirun.cn
 qdjjj.com
@@ -43218,7 +43209,6 @@ qosp.msg.71.am
 qpby00.com
 qpby0011.com
 qpby0022.com
-qpby0055.com
 qpby0066.com
 qpby0077.com
 qpby0088.com
@@ -46977,6 +46967,7 @@ show.9zwang.com
 show.aikantube.com
 show.buzzcity.net
 show.everytell.com
+show.qx15.com
 show.tcth8.com
 showav.tv
 showbiz.mail.ru
@@ -49174,6 +49165,7 @@ speed.wikia.net
 speed.wyqn.net
 speedbit.com
 speedcurve.com
+speeddreamride.com
 speeder.cf
 speedfantasybid.com
 speedhunters.com
@@ -58536,6 +58528,7 @@ weirdhentai.com
 weisuo.ws
 weiweicam.com
 weiweishe.github.io
+weixin-mpvip.com
 weixin.renrenying.com
 weiyuksj.com
 wejibk.com.cn
