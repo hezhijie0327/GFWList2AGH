@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -121,11 +121,9 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 "https://doh.pub:443/dns-query"
-                "tls://dns.alidns.com:853"
             )
             foreign_dns=(
                 "https://doh.opendns.com:443/dns-query"
-                "tls://dns.google:853"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
@@ -182,11 +180,9 @@ function GenerateRules() {
         bind9)
             domestic_dns=(
                 "119.29.29.29 port 53"
-                "223.5.5.5 port 53"
             )
             foreign_dns=(
                 "208.67.222.222 port 53"
-                "8.8.8.8 port 53"
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
@@ -229,11 +225,9 @@ function GenerateRules() {
         dnsmasq)
             domestic_dns=(
                 "119.29.29.29#53"
-                "223.5.5.5#53"
             )
             foreign_dns=(
                 "208.67.222.222#53"
-                "8.8.8.8#53"
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
@@ -314,10 +308,8 @@ function GenerateRules() {
         unbound)
             domestic_dns=(
                 "223.5.5.5@853#dns.alidns.com"
-                "223.6.6.6@853#dns.alidns.com"
             )
             foreign_dns=(
-                "8.8.4.4@853#dns.google"
                 "8.8.8.8@853#dns.google"
             )
             forward_ssl_tls_upstream="yes"
