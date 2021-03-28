@@ -14,13 +14,13 @@ dns.alidns.com
 # 阿里巴巴 CDN #8
 @alibabadns.com
 # 必应
-cn.bing.com
+@cn.bing.com
 @cn.bing.net
-www.bing.com
+@www.bing.com
 # DNSPod
 dns.pub
-dot.pub
 doh.pub
+dot.pub
 # 抖音 #10
 @douyincdn.com
 # it-global.cn #8
