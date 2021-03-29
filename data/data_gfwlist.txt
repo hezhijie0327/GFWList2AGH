@@ -32,6 +32,6 @@ dns.google
 doh.opendns.com
 # 苹果中国
 !apple.com.cn
-!ecuremetrics.apple.com.cn
+!securemetrics.apple.com.cn
 !www.apple.com.cn
 ## GFWList 列表 - 结束
