@@ -27,6 +27,10 @@ dot.pub
 @it-global.cn
 # jsDelivr
 @cdn.jsdelivr.net
+# 苹果中国
+@apple.com.cn
+@securemetrics.apple.com.cn
+@www.apple.com.cn
 # 钱美流量 #8
 ssnm.xyz
 # 上海闪耀信息科技有限公司 / 闪耀科技 #8
