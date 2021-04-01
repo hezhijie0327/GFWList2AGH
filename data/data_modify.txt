@@ -1,0 +1,106 @@
+## 自定义规则语法 - 开始
+
+# (@@@) | 向 C 及 G 列表添加域名
+(@@@)example.org
+
+# (!!!) | 向 C 及 G 列表移除域名
+(!!!)example.org
+
+# (@%@) | 仅向 C 列表添加域名
+(@%@)example.org
+
+# (!%!) | 仅向 C 列表移除域名
+(!%!)example.org
+
+# (@&@) | 仅向 G 列表添加域名
+(@&@)example.org
+
+# (!&!) | 仅向 G 列表移除域名
+(!&!)example.org
+
+# (@%!) | 向 C 列表添加域名并将其从 G 列表中移除
+(@%!)example.org
+
+# (!%@) | 向 C 列表移除域名并将其从 G 列表中添加
+(!%@)example.org
+
+# (@&!) | 向 G 列表添加域名并将其从 C 列表中移除
+(@&!)example.org
+
+# (!&@) | 向 G 列表移除域名并将其从 C 列表中添加
+(!&@)example.org
+
+## 自定义规则语法 - 结束
+
+## 自定义规则 - 开始
+
+# AcgnX
+(@&!)share.acgnx.net
+(@&!)share.acgnx.se
+(@&!)www.acgnx.se
+
+# AniX.Moe
+(@&!)www.anix.moe
+
+# 阿里 DNS
+(@%!)dns.alidns.com
+
+# 阿里巴巴 CDN #8
+(@%!)alibabadns.com
+
+# 必应
+(@%!)cn.bing.com
+(@%!)cn.bing.net
+(@%!)www.bing.com
+
+# DNSPod
+(@%!)dns.pub
+(@%!)doh.pub
+(@%!)dot.pub
+
+# Denpasoft
+(@&!)denpasoft.com
+
+# 抖音 #10
+(@%!)douyincdn.com
+
+# GitHub
+(@&!)github.com
+(@&!)githubusercontent.com
+(@&!)desktop.githubusercontent.com
+
+# Google - 修正 LITE 中规则丢失
+(@&!)google.com
+
+# Google Video - #25
+(@&!)redirector.googlevideo.com
+
+# Google DNS
+(@&!)dns.google
+
+# it-global.cn #8
+(@%!)it-global.cn
+
+# jsDelivr
+(@%!)cdn.jsdelivr.net
+(@&!)jsdelivr.net
+
+# OpenDNS
+(@&!)doh.opendns.com
+
+# 苹果中国
+(@%!)apple.com.cn
+(@%!)securemetrics.apple.com.cn
+(@%!)www.apple.com.cn
+
+# 钱美流量 #8
+(@%!)ssnm.xyz
+
+# 上海闪耀信息科技有限公司 / 闪耀科技 #8
+(@%!)global-ict.cn
+(@%!)global-idc.net
+
+# UC 浏览器 #8
+(@%!)uc.cn
+
+## 自定义规则 - 结束
