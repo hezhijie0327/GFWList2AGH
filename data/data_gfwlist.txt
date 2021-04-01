@@ -21,8 +21,6 @@
 @desktop.githubusercontent.com
 # Google - 修正 LITE 中规则丢失
 @google.com
-# Google Video - #25
-@redirector.googlevideo.com
 # Google DNS
 @dns.google
 # jsDelivr
