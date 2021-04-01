@@ -1,16 +1,14 @@
 ## 自定义规则语法 - 开始
-# 常规添加
-example.org
 # 强制添加
 @example.org
 # 强制移除
 !example.org
-# 优先级：强制移除 > 强制添加 > 常规添加
+# 优先级：强制移除 > 强制添加
 ## 自定义规则语法 - 结束
 
 ## CNACC 列表 - 开始
 # 阿里 DNS
-dns.alidns.com
+@dns.alidns.com
 # 阿里巴巴 CDN #8
 @alibabadns.com
 # 必应
@@ -18,11 +16,13 @@ dns.alidns.com
 @cn.bing.net
 @www.bing.com
 # DNSPod
-dns.pub
-doh.pub
-dot.pub
+@dns.pub
+@doh.pub
+@dot.pub
 # 抖音 #10
 @douyincdn.com
+# Google Video - #25
+!redirector.googlevideo.com
 # it-global.cn #8
 @it-global.cn
 # jsDelivr
@@ -32,10 +32,10 @@ dot.pub
 @securemetrics.apple.com.cn
 @www.apple.com.cn
 # 钱美流量 #8
-ssnm.xyz
+@ssnm.xyz
 # 上海闪耀信息科技有限公司 / 闪耀科技 #8
 @global-ict.cn
 @global-idc.net
 # UC 浏览器 #8
-uc.cn
+@uc.cn
 ## CNACC 列表 - 结束
