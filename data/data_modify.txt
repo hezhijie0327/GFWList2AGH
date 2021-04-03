@@ -12,11 +12,17 @@
 # (!%!) | 仅向 C 列表移除域名
 (!%!)example.org
 
+# (*%*) | 仅向 C 列表移除域名 (*example.org)
+(*%*)example.org
+
 # (@&@) | 仅向 G 列表添加域名
 (@&@)example.org
 
 # (!&!) | 仅向 G 列表移除域名
 (!&!)example.org
+
+# (*&*) | 仅向 G 列表移除域名 (*example.org)
+(*&*)example.org
 
 # (@%!) | 向 C 列表添加域名并将其从 G 列表中移除
 (@%!)example.org
