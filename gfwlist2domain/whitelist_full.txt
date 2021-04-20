@@ -2543,7 +2543,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -13037,7 +13036,6 @@ b.cdn04.duolebo.com
 b.clkservice.youdao.com
 b.code.tanwanyx.com
 b.coroplastsheet.cn
-b.daylskg.cn
 b.epinv.com
 b.gushiciju.com
 b.hiphotos.baidu.com
@@ -14547,6 +14545,7 @@ bi-sensors.duxiaoman.com
 bi-track.hypergryph.com
 bi.manhuaren.com
 bi.ptqy.gitv.tv
+bi.yeshen.com
 bi11.com
 biacgn.com
 bian-min.com
@@ -17700,7 +17699,6 @@ cdn1.mbs.boc.cn.wswebpic.com
 cdn1.res.nx5.com
 cdn1218.com
 cdn2.apple-mapkit.com
-cdn2.dabangq.com
 cdn2.jianshu.io
 cdn2.moji002.com
 cdn20.com
@@ -18611,7 +18609,6 @@ chenplus.com
 chenpot.com
 chenqiego.com
 chenruixuan.com
-chenshiyi.com
 chensonglin.net
 chenty.com
 chenwentan.com
@@ -21870,7 +21867,6 @@ cosmoplat.com
 cosoar.com
 cosplay8.com
 cosplayla.com
-cosplayzone.net
 cosyjoy.com
 coubei.com
 counect.com
@@ -23871,7 +23867,6 @@ db9db.com
 dbank.com
 dbankcdn.com
 dbankcloud.asia
-dbankcloud.cn
 dbankcloud.com
 dbankcloud.eu
 dbankedge.net
@@ -23906,6 +23901,7 @@ dbytwl.com
 dbzgia.com
 dbzyz.com
 dc-cn.com
+dc.ads.linkedin.com
 dc.chillyroom.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -24166,7 +24162,6 @@ dektw.com
 delai.me
 delanauto.com
 dele55.com
-dele77.com
 delegation.a.shifen.com
 deli-tools.com
 delib2b.com
@@ -24225,7 +24220,6 @@ deosin.com
 dep-star.com
 dephir.com
 depin.com
-depnegj.cn
 deppon.com
 deppxp.net
 deqingbank.com
@@ -24757,7 +24751,6 @@ dijingchao.com
 dijinlianmeng.com
 dijiu.com
 dijiuban.com
-dijiuke.com
 diketattoo.com
 dikudu.com
 dili360.com
@@ -27544,7 +27537,6 @@ ejttp.com
 eju.com
 ejudata.com
 ejunshi.com
-ejunshi.net
 ejzr.golden1.sogou.com
 ek6.com
 ekaidian.com
@@ -30371,7 +30363,6 @@ fund123.cn
 fundebug.com
 fundebug.net
 fundog.cc
-fundoy.com
 fundrive.com
 funeralchain.com
 funfungolf.com
@@ -31686,7 +31677,6 @@ ghdhair.cc
 ghflv.com
 ghgy.com
 ghgy.net
-ghmagical.com
 ghmba.com
 ghmcchina.com
 ghmp4.com
@@ -34776,7 +34766,6 @@ hdsdyyy.com
 hdsky.net
 hdslb.com
 hdslb.net
-hdsygw.cn
 hdthjy.com
 hdtmedia.com
 hduofen.com
@@ -35168,7 +35157,6 @@ heze.cc
 hezebus.com
 hezeribao.com
 hezhenzi.com
-hezhizheng.com
 hezhonglaw.com
 hezhoubbs.com
 hezi.com
@@ -36790,7 +36778,6 @@ huati365.com
 huatu.com
 huatugz.com
 huatuo.qq.com
-huatuo.weiyun.com
 huatuo007.com
 huatuocode.weiyun.com
 huatuowenda.com
@@ -37636,7 +37623,6 @@ hzjushan.com
 hzjxy.net
 hzjyxzyy.com
 hzlblp.com
-hzlcyd.com
 hzlhf.com
 hzlug.org
 hzlyun.com
@@ -41478,7 +41464,6 @@ jiaoben.ganji.cn
 jiaoben.jucanw.com
 jiaoben.webkaka.com
 jiaoben.xinshipu.cn
-jiaobu365.com
 jiaochengzhijia.com
 jiaodafu.net
 jiaodian.pub
@@ -42843,7 +42828,6 @@ js8.in
 js811.com
 js96008.com
 js99cf.com
-jsa.15tianqi.com
 jsadsdisplay.cn-beijing.log.aliyuncs.com
 jsahj.com
 jsapi.html5.qq.com
@@ -45258,7 +45242,6 @@ kutu66.com
 kutuan.com
 kuuhuu.com
 kuuke.com
-kuvcn.com
 kuwan8.com
 kuwanapp.com
 kuwanbang.com
@@ -46032,7 +46015,6 @@ learning-archive.org
 learning.snssdk.com
 learning.snssdk.com.w.cdngslb.com
 learnku.com
-learnku.net
 learsun.com
 leb-china.com
 lebang.com
@@ -48652,7 +48634,6 @@ m.atm.youku.com
 m.aty.cp45.ott.cibntv.net
 m.aty.snmsohu.aisee.tv
 m.aty.sohu.com
-m.b2bchinese.cn
 m.baidu.com
 m.beacon.sina.com.cn
 m.beidian.com
@@ -51571,7 +51552,6 @@ mozichina.com
 mozigu.net
 mozillaonline.com
 mozillazg.com
-mp.miaomiaojia.cc
 mp.sohu.com
 mp.weixin.qq.com
 mp.weixinbridge.com
@@ -57193,7 +57173,6 @@ psjxty.com
 psnine.com
 psoneart.com
 psptoolapi.ctags.cn
-psrkoce.cn
 pss-s.alicdn.com
 pss.alicdn.com
 pss.alicdn.com.gds.alibabadns.com
@@ -70652,6 +70631,7 @@ uc-union.com
 uc.ali213.net
 uc.cn
 uc.qq.uuaoz.com
+uc.whkwpzz.cn
 uc.zhuici.com
 uc003.com
 uc108.com
@@ -71643,7 +71623,6 @@ v.jinliaoyang.com
 v.jsbgh.cn
 v.jumorecn.com.cn
 v.kd1.qq.com
-v.koqz36.com
 v.lalaxit.cn
 v.lovepets70.com
 v.m06nev.com
