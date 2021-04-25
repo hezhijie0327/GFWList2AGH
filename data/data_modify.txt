@@ -127,4 +127,7 @@
 # UC 浏览器 #8
 (@%!)uc.cn
 
+# 治杰 Online
+(@&!)zhijie.online
+
 ## 自定义规则 - 结束
