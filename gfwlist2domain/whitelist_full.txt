@@ -2923,6 +2923,7 @@
 21ejob.com
 21epub.com
 21fid.com
+21food.cn
 21food.com
 21hh.com
 21hubei.com
@@ -3492,6 +3493,7 @@
 2kandy.com
 2ktq.com
 2kz.net
+2l06k.cn
 2l0dpp.tdum.alibaba.com
 2liang.net
 2lieqi.com
@@ -4272,7 +4274,6 @@
 37live.com
 37med.com
 37pps.com
-37rj.com
 37see.com
 37tang.com
 37team.com
@@ -12003,6 +12004,7 @@ analysis.huanqiu.com
 analysis.tianxiang.com
 analysys.cn
 analysysdata.com
+analytics-api.samsunghealthcn.com
 analytics-api.smzdm.com
 analytics-china.com
 analytics.163.com
@@ -12017,6 +12019,7 @@ analytics.meituan.net
 analytics.meituan.net.s2txipv6.cdntip.com
 analytics.mpay.netease.com
 analytics.oneplus.cn
+analytics.pointdrive.linkedin.com
 analytics.shop.hisense.com
 analytics.snssdk.com
 analytics.talkingdata.net
@@ -12483,7 +12486,6 @@ apeiwan.com
 apelearn.com
 apesk.com
 apetdog.com
-apex100.com
 apexmic.com
 apexyun.com
 apgblogs.com
@@ -12926,6 +12928,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -12943,7 +12946,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -18905,7 +18907,6 @@ cdn.shuidihuzhu.com
 cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
 cdn.sspai.com
-cdn.static.biqudu.la
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.szjhons.com
@@ -19071,7 +19072,6 @@ cdsjjy.com
 cdslsxh.com
 cdsme.com
 cdsns.com
-cdsoso.me
 cdsxlc.com
 cdsydc.com
 cdt-md.com
@@ -19539,6 +19539,7 @@ changingedu.com
 changjiangdata.com
 changjiangexpress.com
 changjiangtimes.com
+changjiexiang.com
 changker.com
 changkunet.com
 changli.baixing.com
@@ -21726,7 +21727,6 @@ clyv5jqo.v1d.szbdyd.com
 clyv5jqr.v1d.szbdyd.com
 clz.me
 cm-10-10.getui.com
-cm-10-11.getui.com
 cm-10-133.getui.com
 cm-10-135.getui.com
 cm-10-136.getui.com
@@ -21900,6 +21900,7 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
+cms1api.dmall.com
 cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
@@ -22104,7 +22105,6 @@ cnaaa9.com
 cnac.account.xiaomi.com
 cnacg.cc
 cnad.com
-cnadtop.com
 cnaf.com
 cnagcoin.com
 cnaho.com
@@ -23131,7 +23131,6 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -32145,7 +32144,6 @@ fox008.com
 fox163.com
 fox688.com
 fox800.xyz
-foxbeen.com
 foxconn.com
 foxera.com
 foxmail.com
@@ -32938,7 +32936,6 @@ galeo.me
 galgame.cc
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -37135,6 +37132,7 @@ hebiw.com
 hebjxw.com
 hebl.name
 hebmusic.com
+hebnews.cn
 hebnx.com
 hebolaw.com
 hebotc.com
@@ -37926,7 +37924,6 @@ hk-ss03.meo-sub.site
 hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.jtsh123.com
-hk.pool.ntp.org
 hk01.dns.meo-sub.site
 hk02.dns.meo-sub.site
 hk03.dns.meo-sub.site
@@ -40237,7 +40234,6 @@ i.m.58.com
 i.mail.qq.com
 i.mairuan.com
 i.meituan.com
-i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.news.qq.com
@@ -41775,7 +41771,6 @@ img0.baidu.com
 img0.bdstatic.com
 img0.egou.com
 img0.pconline.com.cn
-img001.microland-design.com
 img005.com
 img01.51jobcdn.com
 img01.51jobcdn.com.51jobdns.com
@@ -48067,7 +48062,6 @@ kumt.net
 kungfucloud.com
 kungfuenglish.com
 kungge.com
-kuniaozs.com
 kunjyu.com
 kunkkawu.com
 kunleen.com
@@ -49335,6 +49329,7 @@ lfwtc.com
 lfx20.com
 lfyzjck.com
 lg.365che.cc
+lg.dmall.com
 lg1024.com
 lg199.com
 lg5.com
@@ -51659,6 +51654,7 @@ m.ads.sohu.com
 m.adtiming.com
 m.aihuishou.com
 m.ailezhai.cn
+m.aiyyu.com
 m.aliyun.com
 m.analytics.126.net
 m.anjuke.com
@@ -52614,6 +52610,7 @@ match.p4p.1688.com
 matchday.cc
 matchvs.com
 matchweb.sports.qq.com
+material-ssl.mediav.com
 material.jfdaily.adsame.com
 material.mediav.com
 material.xl7.xunlei.com
@@ -66375,7 +66372,6 @@ search-x.jd.com
 search.1688.com
 search.51job.com
 search.bilibili.com
-search.browser.miui.com
 search.cdn.huya.com
 search.dpool.sina.com.cn
 search.hyhuo.com
@@ -68055,6 +68051,7 @@ shuicao.cc
 shuichachong.com
 shuichan.cc
 shuichan51.com
+shuichuli3600.com
 shuichuyu.com
 shuidichou.com
 shuididabingchou.net
@@ -69353,6 +69350,7 @@ songyanjiaye.com
 songyi.net
 songyongzhi.com
 songyuan163.com
+songyuelongju.com
 songzhaopian.com
 songzi100.com
 songziren.com
@@ -69984,7 +69982,6 @@ st.music.163.com
 st0008.com
 st001.com
 st123.com
-st12330.com
 st180.com
 st2.dftoutiao.com
 sta-op.douyucdn.cn
@@ -81692,6 +81689,7 @@ www.xyhn.gov.cn
 www.xzqysx.com
 www.yangjianhs.com
 www.yans017.com
+www.ybgj8.com
 www.yeeaoo.com
 www.yg3333.com
 www.yh0111.com
@@ -88507,7 +88505,6 @@ yongsheng-sl.com
 yongshikj.com
 yongsy.com
 yongtu.net
-yongxiecm.com
 yongxinby.com
 yongxintex.com
 yongzhentang.com
@@ -89865,7 +89862,6 @@ yxhhdl.com
 yxhi.com
 yxhqj.com
 yxi.cc
-yximg.cn
 yximgs.com
 yxin18.com
 yxinbao.com
@@ -90037,7 +90033,6 @@ yyzu.com
 yyzw.com
 yyzyytj.com
 yyzzsem.com
-yz-cb.cn
 yz-iot.com
 yz-show.com
 yz061.com
@@ -90110,6 +90105,9 @@ z.cesuyun.cn
 z.cn
 z.cnzz.com
 z.gds.cnzz.com
+z.itpub.net
+z.itpub.net.w.kunlungr.com
+z.jd.com
 z.nowscore.com
 z.pwesports.cn
 z.sora.yoyi.com.cn
@@ -90129,9 +90127,14 @@ z11.cnzz.com
 z12.cnzz.com
 z1233.com
 z12345.com
+z13.cnzz.com
+z163ipv6.v.bsgslb.cn
 z163pic.v.bsgslb.cn
 z1hihu.xmcimg.com
+z2.changjiexiang.com
+z2.shuichuli3600.com
 z2.sinaimg.cn
+z2.songyuelongju.com
 z2.yunl1.com
 z2sci.com
 z3.cnzz.com
@@ -90160,11 +90163,14 @@ z8.cnzz.com
 z8.sinaimg.cn
 z8g.ltd
 z8q.cc
+z9.cnzz.com
 z9.sinaimg.cn
 za-ad.cc
 za-credit-outerdata-gateway.zhongan.com
 zablog.me
+zabtw.tdum.alibaba.com
 zac1993.com
+zacharyjia.gallerycdn.azure.cn
 zackku.com
 zackxu.com
 zaduonews.com
@@ -90246,6 +90252,8 @@ zaoshu.so
 zaowandushu.com
 zaoyang.org
 zaoys.com
+zaozhuang.anjuke.com
+zaozhuang.baixing.com
 zaozhuanggo.com
 zaozuo.com
 zastatic.com
@@ -90260,6 +90268,7 @@ zazhi.com
 zazhiboss.com
 zazhipu.com
 zazsz.com
+zb-443-wagbridge.advertisement.alibaba-inc.com.gds.alibabadns.com
 zb-center-openacs.m.taobao.com.gds.alibabadns.com
 zb-kc.com
 zb.vip.qq.com
@@ -90274,6 +90283,7 @@ zbb.sh.gov.cn
 zbbar.net
 zbbg.com
 zbbm.chsi.com.cn
+zbcg.mas.gov.cn
 zbcxcs.com
 zbex.live
 zbfilm.com
@@ -90304,6 +90314,7 @@ zbopr.net
 zbqlm.com
 zbqzy.com
 zbrushcn.com
+zbsydweb.v.bsgslb.cn
 zbuhe.com
 zbusa.com
 zbwbbs.com
@@ -90332,6 +90343,7 @@ zcaijing.com
 zcbjs.com
 zcccc.com
 zccssz.com
+zcdmsjx.1688.com
 zcdn.jijidown.com
 zcdog.com
 zcdsp.com
@@ -90872,6 +90884,7 @@ zhangziran.com
 zhangzishi.net
 zhanh.com
 zhanhi.com
+zhanjiang.lianjia.com
 zhanjindong.com
 zhankoo.com
 zhanlingol.com
@@ -90942,6 +90955,7 @@ zhaoneibuquan.com
 zhaoniupai.com
 zhaoonline.com
 zhaopianzhibo.com
+zhaopin.baidu.com
 zhaopin.com
 zhaopin33.com
 zhaopingou.com
@@ -91054,6 +91068,9 @@ zhengyinyong.com
 zhengyounet.com
 zhengzai.tv
 zhengzhantianxia.net
+zhengzhou.anjuke.com
+zhengzhou.baixing.com
+zhengzhou.c21.com.cn
 zhengzhoubus.com
 zhengzhoulvxing.com
 zhengzi.me
@@ -91083,6 +91100,7 @@ zhenxunkeji.com
 zhenyouhuo.com
 zhenyouliao.com
 zhenyouweb.com
+zhenyuanxian1.baixing.com
 zhenyukj.com
 zhenyusl.com
 zhenzanzixun.com
@@ -91092,6 +91110,7 @@ zhetao.com
 zhetian.org
 zhexi.tech
 zhexinit.com
+zhexue.httpcn.com
 zheyangai.com
 zheye.cc
 zheye.com
@@ -91131,6 +91150,7 @@ zhibiao8.com
 zhibimo.com
 zhiblue.com
 zhibo.at
+zhibo.chaoxing.com
 zhibo.co
 zhibo.me
 zhibo.sina.cn
@@ -91184,6 +91204,7 @@ zhifashengfa.com
 zhifeishengwu.com
 zhifoukeji.com
 zhiftype.com
+zhifu.baidu.com
 zhifufu.com
 zhifujie.com
 zhifure.com
@@ -91408,6 +91429,7 @@ zhongan.io
 zhongbaounion.com
 zhongbowenwu.com
 zhongbt.com
+zhongce.sina.com.cn
 zhongchaoyinshua.com
 zhongchebaolian.com
 zhongchoujia.com
@@ -91522,6 +91544,7 @@ zhongyaobaike.net
 zhongye.net
 zhongyegongkao.com
 zhongyemba.com
+zhongyi.gmw.cn
 zhongyidiantong.com
 zhongyiiot.com
 zhongyiju360.com
@@ -91551,6 +91574,8 @@ zhouhoulin.com
 zhoujiahong.com
 zhoujianhui.com
 zhoujiping.com
+zhoukou.anjuke.com
+zhoukou.baixing.com
 zhoulingjie.com
 zhour.net
 zhoushangren.com
@@ -91621,6 +91646,8 @@ zhuanjia.cdn.bcebos.com
 zhuanjia.su.bcebos.com
 zhuankeba.org
 zhuankela.com
+zhuanlan.sina.cn
+zhuanlan.sina.com.cn
 zhuanlan.zhihu.com
 zhuanlichaxun.net
 zhuanliqiao.com
@@ -91633,6 +91660,7 @@ zhuanshenghuo1.kuaizhan.com
 zhuansong.pro
 zhuansoo.com
 zhuanstatic.com
+zhuanti.hebnews.cn
 zhuantilan.com
 zhuanyejun.com
 zhuanyepeixun.com
@@ -91677,6 +91705,7 @@ zhuceshenzhengongsi.com
 zhuceyou.com
 zhucezn.com
 zhuchao.cc
+zhuchenghuagang.21food.cn
 zhudai.com
 zhufaner.com
 zhufengpeixun.com
@@ -91718,6 +91747,7 @@ zhuji.la
 zhuji.net
 zhuji5.com
 zhujia360.com
+zhujiahua.html5.qq.com
 zhujiaimg.com
 zhujiangbeer.com
 zhujiange.com
@@ -91785,10 +91815,12 @@ zhuoyue.wang
 zhuoyuebbs.com
 zhuoyuechenxing.com
 zhuozhengsoft.com
+zhuozhou.baixing.com
 zhuozhoufangchan.com
 zhupadns.com
 zhuqinit.com
 zhurht.com
+zhushou.360.cn
 zhushuiwen.com
 zhust.com
 zhutao.com
@@ -91821,6 +91853,7 @@ zhuyunfeng.com
 zhuzhai.com
 zhuzher.com
 zhuzhichao.com
+zhuzhou.lianjia.com
 zhuzhouwang.com
 zhuzhutxt.com
 zhuzi.me
@@ -91861,10 +91894,12 @@ zhzzx.com
 zi-han.net
 zi.com
 ziben365.com
+zibo.anjuke.com
 zibo.baixing.com
 ziboshenghai.com
 ziboshishen.com
 zibosky.com
+zibozhenneng.byf.com
 zicaitou.com
 zichabaogao.com
 zichanzhihuan.com
@@ -92045,11 +92080,14 @@ zizizizizi.com
 zizzs.com
 zj-hhcy.com
 zj-idc.com
+zj-roaming.wps.cn
 zj.bailifei.com
 zj.com
 zj.fuhuifz.com
 zj.gsxt.gov.cn
+zj.lianjia.com
 zj.saliayi.com
+zj.sina.com.cn
 zj01.com
 zj123.com
 zj186.com
@@ -92216,13 +92254,13 @@ zjyygy.com
 zjzdgj.com
 zjzffz.com
 zjzg.com
-zjzhaishi.com
 zjzj.org
 zjzjhotel.com
 zjzmds.com
 zjzs.net
 zjzsxb.com
 zk.91post.com
+zk.c21.com.cn
 zk2013.com
 zk528.com
 zk5u.com
@@ -92291,6 +92329,7 @@ zlhui.com
 zlibs.com
 zlimg.com
 zlink-e.com
+zlink.toutiao.com
 zlkb.net
 zllife.net
 zllyun.com
@@ -92316,6 +92355,7 @@ zlvod.com
 zlw.so
 zlxx.v.lxcvc.com
 zlygu.com
+zm.hoopchina.com
 zm.sm-tc.cn
 zm1717.com
 zmapp.com
@@ -92440,12 +92480,16 @@ zone139.com
 zoneben.com
 zoneidc.com
 zoneker.com
+zonemin.bs2.yy.com
+zonemin.bs2cdn.yy.com
+zonemin.bs2dl.yy.com
 zonemore.com
 zonen-tech.com
 zonepp.com
 zoneve.com
 zongcaidarentilihaoya.com
 zonghangsl.com
+zonghe.m.so.com
 zongheng.com
 zonghengche.com
 zonghengke.com
@@ -92505,6 +92549,7 @@ zp.do
 zp0716.com
 zp0737.com
 zp365.com
+zp3ju2wf4ixnh55z.aliyunddos1026.com
 zp515.com
 zpad.cc
 zpan.space
@@ -92544,10 +92589,14 @@ zqgame.com
 zqgreen.com
 zqic.net
 zqjjr.com
+zqjscss.cdn.bcebos.com
 zqlian.com
 zqlx.com
+zqndl.v.trpcdn.net
 zqnf.com
+zqnvi.v.trpcdn.net
 zqnweb.v.trpcdn.net
+zqqnydl.v.bsgslb.com
 zqrb.cn
 zqsign.com
 zqsos.com
@@ -92580,6 +92629,7 @@ zry97.com
 zrzyb.net
 zs-e.com
 zs-lzlj.com
+zs.anjuke.com
 zs.shiep.edu.cn
 zs0572.com
 zs25.cnzz.com
@@ -92658,6 +92708,7 @@ zswebao.xyz
 zsxq.com
 zsxq100.com
 zsxt91.com
+zsxx.gench.edu.cn
 zsythink.net
 zszq.com
 zt-express.com
@@ -92666,6 +92717,8 @@ zt.gifshow.com
 zt.jd.com
 zt.jd.com.gslb.qianxun.com
 zt.ksapisrv.com
+zt.msstatic.com
+zt.wps.cn
 zt1f.com
 ztautoparts.com
 ztbest.com
@@ -92714,6 +92767,8 @@ ztsfc.com
 ztsfc.net
 ztt.cc
 zttvideo.v.bsgslb.com
+zttvipv6.v.bsgslb.com
+zttvp.v.bsgslb.com
 zttx-exp.com
 zttx.com
 ztu-crm.com
@@ -92819,6 +92874,7 @@ zun9.com
 zunxiangqiming.com
 zunxun.com
 zunxun.net
+zunyi.anjuke.com
 zunzou.com
 zuoancafe.com
 zuobaike.net
@@ -92888,6 +92944,8 @@ zving.com
 zvnjghj.com
 zvv.me
 zvygzatj.cn
+zw-roaming.wps.cn
+zw.gnettechnology.cn
 zw110.com
 zw3e.com
 zw3w.com
@@ -92934,6 +92992,7 @@ zx-casting.com
 zx-tour.com
 zx.da.mgtv.com
 zx.docin.com
+zx.jiaju.sina.com.cn
 zx.sina.cn
 zx0093.com
 zx017.com
@@ -92970,12 +93029,16 @@ zxe-china.com
 zxerp.com
 zxfvip.com
 zxgapp.tc.qq.com
+zxgapp.tcdn.qq.com
+zxgghn.25ku.com
+zxgghn.25ku.com.cname3868.yjs-cdn.com
 zxgjxx.com
 zxgk.court.gov.cn
 zxgnz.com
 zxgzs.com
 zxh.la
 zxh.site
+zxh404.gallerycdn.azure.cn
 zxhgroup.com
 zxhong.com
 zxhsd.com
@@ -93131,6 +93194,8 @@ zz-news.com
 zz-qq.com
 zz-zigzag.com
 zz.bdstatic.com
+zz.c21.com.cn
+zz.lianjia.com
 zz04.net
 zz06.net
 zz21.com
@@ -93228,6 +93293,8 @@ zzwyglxh.com
 zzxdc.com
 zzxw.net
 zzxy.net
+zzy.weibopie.com
+zzy.weibopie.com.cname640.yjs-cdn.com
 zzy1.quyaoya.com
 zzyanhushi.com
 zzyas.com
