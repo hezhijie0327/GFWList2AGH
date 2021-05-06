@@ -10904,7 +10904,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 adver.qq.com
@@ -12792,7 +12791,6 @@ aphidic.com
 api-20200527.xkspbz.com
 api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
-api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com
@@ -13005,7 +13003,6 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
-api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -18873,7 +18870,6 @@ cbxdxg.com
 cby.me
 cbzhuanyun.com
 cc-1.com
-cc-dt.com
 cc-glass.com
 cc-hn1.lol.qq.com
 cc.anjuke.com
@@ -23775,7 +23771,6 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -24588,6 +24583,7 @@ csiccq.com
 csicmakers.com
 csiea.net
 csimg2.qunliao.info
+csisolar.com
 csisseos.vip
 csj309.vip
 csjcs.com
@@ -25999,6 +25995,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -32729,7 +32726,6 @@ flachina.com
 flacro.me
 flamesky.org
 flaredup.com
-flash.sec.miui.com
 flash127.com
 flash2-http.qq.com
 flash8.net
@@ -33912,6 +33908,7 @@ game.ali213.net
 game.baichuanhd.cn
 game.bilibili.com
 game.bilibili.com.w.cdngslb.com
+game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com
 game.funshion.com
@@ -33956,7 +33953,6 @@ game189.com
 game2.com
 game234.com
 game3-center.dftoutiao.com
-game333.net
 game345.com
 game3vs7novel.com
 game4343.com
@@ -34730,7 +34726,6 @@ gg.0598yu.com
 gg.51cto.com
 gg.anqu.com
 gg.blueidea.com
-gg.caixin.com
 gg.cs090.com
 gg.dsxdn.com
 gg.gao7.com
@@ -35308,6 +35303,7 @@ golangtc.com
 golangweb.com
 golaravel.com
 gold-v.com
+gold.org
 gold.szonline.net
 gold58.com
 gold600.com
@@ -39412,6 +39408,7 @@ home.htcsense.com
 home.httpcn.com
 home.meishichina.com
 home.wps.cn
+home.yxgz.club
 home.zhuanlan.sina.com.cn
 home0311.com
 home0538.com
@@ -56623,7 +56620,6 @@ msmov.a.yximgs.com
 msmov.a.yximgs.com.azchcdna.com
 msmov.a.yximgs.com.mcchcdn.com
 msn-china.bing123.com
-mso.allyes.com
 msoftdl.360.cn
 msooso.com
 msotu.com
@@ -64056,7 +64052,6 @@ qiduowei.com
 qie.tv
 qiecdn.com
 qieerxi.com
-qiehe.net
 qiekj-web-log.cn-shanghai.log.aliyuncs.com
 qiekj.com
 qieman.com
