@@ -2789,6 +2789,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -3440,7 +3441,6 @@
 28ka.com
 28khy.com
 28nxuy.tdum.alibaba.com
-28pifa.com
 28rv.com
 28sn.com
 28tui.com
@@ -10765,6 +10765,7 @@ ads.chinadaily.com.cn
 ads.csdn.net
 ads.data.pplive.com
 ads.daydaycook.com.cn
+ads.doit.com.cn
 ads.gionee.com
 ads.huan.tv
 ads.icloseli.cn
@@ -12116,7 +12117,6 @@ allstack.net
 allstor.org
 alltoall.net
 alltobid.com
-alltone-textile.com
 alltosun.com
 alltuu.com
 allvideowidget.com
@@ -12738,6 +12738,7 @@ ap01-vncproxy.aliyun.com.gds.alibabadns.com
 ap1.qiyukf.com
 ap11.pub.funshion.com
 ap2.qiyukf.com
+ap3.agora.io
 ap88.com
 apa.me
 apabi.com
@@ -12781,6 +12782,7 @@ aphidic.com
 api-20200527.xkspbz.com
 api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com
@@ -12921,7 +12923,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -13471,7 +13472,6 @@ appnz.com
 apponline.research.qq.com
 appoptimize-drcn.dbankcdn.com
 appotronics.com
-apppic.yingyongbei.com
 apppoo.com
 apppool.2p.com
 apppool.tlsy.37wanwan.com
@@ -25641,6 +25641,7 @@ dailibu.com
 dailijizhang.cc
 dailnkm.com
 dailuopan.com
+daily.zzx.cnklog.com
 dailyeconomic.com
 dailylog.storm.baofeng.com
 dailyqd.com
@@ -27149,7 +27150,6 @@ digu365.com
 digua.com
 diguage.com
 diguan.wang
-diguandai.wang
 diguff.com
 diguobbs.com
 digwow.net
@@ -29141,7 +29141,6 @@ dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
 dvzlw98j.v1d.szbdyd.com
 dw-collect.ksosoft.com
-dw-online.ksosoft.com
 dw.iask.com.cn
 dw.la
 dw.xcar.com.cn
@@ -33858,7 +33857,6 @@ galeo.me
 galgame.cc
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
@@ -35029,7 +35027,6 @@ glcct.com
 gldtztc.com
 gleasy.com
 glface.com
-glg.uu.163.com
 glgczk.com
 glgoo.com
 glgoo.net
@@ -44769,6 +44766,8 @@ j-image.missfresh.cn
 j-image.missfresh.cn.wswebpic.com
 j-smu.com
 j-test.com
+j.9136.com
+j.98158.com
 j.appjiagu.com
 j.baminw.cn
 j.credit.wwz114.cn
@@ -46869,7 +46868,6 @@ js.ptmind.com
 js.pub.tom.com
 js.qajypx.com
 js.qqsort.com
-js.qudaoweiwang.com
 js.ruiwen.com
 js.safe524.xyz
 js.saiqizhi.com
@@ -50605,7 +50603,6 @@ letwx.com
 letyo.com
 levect.com
 levelup.cn
-leviathan.vip
 leviding.com
 levy.work
 lewaila.com
@@ -50704,7 +50701,6 @@ lfkuncheng.com
 lfl.gg
 lflucky.com
 lfmsj.com
-lfoo.cc
 lfork.com
 lfppt.com
 lfsxjzxh.com
@@ -52411,7 +52407,6 @@ lpcdn.pinduoduo.com.sched.pddlego.tdnsv5.com
 lpcheng.com
 lpl.qq.com
 lpllol.com
-lplrbi.bar
 lply.net
 lppz.com
 lprcx.com
@@ -55621,7 +55616,6 @@ mj.haidilao.com
 mj85.com
 mjasoft.com
 mjceo.com
-mjcydb.com
 mjia.cc
 mjjcn.com
 mjjq.com
@@ -55854,7 +55848,6 @@ mo-yu.com
 mo.alibdm.xyz
 mo.baidu.com
 mo.haloapps.cn
-mo.kugou.com
 mo.m.taobao.com
 mo.m.tmall.com
 mo.res.wpscdn.cn
@@ -58597,7 +58590,6 @@ not3.com
 notadd.com
 note.youdao.com
 note52.com
-noteapi.micloud.xiaomi.net
 notedeep.com
 noteniu.com
 notetech.org
@@ -67273,6 +67265,7 @@ s.zampdsp.com
 s.zixuntop.com
 s.zlongad.com
 s.zol-img.com.cn
+s.zp0573.cn
 s0-img.huxiucdn.com
 s0.2mdn.net
 s0.meituan.com
@@ -68502,6 +68495,7 @@ seecmedia.net
 seecsee.com
 seed-china.com
 seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.btc.petertodd.org
 seedasdan.org
@@ -74553,6 +74547,7 @@ tb.himg.baidu.com
 tb.mgtv.com
 tb.mgtv.com.wsglb0.com
 tb1.bdstatic.com
+tb104x.corp.youdao.com
 tb2.bdstatic.com
 tb3.bdstatic.com
 tb4.bdstatic.com
@@ -75878,7 +75873,6 @@ tlte.com
 tltesoft.com
 tltuan.net
 tltzg.com
-tlu.dl.delivery.mp.microsoft.com
 tlwok.com
 tlyy.cc
 tlyy.tv
@@ -78977,6 +78971,7 @@ v1.log.moji.com
 v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
+v1.taksh.cn
 v10.kwaicdn.com
 v10.kwaicdn.com.w.kunlunca.com
 v10.kwaicdn.com.w.kunlunca.com.qr.uuhimalayanqm.com
