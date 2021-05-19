@@ -1252,7 +1252,6 @@
 111155268.com
 1111biao.com
 1113.cc
-1116.oadz.com
 11160066.com
 1116yl.com
 1117797.com
@@ -2970,7 +2969,6 @@
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
-2.tuxi.com.cn
 2.up.qingdaonews.com
 2.zol-img.com.cn
 200.net
@@ -9118,6 +9116,7 @@
 8f85bb1f866bde69d66c9db1e61c048d.dlied1.cdntips.net
 8fda2ba513c9938fe5341c2978f47233.dlied1.cdntips.net
 8fenxiang.com
+8gl.com.cn
 8gov.com
 8gw.com
 8gyu.com
@@ -9642,7 +9641,6 @@
 941.so
 9418626.fls.doubleclick.net
 941e9c0e0514a91a97a6994deadcdc20.safeframe.googlesyndication.com
-941fa.com
 941jy.com
 941mg.com
 942ss.com
@@ -13685,6 +13683,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -14027,7 +14026,6 @@ apkui.com
 apkyx.com
 apkzu.com
 aplan.tv
-aplbs.dualstack.huanju.cn
 aplbs.yy.com
 aplum-inc.com
 aplum.com
@@ -17065,7 +17063,6 @@ bifong.com
 big-bit.com
 big-shanghai.com
 big1.ifengcdn.com
-big5.qstheory.cn
 bigaaa.net
 bigaka.com
 bigan.net
@@ -17662,6 +17659,7 @@ bjkix-pay.kuaishoupay.com
 bjkqj.com
 bjkrtwl.com
 bjl777.com
+bjl8789.com
 bjlcs-tech.com
 bjlemon.com
 bjlevsoft.com
@@ -19124,6 +19122,8 @@ c.v4dwkcv.com
 c.w.inmobi.cn
 c.weizhenwx.com
 c.wkanx.com
+c.wxskqy.cn
+c.xdygw.com.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
 c.y.qq.com
@@ -26174,6 +26174,7 @@ cxsyjy.com
 cxta.com
 cxthhhhh.com
 cxtuku.com
+cxtv.com
 cxtxt.com
 cxvn.com
 cxw.com
@@ -27951,7 +27952,6 @@ deli-tools.com
 delib2b.com
 delibao.com
 delicloud.com
-delightful.vip
 delikaixi.com
 delinklab.com
 delishi.com
@@ -40166,6 +40166,7 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
+hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com
@@ -43656,7 +43657,6 @@ i.mail.qq.com
 i.mairuan.com
 i.meituan.com
 i.mhwsw.com
-i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.mooc.chaoxing.com
@@ -43668,7 +43668,6 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -43701,6 +43700,7 @@ i1.17173cdn.com
 i1.chuimg.com
 i1.fuimg.com
 i1.go2yd.com
+i1.hdslb.com
 i1.hoopchina.com.cn
 i1.letvimg.com
 i1.sinaimg.cn
@@ -44314,6 +44314,7 @@ idm-su.baidu.com
 idm.api.io.mi.com
 idm.bce.baidu.com
 idm.cc
+idm.iot.mi.com
 idm.vip
 idmchina.net
 idmdm.com
@@ -47728,7 +47729,6 @@ jfz.com
 jfzhiyao.com
 jfzkchina.com
 jfzw.com
-jg.wensixuetang.com
 jgames.net
 jgaoxiao.com
 jgcqgf.com
@@ -52743,7 +52743,6 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
-lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
@@ -55892,6 +55891,7 @@ m.dji.com
 m.dmzj.com
 m.dnpz.xitongzhijia.net
 m.doors10.com
+m.douban.com
 m.dsjre.com
 m.dumanhhua.com
 m.edu.iask.sina.com.cn
@@ -62966,6 +62966,7 @@ osx.dpfile.com.s2txipv6.cdntip.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
+osxapps.itunes.g.aaplimg.com
 osyum.com
 osyunwei.com
 ot.io.mi.com
@@ -64456,6 +64457,7 @@ phoent.com
 phoer.net
 phome.net
 phone580.com
+phonecallapi.micloud.xiaomi.net
 phonecoolgame.com
 phonef-drcn.cloud.dbankcloud.cn
 phonefinder1.hicloud.com
@@ -66416,7 +66418,6 @@ pz6623.com
 pz6682.com
 pz7377.com
 pz7533.com
-pz81.com
 pz88.com
 pzcenter.xueersi.com
 pzclw.cn
@@ -69251,7 +69252,6 @@ qwxsw.com
 qwycdg5b.v1d.szbdyd.com
 qwycndgl.v1d.szbdyd.com
 qwycndhz.v1d.szbdyd.com
-qwyx66.com
 qx.hd.sohu.com
 qx100.com
 qx1000.com
@@ -71033,7 +71033,6 @@ s.dingtalk.com
 s.diyifanwen.com
 s.domob.cn
 s.doyo.cn
-s.duoroumao.cn
 s.effie.co
 s.emarbox.com
 s.f.360.cn
@@ -75875,7 +75874,6 @@ ssbgzzs.com
 ssbx.me
 ssc.com
 sscity.org
-sscjchina.com.cn
 sscmwl.com
 ssd.tcdn.qq.com
 ssdata.com
@@ -83220,6 +83218,8 @@ v.weishi.qq.com
 v.weishi.qq.com.cdn.dcloudstc.com
 v.weishi.qq.com.lxdns.com
 v.weishi.qq.com.vdncache.com
+v.wxskqy.cn
+v.xdygw.com.cn
 v.xiaozhuvideo.com
 v.xiaozhuvideo.com.w.kunlunca.com
 v.xjsytoy.com
@@ -89298,6 +89298,7 @@ wxshake.com
 wxshare.yicai.com
 wxsk.sandpay.com.cn
 wxsk.sandpay.com.cn.cdn30.com
+wxskqy.cn
 wxsky.net
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
