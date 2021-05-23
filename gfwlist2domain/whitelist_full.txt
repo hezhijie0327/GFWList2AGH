@@ -26949,6 +26949,7 @@ dailyqd.com
 daima.chazidian.com
 daima.dsxdn.com
 daima.jiazhao.com
+daima.jiduan.cc
 daima.miercn.com
 daima.ysdui.com
 daima.yuzhulin.com
@@ -52723,7 +52724,6 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
-lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
@@ -57925,6 +57925,7 @@ mic-s.com
 micai.com
 micaitu.net
 micaiying.com
+micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
 michaelapp.com
@@ -71083,6 +71084,7 @@ s.zampdsp.com
 s.zixuntop.com
 s.zlongad.com
 s.zol-img.com.cn
+s.zp0573.cn
 s0-img.huxiucdn.com
 s0.2mdn.net
 s0.ifengimg.com
@@ -75476,7 +75478,6 @@ soulady.net
 soulapp.me
 souldee.com
 soulgame.mobi
-soulplp.com
 souluo.net
 soulv.com
 soup.play.aiseet.atianqi.com
@@ -75796,7 +75797,6 @@ srichina.org
 sritsoft.com
 srjxj.com
 srm.dji.com
-sroomafp.allyes.com
 srrsh.com
 srrtvu.com
 srssn.com
@@ -77155,7 +77155,6 @@ suzhousj.com
 suzhouvisa.com
 suzip.com
 suzip.net
-suzjinji.com
 suzuki-china.com
 suzuki-shanghai.com
 sv-video.play.aiseet.atianqi.com
@@ -78603,7 +78602,6 @@ tb.himg.baidu.com
 tb.mgtv.com
 tb.mgtv.com.wsglb0.com
 tb1.bdstatic.com
-tb104x.corp.youdao.com
 tb2.bdstatic.com
 tb3.bdstatic.com
 tb4.bdstatic.com
@@ -87127,6 +87125,7 @@ wn-x.jd.com
 wn-x.jd.com.gslb.qianxun.com
 wn.pos.baidu.com
 wn.pos.e.shifen.com
+wn.x.jd.com
 wn1998.com
 wn3331.com
 wn51.com
@@ -90322,7 +90321,6 @@ xiaoliangkou.com
 xiaolianhb.com
 xiaoliebian.com
 xiaolin.in
-xiaoling.ixiunv.com
 xiaolinsi.com
 xiaolinwl.com
 xiaolinyuan.com
@@ -91601,7 +91599,6 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
-xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnow.me
