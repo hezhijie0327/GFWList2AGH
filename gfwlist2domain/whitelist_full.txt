@@ -30,7 +30,6 @@
 00394.net
 003store.com
 004218.com
-0044sun.com
 004678.com
 005.tv
 00518.org
@@ -8980,6 +8979,7 @@
 88mmmoney.com
 88ng.com
 88pets.com
+88pgz.com
 88popo.com
 88rpg.net
 88sjz.com
@@ -9200,7 +9200,6 @@
 9.pic.pc6.com
 9.url.cn
 900.la
-9000.vip
 9000design.com
 9000gou.com
 9000idc.com
@@ -12507,6 +12506,7 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.yximgs.com
@@ -13608,6 +13608,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -13684,6 +13685,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -15331,7 +15333,6 @@ b4a39873-ws.va.huya.com
 b4ec0679ed478db7.cdn.jiashule.com
 b5200.net
 b57yuoty.sched.v1.tdnsv5.com
-b58b.com
 b5a8ed4c6f42793f.cname.365cyd.cn
 b5afe3a299e02adefba7d7c8a77fd05f.dlied1.cdntips.net
 b5b6.com
@@ -15413,6 +15414,7 @@ babihu.com
 babsoft.net
 baby-bus.com
 baby.sina.com.cn
+baby.yf898.com
 baby.youku.com
 baby169.net
 baby577.com
@@ -16875,6 +16877,7 @@ bfyx.com
 bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
+bg0.market.xiaomi.com
 bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
@@ -18931,6 +18934,7 @@ byteisland.com
 bytesfield.com
 bytesmanager.com
 bytestacks.com
+bytetos.com
 bytexns.com
 bytexservice.com
 bytravel.cn
@@ -27310,7 +27314,6 @@ dasungtech.com
 dat.gtags.net
 dat8.cc
 data-ads.oneplusmobile.com
-data-detect.nie.netease.com
 data-hoisin.coocaa.com
 data-news.cdn.cootekservice.com
 data-pic.cdn.cootekservice.com
@@ -33126,6 +33129,7 @@ evlo.us
 evlook.com
 evoc.com
 evotrue.com
+evp.51job.com
 evvfuv.tdum.alibaba.com
 evyy.net
 evzhidao.com
@@ -35957,6 +35961,7 @@ galgame.cc
 galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
+galleryapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
 galstars.net
@@ -40916,7 +40921,6 @@ hicling.com
 hicloud.com
 hiconics-dl.com
 hicoo.net
-hicooer.cn
 hicosmo.com
 hicp.net
 hicss.net
@@ -46095,6 +46099,7 @@ interface.biliapi.com
 interface.bilibili.com
 interface.dmzj.com
 interface.im.taobao.com
+interface.music.163.com
 interface.sina.cn
 interface2.mxingkong.com.cn
 interface3.music.163.com
@@ -48870,7 +48875,6 @@ jldnserror5.wo.com.cn
 jlforging.com
 jlfzb.com
 jlg86.com
-jlhuaze.com
 jljbbs.com
 jljgdj.org
 jlkj.cc
@@ -49663,7 +49667,6 @@ jszg.org
 jszgjt.net
 jszhaobiao.com
 jszikao.org
-jszjqy.com
 jszks.com
 jszks.net
 jszygs.com
@@ -51063,7 +51066,6 @@ kgdb.info
 kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
-kgmobilestatbak.kugou.com
 kgnop2.kugou.com
 kgogame.com
 kgula.com
@@ -53671,6 +53673,7 @@ lightlygame.com
 lightonus.com
 lightpassport.com
 lightplan.cc
+lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com
@@ -53716,6 +53719,7 @@ likingfit.com
 likuli.com
 likuso.com
 lili1996.com
+lilifenxiang1.com
 lilinwei.com
 lilishare.com
 lilisi.com
@@ -55828,7 +55832,6 @@ m.bilibili.com
 m.biz
 m.bndbddt.top
 m.ccb.com
-m.ccshwy.com
 m.chinaacc.com
 m.chinachooses.com
 m.chinasspp.com
@@ -56545,7 +56548,6 @@ mamilist.com
 mamioo.com
 mamipush.com
 mamsh.org
-man189.com
 man66966.top
 mana-harp.com
 manage.c3edge.com
@@ -59600,7 +59602,6 @@ mushafa.net
 mushapi.com
 mushroomchina.com
 music-pics-cn.obs.cn-north-2.myhuaweicloud.cn
-music.163.com
 music.apple.com
 music.baidu.com
 music.douban.com
@@ -61832,6 +61833,7 @@ nybaidu.net
 nychinaren.com
 nyckidsclub.com
 nydus.battle.net
+nyfg.com
 nync.com
 nypd520.com
 nyrsksw.com
@@ -68368,7 +68370,6 @@ qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs7ly.com
 qs921.com
-qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com
@@ -71108,7 +71109,6 @@ s1.hy.qcloudcdn.com
 s1.ifengimg.com
 s1.irs03.com
 s1.lenovomm.cn
-s1.mingmingtehui.com
 s1.mini.wpscdn.cn
 s1.music.126.net
 s1.music.126.net.wscdns.com
@@ -72111,7 +72111,6 @@ sdly35.com
 sdlzlib.com
 sdmic.com
 sdmyzsgs.com
-sdn.geekzu.org
 sdnfv.org
 sdnjsbc.com
 sdnlab.com
@@ -75665,6 +75664,7 @@ sports.sina.com.cn
 sports.sohu.com
 sports.youku.com
 sports.youth.cn
+sports998.com
 sportsdt.com
 sposter.net
 spot.download
