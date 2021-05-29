@@ -929,6 +929,7 @@
 1.mgff.com
 1.mm100.com
 1.nanrenwo.net
+1.pic.paopaoche.net
 1.pic.pc6.com
 1.pncdn.cn
 1.proewildfire.cn
@@ -976,7 +977,6 @@
 10000tc.com
 10000yao.com
 10001wan.com
-100024.xyz
 1000414.hybrid.miniapp.taobao.com
 10006.info
 1000ci.net
@@ -8765,7 +8765,6 @@
 866lvyou.com
 866wn.com
 8671.net
-86722.com
 8673h.com
 867game.com
 867wn.com
@@ -13754,6 +13753,7 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
+api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -14236,7 +14236,6 @@ appleads-trk.com
 appleadstech.com
 applebl.com
 applecsb.crm.189.cn
-applecx.com
 applehunt.com
 appletuan.com
 applex.net
@@ -18094,7 +18093,6 @@ bobidc.com
 boblog.com
 bobo.163.com
 bobo.com
-bobobd.com
 bobopic.com
 bobopos.com
 bobosays.com
@@ -23754,7 +23752,6 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -27288,7 +27285,6 @@ dashenquan.com
 dashentv.com
 dashenxiaoshuo.com
 dashet.com
-dasheyuan.com
 dashgame.com
 dashi.com
 dashikou.com
@@ -27346,7 +27342,6 @@ data.vod.itc.cn
 data.wuseng.net
 data.xiaoheihe.cn
 data.xxt.aichaoxing.com
-data.yd126.com
 data2.itv.ptqy.gitv.tv
 data380.com
 data6.video.iqiyi.com
@@ -28685,7 +28680,6 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digbo.org
@@ -31206,7 +31200,6 @@ dyjqd.com
 dylc.com
 dylxx.net
 dyly.com
-dymi.cc
 dyn.ithome.com
 dyn.wps.cn
 dynacw.com.cn
@@ -31407,7 +31400,6 @@ e.ishansong.com
 e.kuaishou.com
 e.poonscn.com
 e.qiaoyuwang.com
-e.qj10b.cn
 e.qq.com
 e.so.com
 e.sogou.com
@@ -34800,6 +34792,7 @@ florentiavillage.com
 floverow.com
 flow.10010.com
 flow.ci
+flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowbet365.com
@@ -37966,6 +37959,7 @@ gss-sh.org
 gss0.baidu.com
 gss0.bdstatic.com
 gss3.bdstatic.com
+gssdlv.com
 gssdsj.com
 gssfgk.com
 gsstaf.com
@@ -40050,7 +40044,6 @@ hbwhjj.com
 hbwhrd.org
 hbwjs.com
 hbwlyh.com
-hbwust.com
 hbww.org
 hbxdf.com
 hbxhxkj.com
@@ -41170,6 +41163,7 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -43619,6 +43613,7 @@ i.mail.qq.com
 i.mairuan.com
 i.meituan.com
 i.mhwsw.com
+i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.mooc.chaoxing.com
@@ -47407,7 +47402,6 @@ jc.c21.com.cn
 jc.zu.anjuke.com
 jc001.cn
 jc0531.com
-jc1.dayfund.cn
 jc170.com
 jc315.com
 jc35.com
@@ -56139,6 +56133,7 @@ m3.static.yximgs.com.download.ks-cdn.com
 m3avko1.cachenode.cn
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
+m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com
@@ -58514,7 +58509,6 @@ mlyric.kuwo.cn
 mlzcn.com
 mm.365dmp.com
 mm.anqu.com
-mm.awrsx.cn
 mm.cc
 mm.com
 mm.jbzj.com
@@ -59010,6 +59004,7 @@ moonx.ai
 moooc.cc
 mooooc.com
 moootooo.com
+moorburn.com
 moore.live
 moore.ren
 moore8.com
@@ -62129,7 +62124,6 @@ oimagec5.ydstatic.com
 oimagec6.ydstatic.com
 oimagec7.ydstatic.com
 oimagec8.ydstatic.com
-oipapio.com
 oiuwe.com
 oj3y7wx427mfa02u.aliyunddos1026.com
 ok-meeting.com
@@ -68887,7 +68881,6 @@ quotas.console.aliyun.com
 quote.51.la
 quote.eastmoney.com
 quotes.money.163.com
-qupai.me
 qupaibei.com
 qupaicloud.com
 qupeiyin.com
@@ -71501,7 +71494,6 @@ sanjiaoshou.net
 sanjiasoft.com
 sanjieke.com
 sanjinjiake.com
-sanjueyaluosi.com
 sanjun.com
 sankaijian.com
 sankgo.com
@@ -73918,7 +73910,6 @@ shuanyue.tech
 shuashuaapp.com
 shuazhibo.com
 shubao201.com
-shubao29.com
 shubao95.com
 shubulo.com
 shubuzi.com
@@ -76469,7 +76460,6 @@ stats.xwuad.com
 stats.yinyuetai.com
 stats2.unicompayment.com
 statsonline.pushct.baidu.com
-status.blueskyxn.com
 status.qiekj.com
 statwup.huya.com
 staycu.com
@@ -76618,7 +76608,6 @@ story520.com
 storyboardworld.com
 storyday.com
 storyren.com
-storysec.com
 stourweb.com
 stovol.club
 stoyard.com
@@ -77186,6 +77175,7 @@ swiftlet.net
 swiftmi.com
 swiftstar.net
 swijoy.com
+swisswalls.com
 switch.pcfg.cache.wpscdn.cn
 swjack.com
 swjinsheng.com
@@ -90218,6 +90208,7 @@ xiaohongblog.com
 xiaohongchun.com
 xiaohongdian.wang
 xiaohongshu.com
+xiaohongshulvyou.com
 xiaohuabaichu.com
 xiaohuabuluo.com
 xiaohuai.com
@@ -91876,7 +91867,6 @@ xuecan.net
 xueche8.com
 xuechebu.com
 xuechela.com
-xuechenlei.com
 xueda.com
 xuedi.com
 xuedong97.com
@@ -99669,7 +99659,6 @@ yzrom.com
 yzs.com
 yzspdq.com
 yzsqxx.com
-yzssc.net
 yzt-tools.com
 yztcdn.com
 yztown.club
