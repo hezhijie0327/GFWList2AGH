@@ -394,7 +394,6 @@
 04168.com
 0416u.com
 0417gou.com
-0418fc.com
 0421wcbzk.com
 0427.com
 042b0e13422e4837af888b8090c99693-cn-shenzhen.alicloudapi.com
@@ -760,6 +759,7 @@
 08ky.com
 08px.com
 090expo.com
+090ld.com
 0912app.com
 0914cn.com
 0915home.com
@@ -768,22 +768,29 @@
 0917.com
 0917e.com
 0919123.com
+091ld.com
+092ld.com
 093.tv
 0931lanzhou.com
 0937js.com
 0938net.com
+093ld.com
 093nd9.com
 09418.com
 09451.com
 094j35.com
+094ld.com
 095196555.com
 0951job.com
 0951lz.com
+095ld.com
 09635.com
 09685.com
 096hg.com
 096j513y4u62dz90.aliyunddos1017.com
+096ld.com
 09773ecefaec1b9870c2a5798774ea47.dlied1.cdntips.net
+097ld.com
 0990e1ec35047a75d42563aa6b008e7b.v.smtcdns.net
 0991dj.com
 0991net.com
@@ -912,7 +919,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -3009,7 +3015,6 @@
 202030.com
 2020zjj.com
 2021fafafa11.com
-2021zuixingg.com
 2024781.sched.sma.tdnsv5.com
 20261eb6032a8616cd57416fb0a337dc.v.smtcdns.net
 2028471.v1mixipv6.baishan-cloud.com
@@ -5282,6 +5287,7 @@
 4949567.com
 49563bf2b6183537ff60b51a68f19c6d.dlied1.cdntips.net
 495667.p23.tc.cdntip.com
+495ld.com
 49644913.com
 497-img.com
 497.com
@@ -7684,7 +7690,6 @@
 6ifjtc4v.sched.sma.tdnsv5.com
 6ih6.vip
 6iit.com
-6j6.top
 6jianshi.com
 6joi25qa.sched.s2.tdnsv5.com
 6jworld.com
@@ -10264,6 +10269,7 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -11251,6 +11257,7 @@ adfuture.cn
 adfyt.com
 adg-dental.com
 adgeo.163.com
+adgk.net
 adgomob.com
 adgoo.cn
 adguanggao.eee114.com
@@ -13092,6 +13099,7 @@ angli.me
 anglo-chinese.com
 angroups.com
 angruo.com
+angrymiao.com
 anguanjia.com
 angui.org
 angwei.net
@@ -13659,11 +13667,9 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -18505,6 +18511,7 @@ bsx81.com
 bsyjrb.com
 bszh.cn
 bszs.conac.cn
+bt-trace.adgk.net
 bt.100.pet
 bt.1000.pet
 bt.10000.pet
@@ -25091,7 +25098,6 @@ count21.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
-count25.51yes.com
 count26.51yes.com
 count27.51yes.com
 count28.51yes.com
@@ -31400,6 +31406,7 @@ e.uissm.com
 e.weather.com.cn
 e.weibo.com
 e.x.cn.xtgreat.com
+e.xxkio.com
 e046d572e35ae8dbd19dbfe97325411d.safeframe.googlesyndication.com
 e0514.com
 e0575.com
@@ -37298,7 +37305,6 @@ go2uk.info
 go2yd.com
 go300.com
 goalan.net
-goaldetails.com
 goalhi.com
 goalmobi.com
 goapk.com
@@ -43096,6 +43102,7 @@ hw-gz-live-comet-02.chat.bilibili.com
 hw-gz-live-p2p-01.chat.bilibili.com
 hw-sh-live-comet-01.chat.bilibili.com
 hw-sh-live-comet-02.chat.bilibili.com
+hw-sh-live-p2p-01.chat.bilibili.com
 hw-tm.com
 hw.118114.net
 hw.yidianzixun.com
@@ -47382,6 +47389,7 @@ jc.c21.com.cn
 jc.zu.anjuke.com
 jc001.cn
 jc0531.com
+jc1.dayfund.com.cn
 jc170.com
 jc315.com
 jc35.com
@@ -57078,6 +57086,7 @@ mcyhfl.com
 mcyo.pw
 mcysw.net
 mczyz.com
+md.1drj.com
 md.tvzhe.com
 md1618.com
 mdap.alipay.com
@@ -59434,7 +59443,6 @@ mtk.com.tw
 mtkan.net
 mtkdy.com
 mtketang.com
-mtkg.cc
 mtksj.com
 mtktk.com
 mtlog.droid4x.cn
@@ -63682,7 +63690,6 @@ paopaochina.com
 paopaoleg.com
 paopaox.com
 paoshuba.cc
-paosjc.biqubao.com
 paoxq.com
 paoxue.com
 papa21.com
@@ -65332,6 +65339,7 @@ porschesky.com
 port.sec.miui.com
 portablesoft.org
 portal-portm.meituan.com
+portal.xunyou.mobi
 portalcdn.cdnetworks.com
 portoflower.com
 portrait.gitee.com
@@ -70655,7 +70663,6 @@ rtfcode.com
 rtfcpa.com
 rtfund.com
 rtg.gallerycdn.azure.cn
-rtgvghi.cn
 rthpc.com
 rtjxssj.com
 rtlog.vidown.cn
