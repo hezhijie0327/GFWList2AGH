@@ -66,6 +66,12 @@
 # AniX.Moe
 (@&!)www.anix.moe
 
+# Apple
+(@%!)apple.com
+
+# Apple Music
+(@%!)amp-api-edge.music.apple.com
+
 # 阿里 DNS
 (@%!)dns.alidns.com
 
