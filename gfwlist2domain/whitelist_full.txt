@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0-gold.net
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -3754,6 +3755,7 @@
 29og5p1.cachenode.cn
 29xf.com
 29yx.com
+2a.com.cn
 2a.zol-img.com.cn
 2a.zol-img.com.cn.wswebpic.com
 2a4tesaprxapfknwp13h9cuinpsqmzbl.alicloudwaf.com
@@ -7450,6 +7452,7 @@
 668895.com
 6688pay.com
 668app.com
+668cp99.com
 668lw.com
 668map.com
 668news.com
@@ -9683,6 +9686,7 @@
 95588.com
 95598pay.com
 95599.hk
+95599112.com
 955d2e232b3387d0f8af60214a527e1c.dlied1.cdntips.net
 955yes.com
 955yx.com
@@ -13964,7 +13968,6 @@ apkjam.com
 apkplug.com
 apkrj.com
 apks.juyoufan.net
-apksc.com
 apkui.com
 apkyx.com
 apkzu.com
@@ -14658,6 +14661,7 @@ asrockrack.com
 asrsingapore.com
 assbbs.com
 assdrty.com
+asset.newyx.net
 asset.tantanapp.com
 assets-global.viveport.com
 assets-mayun.b0.aicdn.com
@@ -17583,7 +17587,6 @@ bjjiubo.com
 bjjkglxh.org
 bjjnzf.com
 bjjqzyy.com
-bjjssh.org
 bjjtat.com
 bjjubao.org
 bjjzsc.com
@@ -19013,7 +19016,6 @@ c.dun.163.com
 c.duomai.com
 c.eqxiu.com
 c.f1zd.com
-c.fedsdq.com
 c.fwone.com
 c.gdt.qq.com
 c.gj.qq.com
@@ -19064,7 +19066,6 @@ c.w.inmobi.cn
 c.weizhenwx.com
 c.wkanx.com
 c.wxskqy.cn
-c.xdygw.com.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
 c.y.qq.com
@@ -19847,6 +19848,7 @@ cc23b14061dbc100fafc36350ec2f328.dlied1.cdntips.net
 cc3.ifeng.com
 cc55k.com
 cc6uu.com
+cc7m.com
 cc8.cc
 cca.mob.com
 ccabchina.com
@@ -19883,7 +19885,6 @@ cccnec.com
 cccpan.com
 ccctspm.org
 cccwww.com
-cccyds.com
 cccyun.cc
 ccd86.com
 ccdace.hupu.com
@@ -23747,7 +23748,6 @@ cn12365.org
 cn168.com
 cn18k.com
 cn2-cn2.com
-cn2.relay.iplc.pro
 cn20.com
 cn21edu.com
 cn22.net
@@ -27562,7 +27562,6 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -28750,6 +28749,7 @@ dingyunad.com
 dingzepeizi.com
 dingzhijl.com
 diningcity.asia
+diningcity.cn
 dinzd.com
 dioenglish.com
 dionly.com
@@ -34051,7 +34051,6 @@ feifandesign.com
 feifantxt.net
 feifanwangg.com
 feifei.com
-feifei6.com
 feifeiboke.com
 feifeicms.co
 feifeixitong.com
@@ -36615,6 +36614,7 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -39546,7 +39546,6 @@ haomeili.net
 haomijie.com
 haomingr.com
 haommn.com
-haomou.net
 haomove.com
 haomugua.com
 haonames.com
@@ -42987,7 +42986,6 @@ hutuoweb.com
 hutusi.com
 huubaa.com
 huuhoo.com
-huvmi.com
 huwaibbs.com
 huway.com
 huweihuang.com
@@ -44289,6 +44287,7 @@ ie915.com
 ie935.com
 ie977.com
 ieasn.com
+ieasy123.com
 ieayoio.com
 iebyte.com
 iecdn.com
@@ -46416,6 +46415,7 @@ ironghui.com
 ironxu.com
 irootech.com
 irory.me
+irpmgcmd.com
 irpmt.mail.163.com
 irs01.com
 irs01.net
@@ -52606,6 +52606,7 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
+lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
@@ -54068,7 +54069,6 @@ liuxue114.com
 liuxue360.com
 liuxue51.net
 liuxue86.com
-liuxuecentre.com
 liuxuegang.site
 liuxuehksg.com
 liuxuehr.com
@@ -54483,7 +54483,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -55556,6 +55555,7 @@ lynkco.com
 lynow.cn
 lyobs.com
 lypd.com
+lypdl.com
 lyps.net
 lypyxx.com
 lyqugee.com
@@ -57611,6 +57611,7 @@ mgame.sohu.com
 mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
+mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
@@ -61709,6 +61710,7 @@ nypd520.com
 nyrsksw.com
 nysdyyh.com
 nysmfc.com
+nyyzjg.com
 nyzydz.com
 nz7tgact.v1d.szbdyd.com
 nz86.com
@@ -69932,7 +69934,6 @@ res.ncdz.qq.com
 res.njxzwh.com
 res.pizzahut.com.cn
 res.qhupdate.com
-res.sctcd.com
 res.servicewechat.com
 res.servicewechat.com.sched.ssdv6.tdnsv6.com
 res.smzdm.com
@@ -69977,7 +69978,6 @@ resheji.com
 resistor.today
 resmkt.kfc.com.cn
 resmkt.pizzahut.com.cn
-resnode.yxtun.com
 resolver.dingtalk.com
 resolver.mi.xiaomi.com
 resolver.msg.xiaomi.net
@@ -76925,7 +76925,6 @@ surface.downloads.prss.microsoft.com
 surl.amap.com
 surmon.me
 surplusvalue.club
-surroundtm.com
 sursen.com
 sursenelec.com
 sursung.com
@@ -89047,7 +89046,6 @@ wxhbts.com
 wxhon.com
 wxhu.net
 wxhudong.com
-wxianfeng.com
 wxiao.net
 wximg.gtimg.com
 wximg.qq.com
@@ -94764,6 +94762,7 @@ xy183x159x89x116xy.mcdn.bilivideo.cn
 xy183x159x92x209xy.mcdn.bilivideo.cn
 xy183x159x94x157xy.mcdn.bilivideo.cn
 xy183x246x93x64xy.mcdn.bilivideo.cn
+xy1989.com
 xy2.163.com
 xy218x0x186x195xy.mcdn.bilivideo.cn
 xy218x0x189x126xy.mcdn.bilivideo.cn
@@ -97046,7 +97045,6 @@ yigujin.wang
 yiguo.com
 yiguoimg.com
 yihafo.com
-yihai111.com
 yihaikerry.net
 yihangen.com
 yihao01.com
@@ -99201,7 +99199,6 @@ yuyuema.com
 yuyueshop.com
 yuyuhunter.com
 yuyuntech.com
-yuyusoft.com
 yuzeli.com
 yuzhaimedia.com
 yuzhainan.com
