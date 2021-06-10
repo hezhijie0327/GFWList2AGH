@@ -2,7 +2,9 @@
 0-6.com
 0-gold.net
 0.cn.pool.ntp.org
+0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00042.com
@@ -9697,6 +9699,7 @@
 957ds.cc
 9588.com
 958jbs.com
+958so.cn
 959249.com
 95949c.com
 9596956.com
@@ -10737,10 +10740,12 @@ abto.cc
 abuquant.com
 abusi.net
 abuyun.com
+ac-dun.security.ntes53.netease.com
 ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
 ac.csdn.net
+ac.dun.163.com
 ac.dun.163yun.com
 ac.jice.io
 ac.mmstat.com
@@ -13649,6 +13654,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -13679,7 +13685,6 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
-api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -13815,7 +13820,6 @@ api.weixin.qq.com
 api.wesure.cn
 api.wmpvp.com
 api.wsq.umeng.com
-api.wtzw.com
 api.wxlink.szyuexin.com.cn
 api.xd.com
 api.xiachufang.com
@@ -14044,7 +14048,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -17910,7 +17913,6 @@ blog.sina.com.cn
 blog.tutorabc.com
 blog.tuziip.com
 blog.vive.com
-blog.yst.global
 blog007.com
 blog120.com
 blog1984.com
@@ -19262,6 +19264,7 @@ ca168.com
 ca2008.shop.liebiao.com
 ca231.com
 ca39.com
+ca518.com
 ca687.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
@@ -25050,19 +25053,15 @@ count.vrs.sohu.com
 count.west263.com
 count.wk2.com
 count.xxxssk.com
-count10.51yes.com
 count11.51yes.com
 count14.51yes.com
 count15.51yes.com
-count16.51yes.com
 count17.51yes.com
-count19.51yes.com
 count20.51yes.com
 count21.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
-count28.51yes.com
 count29.51yes.com
 count3.51yes.com
 count30.51yes.com
@@ -26756,7 +26755,6 @@ dadatu.co
 dadatu5.com
 dadatutv.com
 dadayou.com
-dadazw.com
 dadclab.com
 daddymami.net
 dadetong.com
@@ -27562,6 +27560,7 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
+dc.ads.linkedin.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -29926,6 +29925,7 @@ download.effie.co
 download.elemecdn.com
 download.fuyuncc.com
 download.game.yy.com
+download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
 download.jr.jd.com
@@ -35063,7 +35063,6 @@ fpb1.apple886.com
 fpb1.gxfin.com
 fpb1.tabuzhe.com
 fpbb.aizhan.com
-fpbbdx1.51240.com
 fpbcode.onlinedown.net
 fpdisplay.com
 fpgabbs.com
@@ -35542,7 +35541,6 @@ fxcsxb.com
 fxdiv.com
 fxdm.net
 fxdp.com
-fxfvttu.cn
 fxgate.baidu.com
 fxian.org
 fxiaoke.com
@@ -38911,7 +38909,6 @@ h5.zhongguowangshi.com
 h5.zuimeitianqi.com
 h5120.com
 h51h.com
-h5595.net
 h5abc.com
 h5aiwan.com
 h5anli.com
@@ -40536,7 +40533,6 @@ hepost.com
 hequnshebei.com
 hercity.com
 hercules-micro.com
-herder.cdn.bcebos.com
 herdsric.com
 here120.com
 herebbs.com
@@ -42832,7 +42828,6 @@ hundx.com
 hunger-valley.com
 hunhun520.com
 hunjuwang.com
-hunlaife.cn
 hunlang.com
 hunli100.com
 hunlihunli.com
@@ -45459,6 +45454,7 @@ imgaliyun.da.mgtv.com
 imgaliyun.res.mgtv.com
 imgaliyuncdn.miaopai.com
 imgaliyuncdn.miaopai.com.w.alikunlun.com
+imgapi.000714.xyz
 imgapp.yeyou.com
 imgc.cymzc.com
 imgcache-1251786003.image.myqcloud.com
@@ -51258,7 +51254,6 @@ kmeecc.com
 kmeitu.com
 kmeju.duanshu.com
 kmf.com
-kmf2c.com
 kmfangxun.com
 kmg898.com
 kmguolv.com
@@ -54483,6 +54478,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -54516,7 +54512,6 @@ log.mix.sina.com.cn
 log.mmstat.com
 log.moviebox.baofeng.com
 log.mpns.hunantv.com
-log.music.baidu.com
 log.nuomi.com
 log.nvwa.baofeng.com
 log.nxjcwh.com
@@ -54666,6 +54661,7 @@ lok.me
 lokyi.name
 lol-data-filter.wegame.com.cn
 lol-wegame-client-1258344700.file.myqcloud.com
+lol.17173.com
 lol.aci.game.qq.com
 lol.ams.game.qq.com
 lol.qq.com
@@ -55595,6 +55591,7 @@ lz-redeem.com
 lz-static.b0.aicdn.com
 lz-www-cdn.b0.aicdn.com
 lz.lianjia.com
+lz.mingchacn.top
 lz.zu.anjuke.com
 lz13.cn
 lz160.net
@@ -55669,6 +55666,7 @@ m.6z1gf.cn
 m.8684.cn
 m.937920.com
 m.958so.cn
+m.967nd.cn
 m.96mob.com
 m.97tuk.cn
 m.99114.com
@@ -58026,6 +58024,7 @@ ming.minglushaoyafan.top
 mingbaoxinwen.com
 mingbianji.com
 mingcalc.com
+mingchacn.top
 mingchaoonline.com
 mingchaoyouxi.com
 mingcloud.net
@@ -65783,7 +65782,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
@@ -66292,7 +66290,6 @@ q14.cnzz.com
 q17.cnzz.com
 q1qfc323.com
 q1qq2.com
-q1scv.vov0.com
 q2.qlogo.cn
 q2100.com
 q2ak.com
@@ -67961,6 +67958,7 @@ qooic.com
 qookar.com
 qos.game.qq.com
 qos.gcloud.qq.com
+qos.qcloud.com
 qosidc.gcloud.qq.com
 qosq.com
 qp110.com
@@ -69232,6 +69230,7 @@ r-tms.net
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn
@@ -76472,7 +76471,6 @@ store.st.dl.pinyuncloud.com
 store.steamchina.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
-store.storevideos.cdn-apple.com
 store.sunlands.com
 store.sunlands.com.wswebcdn.com
 store.taobao.com
@@ -81170,7 +81168,6 @@ tuweng.com
 tuwenla.com
 tuwenzhibo.com
 tux.red
-tuxi.com.cn
 tuxiaobei.com
 tuxiu.com
 tuya.com
@@ -91343,6 +91340,7 @@ xmzylh.com
 xn--0xv28g5vz8fs.com
 xn--2krw29cdqai43k.com
 xn--2qu92fhtx4ff.site
+xn--2qux23c9ziyrq.club
 xn--2qux23c9ziyrq.plus
 xn--2qux23confgml.club
 xn--2qux23confgml.online
