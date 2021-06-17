@@ -921,7 +921,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2863,7 +2862,6 @@
 1q2q.com
 1qfa.com
 1qianbao.com
-1qq.me
 1qwe3r.com
 1qyl.com
 1r1g.com
@@ -2947,7 +2945,6 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -7680,7 +7677,6 @@
 6jianshi.com
 6joi25qa.sched.s2.tdnsv5.com
 6jworld.com
-6k.com
 6k6g.com
 6k9k.com
 6kongbao.com
@@ -10443,7 +10439,6 @@ a7cf6c07ba00d3e975ba4d355c3a9d0a.safeframe.googlesyndication.com
 a8.com
 a8.o4p7y.cn
 a81029f2d4760d5376354b5b777fc07e.dlied1.cdntips.net
-a814.oadz.com
 a8a181f32d1efc71.qaxcloudwaf.com
 a8b4cb109dc6dcc5ae439d51793f52a5.dlied1.cdntips.net
 a8e81b69602de6be3417d203c006179d.safeframe.googlesyndication.com
@@ -12980,7 +12975,6 @@ analytics.meituan.net
 analytics.meituan.net.s2txipv6.cdntip.com
 analytics.mpay.netease.com
 analytics.oneplus.cn
-analytics.pointdrive.linkedin.com
 analytics.shop.hisense.com
 analytics.snssdk.com
 analytics.talkingdata.net
@@ -13758,7 +13752,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -15501,7 +15494,6 @@ baidu123.com
 baidu521.com
 baidua1.cardbaobao.com
 baidua2.cardbaobao.com
-baiduada.babihu.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -15546,7 +15538,6 @@ baiduzjn.com
 baietu.com
 baifae.com
 baifan.net
-baifen.music.baidu.com
 baifendian.com
 baifubao.com
 baifumeiba.com
@@ -16416,7 +16407,6 @@ bdqn666.com
 bdqnwh.com
 bdr88.com
 bds-cn.com
-bds.hainan.net
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
 bds.snssdk.com
@@ -17737,7 +17727,6 @@ bjyestar.com
 bjyggc.com
 bjyhwy.com
 bjyqsj.com
-bjytdqwx.com
 bjythd.com
 bjyunyu.com
 bjywt.com
@@ -19034,6 +19023,7 @@ c.qhruisen.cn
 c.sayhi.360.cn
 c.shishishiguixinfangfuzhuangshanghan.cn
 c.ssp.qq.com
+c.sssgao999.com
 c.syooys.com
 c.sysycloud.com
 c.tdm.qq.com
@@ -19241,7 +19231,6 @@ ca003.com
 ca08308411e85782886c7053d0285ede.v.smtcdns.net
 ca168.com
 ca2008.shop.liebiao.com
-ca231.com
 ca39.com
 ca518.com
 ca687.com
@@ -27229,10 +27218,10 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -36582,6 +36571,7 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -39767,7 +39757,6 @@ hbdns.org
 hbdnserror1.wo.com.cn
 hbdnserror3.wo.com.cn
 hbdnserror4.wo.com.cn
-hbdnserror5.wo.com.cn
 hbdnserror7.wo.com.cn
 hbdthy.com
 hbdtjqj.com
@@ -41317,7 +41306,6 @@ hndnserror3.wo.com.cn
 hndnserror4.wo.com.cn
 hndnserror5.wo.com.cn
 hndnserror6.wo.com.cn
-hndnserror7.wo.com.cn
 hndpx.com
 hndtl.com
 hndxsg.org
@@ -43609,7 +43597,6 @@ i5i6.net
 i5mai.com
 i5seo.com
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i6879.com
 i7.3conline.com
@@ -47468,7 +47455,6 @@ jeanssalon.com
 jeasyui.net
 jeasyuicn.com
 jebe.xnimg.cn
-jedex56.com
 jedi-games.com
 jedoo.com
 jeebei.com
@@ -48650,7 +48636,6 @@ jjtianshangi.com
 jjtonline.com
 jjtqnews.com
 jjtravel.com
-jjtxtx.com
 jjunj.com
 jjvod.tv
 jjw.com
@@ -48718,7 +48703,6 @@ jlc.com
 jlccpit.com
 jlcerp.com
 jldnserror1.wo.com.cn
-jldnserror4.wo.com.cn
 jldnserror5.wo.com.cn
 jlforging.com
 jlfzb.com
@@ -51919,6 +51903,7 @@ kwimgs.com
 kwin.wang
 kwin.xyz
 kwkg.kuwo.cn
+kwm.com
 kwmiosjump.kuwo.cn
 kwmsg.kuwo.cn
 kwstr.com
@@ -52647,6 +52632,7 @@ ldshj.com
 ldsink.com
 ldtui.com
 ldvideo.sogou.com
+ldvip37.com
 ldw4nmdt.s1txipv6.cdntip.com
 ldxsfw.com
 ldy.350.com
@@ -55874,6 +55860,7 @@ m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
 m.xuexila.com
+m.xxkio.com
 m.xyadaa.com
 m.xyadxia.com
 m.yalayi.com
@@ -56008,7 +55995,6 @@ m90cc.com
 m937.com
 m9o.net
 ma-china.com
-ma1.meishij.net
 ma16.com
 ma2.meishij.net
 ma3office.com
@@ -60653,6 +60639,7 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
+nex.163.com
 nexiao.com
 nexmoe.com
 nexstep.zdworks.com
@@ -62913,7 +62900,6 @@ owspace.com
 owulia.com
 ox11.com
 oxbridgedu.org
-oxbtc.com
 oxdfx.com
 oxerr.net
 oxiaohua.com
@@ -63740,7 +63726,6 @@ payrao.com
 paysapi.com
 paytbf.com
 paytend.com
-payun.wang
 payxinyi.com
 pb.bi.gitv.tv
 pb.hd.sohu.com
@@ -70743,6 +70728,7 @@ s.autoimg.cn
 s.bdstatic.com
 s.beizhoujt.cn
 s.btime.com
+s.c-ctrip.com
 s.cdn.u17t.com
 s.chuimg.com
 s.chusan.com
@@ -70846,6 +70832,7 @@ s0.meituan.com
 s0.meituan.net
 s0.pstatp.com
 s0.ssl.qhimg.com
+s0016.com
 s0025.com
 s03-ml.gslb.ksyuncdn.com
 s03-p2p.gslb.ksyuncdn.com
@@ -73710,7 +73697,6 @@ shubao201.com
 shubao95.com
 shubulo.com
 shubuzi.com
-shuc-android.ksord.com
 shuc-js.ksord.com
 shucaiguaguo.com
 shucaixiaoshuo.com
@@ -74726,7 +74712,6 @@ sms-ads.oneplusmobile.com
 sms-agent.oss-cn-hangzhou.aliyuncs.com
 sms-callback.dftoutiao.com
 sms.ads.oppomobile.com
-sms.wo186.tv
 sms9.net
 smsapi.micloud.xiaomi.net
 smsbao.com
@@ -76573,7 +76558,6 @@ suggestion.baidu.com
 sugon.com
 sugou.com
 sugs.m.sm.cn
-suh3.xizhide01.cn
 suhaodian.com
 suhuibao.com
 suhuishou.com
@@ -88368,6 +88352,7 @@ www.modo.pub
 www.moe.gov.cn
 www.moyul.cn
 www.mwsl.org.cn
+www.mybwz.com
 www.mzyyun.com
 www.mzyyun.com.w.cdngslb.com
 www.nadianshi.com
@@ -88701,6 +88686,7 @@ www.worldweather.cn
 www.woyaosouti.com
 www.wrfou.com
 www.wsisp.com
+www.wumaav.com
 www.wuzhou.gov.cn
 www.wywyx.com
 www.wywyx.com.w.kunlunca.com
@@ -91304,6 +91290,7 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
+xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnpic.com
@@ -96036,6 +96023,7 @@ y.qq.com
 y.to
 y.unilz588.com
 y.zdmimg.com
+y.zp22.cn
 y0.ifengimg.com
 y001.tianjimedia.com
 y007.com
