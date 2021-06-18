@@ -724,6 +724,7 @@
 0838.com
 0838che.com
 083f47f4.fyeds3.com
+083ld.com
 0852diaoyu.com
 0852e.com
 0852job.com
@@ -921,6 +922,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1484,7 +1486,6 @@
 12226.com
 12227.com
 12229wednesday.xmywlyh.cn
-1224.dxsbb.com
 1226949259.b2b.huangye88.com
 1227618.b2b.liebiao.com
 1227618.shop.liebiao.com
@@ -4016,7 +4017,6 @@
 317550.shop.liebiao.com
 317608.com
 317hu.com
-3187.dlads.cn
 3188.la
 318ek.com
 31966.net
@@ -5211,7 +5211,6 @@
 466.com
 46644.com
 4671580.net
-467541.com
 467835.com
 467969.image.p23.tc.cdntip.com
 467969.image.sched.sma.tdnsv5.com
@@ -7443,6 +7442,7 @@
 668895.com
 6688pay.com
 668app.com
+668cp00.com
 668cp99.com
 668lw.com
 668map.com
@@ -7547,6 +7547,7 @@
 686ib.com
 6873.com
 688n.com
+6895588.com
 6899wan.com
 68design.net
 68e2b79f96be21b4fc4a1d98bd6a83aa.safeframe.googlesyndication.com
@@ -13752,6 +13753,7 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
+api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -13996,7 +13998,6 @@ app-analytics-cn.huami.com
 app-analytics.huami.com
 app-cdn.2q10.com
 app-cdn.2q10.com.wswebpic.com
-app-down.xiaohaowen.com
 app-echo.com
 app-g.39.net
 app-gw.csdn.net
@@ -17493,9 +17494,7 @@ bjdnserror1.wo.com.cn
 bjdnserror2.wo.com.cn
 bjdnserror3.wo.com.cn
 bjdnserror4.wo.com.cn
-bjdnserror5.wo.com.cn
 bjdnserror6.wo.com.cn
-bjdnserror7.wo.com.cn
 bjdongxin.com
 bjdsppa.com
 bjdt360.com
@@ -18951,7 +18950,6 @@ c.35kds.com
 c.4gpkf.cn
 c.51y5.net
 c.58cdn.com.cn
-c.acgshenshicha.cn
 c.adbxb.cn
 c.admaster.com.cn
 c.admob.com
@@ -23807,7 +23805,6 @@ cnc.quickconnect.cn
 cnc.qzs.qq.com
 cnca.cn
 cnca.net
-cncait.net
 cncard.com
 cncc.bingj.com
 cncc7.com
@@ -24804,6 +24801,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -25016,7 +25014,6 @@ count.west263.com
 count.wk2.com
 count.xxxssk.com
 count11.51yes.com
-count15.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
@@ -25027,7 +25024,6 @@ count34.51yes.com
 count35.51yes.com
 count38.51yes.com
 count41.51yes.com
-count45.51yes.com
 count46.51yes.com
 count5.pconline.com.cn
 count5.pconline.com.cn.dnsgtm.com
@@ -25455,7 +25451,6 @@ crlf0710.com
 crlg.com
 crlocsp.cn
 crm.cc
-crm.ws.ctrip.com
 crm1001.com
 crmch.com
 crmclick.com
@@ -26500,7 +26495,6 @@ d5.sina.com.cn
 d5.sinaimg.cn
 d50pjq1.cachenode.cn
 d518ed55f3428b52fae9a53469fe6404.dlied1.cdntips.net
-d5199.com
 d52ad7cd77466b4de50da5f24834f20c.dlied1.cdntips.net
 d558f7ac95fd63207cb8c362ef973975.safeframe.googlesyndication.com
 d57544b7a2634d5c33949f60.mdbook.cn
@@ -27218,10 +27212,10 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -27510,7 +27504,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -29427,7 +29420,6 @@ dockone.io
 doclass.com
 docools.com
 docpe.com
-docrepository.org
 docs.antfin-inc.com
 docs.cdnetworks.com
 docs.djicdn.com
@@ -35647,7 +35639,6 @@ g-var.com
 g.163.com
 g.166.net
 g.168.it168.com
-g.315jg.net
 g.6sfg.com
 g.ad8.cc
 g.ads.cn.miaozhen.com
@@ -36636,7 +36627,6 @@ gfglb.com
 gfgupiao.com
 gfjl.org
 gflearn.aichaoxing.com
-gfmz.com
 gfnormal01ac.com
 gfnormal01aq.com
 gfnormal02ak.com
@@ -46040,6 +46030,7 @@ ios1234.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -49170,7 +49161,6 @@ js.9136.com
 js.9669.cn
 js.98158.com
 js.a.kspkg.com
-js.abchinajn.com
 js.ad7.com
 js.admin6.com
 js.aipandas.cn
@@ -52493,6 +52483,7 @@ lawyerbridge.com
 lawyermr.com
 lawyershanghai.net
 lawyersuperman.com
+lax71.com
 layabox.com
 layout-meituan-net.b0.aicdn.com
 layout.meituan.net
@@ -53474,7 +53465,6 @@ lightfire.cc
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
-lighthouseapi.dmall.com
 lighting163.com
 lightingchina.com
 lightinit.com
@@ -55994,6 +55984,7 @@ m9.music.126.net
 m90cc.com
 m937.com
 m9o.net
+ma-adx.ctrip.com
 ma-china.com
 ma16.com
 ma2.meishij.net
@@ -57320,6 +57311,7 @@ melove.net
 memacx.com
 memagames.com
 member.bilibili.com
+member.chinaacc.com
 member.jr.jd.com
 member.jschina.com.cn
 member.zcygov.cn
@@ -60598,7 +60590,6 @@ newsing.com
 newskj.com
 newskj.org
 newsmth.com
-newsmth.net
 newsmy-car.com
 newsmy.com
 newsmyshop.com
@@ -60672,7 +60663,6 @@ nfdnserror10.wo.com.cn
 nfdnserror11.wo.com.cn
 nfdnserror12.wo.com.cn
 nfdnserror13.wo.com.cn
-nfdnserror14.wo.com.cn
 nfdnserror15.wo.com.cn
 nfdnserror16.wo.com.cn
 nfdnserror17.wo.com.cn
@@ -88295,6 +88285,7 @@ www.landiannews.com
 www.lanzoux.com
 www.laosiji.com
 www.laoyaoba.com
+www.lax71.com
 www.layuicdn.com
 www.lb.pku.edu.cn
 www.le.com
@@ -96023,7 +96014,6 @@ y.qq.com
 y.to
 y.unilz588.com
 y.zdmimg.com
-y.zp22.cn
 y0.ifengimg.com
 y001.tianjimedia.com
 y007.com
