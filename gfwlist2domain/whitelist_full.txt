@@ -771,7 +771,6 @@
 0917.com
 0917e.com
 0919123.com
-091ld.com
 092ld.com
 093.tv
 0931lanzhou.com
@@ -3593,7 +3592,6 @@
 2605253.shop.liebiao.com
 2613445.b2b.liebiao.com
 2613445.shop.liebiao.com
-262235.xyz
 263.com
 263.net
 2631493.b2b.liebiao.com
@@ -5276,7 +5274,6 @@
 4949567.com
 49563bf2b6183537ff60b51a68f19c6d.dlied1.cdntips.net
 495667.p23.tc.cdntip.com
-495ld.com
 49644913.com
 497-img.com
 497.com
@@ -10116,7 +10113,6 @@
 9k9k.com
 9k9ms.com
 9kd.com
-9kjt.com
 9kld.com
 9ku.com
 9kus.com
@@ -10253,6 +10249,7 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -13669,7 +13666,6 @@ api.ishansong.com
 api.itaoxiaoshuo.com
 api.ithome.com
 api.ivideo.sina.com.cn
-api.jcswhg.com
 api.jits.heytapmobi.com
 api.jobui.com
 api.joomob.com
@@ -16191,7 +16187,6 @@ bccfw.com
 bccn.net
 bccnsoft.com
 bccv.com
-bccyyc.com
 bcd46ab7cee39f2f5c264ccb14f4d445.safeframe.googlesyndication.com
 bcdaren.com
 bcdy.net
@@ -16321,6 +16316,7 @@ bd4.chuiyue.com
 bd4.idgdmgroup.com.cn
 bd5.zuimeitianqi.com
 bd689.com
+bd790.com
 bd7ce88f2406c46ab50dbe587845a8c7.dlied1.cdntips.net
 bd7d504fd03d91d48d5e44c48bc97e6c.safeframe.googlesyndication.com
 bd888.qizuang.com
@@ -16581,7 +16577,6 @@ beijinghenghua.com
 beijingidc.com
 beijingjuyuan.com
 beijingkbd.com
-beijinglvyou.net.cn
 beijingnorthstar.com
 beijingoperacats.com
 beijingrc.com
@@ -17488,7 +17483,6 @@ bjdlzl.com
 bjdnserror1.wo.com.cn
 bjdnserror2.wo.com.cn
 bjdnserror3.wo.com.cn
-bjdnserror4.wo.com.cn
 bjdnserror6.wo.com.cn
 bjdongxin.com
 bjdsppa.com
@@ -18268,7 +18262,6 @@ boxshows.com
 boxuegu.com
 boxueio.com
 boxui.com
-boxuu.com
 boxz.com
 boy-toy.net
 boy.fujieace.com
@@ -18496,7 +18489,6 @@ btcsos.com
 btcwatch.com
 btdad.live
 btdog.com
-btdownload.net
 btege.com
 btfan.com
 btfile.sdo.com
@@ -19842,6 +19834,7 @@ ccbtrust.com.cn
 ccc-2013.com
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
+ccc.sys.miui.com
 ccc.x.jd.com
 cccaq.com
 cccbs.net
@@ -20633,7 +20626,6 @@ ce-air.com
 ce.cn
 ce.sjtu.edu.cn
 ce.sm688801.com
-ce.wlaoc.cn
 ce01cfee65c8a1e644beaa602f07b66a.safeframe.googlesyndication.com
 ce02.net
 ce04.com
@@ -20762,7 +20754,6 @@ cersp.com
 certify.alipay.com
 ceruchina.com
 ces-transaction.com
-cesafe.com
 cescnb.com
 cesfutures.com
 ceshi112.com
@@ -23696,7 +23687,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -24806,7 +24796,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -25021,13 +25010,11 @@ count.xxxssk.com
 count11.51yes.com
 count22.51yes.com
 count23.51yes.com
-count24.51yes.com
 count32.51yes.com
 count34.51yes.com
 count35.51yes.com
 count38.51yes.com
 count41.51yes.com
-count46.51yes.com
 count5.pconline.com.cn
 count5.pconline.com.cn.dnsgtm.com
 count6.pconline.com.cn
@@ -27504,7 +27491,6 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
@@ -34636,7 +34622,6 @@ flachina.com
 flacro.me
 flamesky.org
 flaredup.com
-flash.sec.miui.com
 flash127.com
 flash2-http.qq.com
 flash8.net
@@ -35010,6 +34995,7 @@ fp.hwwt8.com
 fp.nanrenwo.net
 fp.ps.netease.com
 fp.tongdun.net
+fpag.w48ge.cn
 fpb.docin.com
 fpb.sohu.com
 fpb1.apple886.com
@@ -38623,7 +38609,6 @@ gzif.net
 gzittc.net
 gzj568.com
 gzjab.com
-gzjcyuanlin.com
 gzjingsha.com
 gzjisikj.com
 gzjkzzp.com
@@ -40335,7 +40320,6 @@ heketai.com
 hekouxin.com
 heku.org
 hel168.com
-hele888.com
 helensbar.com
 helianhealth.com
 helight.info
@@ -41299,7 +41283,6 @@ hndca.com
 hndfbg.com
 hndnews.com
 hndnserror1.wo.com.cn
-hndnserror2.wo.com.cn
 hndnserror3.wo.com.cn
 hndnserror4.wo.com.cn
 hndnserror5.wo.com.cn
@@ -41870,7 +41853,6 @@ hrbesd.com
 hrbmama.com
 hrbmilan.com
 hrbpay.com
-hrbpma.com
 hrbrc.com
 hrbslh.com
 hrbswx.com
@@ -42108,7 +42090,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -44878,7 +44859,6 @@ images.enet.com.cn
 images.liqucn.com
 images.lulian.cn
 images.macx.cn
-images.newsmth.net
 images.nvidia.cn
 images.pchome.net
 images.pinduoduo.com
@@ -51316,7 +51296,6 @@ korimscdn.com
 korirl.com
 kotei-info.com
 kotex-km.com
-kotliner.me
 koto.com
 kotoo.com
 kotrip.com
@@ -53361,7 +53340,6 @@ licaigc.com
 licaike.com
 licaiker.com
 licaimofang.com
-licairen.net
 licancan.com
 licat.com
 license.bluesoleil.com
@@ -53467,6 +53445,7 @@ lightfire.cc
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighting163.com
 lightingchina.com
 lightinit.com
@@ -54393,7 +54372,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -54448,7 +54426,6 @@ log.tpns.tencent.com
 log.trackingio.com
 log.u.wps.cn
 log.umsns.com
-log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn
@@ -55006,7 +54983,6 @@ lt2011.com
 lt3c.com
 ltaaa.com
 ltaaa.net
-ltaome.cn
 ltd.com
 ltesting.net
 ltfwzs.com
@@ -55639,6 +55615,7 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -55785,7 +55762,6 @@ m.reachmax.cn
 m.robooot.com
 m.rrsdl.com
 m.runoob.com
-m.rzxlszy.vip
 m.sctcd.com
 m.sewxi.com
 m.sh.bendibao.com
@@ -55825,7 +55801,6 @@ m.toutiaoimg.cn
 m.track.ad.xiaomi.com
 m.travelzoo.com
 m.tuhu.cn
-m.tzh019.cn
 m.tzh315.cn
 m.u0r9.cn
 m.uc123.com
@@ -56777,7 +56752,6 @@ mb-go.com
 mb.adres.wpscdn.cn
 mb.yidianzixun.com
 mb1.mp.ccb.com
-mb301.com
 mb5u.com
 mb700.com
 mbabao.com
@@ -58596,6 +58570,7 @@ moduseo.com
 modusnb.com
 modxz.com
 moe-gov-cn.cname.saaswaf.com
+moe.005.tv
 moe.im
 moe123.com
 moe123.net
@@ -59884,7 +59859,6 @@ n.hzhfhkj.cn
 n.mark.letv.com
 n.sinaimg.cn
 n.ssp.qq.com
-n.tzh019.cn
 n.yunshipei.com
 n0.sinaimg.cn
 n0808.com
@@ -60664,7 +60638,6 @@ nfdnserror11.wo.com.cn
 nfdnserror12.wo.com.cn
 nfdnserror13.wo.com.cn
 nfdnserror15.wo.com.cn
-nfdnserror16.wo.com.cn
 nfdnserror17.wo.com.cn
 nfdnserror3.wo.com.cn
 nfdnserror5.wo.com.cn
@@ -62423,7 +62396,6 @@ openinstall.io
 openjmacs.m.taobao.com
 openjmacs4uc.m.taobao.com
 openke.net
-openkylin.com
 openlab.cc
 openlab.co
 openlanguage.com
@@ -68008,7 +67980,6 @@ qqq.tv
 qqqhqv7w.v1d.szbdyd.com
 qqqhqvpf.v1d.szbdyd.com
 qqqiyemail.com
-qqqmdq.com
 qqqnm.com
 qqqq.com
 qqqqqqqqqqq.com
@@ -69168,7 +69139,6 @@ r2---sn-ni57rn7y.googlevideo.com
 r2---sn-ni57rn7y.gvt1.com
 r2---sn-ni5een7s.googlevideo.com
 r2.adwo.com
-r2.tschewang.com
 r2.ykimg.com
 r24d7hrcw5kzo2ydtmlug9bwgk35t2wz.yundunwaf5.com
 r2g.net
@@ -71681,7 +71651,6 @@ sdac.lenovomm.com
 sdailong.com
 sdaoyou.com
 sdbao.com
-sdbdccq.com
 sdbear.com
 sdbeta.com
 sdbykqn.com
@@ -71707,7 +71676,6 @@ sddlys.com
 sddnserror1.wo.com.cn
 sddnserror2.wo.com.cn
 sddnserror3.wo.com.cn
-sddnserror5.wo.com.cn
 sddnserror6.wo.com.cn
 sddnserror7.wo.com.cn
 sddnserror9.wo.com.cn
@@ -72305,7 +72273,6 @@ service.dg.wps.cn
 service.epro.sogou.com
 service.gmugmu.com
 service.jiagu.360.cn
-service.mkey.163.com
 service.shanghai.gov.cn
 service.urchin.com
 service.weather.msn.cn
@@ -82195,7 +82162,6 @@ unsh-ea119.wagbridge.alibaba.tanx.com.gds.alibabadns.com
 unspay.com
 unsuv.com
 unsv.com
-untforo.com
 untitled.dwstatic.com
 unxmail.com
 unyoo.com
@@ -88431,6 +88397,7 @@ www.php06.com
 www.piketoefl.com
 www.pipaw.com
 www.pixivic.com
+www.pj98887.com
 www.pkcode.cn
 www.pku.edu.cn
 www.poppur.com
@@ -96030,6 +95997,7 @@ y.qq.com
 y.to
 y.unilz588.com
 y.zdmimg.com
+y.zp22.cn
 y0.ifengimg.com
 y001.tianjimedia.com
 y007.com
