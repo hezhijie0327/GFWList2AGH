@@ -775,6 +775,7 @@
 0x0.biz
 0x0.ooo
 0x0d.im
+0x100.club
 0x3.me
 0x5.me
 0x6.me
@@ -21197,7 +21198,6 @@ dshigao.com
 dshjfh.com
 dshmama.com
 dshrc.com
-dsjre.com
 dskb.co
 dsmyiyuan.com
 dsmzyy.com
@@ -28873,7 +28873,6 @@ heyplus.com
 heyreport.com
 heyria.com
 heyshopstreet.com
-heytaoge.com
 heytap.com
 heytapcs.com
 heytapdownload.com
@@ -38160,6 +38159,7 @@ leap-pc.com
 leapahead.vip
 leapmie.com
 leapmotor.com
+learn-abc.com
 learn-quantum.com
 learndiary.com
 learnfans.com
@@ -47374,7 +47374,6 @@ qianquduo.com
 qianrenge.cc
 qianrihong.net
 qianrong.me
-qianrushi.org
 qiansw.com
 qiantucdn.com
 qianvisa.com
@@ -47414,7 +47413,6 @@ qiaomen8.com
 qiaomi.com
 qiaomukeji.com
 qiaoshenghuo.com
-qiaoshoumama.com
 qiaotu.com
 qiaoxuanhong.com
 qiaoyi.org
@@ -50853,7 +50851,6 @@ shangwu168.com
 shangxiasha.com
 shangxueba.cn
 shangxueba.com
-shangxuebavip.com
 shangyejihua.com
 shangyekj.com
 shangyexin.com
@@ -59893,7 +59890,6 @@ wfyake.com
 wfycjd.com
 wfyvv.com
 wfzbjx.com
-wfzdmjg.com
 wfzqhb.com
 wfzssz.com
 wfztg.com
@@ -63557,6 +63553,7 @@ xn--0xv28g5vz8fs.com
 xn--2krw29cdqai43k.com
 xn--2qu92fhtx4ff.site
 xn--2qux23c9ziyrq.plus
+xn--2qux23c9ziyrq.video
 xn--2qux23confgml.club
 xn--2qux23confgml.online
 xn--48s290ajcu2tzl891isd3anfh.com
