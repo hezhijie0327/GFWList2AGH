@@ -2091,6 +2091,7 @@
 163.gg
 163.lu
 163.net
+163.zzux.com
 1633.com
 1633d.com
 163663.com
@@ -2941,6 +2942,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -8330,7 +8332,6 @@
 7k7k.com
 7kk.com
 7kla.com
-7kuaitang.com
 7kww.net
 7kxs.com
 7kzw.com
@@ -8856,7 +8857,6 @@
 87w00b.tdum.alibaba.com
 87yy.com
 88-z.com
-88.yunqishi.net
 88.yunqishi8.com
 8800.org
 8800808.com
@@ -10258,7 +10258,6 @@ a.epinv.com
 a.eqxiu.com
 a.exam58.com
 a.f-0.cc
-a.fengyx.com
 a.fxltsbl.com
 a.gdt.qq.com
 a.hexuntech.cn
@@ -11046,7 +11045,6 @@ ad.data.lianjia.com
 ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
-ad.doubanio.com
 ad.doubleclick.net
 ad.duapps.com
 ad.duomi.com
@@ -14642,7 +14640,6 @@ asset.newyx.net
 asset.tantanapp.com
 assets-global.viveport.com
 assets-mayun.b0.aicdn.com
-assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
@@ -14943,7 +14940,6 @@ avalon233.com
 avanpa.com
 avatar-1254024480.cos.ap-beijing.myqcloud.com
 avatar-static.segmentfault.com
-avatar-txt.quancms.com
 avatar.1point3acres.cn
 avatar.52pojie.cn
 avatar.cdn.gmugmu.com
@@ -16314,6 +16310,7 @@ bd302.com
 bd4.chuiyue.com
 bd4.idgdmgroup.com.cn
 bd5.zuimeitianqi.com
+bd537.com
 bd689.com
 bd790.com
 bd7ce88f2406c46ab50dbe587845a8c7.dlied1.cdntips.net
@@ -28391,7 +28388,6 @@ dianjinghu.com
 dianjingzhe.com
 dianjishu.com
 diankeji.com
-diankeshequ.com
 dianlancg.com
 dianler.com
 dianli.com
@@ -29799,7 +29795,6 @@ down.xiazaidc.com
 down.znshuru.com
 down0.com
 down1.bizport.cn
-down12.com
 down123.cc
 down123.me
 down160.bizport.cn
@@ -37000,7 +36995,6 @@ glcct.com
 gldtztc.com
 gleasy.com
 glface.com
-glg.uu.163.com
 glgczk.com
 glgoo.com
 glgoo.net
@@ -37330,7 +37324,6 @@ gongpin.net
 gongpingjia.com
 gongshang.mingluji.com
 gongshang120.com
-gongshe8.com
 gongshe99.com
 gongshi8.com
 gongsibao.com
@@ -39728,7 +39721,6 @@ hbdfdh.com
 hbdmia.com
 hbdns.org
 hbdnserror3.wo.com.cn
-hbdnserror4.wo.com.cn
 hbdnserror7.wo.com.cn
 hbdthy.com
 hbdtjqj.com
@@ -41119,7 +41111,6 @@ hlhmf.com
 hlideal.com
 hlj-aptech.com
 hljdnserror1.wo.com.cn
-hljdnserror2.wo.com.cn
 hljdnserror3.wo.com.cn
 hljdnserror4.wo.com.cn
 hljdnserror5.wo.com.cn
@@ -44984,7 +44975,6 @@ img.account.itpub.net.w.kunlunca.com
 img.ad.zhangyue.com
 img.adbox.sina.com.cn
 img.adm.xmfish.com
-img.adnyg.com
 img.ads.csdn.net
 img.adsame.liba.com
 img.aldtop.com
@@ -50840,7 +50830,6 @@ khdmw.com
 khesport.com
 khews.com
 khlysc.com
-khm123.com
 khotyn.com
 khpt.tongdun.cn
 khqihuo.com
@@ -55711,7 +55700,6 @@ m.news.cctv.com
 m.niu07.com
 m.nuoqingck.cn
 m.ocenp.com
-m.panda.voiceads.cn
 m.pinduoduo.net
 m.pinkmore.cn
 m.pizzahut.com.cn
@@ -55736,7 +55724,6 @@ m.runoob.com
 m.sctcd.com
 m.sewxi.com
 m.sh.bendibao.com
-m.shilian168.cn
 m.simba.taobao.com
 m.sina.com.cn
 m.sjzhushou.com
@@ -57466,7 +57453,6 @@ mgame.sohu.com
 mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
-mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
@@ -60608,7 +60594,6 @@ nfcmag.com
 nfcws.hicloud.com
 nfdnserror10.wo.com.cn
 nfdnserror11.wo.com.cn
-nfdnserror12.wo.com.cn
 nfdnserror13.wo.com.cn
 nfdnserror15.wo.com.cn
 nfdnserror17.wo.com.cn
@@ -62043,6 +62028,7 @@ one-console-adns.console.aliyun.com
 one-lab.net
 one-second-campaign.cn-hangzhou-b.log.aliyuncs.com
 one-second-campaign.cn-hangzhou.log.aliyuncs.com
+one.toumppk.cn
 one918.com
 onealert.com
 oneapm.com
@@ -63650,7 +63636,6 @@ payh5.jd.com
 payh5.jd.com.gslb.qianxun.com
 payloads.online
 paymax.cc
-payment-website-pci.ol.epicgames.com
 payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com
@@ -71532,7 +71517,6 @@ screen.api.idotools.com
 screentime.comm.miui.com
 script-bd.baixing.net
 script.baertt.com
-scripts.cy-wz.com
 scripts.easyliao.com
 scripts.easyliao.com.w.kunlunar.com
 scrmtech.com
@@ -73619,7 +73603,6 @@ shubao201.com
 shubao95.com
 shubulo.com
 shubuzi.com
-shuc-js.ksord.com
 shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shucaixiaoshuo.com
@@ -75705,7 +75688,6 @@ starmobs.com
 starpainters.net
 starparkshenzhen.com
 starpiao.com
-starpoint0331.com
 starrtc.com
 starrysurvey.com
 starschina.com
@@ -75913,6 +75895,7 @@ static.didialift.com
 static.diditaxi.com.cn
 static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
+static.dmall.com
 static.dmzj.com
 static.dns.iqiyi.com
 static.doubleclick.net
@@ -75925,7 +75908,6 @@ static.fengkongcloud.com
 static.flv.uuzuonline.com
 static.fraudmetrix.cn
 static.front.xywy.com
-static.frontjs.com
 static.g.iqiyi.com
 static.g.ppstream.com
 static.g.pptv.com
@@ -80079,6 +80061,7 @@ touid.com
 toujidao.com
 touker.com
 toumiao.com
+toumppk.cn
 toupb.com
 toupiaoapp.com
 touqikan.com
@@ -91218,6 +91201,7 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
+xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnpic.com
@@ -95949,6 +95933,7 @@ y.qq.com
 y.to
 y.unilz588.com
 y.zdmimg.com
+y.zp22.cn
 y0.ifengimg.com
 y001.tianjimedia.com
 y007.com
