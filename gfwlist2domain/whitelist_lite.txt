@@ -535,7 +535,6 @@
 06dns.com
 06game.com
 06jm.com
-06mz.com
 06peng.com
 0701news.com
 070210.com
@@ -4052,7 +4051,6 @@
 500efuma.com
 500gm.com
 500px.me
-500px.pro
 500sucai.com
 500talk.com
 500tb.com
@@ -5127,6 +5125,7 @@
 53shop.com
 53shubiao.com
 53tct.com
+53trya.cn
 53xjd.com
 53yao.com
 53zw.net
@@ -15210,7 +15209,6 @@ chetuobang.com
 chetx.com
 chetxia.com
 chevip.com
-cheweishop.com
 chewen.com
 chexiang.com
 chexiaopang.com
@@ -28372,7 +28370,6 @@ hbzknet.com
 hbzkw.com
 hbzkzx.com
 hbzkzxw.com
-hbzlw.com
 hbzncz.com
 hbzqzx.com
 hbzsb.com
@@ -29913,7 +29910,6 @@ hrtn.net
 hrtx.com
 hrunion.org
 hrxiongan.com
-hrzsh.com
 hrzy.cc
 hs-ceo.com
 hs-fe.com
@@ -31589,7 +31585,6 @@ idcicpdns.com
 idcjf.com
 idcjia.net
 idckx.com
-idcmiit.com
 idcquan.com
 idcsec.com
 idcser.com
@@ -34346,7 +34341,6 @@ jingguan.ai
 jinghaishop.com
 jinghangapps.com
 jinghua.com
-jinghuasoft.com
 jinghujiaoyu.com
 jingjia.org
 jingjiamicro.com
@@ -36318,7 +36312,6 @@ kasora.moe
 kasscloud.com
 katcin.com
 katebackdrop.com
-katebetty.com
 katongji.com
 katvr.com
 katyusha.net
@@ -37689,7 +37682,6 @@ lan-bridge.com
 lan-kun.com
 lan-lin.com
 lan1001.com
-lanbowanyouting.com
 lanbozb.com
 lanbu.net
 lancdn.com
@@ -45300,7 +45292,6 @@ p4vip.com
 p512.com
 p5w.net
 p8games.com
-p98ytk.cn
 p99998888.com
 pa18.com
 pa1pa.com
@@ -47762,7 +47753,6 @@ qixingtang.com
 qixinqiguan.com
 qixiwl.com
 qixoo.com
-qixunka.com
 qiyabi.vip
 qiye.la
 qiye.net
@@ -48141,7 +48131,6 @@ qsbank.cc
 qsbbs.net
 qsbdc.com
 qsboy.com
-qschina.com
 qschou.com
 qsduo.com
 qsebao.com
@@ -49661,7 +49650,6 @@ s-on-s.com
 s-reader.com
 s-sgames.com
 s-ts.net
-s0016.com
 s0025.com
 s0n.cn
 s11.cn
@@ -53331,7 +53319,6 @@ stuq.com
 stuq.org
 stutimes.com
 stvgame.com
-stxdgg.com
 styadmin.com
 stylecdn.com
 stylemode.com
@@ -67611,7 +67598,6 @@ zc0.net
 zc0317.com
 zc181.com
 zc532.com
-zc600.com
 zcaijing.com
 zcbjs.com
 zcccc.com
