@@ -891,6 +891,7 @@
 1-yuan.net
 1.01fy.cn
 1.07swz.com
+1.07swz.com.cname756.yjs-cdn.com
 1.1010pic.com
 1.11467.com
 1.5000yan.com
@@ -902,7 +903,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -10672,7 +10672,6 @@ ac.dun.163yun.com
 ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
-ac.zxh.la
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
@@ -18804,6 +18803,7 @@ bzdiao.com
 bzfwq.com
 bzfxw.com
 bzgame.apk4399.com
+bzgame.cc
 bzgd.com
 bzkad.com
 bzko.com
@@ -19704,7 +19704,6 @@ cc-hn1.lol.qq.com
 cc-i.gridsumdissector.com
 cc.anjuke.com
 cc.co
-cc.dace.hupu.com
 cc.m.jd.com
 cc.maotuying.com
 cc.map.qq.com
@@ -28439,6 +28438,7 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digbo.org
@@ -29102,7 +29102,6 @@ dmr8nzrh.v1d.szbdyd.com
 dmread.com
 dmrtb.com
 dms63.he3kz8.com
-dmsjiaoyu.com
 dmssc.net
 dmtg.com
 dmtracking.1688.com
@@ -30525,7 +30524,6 @@ duopao.com
 duoqu.com
 duorenwei.com
 duorou.com
-duoroumao.cn
 duosai.com
 duose.com
 duosenfashion.com
@@ -31833,6 +31831,7 @@ ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
 ee.hx623.cn
+ee.m19ud.cn
 ee.u0r9.cn
 ee.xfya3.cn
 ee.yg10x.cn
@@ -31941,7 +31940,6 @@ efly.cc
 eflybird.com
 eflycloud.com
 eflydns.net
-eflyingfire.com
 efmac.org
 efnchina.com
 efotile.com
@@ -34700,7 +34698,6 @@ fogtowerblog.com
 fohee.net
 fokan88.com
 folieyun.com
-folkw.com
 foloda.com
 folou.com
 fomen123.com
@@ -34982,6 +34979,7 @@ freshhema.com
 freshnewsnet.com
 frhelper.com
 friendeye.com
+friends-public-service-prod06.ol.epicgames.com
 fright-tattoo.com
 fringe-zero.com
 friok.com
@@ -35682,6 +35680,7 @@ galeo.me
 galgame.cc
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -36532,7 +36531,6 @@ gfvip09aj.com
 gfvip09an.com
 gfvip09aq.com
 gfvip09at.com
-gfwiki.org
 gfwsl.geforce.cn
 gfxaa.com
 gfxcamp.com
@@ -38232,7 +38230,6 @@ gwypxw.com
 gwyzk.com
 gwzwfw.com
 gx-newmedia.com
-gx.a.yximgs.com
 gx.gsxt.gov.cn
 gx34.com
 gx79.com
@@ -41024,7 +41021,6 @@ hlxxq.com
 hly.com
 hlybar.com
 hlytec.com
-hlyy.cc
 hlyy.in
 hlzq.com
 hlzqgs.com
@@ -44882,7 +44878,6 @@ img.expreview.com
 img.feitian001.com
 img.ferlie.net
 img.fhyx.com
-img.game.dwstatic.com
 img.gamecenter.qq.com
 img.gaore.com
 img.gaosan.com
@@ -45024,7 +45019,6 @@ img01-utuku.china.com.wswebpic.com
 img01.51jobcdn.com
 img01.51jobcdn.com.51jobdns.com
 img01.sogoucdn.com
-img01.taotaosou.cn
 img01.yzcdn.cn
 img02-al5.iplaysoft.com
 img02.51jobcdn.com
@@ -45190,7 +45184,6 @@ img6.cache.netease.com
 img7.iqiyipic.com
 img898.com
 img9.doubanio.com
-imgad.thepaper.cn
 imgad0.3conline.com
 imgad0.pcauto.com.cn
 imgad0.pconline.com.cn
@@ -46721,7 +46714,6 @@ iwoshang.com
 iwpai.com
 iwshang.com
 iwucha.com
-iwwacgx.cn
 iwwwwwi.com
 iwx.mail.qq.com
 iwxapi.com
@@ -50322,7 +50314,6 @@ katongji.com
 katvr.com
 katyusha.net
 kaven.xyz
-kawabangga.com
 kawahdinosaur.com
 kayege.info
 kayoudi.com
@@ -52659,7 +52650,6 @@ lemall.com
 lemedu.com
 lemeitu.com
 lemfix.com
-lemicp.com
 lemo360.com
 lemobar.com
 lemon-h5-package.cdn.bcebos.com
@@ -53238,6 +53228,7 @@ lightfire.cc
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lightingchina.com
 lightinit.com
 lightky.com
@@ -55479,7 +55470,6 @@ m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
-m.jiaochengzhijia.com.cname.yunjiasu-cdn.net
 m.jiedianqian.com
 m.jingxi.com
 m.jinti.com
@@ -58925,7 +58915,6 @@ mshow.fang.com
 msi.autohome.com.cn
 msite.baidu.com
 msits.com
-msiyw.com
 msjcqm.com
 msjdpay.jd.com
 msjdpay.jd.com.gslb.qianxun.com
@@ -60906,6 +60895,7 @@ nntlj.com
 nntskq.com
 nnudream.com
 nnugxenl.slt.sched.tdnsv8.com
+nnv3api.dmzj1.com
 nnwb.com
 nnweding.com
 nnxinfangxiang.cn
@@ -65788,6 +65778,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
 px.effirst.com
 px.qucaigg.com
 px.ucweb.com
@@ -70381,7 +70372,6 @@ ryweike.com
 rywsem.com
 ryxxff.com
 ryyyx.com
-ryzxqp.com
 rz-lb2.internet.spanner.alipaydns.com
 rz-rr2.internet.spanner.alipaydns.com
 rz.com
@@ -71956,7 +71946,6 @@ seoshenzhen.com
 seosn.com
 seosrx.net
 seotcs.com
-seotianxia.com
 seoui.com
 seowdw.com
 seowenda.net
@@ -79347,6 +79336,7 @@ tl88.net
 tlbaby.com
 tlby120.com
 tlbyx.com
+tlc881633.com
 tlc8823.com
 tlcharity.com
 tlfjw.com
@@ -87765,6 +87755,7 @@ www.fnc.cn
 www.foodsc.net
 www.fortunehope.com
 www.fs024.com
+www.ftuan.com
 www.fudan.edu.cn
 www.fun.tv
 www.fuzhou.cyberpolice.cn
