@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0-gold.net
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -2312,6 +2313,7 @@
 178rw.com
 178yr.com
 179.com
+17916512.cn
 179179.com
 17937.net
 1794game.com
@@ -9926,7 +9928,6 @@
 99xr.com
 99xxg.com
 99xyx.com
-99yesrs.com
 99yoo.com
 99youmeng.com
 99ys.com
@@ -10368,7 +10369,6 @@ a963.com
 a9vg.com
 aa.0755rc.com
 aa.birdgesdk.com
-aa.gushiwen.org
 aa.jiankang.com
 aa.ninze.com
 aa.sdo.com
@@ -13539,10 +13539,10 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -13931,7 +13931,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -16715,6 +16714,7 @@ bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
 bg0.market.xiaomi.com
+bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
 bgbk.org
@@ -26137,7 +26137,6 @@ d-test.39.net
 d.1391.com
 d.13mobi.com
 d.17173cdn.com
-d.17986.net
 d.1qianbao.com
 d.1qianbao.com.w.kunlunar.com
 d.3.cn
@@ -30968,7 +30967,6 @@ dytt789.com
 dytt8.com
 dytt8.net
 dyw0.com
-dyxia.com
 dyxldjy.com
 dyxsdwm.com
 dyxtw.com
@@ -35665,6 +35663,7 @@ galeo.me
 galgame.cc
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -36529,6 +36528,7 @@ gg-led.com
 gg.0598yu.com
 gg.51cto.com
 gg.blueidea.com
+gg.caixin.com
 gg.cs090.com
 gg.dsxdn.com
 gg.gao7.com
@@ -37140,7 +37140,6 @@ goldmantis.com
 goldmarkrealestate.com
 goldtoutiao.com
 golf568.com
-golfchinese.com
 golfvv.com
 golink.com
 golinksworld.com
@@ -40490,7 +40489,6 @@ hgkscwmk.v1d.szbdyd.com
 hglaser.com
 hgmhu.com
 hgnc.net
-hgpull3.zjzhaishi.com
 hgw.gg
 hgy413.com
 hgyjs.com
@@ -40896,7 +40894,6 @@ hkjapp.com
 hkkaoyan.com
 hkklock.com
 hkkuaiyixiu.com
-hklangya.com
 hklego.com
 hklongbang.com
 hkm168.com
@@ -41861,7 +41858,6 @@ htkaoyan.com
 htky365.com
 html.696157.com
 html.atm.youku.com
-html.keran.hl.cn
 html.shibeiou.com
 html2.qktoutiao.com
 html5.mail.10086.cn
@@ -46873,7 +46869,6 @@ j.sousoudus.com
 j.wan.liebao.cn
 j.wit.qq.com
 j.xingshangnet.com
-j.xinshipu.com
 j.youzan.com
 j.zykxjt.com
 j1.58cdn.com.cn
@@ -47008,6 +47003,7 @@ jbhdq.com
 jbl100.com
 jblts.com
 jbo255.com
+jbo443.com
 jbpbox.com
 jbqipa.com
 jbryun.com
@@ -48653,6 +48649,7 @@ joinquant.com
 joinsen.com
 joint-harvest.com
 jointforce.com
+jointreport-switch.com
 joinusad.com
 joinvalue.com
 joinwaylawfirm.com
@@ -51719,7 +51716,6 @@ kytijian.com
 kyun.hk
 kyw4y0s.com
 kyxdloan.com
-kyxnz.cn
 kyy6.com
 kyyj.net
 kyzf.net
@@ -54363,7 +54359,6 @@ london9999.com
 londonermacao.com
 lonelystar.org
 lonery.com
-long-termproperty.com
 long-tv.com
 long.weixin.qq.com
 long.zu.anjuke.com
@@ -60372,7 +60367,6 @@ nfcic.com
 nfcmag.com
 nfcws.hicloud.com
 nfdnserror11.wo.com.cn
-nfdnserror15.wo.com.cn
 nfdnserror17.wo.com.cn
 nffair.com
 nffund.com

@@ -78,7 +78,6 @@
 01322.cc
 013ld.com
 015001.com
-015006.com
 016006.com
 0162884.com
 0162932.com
@@ -510,7 +509,9 @@
 123rf.com
 123ssh.net
 1252345.com
+125501.com
 125502.com
+125702.com
 125730.com
 125attitude.com
 126688.com
@@ -561,7 +562,6 @@
 1388110.com
 1388555.com
 138888.co
-138jm.com
 138lm.com
 138nh.com
 139.re
@@ -662,6 +662,7 @@
 163xxf.com
 1653125.com
 16560077.com
+1656330.com
 16563300.com
 16563377.com
 1656669.com
@@ -772,7 +773,6 @@
 1789846.com
 178jixie.com
 178letou.com
-17916512.cn
 17bifa.com
 17kanzb.com
 17kdm.net
@@ -900,7 +900,6 @@
 1901792.com
 1901999.com
 1906999.com
-19119v.com
 191927.com
 1919gogo.com
 192.com
@@ -1484,6 +1483,7 @@
 322722.com
 325286.com
 32565.com
+325723.com
 325735.com
 327hk.com
 3288js.com
@@ -1804,7 +1804,6 @@
 3proxy.de
 3proxy.ru
 3qdigital.com
-3rbcd.com
 3ren.blog
 3ren.ca
 3s3s.org
@@ -2354,7 +2353,6 @@
 5pool.com
 5qdd.com
 5qq.com
-5uf7.com
 5uproxy.net
 5v.pl
 5visions.com
@@ -2438,6 +2436,7 @@
 62775k.com
 62851.biz
 62877.com
+628776.com
 6297991.com
 629kf.com
 62ma.com
@@ -2550,7 +2549,6 @@
 66721.com
 6677293.com
 66773885.com
-6677gz.com
 667874.com
 668.com
 668000010.com
@@ -2760,7 +2758,6 @@
 733bm.com
 733rr.net
 734.com
-7349332.com
 734bm.com
 735802.cc
 735bm.com
@@ -3389,6 +3386,7 @@
 9464145.com
 94695.com
 9499.co
+9499ff.com
 9499y.com
 9499z.com
 9499zzz.com
@@ -3435,6 +3433,7 @@
 9685.net
 9685e.com
 9691vip.com
+969605.com
 9699888.com
 96caa.com
 96t180i.com
@@ -3611,7 +3610,6 @@
 99hiya.net
 99kav.com
 99kmt.com
-99leto.com
 99letou.com
 99oi.us
 99re.com
@@ -3633,6 +3631,7 @@
 9aee1.com
 9aef1.com
 9aem1.com
+9aex1.com
 9afa1.com
 9afcp.com
 9afd1.com
@@ -3640,7 +3639,6 @@
 9agf1.com
 9agz1.com
 9aje1.com
-9am.biz
 9anime.com
 9apps.com
 9awi.pw
@@ -3718,7 +3716,6 @@ a4dtracker.com
 a4flash.com
 a4k.net
 a4media.com
-a4v5.com
 a4v5.top
 a5188yes.com
 a52828.com
@@ -4138,7 +4135,6 @@ acunetix.com
 acwebconnecting.com
 acx.io
 acxiom.com
-ad-arata.com
 ad-center.com
 ad-delivery.net
 ad-feed.com
@@ -4619,6 +4615,7 @@ agesec.com
 agf.com
 agf.nl
 agfinancial.org
+agforex.com
 agfunder.com
 aggregage.com
 aggressivebabes.com
@@ -4988,6 +4985,7 @@ algolia.net
 algolianet.com
 algoriddim.com
 alhayat.com
+ali3215.com
 ali7894.com
 ali868.com
 aliatakay.com
@@ -6483,6 +6481,7 @@ asiavpn.net
 asiawy.com
 asiaxcom.com
 asicentral.com
+asideblog.com
 asipartner.com
 asit.cl
 ask.com
@@ -7099,7 +7098,6 @@ axelarigato.com
 axelspringer.com
 axial.net
 axiao.tw
-axiaplus.gr
 axin.asia
 axiom.co
 axiomglobal.com
@@ -7687,6 +7685,7 @@ bbcurdu.com
 bbcworldnews.com
 bbcworldwide.com
 bbddaa.com
+bbdglb.com
 bbelements.com
 bbg.gov
 bbgdirect.com
@@ -8125,6 +8124,7 @@ beertracker.ml
 beesbeesbeesbees.com
 beetv.net
 beevpn.com
+beezmall.com
 beezup.com
 beforeitsnews.com
 befuck.com
@@ -8584,6 +8584,7 @@ bifa2008.com
 bifa3333.com
 bifa5678.com
 bifa6677.com
+bifa740.com
 bifa8885.com
 big-boards.com
 big-cup.tv
@@ -18767,7 +18768,6 @@ falundafa-br.org
 falundafa-dc.org
 falundafa-florida.org
 falundafa-nc.org
-falundafa-pa.net
 falundafa-sd.org
 falundafa-se.nu
 falundafa-srilanka.org
@@ -21788,7 +21788,6 @@ gitihub.com
 gitjournal.io
 gitlab.com
 gitlab.io
-gitpapa.com
 gitpod.io
 gitstar.com
 gitstar.net
@@ -23301,7 +23300,6 @@ healthcarepackaging.com
 healthcasts.co
 healthcatalyst.com
 healthcentral.com
-healthcom.xyz
 healthequity.com
 healthesystems.com
 healthfully.com
@@ -26163,6 +26161,7 @@ intunewiki.com
 inturn.co
 invadosolutions.com
 invast.jp
+invbots.com
 invcanada.ca
 inventio.com
 inversionesmatulic.cl
@@ -26575,7 +26574,6 @@ ispot.tv
 ispsystem.com
 ispunblock.com
 israbox.com
-israel-cars-rentals.com
 israelinfo.ru
 iss-shipping.com
 iss-wurst.de
@@ -26818,6 +26816,7 @@ j-14.com
 j-channels.com
 j-goods.net
 j.mp
+j01.best
 j088088.com
 j2268.com
 j246.com
@@ -27124,7 +27123,6 @@ jbo25.com
 jbo27.com
 jbo28.com
 jbo311.com
-jbo443.com
 jbo500.com
 jbo53.com
 jbo600.com
@@ -27901,7 +27899,6 @@ k821.com
 k8222.com
 k86990.com
 k886.net
-k89168.com
 k8s.io
 k8vip666.com
 k999777.com
@@ -29536,6 +29533,7 @@ let839.com
 let85.com
 let853.com
 let89.com
+let91.com
 let94.com
 let97.com
 let98.net
@@ -29631,6 +29629,7 @@ lexusfinancial.com
 lexusonthepark.ca
 leyinga.com
 leyubet1747.com
+leyuman.com
 leyuntimes.com
 lezcuties.com
 lezhin.com
@@ -30056,7 +30055,6 @@ livestream.com
 livestrong.com
 liveticker.com
 livetvcafe.net
-livetvcdn.net
 liveu.tv
 livevideo.com
 livexxtv.com
@@ -32762,7 +32760,6 @@ mms333.ga
 mms333.gq
 mmsishow.com
 mmxtv.net
-mmyuer.com
 mn586.com
 mnet-ad.net
 mnewstv.com
@@ -36116,7 +36113,6 @@ olx.ro
 olx.ua
 olympia.pk
 olympicwatch.org
-olympus-ap.com
 olympusamericamarketing.com
 omadaidentity.com
 omaha.com
@@ -36997,7 +36993,6 @@ pamdrivingjobs.com
 pampered-chefs.com
 pampling.com
 pampopholf.com
-pampshare.com
 panafoto.com
 panagistics.com
 panas.nl
@@ -39299,7 +39294,6 @@ proxyweb.net
 proxywebsite.org
 proxz.com
 proyectoclubes.com
-proyectoq.cl
 prozdravi.cz
 prozinc.us
 prprcloud.com
@@ -39754,7 +39748,6 @@ qqjlb03.app
 qqjlb07.app
 qqjlb08.app
 qqjlb2.com
-qqjlb3.com
 qqjlb4.com
 qqjlb6.com
 qqjlb8.com
@@ -43152,6 +43145,7 @@ sipa.be
 sipml5.org
 siport.com
 sipriyearbook.org
+sirajapulsa.com
 sirdata.com
 sirenji.com
 siri.com
@@ -45021,6 +45015,7 @@ sugarshape.de
 sugarsync.com
 sugh8yami.com
 sugobbs.com
+sugram.chat
 sugumiru18.com
 suhrthu.com
 suimeng.la
@@ -45428,7 +45423,6 @@ syinji1.xyz
 syinji4.xyz
 syitu.com
 syjidh1.xyz
-sykty.com
 sylfoundation.org
 sylvain-deffaix.com
 sylvania.com
@@ -47793,6 +47787,7 @@ transfermarkt.de
 transfermate.com
 transflo.com
 transistor.fm
+translate.goog
 translated.net
 translatetheweb.com
 translatewiki.net
@@ -48120,6 +48115,7 @@ tt656.net
 tt667788.com
 tt687.com
 tt836.net
+tt99.com
 ttarget.ru
 ttcu.com
 ttec.com
@@ -48325,6 +48321,7 @@ tv72.ga
 tvants.com
 tvappstore.net
 tvb.com
+tvbaaa.com
 tvbanywhere.com
 tvbccc.com
 tvbddd.com
@@ -49210,6 +49207,7 @@ uschinapress.com
 uscirf.gov
 uscnpm.com
 uscreditcardguide.com
+uscti.org
 usdehua.com
 usechinavpn.com
 useeffect.dev
@@ -51336,6 +51334,7 @@ wantgoo.com
 wantsfly.com
 wantxt.cc
 wanwansub.com
+wanweibaike.com
 wanyepu.com
 wanyi111.com
 wanyi777.com
@@ -52759,6 +52758,7 @@ wsvip9.com
 wsvipapp.com
 wsws.org
 wtamu.edu
+wtatsapp.com
 wtbn.org
 wtbnnews.org
 wteam.xyz
@@ -52995,6 +52995,7 @@ xam41.com
 xam50.com
 xam50999.com
 xam52.com
+xam63.com
 xam70.com
 xam73.com
 xam777888.com
@@ -53178,6 +53179,7 @@ xhj88.com
 xhnlf.com
 xhsdjs.com
 xhuom.com
+xhxh.me
 xhzgold.com
 xhzlovehyx.cn
 xi666.com
