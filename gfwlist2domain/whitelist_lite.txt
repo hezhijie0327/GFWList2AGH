@@ -1391,7 +1391,6 @@
 139down.com
 139life.com
 139shop.com
-139shu.com
 139site.com
 139talk.com
 139w.com
@@ -1414,6 +1413,7 @@
 1415926.com
 1415926.mobi
 1415926pi.com
+14244.com
 14294.com
 143573.com
 14498.com
@@ -9272,6 +9272,7 @@ aliyunhn.com
 aliyunj.com
 aliyunlive.com
 aliyunqifu.com
+aliyuntest0161.xin
 aliyunwaf.com
 aliyunwaf1.com
 aliyunwaf2.com
@@ -11938,7 +11939,6 @@ bimo.cc
 binancezh.be
 binancezh.io
 binaryai.net
-binaryai.tech
 binbinyl.com
 bincailiuxue.com
 binfen.tv
@@ -12089,7 +12089,6 @@ bitcron.com
 bitdad.com
 bitdata.pro
 bitdefender-cn.com
-bite5.com
 biteabc.com
 bitecoin.com
 biteedu.com
@@ -18466,7 +18465,6 @@ cupdns.com
 cupfox.com
 cupinn.com
 cuplayer.com
-cupoden.com
 cureedit.com
 curlc.com
 curryhuang.com
@@ -22950,6 +22948,7 @@ exiaoba.com
 exinee.com
 exing103.com
 exing113.com
+exing125.com
 exiqu.com
 exmailqq.com
 exmrw.com
@@ -23433,7 +23432,6 @@ fashionhn.com
 fashuounion.com
 fasionchan.com
 fast.im
-fast8.com
 fastadmin.net
 fastadx.com
 fastapi.net
@@ -23444,6 +23442,7 @@ fastgit.org
 fastgz.com
 fastidea.cc
 fastidea.me
+fastliii.com
 fastmirror.org
 fastmis.com
 fastmock.site
@@ -24395,7 +24394,6 @@ foundpdf.com
 founei.com
 founpad.com
 fountask.com
-four00.com
 fovmy.com
 fox-studio.net
 fox008.com
@@ -25266,6 +25264,7 @@ gc600.com
 gccdn.net
 gcchina.com
 gccmgw.com
+gcdcrs.com
 gcgd.net
 gch5game.com
 gchao.com
@@ -26430,7 +26429,6 @@ greenbodhi.com
 greenchengjian.com
 greencompute.org
 greendh.com
-greenhat.be
 greenhtml.com
 greenhua.com
 greenism.net
@@ -27545,7 +27543,6 @@ haixunpr.org
 haixunw.com
 haiyi701.com
 haiying168.com
-haiyingku.com
 haiyue.info
 haiyuhe.com
 haiyun.me
@@ -27564,7 +27561,6 @@ halade.com
 halaha.com
 halffashion.com
 halfrost.com
-halihali.li
 halixun.com
 halloar.com
 hallofix.com
@@ -27656,6 +27652,7 @@ hanmeilin.com
 hanmi520.com
 hannor.com
 hanpinyuan.com
+hanqiweb.co
 hanqiweb.com
 hanqiweb.net
 hanqiweb.red
@@ -31608,6 +31605,7 @@ ieepa.org
 iefang.com
 iefans.net
 ieforex.com
+iegcom.com
 iegee.net
 iegourl.com
 iejiu.com
@@ -35083,7 +35081,6 @@ jrjhg.com
 jrjimg.cn
 jrjingshan.com
 jrjr.com
-jrkan.cc
 jrlady.com
 jrmf360.com
 jrpxw.com
@@ -35549,7 +35546,6 @@ just998.com
 justalkcloud.com
 justbilt.com
 justbon.com
-justcartoon.com
 justdo.tv
 justdojava.com
 justeasy.cn
@@ -42705,7 +42701,6 @@ mxde.com
 mxguan.com
 mxhaitao.com
 mxhichina.com
-mxiaoer.com
 mxifund.com
 mxingkong.net
 mxjinchao.com
@@ -46106,6 +46101,7 @@ planckled.com
 planetmeican.com
 planoi.com
 plantextra.com
+plantname.xyz
 plantower.com
 plas2006.com
 plasmatium.xyz
@@ -46225,6 +46221,7 @@ poj.org
 pojaa.com
 pojie520.com
 pokemmc.com
+pokemon-unitepgame.com
 pokemon.name
 pokermate.net
 poketec.com
@@ -48804,7 +48801,6 @@ rendefpc.com
 renderbus.com
 renderincloud.com
 rendna.com
-renfas.com
 renhence.com
 renhengshiye.com
 renji.com
@@ -51655,6 +51651,7 @@ shyxcm.com
 shyxfdc.com
 shyxwz.com
 shyy6688.com
+shyyp.net
 shyywz.com
 shyzsd.com
 shzbc.com
@@ -53187,7 +53184,6 @@ styadmin.com
 stylecdn.com
 stylemode.com
 styles-sys.com
-stylewoman.net
 styongtu.com
 stzw.com
 su-long.com
@@ -54920,6 +54916,7 @@ texclo.net
 tezhengma.com
 tezhongzhuangbei.com
 tezign.com
+tf.wiki
 tf86.com
 tfang.net
 tfax.com
@@ -55088,7 +55085,6 @@ thxxw.com
 thyclub.com
 thyoo.com
 thyou.com
-thyrsi.com
 thz56.com
 thzab.com
 thzcb.com
@@ -62898,6 +62894,7 @@ xiqinrc.com
 xiqqq.com
 xirang.com
 xirenxuan.com
+xirikm.net
 xishanju.com
 xishaoye.com
 xishiqu.com
@@ -67575,7 +67572,6 @@ zelininfo.com
 zelinonline.com
 zemismart.com
 zemuo.com
-zendstudio.net
 zengdefei.com
 zengjunpeng.com
 zengrong.net
@@ -69685,6 +69681,7 @@ zsweai.club
 zswebao.xyz
 zsxq.com
 zsxq100.com
+zsyjgmr.com
 zsythink.net
 zszq.com
 zt-express.com
