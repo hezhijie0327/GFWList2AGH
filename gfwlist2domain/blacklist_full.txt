@@ -1446,6 +1446,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -1957,7 +1958,6 @@
 289.etowns.org
 28harbor.com
 28pifa.com
-28tlc.com
 29-courier.push.apple.com
 29-courier2.push.apple.com
 29.courier-push-apple.com.akadns.net
@@ -3133,7 +3133,6 @@
 5332t.com
 53373.com
 533k7.com
-533tv.com
 53534688.com
 53537yh.com
 53537yht.com
@@ -3508,7 +3507,6 @@
 633ct.com
 633jjj.net
 633mmm.net
-635-188.com
 6366cc.com
 6366d.com
 6366jj.com
@@ -3516,7 +3514,6 @@
 6366r.com
 636979gg.com
 637.etowns.org
-637000.cc
 637539.com
 637581.com
 637s.4.shop.tm
@@ -3827,7 +3824,6 @@
 7024411.com
 7024646.com
 702632.cc
-7032927.com
 703531862.vws.vegacdn.vn
 7048472.com
 705244.com
@@ -7376,7 +7372,6 @@ adebis.kose.co.jp
 adebis.koutsujiko.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
-adebis.qeee.jp
 adebis.real-style.co.jp
 adebis.report.clinic
 adebis.satori.marketing
@@ -8767,7 +8762,6 @@ adserver.ision.de
 adserver.isonews.com
 adserver.janes.com
 adserver.janes.org
-adserver.jolt.co.uk
 adserver.karamco.dk
 adserver.killeraces.com
 adserver.kimia.es
@@ -10876,7 +10870,6 @@ analytics.aweber.com
 analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
-analytics.bhaskar.com
 analytics.bi.encuentra24.com
 analytics.bigcommerce.com
 analytics.bitrix.info
@@ -11484,7 +11477,6 @@ anotherstep.pt
 anouslab.cmail20.com
 anp.valassisdigital.io
 anpopo.com
-anqingshi.xyz
 anquanqi.911cha.com
 ans.avast.com
 ans.milb.com
@@ -11852,6 +11844,7 @@ api.freewebfonts.org
 api.funcaptcha.com
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -21116,7 +21109,6 @@ cbcliveradio-lh.akamaihd.net
 cbcnews.ca
 cbcsystems.co.uk
 cbcu.ca
-cbdconstruct.com.au
 cbdj1816.com
 cbdrx4u.com
 cbecompanies.com
@@ -22441,7 +22433,6 @@ chickstagram.com
 chicme.com
 chicobag.com
 chicwish.com
-chief.xtvcname.com
 chiefexecutive.actonservice.com
 chiefexecutive.net
 chiemtinhviet.com
@@ -26270,7 +26261,6 @@ cs33609.tmweb.ru
 cs368.com
 cs392.com
 cs45.wac.edgecastcdn.net
-cs455.com
 cs491.wac.edgecastcdn.net
 cs4hs.com
 cs505.com
@@ -26278,7 +26268,6 @@ cs55111.com
 cs552.com
 cs554.com
 cs556.com
-cs55666.com
 cs557.com
 cs585.com
 cs586.com
@@ -26354,7 +26343,6 @@ csgosteamanalyst.eu.com
 csgosteamanalyst.uk.com
 csgoxxfree.blogspot.com
 csh.ro
-csharpvideoluders.com
 cshkuo.cruise.com
 csi.googleapis.com
 csidesigns.com
@@ -30751,6 +30739,7 @@ dowjones.hb-api.omtrdc.net
 dowjones.hb.omtrdc.net
 down.99oi.us
 down.gateswq.net
+down.gotek.com.cn
 down.safe.wegamex.com.hk
 down.timcok.com
 down.tsfsb.com
@@ -31670,7 +31659,6 @@ dznhlb.thezam.co.kr
 dzogchenbeara.org
 dzone.com
 dzpu6za66svjl.cloudfront.net
-dzqiche.com
 dzr.org.ro
 dzribao.com
 dzs55b7slwyx.cloudfront.net
@@ -38316,7 +38304,6 @@ freewww.info
 freexhamster.com
 freexinwen.com
 freexmovs.com
-freexs.org
 freexxxvideoclip.aebn.net
 freeyellow.com
 freeyoutube.net
@@ -40426,6 +40413,7 @@ githubpreview.dev
 githubs.cn
 githubseason.net.daraz.com
 githubstatus.com
+githubuniverse.com
 githubusercontent.com
 gitihub.com
 gitjournal.io
@@ -47121,6 +47109,7 @@ htrnews.com
 htspor.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -48011,6 +48000,7 @@ id.t28.net
 id.unity.com
 id.wikipedia.org
 id5-sync.com
+id528.com
 idaas-ext.cph.liveintent.com
 idahobusinessreview.com
 idahostatesman.com
@@ -52430,7 +52420,6 @@ jbo27.com
 jbo28.com
 jbo500.com
 jbo53.com
-jbo600.com
 jbo61.com
 jbo65.com
 jbo8.com
@@ -54182,7 +54171,6 @@ khkgears.us
 khkinstruments.com
 khoahocdoisong.vn
 khou.com
-khriss.com
 khuoy.com
 khurul.ru
 khvcux.krisha.kz
@@ -55799,7 +55787,6 @@ leagueoflegends.co.kr
 leagueoflegends.com
 leagueoflegends.info
 leagueoflegends.net
-leagueoflegendsscripts.com
 leaguesharp.info
 leaguestats.gg
 leaguoflegends.com
@@ -72497,6 +72484,7 @@ photo.ccjxybj.cn
 photo.dhford.cn
 photo.domainrank.cn
 photo.epowuxiao.cn
+photo.headwell.cn
 photo.hhmyi.cn
 photo.niniyeh.com
 photo.whwestern.cn
@@ -76035,7 +76023,6 @@ qrsnapper.com
 qrtqsy.freshlycosmetics.com
 qruq.com
 qs.etowns.net
-qsb.browser.miui.com
 qsbr.fs.quoracdn.net
 qsc.fs.quoracdn.net
 qsearch-a.akamaihd.net
@@ -76101,7 +76088,6 @@ quangcao.fff.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 quangcao247.com.vn
-quanji360.com
 quanji456.com
 quanliyouxi.cn
 quantcast.com
@@ -76636,7 +76622,6 @@ r3---sn-a5mekned.googlevideo.com
 r3---sn-a5meknek.googlevideo.com
 r3---sn-a5meknek.gvt1.com
 r3---sn-a5mekner.googlevideo.com
-r3---sn-a5meknes.googlevideo.com
 r3---sn-a5mekney.googlevideo.com
 r3---sn-a5meknl6.googlevideo.com
 r3---sn-a5meknl7.googlevideo.com
@@ -81695,7 +81680,6 @@ securite.01net.com
 security-alert.wz6l9nmd.top
 security-next.com
 security-summer.net.daraz.com
-security.browser.miui.com
 security.claroty.com
 security.fblaster.com
 security.googleblog.com
@@ -83328,7 +83312,6 @@ sitecatalysts.saisoncard.co.jp
 sitecats.troweprice.com
 sitecats.uacollegesavings.com
 sitecore.com
-sitedasrunas.com.br
 sitegetter.net
 siteimprove.com
 siteimproveanalytics.com
@@ -88064,6 +88047,7 @@ static.huilv.cc
 static.ifa.camads.net
 static.insight.synology.com
 static.intercomassets.com
+static.it1352.com
 static.itrack.it
 static.iwincdn.com
 static.javhd.com
@@ -97569,6 +97553,7 @@ updater-windows.com
 updater.com
 updates-s3.binaryage.com
 updates.aem.org
+updates.cdn-apple.com
 updates.devmate.com
 updates.fda.gov
 updates.gaylordhotels.com
@@ -98355,6 +98340,7 @@ vagaro.com
 vaginacontest.com
 vagnt.com
 vagos.es
+vagrantcloud.com
 vagrantup.com
 vaidyamishra.com
 vaildaily.com
@@ -114421,7 +114407,6 @@ ysb88cn.com
 ysbird.com
 ysbjgjwh.com
 ysf666.com
-ysgsq.cn
 ysifx.com
 ysjweb.com
 ysku.in

@@ -3659,6 +3659,7 @@
 28nxuy.tdum.alibaba.com
 28rv.com
 28sn.com
+28tlc.com
 28tui.com
 28u.org
 28weixinqun.com
@@ -10165,6 +10166,7 @@ a.gdt.qq.com
 a.hexuntech.cn
 a.hiphotos.baidu.com
 a.hsbianma.com
+a.imgso.cn
 a.iy.com.cn
 a.jiemian.com
 a.jyeoo.com
@@ -10256,6 +10258,7 @@ a1.sumiaowang.com
 a1.syfj.net
 a1.twtym.com
 a1.xystatic.com
+a1.zhanzhang.net
 a1.zhanzhang.net.cname2958.yjs-cdn.com
 a1010.phobos.apple.com
 a11.gdl.netease.com
@@ -12199,6 +12202,7 @@ ak.hypergryph.com.w.kunluncan.com
 ak0.tw
 ak1ak1.com
 ak3vc3lx.v1d.szbdyd.com
+ak47.cooguo.com
 ak47ids.com
 ak6tc3dz.v1d.szbdyd.com
 ak6tcm17.v1d.szbdyd.com
@@ -13495,6 +13499,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -14446,7 +14451,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -15704,6 +15708,7 @@ banmaaike.com
 banmajsq.com
 banmamedia.com
 banner.alimama.com
+banner.cooguo.com
 banpie.info
 banquanyin.com
 banqumusic.com
@@ -16748,7 +16753,6 @@ bhjysp.com
 bhk.mobi
 bhnsh.com
 bhpiano.com
-bhplay.net
 bhrencai.com
 bhuitong.com
 bhxww.com
@@ -18880,7 +18884,6 @@ c.njcengpianwang.cn
 c.nkzker.cn
 c.ns8d.com
 c.nstool.ntes53.netease.com
-c.oumaite168.com.cn
 c.pc.qq.com
 c.pcs.baidu.com
 c.pcs.n.shifen.com
@@ -21151,7 +21154,6 @@ checkzeit.com
 chedan5.com
 chediandian.com
 cheduo.com
-cheer.cjoy.com.cn
 cheerfun.dev
 cheerjoy.com
 cheersee.com
@@ -32008,7 +32010,6 @@ ejee.com
 ejeegroup.com
 ejfeng.com
 ejiacn.com
-ejiakm.net
 ejianji.com
 ejianmedia.com
 ejiaohe.com
@@ -34822,7 +34823,6 @@ fp.hwwt8.com
 fp.nanrenwo.net
 fp.ps.netease.com
 fp.tongdun.net
-fpag.w48ge.cn
 fpb.docin.com
 fpb.sohu.com
 fpb1.apple886.com
@@ -38178,6 +38178,7 @@ gwypxw.com
 gwyzk.com
 gwzwfw.com
 gx-newmedia.com
+gx.a.yximgs.com
 gx.gsxt.gov.cn
 gx.wsc.wo.cn
 gx34.com
@@ -38872,7 +38873,6 @@ haiqq.com
 haiqukj.com
 hair8.net
 hairbobo.com
-haireig.com
 hairui.cc
 hairunmedia.com
 hairunpictures.com
@@ -41483,7 +41483,6 @@ hotstoday.com
 hottechsemi.com
 hottui.com
 hotupgrade.hpplay.cn
-hotwill.cn
 houbank.com
 houcaller.com
 houdao.net
@@ -44420,7 +44419,6 @@ ileedarson.com
 ileehoo.com
 ilego.club
 ilewan.com
-ilewen.com
 iliangcang.com
 iliaoning.net
 ilibrand.com
@@ -44537,6 +44535,7 @@ image.missfresh.cn
 image.missfresh.cn.wswebpic.com
 image.n.shifen.com
 image.newasp.net
+image.p4p.sogou.com
 image.planet.youku.com
 image.ptmind.com
 image.res.hunantv.com
@@ -44621,7 +44620,6 @@ images.dmzj1.com
 images.enet.com.cn
 images.liqucn.com
 images.lulian.cn
-images.nvidia.cn
 images.pchome.net
 images.pinduoduo.com
 images.pinduoduo.com.sched.pddlego-dk.tdnsv5.com
@@ -46965,6 +46963,7 @@ jblts.com
 jbo255.com
 jbo311.com
 jbo443.com
+jbo600.com
 jbo909.com
 jbpbox.com
 jbqipa.com
@@ -52773,7 +52772,6 @@ lezhi99.com
 lezhibo.com
 lezhieducation.com
 lezhiot.com
-lezhiweilai.com
 lezhiyun.com
 lezhuan.com
 lezhuan168.com
@@ -52828,7 +52826,6 @@ lfx20.com
 lfyzjck.com
 lfz57739256.51sole.com
 lg.365che.cc
-lg.dmall.com
 lg1024.com
 lg199.com
 lg5.com
@@ -54075,6 +54072,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -55661,6 +55659,7 @@ mabibook.com
 mabiji.com
 mabotech.com
 mac.orsoon.com
+mac.pcbeta.com
 mac.qq.com
 mac189.com
 mac69.com
@@ -57822,6 +57821,7 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
+mix.linkedin.com
 mix.moe
 mixbao.com
 mixdo.net
@@ -58633,7 +58633,6 @@ mpaas-loggw4zwy.aliyuncs.com
 mpaas.iqiyi.com
 mpacc.net
 mpaidata.com
-mpanshi.com
 mparticle.uc.cn
 mpb1.iteye.com
 mpb2.iteye.com
@@ -59804,6 +59803,7 @@ nb.lianjia.com
 nb301.xyz
 nb591.com
 nb888888.com
+nba.emohe.com
 nba008.com
 nba20.com
 nbabm.com
@@ -61317,7 +61317,6 @@ oa25.org
 oa8000.com
 oabg.net
 oabus.net
-oachn.net
 oacn.org
 oact.net
 oadun.com
@@ -65552,7 +65551,6 @@ push.air-matters.com
 push.app.autohome.com.cn
 push.bearad.com
 push.cmvideo.cn
-push.feng.com
 push.gifshow.com
 push.khd.2345.cc
 push.ksapisrv.com
@@ -68820,7 +68818,6 @@ r5tao.com
 r6.mo.baidu.com
 r77777777.com
 r8qtou0.cachenode.cn
-r8zov5nsqxay5rbm7mjfpegr6epbrmq3.yundunwaf3.com
 r9---sn-2x3een7d.gvt1.com
 r9---sn-2x3eln7l.gvt1.com
 r96hli1.cachenode.cn
@@ -75989,7 +75986,6 @@ study.163.com
 study.xuexi.cn
 studyapi.com
 studyatpku.com
-studycoder.com
 studyems.com
 studyez.com
 studyfr.net
