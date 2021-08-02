@@ -2891,6 +2891,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -13941,7 +13942,6 @@ app120.com
 app17.com
 app178.com
 app2pixel.com
-app2xp.com
 app4cms.net
 app86.com
 app887.com
@@ -13985,6 +13985,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -14379,6 +14380,7 @@ as2sc.com
 as35q8.cn
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asaki.me
 asao.com
@@ -16131,6 +16133,7 @@ bd.push.yximgs.com.b.bcelive.com
 bd.watu.cn
 bd001.net
 bd07322b9d4aa75a140346bd8e933d3f.dlied1.cdntips.net
+bd1-china.6789.com
 bd1-china.xsfaya.com
 bd1.365qilu.com
 bd1.52che.com
@@ -17340,7 +17343,6 @@ bjfyw.org
 bjfz.cc
 bjgas.com
 bjgemi.com
-bjgesainuo.com
 bjggk.com
 bjglxf.com
 bjgnjdwx.com
@@ -18844,7 +18846,6 @@ c.sayhi.360.cn
 c.shishishiguixinfangfuzhuangshanghan.cn
 c.ssp.qq.com
 c.sssgao999.com
-c.syooys.com
 c.sysycloud.com
 c.tdm.qq.com
 c.team
@@ -23490,7 +23491,6 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -24986,7 +24986,6 @@ cqcb.com
 cqcbank.com
 cqccn.com
 cqchzx.com
-cqcimf.com
 cqcklib.com
 cqcoal.com
 cqcp.net
@@ -28913,6 +28912,7 @@ dm.cnbanbao.com
 dm.cqdxun.cn
 dm.gucheng.com
 dm.hxzdhn.com
+dm.ishuo.cn
 dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
@@ -33074,7 +33074,6 @@ f54321.com
 f56mdp1.cachenode.cn
 f5de75bf908e5086ad4e9772c6f58f9f.safeframe.googlesyndication.com
 f5gh.com
-f5hf.com
 f5ie8y7l.dayugslb.com
 f5sd.com
 f5yx.com
@@ -33101,7 +33100,6 @@ f9e09d749415eeb1b55e2b75b840cdb6.safeframe.googlesyndication.com
 f9e9542dq6tz0v6p.aliyunddos1026.com
 fa-today.com
 fa.163.com
-fa.sdxctr.com
 fa597.com
 fa9f73.api1.shuzilm.cn
 fa9f73.d2api.shuzilm.cn
@@ -35076,6 +35074,7 @@ fun.tv
 fun.youku.com
 fun.youth.cn
 fun.youth.cn.wswebcdn.com
+fun121.com
 fun223.com
 fun48.com
 fun501.com
@@ -37415,7 +37414,6 @@ greenlandsc.com
 greenlifegz2011.51sole.com
 greentimes.com
 greentomail.com
-greenxcx.com
 greenxf.cn
 greenxf.com
 greenxf.net
@@ -40449,7 +40447,6 @@ hi.xiunm.cn
 hi0755.net
 hi138.com
 hi1718.com
-hi18.cn
 hi2000.com
 hi2000.net
 hi8090.com
@@ -53988,7 +53985,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56588,6 +56584,7 @@ media.cheshi-img.com
 media.cheshi.com
 media.info.client.xunlei.com
 media.info.client.xunlei.com.w.kunlungr.com
+media.jointreport-switch.com
 media.licdn.cn.w.kunlungr.com
 media.licdn.com
 media.people.com.cn
@@ -58294,7 +58291,6 @@ momzs.com
 mon-hl.snssdk.com
 mon-lq.snssdk.com
 mon.ad.xelements.cn
-mon.majorserving.com
 mon.snssdk.com
 mon.xtgreat.com
 money.163.com
@@ -64862,7 +64858,6 @@ ppxs.net
 ppxwo.com
 ppys.net
 ppys5.com
-ppzedu.com
 ppzhan.com
 ppzhilian.com
 ppzuche.com
@@ -67302,7 +67297,6 @@ qmtj.net
 qmtk.com
 qmtv.com
 qmwtp.com
-qmyiz.com
 qmz5.com
 qmzs.com
 qn.bejson.com
@@ -76463,7 +76457,6 @@ sxddgxcy.com
 sxdkj.com
 sxdnserror1.wo.com.cn
 sxdnserror3.wo.com.cn
-sxdnserror4.wo.com.cn
 sxdnserror6.wo.com.cn
 sxdwsx.com
 sxdygbjy.com
@@ -101107,7 +101100,6 @@ zkunet.com
 zkungfu.com
 zkuyun.com
 zkwjgj.suning.com
-zkwsdf.com
 zkx.cc
 zkxblog.com
 zkxlkj.net

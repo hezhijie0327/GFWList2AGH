@@ -394,6 +394,7 @@
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -1459,7 +1460,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -3848,7 +3848,6 @@
 7089262.com
 7090853.com
 70911h.com
-70966a.com
 70966b.com
 70966c.com
 70e6d353b77c4cf03b96e4769407d4be.clo.footprintdns.com
@@ -3886,7 +3885,6 @@
 7208853.hitslink.com
 720diving.com
 721av.com
-723.epac.to
 7230874.com
 7235671.com
 72365.com
@@ -4346,7 +4344,6 @@
 85cc.net
 85cc.us
 85euro.com
-85nba.com
 85po.com
 85porn.com
 85porn.net
@@ -4693,7 +4690,6 @@
 920share.com
 92148.shop.m.cnlist.org
 922.info.tm
-9224076.com
 923895.cc
 923qp6.com
 9254108.com
@@ -6848,6 +6844,7 @@ ad.adfurikun.jp
 ad.admitad.com
 ad.adpon.jp
 ad.adriver.ru
+ad.afy11.net
 ad.agava.tbn.ru
 ad.allboxing.ru
 ad.allstar.cz
@@ -7609,7 +7606,6 @@ admicro6.vcmedia.vn
 admin-newyork1.bloxcms.com
 admin-portal.office.com
 admin.appnext.com
-admin.bodog18.com
 admin.digitalacre.com
 admin.microsoft.com
 admin.ns3.cl.bellsouth.net.daraz.com
@@ -8227,7 +8223,6 @@ ads.linktracking.net
 ads.linuxjournal.com
 ads.live365.com
 ads.livenation.com
-ads.lll5.ir
 ads.lomadee.com
 ads.lycos.com
 ads.ma7.tv
@@ -8407,7 +8402,6 @@ ads.scottusa.com
 ads.seniorfriendfinder.com
 ads.servebom.com
 ads.servenobid.com
-ads.service.kugou.com
 ads.sexgratuit.tv
 ads.sexier.com
 ads.sexinyourcity.com
@@ -9459,6 +9453,7 @@ aftonbladetnya.sc.omtrdc.net
 aftrk.com
 aftygh.gov.tw
 afvclub.com
+afy11.net
 ag.33443606.com
 ag.44553606.com
 ag.543215.com
@@ -12148,7 +12143,6 @@ apktops.com
 apl.headlines.pw
 aplayer.js.org
 aplbs.dualstack.huanju.cn
-aplbs.yy.com
 aple.com
 aplobv.xexymix.com
 aplus.com
@@ -12797,6 +12791,7 @@ aranesh.ir
 aransa.com.ar
 aransrl.com.ar
 aranzadi.es
+aranzujemy.co.pl
 aranzulla.it
 aravas.io
 arbor.edu
@@ -14871,7 +14866,6 @@ balancedback.com
 balancer.fi
 balaxtv.com
 baldeagle.eternalmma.com
-baldrigelewris.com
 baldur-garten.de
 baleship2.xyz
 balglobal.com
@@ -15195,6 +15189,7 @@ bargaindomains.com
 baritoriki.jp
 barium.cheezdev.com
 barix.atwebpages.com
+bark.hwtnetworks.com
 barkadahansasmartone.com
 barnabu.co.uk
 barnacle.viewsource.io
@@ -16863,7 +16858,6 @@ biqudie.com
 biqudu.la
 biqug.org
 biquge.tw
-biquge520.cc
 biqugeso.com
 biqugezw.com
 birchlane.com
@@ -17372,7 +17366,6 @@ blog.martinoei.com
 blog.me
 blog.meditacaosempre.com
 blog.meteor.com
-blog.mowd.idv.tw
 blog.mozilla.org
 blog.myorz.com
 blog.myrenterhero.com
@@ -23838,7 +23831,6 @@ cmail.cornell.edu
 cmail19.com
 cmail20.com
 cmass.massmedian.co.jp
-cmatch.idg.se
 cmatcherlink.com
 cmatec.es
 cmbeb5visa.cn
@@ -27682,6 +27674,7 @@ d3hitamb7drqut.cloudfront.net
 d3hj4iyx6t1waz.cloudfront.net
 d3hs51abvkuanv.cloudfront.net
 d3hwh14livah35.cloudfront.net
+d3in1te4fdays6.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
@@ -31353,7 +31346,6 @@ dsnbet.com
 dsndsn.com
 dsndsn00.com
 dsnfree.xyz
-dsocean.com
 dsp-adcreative.mobshark.net
 dsp-endscreens.unityads.unity3d.com
 dsp-tracking.unityads.unity3d.com
@@ -38918,7 +38910,6 @@ fun1.arcadeprehacks.com
 fun105.com
 fun1100.com
 fun118.com
-fun121.com
 fun122.com
 fun128.com
 fun135.com
@@ -39019,7 +39010,6 @@ fupa.net
 fupx.phi.b0ne.com
 fuq.com
 fuqizy.com
-furacao.ddns.net
 furbo.org
 furhhdl.org
 furinkan.com
@@ -40869,6 +40859,7 @@ globel.co.uk
 globetrotter.de
 globo.com
 glock.com
+glojef.hwtnetworks.com
 glomex.com
 glooko.com
 gloria-jeans.ru
@@ -44631,6 +44622,7 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 grtmpr.vertbaudet.fr
 gru14s19-in-f11.1e100.net
@@ -46967,7 +46959,6 @@ hongtaidichan.net
 hongtinnhanh.com
 hongtu.me
 hongxinghai.com
-hongyu123.com
 hongzhi.li
 hongzuzhibo.com
 honolulu.app.ur.gcion.com
@@ -47697,7 +47688,6 @@ hunlimama.com
 hunmagyar.org
 hunnur.com
 hunterindustries.com
-hunterwish.cn
 hunteryvely.com
 huntington.com
 huo360.com
@@ -52070,6 +52060,7 @@ ishadowx.com
 ishadowx.net
 ishainsight.actonservice.com
 ishareh5.com
+isharemetric.rediff.com
 ishida-watch.com
 ishinomakicatering.web.fc2.com
 ishizaki.biz
@@ -53559,6 +53550,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp
@@ -56568,6 +56560,7 @@ let91.com
 let94.com
 let97.com
 let98.net
+letaojuan68.com
 letelegramme.com
 letelegramme.fr
 letemps.ch
@@ -58591,6 +58584,7 @@ luzu.vn
 lv-134-87-1.fri-gate0.org
 lvb.com
 lvcha888.com
+lvchichecheng.com
 lvdp.net
 lvdtzm.grange.co.uk
 lvidqa.unisportstore.de
@@ -58749,6 +58743,7 @@ m.918.com
 m.958so.cn
 m.967nd.cn
 m.9gag.com
+m.9k9k.com
 m.a5188yes.com
 m.aak90.com
 m.acgcd.com
@@ -63088,7 +63083,6 @@ mggakg.littleblack.co.kr
 mgid.com
 mgid.org
 mgm.gov.tr
-mgm148.com
 mgm8091.com
 mgmages.carte-gr.total.fr
 mgmmirage.com
@@ -64022,7 +64016,6 @@ mk.8card.net
 mk.desknets.com
 mk.doda-challenge.jp
 mk.ma.livable.jp
-mk.mefound.com
 mk.ru
 mk.sios.com
 mk.sios.jp
@@ -67373,7 +67366,6 @@ ni8.lafuma.com
 niaadia.com
 niagarafallsreview.ca
 niagarathisweek.com
-niancode.com
 nianticlabs.com
 niaxv.cc
 nibesvv.nl
@@ -69841,7 +69833,6 @@ omniture.walmart.ca
 omniture443.partycity.com
 omnituretrack.local.com
 omnitv.ca
-omnivis.overstock.com
 omnovos.com
 omns.americanexpress.com
 omns.crackle.com
@@ -71146,6 +71137,7 @@ oxid.it
 oxifwsabgd.nzz.ch
 oxizwk.livique.ch
 oxlife.co
+oxp.mxptint.net
 oxygem.com
 oxygem.it
 oxygen.com
@@ -71219,7 +71211,6 @@ p.delivery.net
 p.dmm.co.jp
 p.dmm.com
 p.estream.to
-p.eyebuydirect-cmr.net
 p.fairspot.host
 p.gazeta.pl
 p.gm99.com
@@ -71483,7 +71474,6 @@ pa.afreecatv.com
 pa.ashisuto.co.jp
 pa.media
 pa.opqr.co
-pa.rockett.pw
 pa.tns-ua.com
 pa.travelwhiz.app
 pa.wikimedia.us
@@ -73998,7 +73988,6 @@ plausible.gitjournal.io
 plausible.goatstake.com
 plausible.golfbreaks.com
 plausible.goose.game
-plausible.grouparoo.com
 plausible.gryka.net
 plausible.gymglish.com
 plausible.haltakov.net
@@ -74076,7 +74065,6 @@ play.pampopholf.com
 play.play.estream.to
 play.play.estream.xyz
 play.play.vidzi.tv
-play.play1.videos.vidto.me
 play.pocketgolf.host
 play.proxy.multikonline.ru
 play.s01.vidtod.me
@@ -75732,7 +75720,6 @@ protection.itpolice.com
 protection.jmpolice.com
 protection.kypolice.com
 protection.lapolice.com
-protection.lapolice.net
 protection.lbpolice.com
 protection.lcpolice.com
 protection.lipolice.com
@@ -76785,7 +76772,6 @@ qqjj18.com
 qqjlb.com
 qqjlb001.app
 qqjlb03.app
-qqjlb08.app
 qqjlb2.com
 qqjlb4.com
 qqjlb6.com
@@ -80090,7 +80076,6 @@ rutor.is
 rutor.org
 rutorrent.frontline-mod.com
 rutracker.eu.org
-rutracker.org.pl
 rutschmania.duckdns.org
 rutube.ru
 ruuh.com
@@ -87488,7 +87473,6 @@ speeddreamride.com
 speedeondata.com
 speeder.cf
 speeder.ml
-speedfantasybid.com
 speedhunters.com
 speedify.com
 speedin.cc
@@ -89575,7 +89559,6 @@ stats.shoutout.so
 stats.sim.de
 stats.simplytel.de
 stats.sirdata.com
-stats.sitesuite.org
 stats.ski.com
 stats.slideshare.net
 stats.smartclip.net
@@ -90014,7 +89997,6 @@ storage.icorp.ro
 storage.live.com
 storage.lp1.scsi.srv.nintendo.net
 storage.qoo-static.com
-storage.spencerwoo.com
 storage.trafic.ro
 storagenewsletter.com
 store-bridgestonesports.com
@@ -95411,7 +95393,6 @@ track.exclusivecpa.com
 track.fineos.com
 track.flexlinks.com
 track.flexlinkspro.com
-track.gawker.com
 track.hatena.ne.jp
 track.hexcan.com
 track.homestead.com
@@ -95548,7 +95529,6 @@ track.trackbyme.info
 track.ugamezone.com
 track.ultimate-guitar.com
 track.ultravpn.com
-track.undressingpics.work
 track.unear.net
 track.untd.com
 track.upaknee.com
@@ -95627,7 +95607,6 @@ tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt.uol.com.br
 tracker.bt4g.com
-tracker.btcake.com
 tracker.btorrent.xyz
 tracker.calameo.com
 tracker.ccp.ovh
@@ -98494,6 +98473,7 @@ up-banner.wavecdn.net
 up-cookiemon.wavecdn.net
 up-t.jp
 up.baranpatogh.com
+up.cm.ksmobile.com
 up.coop
 up.live
 up.nytimes.com
@@ -103209,7 +103189,6 @@ wgcps-us.wargaming.net
 wgcq-wotsg-static.wgcdn.co
 wgelen-asia.wgcdn.co
 wgflkd.gpasplus.com
-wgie.0z5jn.cn
 wgkvmz.r-ulybka.ru
 wglcxyms.vip
 wgnrrd.culturekings.com

@@ -761,7 +761,6 @@
 0x0.biz
 0x0.ooo
 0x0d.im
-0x100.club
 0x3.me
 0x5.me
 0x6.me
@@ -7131,6 +7130,7 @@
 917.com
 917118.com
 917558.com
+9178.work
 917ka.com
 917st.com
 9188.com
@@ -9845,7 +9845,6 @@ app120.com
 app17.com
 app178.com
 app2pixel.com
-app2xp.com
 app4cms.net
 app86.com
 app887.com
@@ -12230,7 +12229,6 @@ bjfyw.org
 bjfz.cc
 bjgas.com
 bjgemi.com
-bjgesainuo.com
 bjggk.com
 bjglxf.com
 bjgnjdwx.com
@@ -17839,7 +17837,6 @@ cqcb.com
 cqcbank.com
 cqccn.com
 cqchzx.com
-cqcimf.com
 cqcklib.com
 cqcoal.com
 cqcp.net
@@ -23053,7 +23050,6 @@ f537.com
 f5432.com
 f54321.com
 f5gh.com
-f5hf.com
 f5sd.com
 f5yx.com
 f773.com
@@ -26379,7 +26375,6 @@ greenkoo.com
 greenlandsc.com
 greentimes.com
 greentomail.com
-greenxcx.com
 greenxf.cn
 greenxf.com
 greenxf.net
@@ -28825,7 +28820,6 @@ hi-spider.com
 hi0755.net
 hi138.com
 hi1718.com
-hi18.cn
 hi2000.com
 hi2000.net
 hi8090.com
@@ -46344,7 +46338,6 @@ ppxs.net
 ppxwo.com
 ppys.net
 ppys5.com
-ppzedu.com
 ppzhan.com
 ppzhilian.com
 ppzuche.com
@@ -47646,7 +47639,6 @@ qmtj.net
 qmtk.com
 qmtv.com
 qmwtp.com
-qmyiz.com
 qmz5.com
 qmzs.com
 qn0854.com
