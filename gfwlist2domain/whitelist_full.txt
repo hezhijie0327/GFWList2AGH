@@ -912,6 +912,7 @@
 1.iqeq.com.cn
 1.isanxia.com
 1.jiqie.cn
+1.jushtong.com
 1.kuaidiwo.cn
 1.lishibu.com
 1.lvshi567.com
@@ -2679,7 +2680,6 @@
 1bf9a367b1d43b1cddf2db5e1f957d05.dlied1.cdntips.net
 1biaozhun.com
 1biqu.com
-1biquge.com
 1bus.net
 1c225d3.cachenode.cn
 1c2aff254019f5046c555a1581722bea.dlied1.cdntips.net
@@ -2890,7 +2890,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -3827,7 +3826,6 @@
 3.39zuoye.com
 3.5646.cn
 3.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -3874,6 +3872,7 @@
 30cgy.com
 30cn.net
 30dj.com
+30edu.com.cn
 30ka.com
 30nl.net
 30play.com
@@ -4360,6 +4359,7 @@
 360zhijia.com
 360zhuizhu.com
 360zhyx.com
+360zimeiti.com
 360zuowen.com
 361.cm
 361757.com
@@ -10580,7 +10580,6 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
-abtest.tantanapp.com
 abtionb.com
 abto.cc
 abuquant.com
@@ -11346,6 +11345,8 @@ adsspr.com
 adsstatic.vivo.com.cn
 adstats.tencentmusic.com
 adstextview.qq.com
+adstore-1252524079.file.myqcloud.com
+adstore-index-1252524079.file.myqcloud.com
 adsunflower.com
 adsystem.wasu.tv
 adsz.wagbridge.tanx.alimama.com.gds.alibabadns.com
@@ -13544,7 +13545,6 @@ api.lequ.ptqy.gitv.tv
 api.lianlianlvyou.com
 api.live.bilibili.com
 api.luffycity.com
-api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
@@ -13980,6 +13980,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -14600,7 +14601,6 @@ atitsc.com
 atiyun.com
 atj-kuaishou.37.com.cn
 atjiang.com
-atlas.dmall.com
 atlas1688.com
 atlenovo.com
 atm.yoyi.com.cn
@@ -16200,7 +16200,6 @@ bdfund.cn
 bdfzcd.net
 bdfzgz.net
 bdfzxj.net
-bdg381.com
 bdg88.com
 bdgg.qjy168.com
 bdgslb.com
@@ -18346,6 +18345,7 @@ btplay.net
 btrace.play.aiseet.atianqi.com
 btrace.qq.com
 btrace.video.qq.com
+btrace.ysp.cctv.cn
 btracker.top
 btrcsc.com
 bts.hk
@@ -19526,7 +19526,6 @@ casvm.com
 casystar.com
 cat.sh.vip.dianping.com
 cat898.com
-catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -20800,6 +20799,7 @@ chaduo.com
 chaej.com
 chafanhou.com
 chafei.net
+chahaoba.cn
 chahaoba.com
 chahaotai.com
 chaheji.com
@@ -23321,6 +23321,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -24649,7 +24650,6 @@ convertlab.com
 convshop.com
 conwos.com
 conyedit.com
-coo8.com
 coocaa.com
 coocaatv.com
 coocare.com
@@ -25257,6 +25257,7 @@ crvic.org
 crviisws.cn
 crwan.applinzi.com
 cryptape.com
+crystalapp.miguvideo.com
 crystalcg.com
 crystaledu.com
 cryuantafund.com
@@ -29257,6 +29258,7 @@ dolphin.com
 dolphin.deliver.ifeng.com
 dolphinphp.com
 domain.aishengji.com
+domain1.chahaoba.cn
 domaingz.com
 domarketing.org
 domengle.com
@@ -29652,7 +29654,6 @@ download.zhushou.sogou.com
 download.zjsyawqj.cn
 download.zzb6.cn
 download1.xmcdn.com
-download2.ctrip.com
 download2.ctrip.com.a.bdydns.com
 download2.ctrip.com.wswebcdn.com
 download2.xmcdn.com
@@ -33423,7 +33424,6 @@ fapiao.com
 fapiao365.com
 fapiaobang.com
 faqrobot.org
-faqwork.com
 far123.com
 far2000.com
 faradayfuturecn.com
@@ -33503,6 +33503,7 @@ fawulu.com
 fawuzaixian.com
 fax52.com
 faxdns.com
+faxdns.net
 faxeye.com
 faxian.aichaoxing.com
 faxian.youku.com
@@ -33983,6 +33984,7 @@ ff.dayu.com
 ff.doubleclick.net
 ff.l3gqgd.cn
 ff.meikanguo.com
+ff.qichetansuo.com
 ff.xue163.net
 ff.xue63.com
 ff.yiqima.xyz
@@ -35807,6 +35809,7 @@ gaokeyan.com
 gaokw.com
 gaokzx.com
 gaolouimg.com
+gaomaer.cn
 gaoman.tmall.com
 gaomaomao.com
 gaomeig.com
@@ -36440,6 +36443,7 @@ gg8828.com
 gg8888.cnfol.com
 ggac.net
 ggb.sx.gov.cn
+ggc.cmvideo.cn
 ggcida.com
 ggcj.com
 ggcode.2345.com
@@ -36484,6 +36488,7 @@ ggtf.shangdejigou.cn
 ggtf.sunland.org.cn
 ggtf.sunland.org.cn.wswebcdn.com
 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
+ggv.cmvideo.cn
 ggw.gusuwang.com
 ggw.watertu.com
 ggwan.com
@@ -39764,7 +39769,6 @@ hd-tvb.com
 hd.browser.miui.com
 hd.chinatax.gov.cn
 hd.gg
-hd.hupu.com
 hd.huya.com
 hd.huya.com.w.alikunlun.com
 hd.mmstat.com
@@ -45297,7 +45301,6 @@ inass.org
 inbeijing.org
 inbilin.com
 inbooker.com
-inboxarchiver.com
 inc365.com
 incake.net
 incensechina.com
@@ -45674,7 +45677,6 @@ ios1234.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -46867,7 +46869,6 @@ jbl100.com
 jblts.com
 jbo106.com
 jbo255.com
-jbo311.com
 jbo443.com
 jbo909.com
 jbpbox.com
@@ -49350,6 +49351,7 @@ jushigj.com
 jushike.net
 jushikk.com
 jushiwangedu.com
+jushtong.com
 jushuo.com
 jussevent.com
 jusstickets.com
@@ -52845,7 +52847,6 @@ lianlife.com
 lianmeng.360.cn
 lianmeng.la
 lianmeng.link
-lianmeng90.com
 lianmengapi-hl.snssdk.com
 lianmengapi-lf.snssdk.com
 lianmengapi-lq.snssdk.com
@@ -53016,7 +53017,6 @@ lieyuncj.com
 lieyunwang.com
 lif8.com
 lifa.httpcn.com
-lifang88.com
 lifanmy.com
 life.ccb.com
 life.e0575.com
@@ -53691,7 +53691,6 @@ liveupoc.tcdn.qq.com
 liveupoc2.tcdn.qq.com
 livevideostack.com
 livew.l.qq.com
-livewebbs2.msstatic.com
 livewebbs2.msstatic.com.w.kunlunhuf.com
 livinglabs.cc
 livku.com
@@ -55407,7 +55406,6 @@ m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
 m.xuexila.com
-m.xxkio.com
 m.xyadaa.com
 m.xyadxia.com
 m.yalayi.com
@@ -55991,7 +55989,6 @@ many88.com
 manyanu.com
 manyjs.com
 manylaw.com
-manymoonsculture.org
 manyoo.net
 manyou.com
 manyoujing.net
@@ -58633,7 +58630,6 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
-msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -58809,6 +58805,7 @@ mtr8.com
 mtrace.play.aiseet.atianqi.com
 mtrace.play.cp81.ott.cibntv.net
 mtrace.qq.com
+mtrace.ysp.cctv.cn
 mtracker.yunfan.com
 mtracker.yunfancdn.com
 mtrend.cn
@@ -62205,7 +62202,6 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -62458,7 +62454,6 @@ p.junshifuxin.com
 p.kf3msfm.com
 p.kugou.com
 p.l.qq.com
-p.lexph.com
 p.lu.sogou.com
 p.m.jd.com
 p.m.jd.com.gslb.qianxun.com
@@ -63417,6 +63412,7 @@ pcw365.com
 pcweb-v1.log.mgtv.com
 pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
+pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com
 pcwenti.com
 pcwl.com
@@ -65661,7 +65657,6 @@ q.i.gdt.qq.com
 q.lindanmiaoxiang.cn
 q.ox11.com
 q.qlogo.cn
-q.qo26.com
 q.qq.com
 q.qsmdeyz.cn
 q.reg.163.com
@@ -66654,6 +66649,7 @@ qichecailiao.com
 qichechaoren.com
 qichegeyin.com
 qichehot.com
+qichetansuo.com
 qichetong.com
 qichexin.com
 qichezhan.net
@@ -69494,6 +69490,7 @@ rijigu.com
 rijiwang.com
 riju.tv
 rijutv.com
+rikka.app
 rili.cn
 rilvtong.com
 rilzob.com
@@ -71514,7 +71511,6 @@ security-lq.snssdk.com
 security-v6.ias.tencent-cloud.net
 security-web.cdn-go.cn
 security.bilibili.com
-security.browser.miui.com
 security.cdnetworks.com
 security.gome.com.cn
 security.iqiyi.com
@@ -73851,6 +73847,7 @@ sketchui.net
 sketchupbar.com
 sketchupbbs.com
 skg.com
+skhao.net
 skieer.com
 skight.com
 skin.360kad.com
@@ -74404,6 +74401,7 @@ sogou-op.org
 sogou.com
 sogou2.com
 sogoucdn.com
+sogouimecdn.com
 sogouw.com
 sogouwenwen.com
 sogov587.top
@@ -75440,6 +75438,7 @@ static.g.ppstream.com
 static.g.pptv.com
 static.galaxyclouds.cn
 static.gamecenter.qq.com
+static.gaomaer.cn
 static.gcores.com
 static.gcores.com.w.kunlungr.com
 static.geetest.com
@@ -80485,7 +80484,6 @@ tv.t002.ottcn.com
 tv.uterm.cibn.cc
 tv.weixin.pandora.xiaomi.com
 tv.youku.com
-tv.ytbctyy.com
 tv0001.com
 tv002.com
 tv189.com
@@ -82237,6 +82235,7 @@ v.m06nev.com
 v.mail.163.com
 v.map.baidu.com
 v.map.n.shifen.com
+v.miguvideo.com
 v.mywild.cn
 v.nanjinglongyu.com
 v.njcengpianwang.cn
@@ -90632,6 +90631,7 @@ xn--ntsp37j.net
 xn--nyqx2gbsm8u0b.com
 xn--nyw032beqlm2f.com
 xn--nyw032beqlm2f.net
+xn--rhq0kz4zzjc7w9a66k.com
 xn--rss99n.com
 xn--s4t325g.com
 xn--vhquvr92a7u1b.com
@@ -97666,7 +97666,6 @@ yqp6.com
 yqphh.com
 yqptzx.com
 yqqlm.vip
-yqqzx.com
 yqsbz.com
 yqscpt.com
 yqsns.com
