@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -110,7 +111,6 @@
 0171563.com
 01801.com
 018xpj.com
-01afcp.com
 01bbcc.com
 01cloud.jp
 01daa.lutci.com
@@ -408,7 +408,6 @@
 1.salesforce-partners.com
 1.soufy.cn
 1.top4top.io
-1.ttxs123.net
 1.win7sky.com
 1.zeton.com
 10-courier.push.apple.com
@@ -705,7 +704,6 @@
 125501.com
 125502.com
 125702.com
-125723.com
 125730.com
 125attitude.com
 126.159.251.49.zz.countries.nerd.dk
@@ -791,7 +789,6 @@
 1388012.com
 1388110.com
 1388555.com
-138888.co
 138lm.com
 138nh.com
 139.83.103.121.zz.countries.nerd.dk
@@ -2568,7 +2565,6 @@
 3lib.net
 3lift.com
 3loops.com
-3m.com
 3m.com.au
 3mae.ae
 3maustria.at
@@ -2961,7 +2957,6 @@
 50219.dmixtv.site
 502310.com
 502325.com
-502350.com
 50294.fulixtv.com
 50294.onlextv.com
 50294.umxtv.com
@@ -3048,7 +3043,6 @@
 51xj.cc
 51xtv.cc
 51xtv.com
-51xtv.me
 51xtv.net
 51xtv.tv
 51xuediannao.com
@@ -4630,7 +4624,6 @@
 913u.com
 9141679.com
 9151511tuesday.hqnpwzu.cn
-91530.com
 915443.co
 915thebeat.com
 9166804.com
@@ -4736,7 +4729,6 @@
 941777.com
 941hd.com
 941novel.com
-941tracking.com
 942.mrbonus.com
 942porn.com
 942porn.net
@@ -5590,7 +5582,6 @@ a2.avomeen.com
 a2.b310.com
 a20104.com
 a202.casalemedia.com
-a202.net
 a20309999.byethost9.com
 a2047.dscb.akamai.net
 a2047.dscb.akamai.net.0.1.cn.akamaitech.net
@@ -9963,7 +9954,6 @@ akhbarelyoum.dz
 akiba-online.com
 akiba-web.com
 akii.art
-akii.ml
 akinator.com
 akinator.mobi
 akipam.com
@@ -15346,6 +15336,7 @@ basedmusic.com
 baseendpoint.stern.de
 baselinestudy.com
 baselinestudy.org
+baseniao.com.cn
 basest-rooms.000webhostapp.com
 basevie.fr
 basf.com
@@ -16112,6 +16103,7 @@ beautycarechoices.com
 beautycounter.com
 beautyexperience.com
 beautyforever.com
+beautykeychina.com
 beautywelt.de
 beauzo.brilliantearth.com
 beaver.brush.ninja
@@ -16560,6 +16552,7 @@ betway858.com
 betway88.com
 betway888.com
 betway995.com
+betwaytai.com
 betweendigital.com
 betwin999.com
 beurer-shop.de
@@ -21570,6 +21563,7 @@ cdmr.rpz.su
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
+cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -28661,6 +28655,7 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
+dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -36853,7 +36848,6 @@ feichangdao.com
 feidm.com
 feiji888.com
 feijichang.xyz
-feijisu5.com
 feikebt.com
 feikebt.pw
 feikong.cc
@@ -38582,6 +38576,7 @@ free.thesocialsexnetwork.com
 free.videodownloadconverter.com
 free.webmailworld.com
 free1.mchost.cc
+free1210.com
 free18.net
 freeagent.com
 freeairproxy.com
@@ -45122,6 +45117,7 @@ gtinfo.com.ar
 gtjtht.com
 gtl.net
 gtloli.com
+gtm-cn-n6w1ucj0e05.ddoswafcdn.xyz
 gtn-mobile.com
 gtnde.com
 gtop.ro
@@ -45887,6 +45883,7 @@ hawaiipacifichealth.org
 hawesko.de
 hawk.makroskop.eu
 haworth.com
+hawu.me
 haxdo.com
 haxdym.min-breeder.com
 hayabusa.io
@@ -46158,6 +46155,7 @@ heavenmedia.com
 heavy-r.com
 heavymetalmachines.com
 hebdo.ch
+hebeitenglong.com
 hebprepaid.com
 hec.ca
 hechaji.com
@@ -46952,7 +46950,6 @@ hk2.settings.data.microsoft.com.akadns.net
 hk2d.tourismemauricie.com
 hk3.direct.iplc.pro
 hk32168.com
-hk4.direct.iplc.pro
 hk668.com
 hka8964.wordpress.com
 hkaac.byethost11.com
@@ -47490,7 +47487,6 @@ hostsvc-prod-koreasouth-02.koreasouth.cloudapp.azure.com
 hostux.net
 hostzi.com
 hosyusokuhou.jp
-hot-jav.xyz
 hot-mob.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
@@ -49359,7 +49355,6 @@ images.macrumors.com
 images.mpression.net
 images.mylot.com
 images.netcomvad.com
-images.nvidia.cn
 images.nvidia.com
 images.outbrainimg.com
 images.people2people.com
@@ -52507,7 +52502,6 @@ isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 iseg.fr
 isentek.com
-iseoz.com
 iseuaa.olx.pl
 isexlove.tw
 isexomega.tw
@@ -52969,7 +52963,6 @@ j32aa.com
 j35.co
 j35897.com
 j3hwmp9uprdrkwnev3npevj7mlt2x1620916487.nuid.imrworldwide.com
-j5618.com
 j5756.com
 j60358.com
 j6396.com
@@ -53544,7 +53537,6 @@ jf8833.com
 jf8866.com
 jfcwmn.laroche-posay.us
 jfengtime.com
-jfhuzhu.com
 jfinr6flhu1zja6ikuu30soz8k2lm1619846160.nuid.imrworldwide.com
 jfklfoundation.org
 jfmedier.dk
@@ -54990,7 +54982,6 @@ kernel.tw
 kerneldedup.org
 kerrisdalecap.com
 kerry.se
-kerunwh-edu.com
 keruquz.duckdns.org
 kestrafinancial.com
 ket.org
@@ -55697,7 +55688,6 @@ kr.bt4g.org
 kr.mitsubishi-automation.co.kr
 kr.promo.skf.com
 kr.ua
-kr1.direct.iplc.pro
 kr1.hkts.win
 kr2.000714.xyz
 krabbenspringen.de
@@ -56543,7 +56533,6 @@ lb.summer.net.daraz.com
 lb.usemaxserver.de
 lb.w-htgb-a.net.daraz.com
 lb.wordpress.com
-lb0408.com
 lb3388.com
 lb75.com
 lb983.com
@@ -59444,7 +59433,6 @@ m.nejup.com
 m.nfydd.com
 m.niegg.com
 m.nkjfzq43034.cn
-m.nmtouzi.com
 m.nydjsm.cn
 m.obeip.com
 m.oem-cosmetic.com
@@ -59459,7 +59447,6 @@ m.pieaa.com
 m.pl.pornzone.tv
 m.pncle8.com
 m.poloniex.com
-m.prazpf.cn
 m.premier.info.shutterstock.com
 m.pubgorg.xyz
 m.pufei8.com
@@ -59523,6 +59510,7 @@ m.x18mh.com
 m.x81zw.com
 m.xf187.com
 m.xf839.com
+m.xfya3.cn
 m.xhera.cn
 m.xiamh.com
 m.xiao66y.com
@@ -59677,7 +59665,6 @@ mac.rs
 macandbumble.com
 macangmonastery.org
 macapartments.com
-macapp.in
 macappsto.re
 macau-explorer-cultural-travel.business.site
 macau-focus.com
@@ -67830,7 +67817,6 @@ newyorkupstate.com
 newzfind.com
 newzgames.com
 newzit.com
-nex.163.com
 nex4.net
 nexac.com
 nexage.com
@@ -68047,7 +68033,6 @@ nicolaus.it
 niconode.com
 nicorette.co.kr
 nicotv.cc
-nicotv.me
 nicozon.net
 nicstudios.com
 nicvision.com
@@ -72439,7 +72424,6 @@ panya-realestate.000webhostapp.com
 pao-pao.net
 pao-pao.org
 pao66.com
-pao77.com
 paoche.pw
 paodeacucar.com
 paoduenti.duckdns.org
@@ -74364,6 +74348,7 @@ pix.revjet.com
 pix.sniperlog.ru
 pix.speedbit.com
 pix.spot.im
+pix.tagcdn.com
 pix.telekom-dienste.de
 pix.telekom.com
 pix.telekom.de
@@ -77742,7 +77727,6 @@ quovadisglobal.com
 quovadisoffshore.com
 quovo.com
 quptmc.h2r-equipements.com
-qupu114.com
 quran.com
 quran.nu
 quranexplorer.com
@@ -77914,6 +77898,7 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
+r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net
@@ -80489,6 +80474,7 @@ rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 rpt.anchorfree.net
 rpt.kidsfootlocker.com
+rpwtcn.com
 rpxcorp.com
 rpz.su
 rpzhphoto.netne.net
@@ -85203,7 +85189,6 @@ skypedataprdcoleus13.cloudapp.net
 skypedataprdcoleus14.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
 skypedataprdcoljpe01.cloudapp.net
-skypedataprdcoljpe02.cloudapp.net
 skypedataprdcoljpe03.cloudapp.net
 skypedataprdcoljpe04.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
@@ -89795,6 +89780,7 @@ static.gc.apple.com
 static.gc.apple.com.edgekey.net
 static.getclicky.com
 static.googleusercontent.com
+static.groupy.co.nz
 static.herr.io
 static.hezhijie0327.workers.dev
 static.hk5.vip.prod.criteo.net
@@ -90273,7 +90259,6 @@ stats.marudor.de
 stats.masjidbox.com
 stats.matthiasloibl.com
 stats.matthogg.fyi
-stats.maximorlov.com
 stats.maxxim.de
 stats.media.onet.pl
 stats.meijer.com
@@ -92575,7 +92560,6 @@ t69y.com
 t6dy.com
 t6k.co
 t7.taboola.com
-t75.qyqc4s.com
 t8.bangbrosnetwork.com
 t8.taboola.com
 t888998.com
@@ -92855,7 +92839,6 @@ tangoe.com
 tangren.us
 tangtangbk.com
 tanhao.me
-tanjiang1990.cn
 tank.org
 tank3pull.com
 tankerenemy.com
@@ -115022,7 +115005,6 @@ xqmobile.po888.net
 xqmobile2.po888.net
 xqpi.net
 xqtcur.kirklands.com
-xqworks.com
 xratt4.thejierou.net
 xratt77.thejierou.net
 xratt88.thejierou.net
