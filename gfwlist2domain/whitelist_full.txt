@@ -3,6 +3,7 @@
 0-gold.net
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -892,7 +893,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -4631,7 +4631,6 @@
 39ej7e.com
 39fengliao.com
 39h83s.com
-39haohuo.com
 39health.com
 39hp.com
 39jks.com
@@ -6780,7 +6779,6 @@
 591lh.com
 591master.com
 591moto.com
-591vlog.com
 591vr.com
 591wed.com
 591wsh.com
@@ -11013,7 +11011,6 @@ adapi.shouji.360.cn
 adapter.shouji.360.cn
 adaptive.6000.liveplay.myqcloud.com
 adarrive.com
-adas-china.org
 adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
@@ -20208,7 +20205,6 @@ cdn.unityads.unity3d.com
 cdn.upthinking.cn
 cdn.ur.qq.com
 cdn.vaptcha.com
-cdn.vaptcha.com.w.cdngslb.com
 cdn.wmpvp.com
 cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com
@@ -23468,6 +23464,7 @@ cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -23475,6 +23472,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -30994,7 +30992,6 @@ e.bilibili.com
 e.bjmu.edu.cn
 e.boc.cn
 e.cn.miaozhen.com
-e.cuomm.com
 e.dangdang.com
 e.domob.cn
 e.ejiakm.net
@@ -31004,6 +31001,7 @@ e.gitee.com
 e.gxkyl.com
 e.ishansong.com
 e.kuaishou.com
+e.nq37f.cn
 e.poonscn.com
 e.qq.com
 e.so.com
@@ -33914,7 +33912,6 @@ fens.me
 fensebook.com
 fenshua123.com
 fensishenghuo.com
-fensui168.com
 fenxi.cc
 fenxi.com
 fenxi.org
@@ -34715,6 +34712,7 @@ fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
 fp.tongdun.net
+fpag.w48ge.cn
 fpb.docin.com
 fpb.sohu.com
 fpb1.apple886.com
@@ -34895,7 +34893,6 @@ fsldwy.com
 fslgz.com
 fsllq.com
 fslsg.com
-fslwpq.com
 fsmama.com
 fsmeeting.com
 fsmy88888.com
@@ -35194,7 +35191,6 @@ fxcsxb.com
 fxdiv.com
 fxdm.net
 fxdp.com
-fxfvttu.cn
 fxgate.baidu.com
 fxian.org
 fxiaoke.com
@@ -36701,7 +36697,6 @@ gl.ewdcloud.com
 gl.lianjia.com
 gl258.com
 glab.online
-glab2018.com
 glabuy.com
 glamever.com
 glamourred.com
@@ -42627,7 +42622,6 @@ hwht.com
 hwid-drcn.platform.hicloud.com
 hwid.platform.hicloud.com
 hwjyw.com
-hwk603.com
 hwlantian.com
 hwlpz.com
 hwmov.a.yximgs.com
@@ -52433,7 +52427,6 @@ lemonyd.com
 lemonyule.com
 lemote.com
 lempstack.com
-lemuzhi.com
 len-aquatics.org
 len9s9pk.v1d.szbdyd.com
 lenaa8rv.v1d.szbdyd.com
@@ -57637,6 +57630,7 @@ miui.hftaili.com
 miusi.co
 miutour.com
 miutrip.com
+miv.ububyiw6655.xyz
 mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
@@ -64289,6 +64283,7 @@ play.baike.qq.com
 play.cn
 play.g3proxy.lecloud.com
 play.itunes.apple.com.mwcname.com
+play.mix.kinostuff.com
 play.ulive.ugslb.com
 play2.cp21.ott.cibntv.net
 play68.com
@@ -70994,7 +70989,6 @@ scsstjt.com
 sctaixin.com
 sctbc.net
 sctcd.com
-sctcmai.com
 sctobacco.com
 sctrack.sendcloud.net
 sctv.com
@@ -72341,7 +72335,6 @@ shengli.com
 shengmaofly.com
 shengming.net
 shengpay.com
-shengphoto.com
 shengqian51.com
 shengqianlianmeng.net
 shengqugames.com
@@ -74350,7 +74343,6 @@ sohu-dtv.m.cn.miaozhen.com
 sohu-inc.com
 sohu-media.bjcnc.scs.sohucs.com
 sohu.com
-sohu.irs01.com
 sohu.net
 sohucs.com
 sohuhistory.com
@@ -74404,7 +74396,6 @@ somo.so
 somode.com
 somsds.com
 sonald.me
-sonceo.com
 song.fanxing.kugou.com
 songanjun.com
 songchuan12345.com
@@ -74906,7 +74897,6 @@ ss.cods.org.cn
 ss.csdn.net
 ss.knet.cn
 ss.missyouxi.com
-ss.ting55.com
 ss0.baidu.com
 ss0.bdstatic.com
 ss0.me
@@ -80816,7 +80806,6 @@ u.jd.com.gslb.qianxun.com
 u.jr.jd.com
 u.meizu.com
 u.oppomobile.com
-u.pindi88.com
 u.ppkao.com
 u.raidmedia.com.cn
 u.ssp.admobile.top
@@ -84285,7 +84274,6 @@ wb.gtimg.com
 wb0311.com
 wb133.com
 wb321.com
-wb3399.vip
 wb699.com
 wbangdan.com
 wbapp.mobile.sina.cn
