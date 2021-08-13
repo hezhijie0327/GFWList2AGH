@@ -1456,6 +1456,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -3367,7 +3368,6 @@
 5ll.am
 5lu8.com
 5lxtv.com
-5lzb.com
 5maodang.com
 5min.at
 5mm.am
@@ -3810,7 +3810,6 @@
 7024646.com
 702632.cc
 703531862.vws.vegacdn.vn
-7048472.com
 705244.com
 7056778.com
 7060.la
@@ -4022,7 +4021,6 @@
 778ld.com
 778zy.com
 77aam.com
-77afcp.com
 77aka.com
 77amgj.com
 77av.net
@@ -4643,7 +4641,6 @@
 91tvlu.com
 91uqu.com
 91vaa.com
-91vpnn.com
 91vpv.com
 91vss.com
 91wenwen.com
@@ -4696,7 +4693,6 @@
 9374ttyy.com
 9376afa2a8fa4e63dd406e8063b0de11.nrb.footprintdns.com
 937b0094516d3b64af88df29ba305d9d.clo.footprintdns.com
-9382914.com
 9388js.com
 939016.com
 939025.com
@@ -10905,7 +10901,6 @@ amxj1133.com
 amxj5588.com
 amxj8899.com
 amyh8588.com
-amyl66.com
 amyl99.com
 amystalk.com
 amytele.com
@@ -12033,6 +12028,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -12184,7 +12180,6 @@ api.xmrpool.net
 api.xuann.wang
 api02.thebigknow.com
 api1.origin.com
-api1.sg888.net
 api16-access-sg.pangle.io
 api17tp.apitilt.com
 api2.amplitude.com
@@ -12234,6 +12229,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -12316,7 +12312,6 @@ app-gameplayer.dmm.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
-app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -14482,7 +14477,6 @@ aznmovies.com
 aznude.com
 azofreeware.com
 azonvo.com
-azoo123.sytes.net
 azorult2410.000webhostapp.com
 azorult55.000webhostapp.com
 azpolice.com
@@ -14729,7 +14723,6 @@ b1155.com
 b1199.com
 b12358.com
 b12666.com
-b13.cc
 b13.penzainform.ru
 b1388.com
 b16.com
@@ -16536,6 +16529,7 @@ beta.tidint.pro
 beta.usejump.com
 beta.vip123.cf
 beta.vpon.com
+beta.xyz123.cf
 betacar40.net.daraz.com
 betacash.com
 betak.net
@@ -20279,6 +20273,7 @@ c2.info.tm
 c2.popads.net
 c2.statcounter.com
 c2.thecounter.de
+c2471.cn
 c2646.com
 c2cx.com
 c2e.ezbox.idv.tw
@@ -28167,7 +28162,6 @@ dagelijksestandaard.nl
 dagensmedia.se
 dagospia.com
 dagsavisen.no
-dagumanhua.net
 dah0wv79ikn14.cloudfront.net
 dahsing.com
 dahua02.com
@@ -28330,6 +28324,7 @@ dancenter.dk
 dancingbear.com
 dancyu.jp
 dandalinvoa.com
+dandanzan.cc
 dandanzan.com
 dandav.com.ng
 dandh.ca
@@ -29695,6 +29690,7 @@ dgvxgh.autodoc.nl
 dgw7ae5vrovs7.cloudfront.net
 dgynnj.koctas.com.tr
 dgyqr055mfays.cloudfront.net
+dh.hfiauxa.cn
 dh005.com
 dh0uktvqfaomb.cloudfront.net
 dh1y47vf5ttia.cloudfront.net
@@ -31943,7 +31939,6 @@ dvbt.kennykuo.idv.tw
 dvc8653ec6uyk.cloudfront.net
 dvd-50.com
 dvd-dental.com
-dvd.taiwan-sex.com
 dvdba.cc
 dvdpac.com
 dvdstudiopro.biz
@@ -33143,7 +33138,6 @@ ecojurconsulting.ro
 ecom.wix.com
 ecomapas.cl
 ecomm.tebu-bio.com
-ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecommstats.s3.amazonaws.com
 ecommtools.com
 ecompics.power.oho.lv
@@ -35967,7 +35961,6 @@ f.staticlp.com
 f.wheredreams.com
 f.xyu.tv
 f0439d7578381bd5b596430c88b99a69.clo.footprintdns.com
-f05098.privacy4browsers.com
 f0524225.xsph.ru
 f0525251.xsph.ru
 f0527262.xsph.ru
@@ -43372,7 +43365,6 @@ go.pranachai.com
 go.prazna.com
 go.precor.com
 go.predatorridge.com
-go.pregelamericas.com
 go.premieredigital.com
 go.premiumincoming.com
 go.preqin.com
@@ -45503,7 +45495,6 @@ guoman8.cc
 guopengliang.com
 guoshipartners.com
 guotaifilm.com
-guoxuecc.com
 guplle.vectorvest.com
 guppy.estimate.taxi
 guppy.setasign.com
@@ -45579,7 +45570,6 @@ gwvitek.com
 gwvrel.ny-onlinestore.com
 gwvvgz.borgo.hu
 gwyancancook.net.daraz.com
-gx.a.yximgs.com
 gx.idg.se
 gx08s1635.deflanid.com
 gx6t5wf.timecoss.com
@@ -48128,7 +48118,6 @@ htrnews.com
 htspor.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
-httpdns.ocloud.heytapmobi.com
 httpdns.push.oppomobile.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -48743,6 +48732,7 @@ i59v.r5.cr.rs
 i6.cmail20.com
 i6.imageban.ru
 i6.liadm.com
+i6.weather.oppomobile.com
 i60702.com
 i7bg4.5.shop.tm
 i818hk.com
@@ -49722,6 +49712,7 @@ img.2222.moe
 img.2ddl.ms
 img.3lift.com
 img.7clink.com
+img.adnyg.com
 img.adnyg.com.w.kunlungr.com
 img.ahri-plus.com
 img.ak.impact-ad.jp
@@ -50140,7 +50131,6 @@ inetusa.com
 inews.mingpao.com
 inf.clickpay.com
 inf.wqa.ru
-infamylists.com
 inference.location.live.net
 inferno.demonoid.is
 inferno.demonoid.ooo
@@ -52765,7 +52755,6 @@ isabellepeng.000webhostapp.com
 isaleti.com
 isalnikov.com
 isanalyze.com
-isaohao.com
 isapplesiliconready.com
 isasecret.com
 isat-tech.com
@@ -53609,6 +53598,7 @@ jbo25.com
 jbo27.com
 jbo28.com
 jbo311.com
+jbo443.com
 jbo500.com
 jbo53.com
 jbo600.com
@@ -54635,7 +54625,6 @@ just-album.blogspot.hk
 just-cool.net
 just-do-it.cn
 just.nl
-just4umedia.com
 just9229.cn
 justanotherpm.com
 justanswer.com
@@ -55640,7 +55629,6 @@ kjpiug.whatgoesaroundnyc.com
 kjpnote.com
 kjxmcn.eset.com
 kjxztu.biz-journal.jp
-kk.4pu.com
 kk.etowns.net
 kk.info.tm
 kk168.com.cn
@@ -56537,6 +56525,7 @@ lamnia.co.uk
 lamoda.kz
 lamoda.ru
 lamoda.ua
+lamorem.ddns.net
 lampen24.nl
 lampenlicht.nl
 lampenwelt.de
@@ -59737,7 +59726,6 @@ m.mxguan.com
 m.myfreecams.com
 m.mysports98.com
 m.mysty.com.cn
-m.nchet.com
 m.nejup.com
 m.nfydd.com
 m.niegg.com
@@ -60163,7 +60151,6 @@ magabao.com
 magaseek.com
 magazine.godsdirectcontact.net
 magazines.com
-magazines.sina.com.tw
 magazyn.pl
 mage23.schminkparadies.ch
 mageconf.com
@@ -62475,6 +62462,7 @@ media.kahoxa.ru
 media.kaspersky.com
 media.lanecrawford.com
 media.leftclick.ro
+media.licdn.com
 media.mobpartner.mobi
 media.mybet.com
 media.mydas.mobi
@@ -66298,6 +66286,7 @@ mudah.my
 mudan01.herokuapp.com
 mudfish.net
 mudgee.host
+mudvod.tv
 mueblesdecasa.net
 muenchner-jobanzeiger.de
 muevetebasket.es
@@ -69745,6 +69734,7 @@ numericable.fr
 numi.com
 numxtv.com
 nunu-001.now.sh
+nunuyy.cc
 nuon.nl
 nuorder.com
 nuovaricambi.net
@@ -73599,7 +73589,6 @@ pc.onmypc.net
 pc.ss.mm.newworldinteractive.com
 pc.weizhenwx.com
 pc1.9baf1.com
-pc123.net
 pc1ads.com
 pc200.cc
 pc3ads.com
@@ -75533,7 +75522,6 @@ pomf.se
 pomf.su
 pomiav.com
 pomorska.pl
-pomoyxpj.com
 pomperaugwoods.com
 pomponik.pl
 pon.com
@@ -78289,6 +78277,7 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
+r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net
@@ -79750,7 +79739,6 @@ reklama.biz
 reklama.mironet.cz
 reklama.onet.pl
 reklamatik.com
-reklame.unwired-i.net
 reklamko.pro
 reklamlar.net
 reklamport.com
@@ -85596,7 +85584,6 @@ skypedataprdcolcus06.cloudapp.net
 skypedataprdcolcus08.cloudapp.net
 skypedataprdcolcus09.cloudapp.net
 skypedataprdcolcus10.cloudapp.net
-skypedataprdcolcus11.cloudapp.net
 skypedataprdcolcus12.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
 skypedataprdcolcus14.cloudapp.net
@@ -85616,7 +85603,6 @@ skypedataprdcoleus13.cloudapp.net
 skypedataprdcoleus14.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
-skypedataprdcoljpw00.cloudapp.net
 skypedataprdcoljpw01.cloudapp.net
 skypedataprdcoljpw02.cloudapp.net
 skypedataprdcolneu01.cloudapp.net
@@ -85631,12 +85617,10 @@ skypedataprdcoluks05.cloudapp.net
 skypedataprdcolweu00.cloudapp.net
 skypedataprdcolweu01.cloudapp.net
 skypedataprdcolweu02.cloudapp.net
-skypedataprdcolweu03.cloudapp.net
 skypedataprdcolweu04.cloudapp.net
 skypedataprdcolweu05.cloudapp.net
 skypedataprdcolweu06.cloudapp.net
 skypedataprdcolwus00.cloudapp.net
-skypedataprdcolwus01.cloudapp.net
 skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus03.cloudapp.net
 skypedataprdcolwus04.cloudapp.net
@@ -86364,6 +86348,7 @@ smetrics.dandh.com
 smetrics.darty.com
 smetrics.deakin.edu.au
 smetrics.dekalbasgrowdeltapine.com
+smetrics.deliciousliving.com
 smetrics.delta.com
 smetrics.deltacargo.com
 smetrics.der.dk
@@ -88097,7 +88082,6 @@ som.vrbo.com
 soma-store.visa-usa.ru
 soma.1.p2l.info
 soma.3xforum.ro
-soma.im
 soma9vols.com
 soman.com
 some.demuz.ru
@@ -89365,6 +89349,7 @@ ssl-www.partner.net.daraz.com
 ssl-youtube.2cnt.net
 ssl.aafp.org
 ssl.affiliate.logitravel.com
+ssl.bbba8.com
 ssl.bbbr8.com
 ssl.bing.com
 ssl.citgo.com
@@ -89402,6 +89387,7 @@ ssl.trustwave.com
 ssl.ujiule.com
 ssl.vatanclick.ir
 ssl.webpack.de
+ssl.zy3dku.cn
 ssl2.gdqifang.com
 sslanalytics.sixt.at
 sslanalytics.sixt.ch
@@ -92816,7 +92802,6 @@ t.9gag.com
 t.a3cloud.net
 t.abloy.com
 t.ac.pandora.com
-t.acg.rip
 t.activase.com
 t.adlpo.com
 t.adxchina.cn
@@ -92871,6 +92856,7 @@ t.dtscdn.com
 t.dtscout.com
 t.eharmony.com
 t.em.chegg.com
+t.enbw.com
 t.etraveli.com
 t.fatcatstar.com
 t.felmat.net
@@ -93619,12 +93605,15 @@ tdep.suncamp.de
 tdep.suncamp.pl
 tdep.teamnijhuis.com
 tdep.theofficeservice.com
+tdep.vacansoleil.be
+tdep.vacansoleil.co.uk
 tdep.vacansoleil.de
 tdep.vacansoleil.dk
 tdep.vacansoleil.fr
 tdep.vacansoleil.hu
 tdep.vacansoleil.it
 tdep.vacansoleil.nl
+tdep.vacansoleil.pl
 tdesktop.com
 tdf1.admyjob.com
 tdf1.easyviaggio.com
@@ -96967,6 +96956,7 @@ track.wg-aff.com
 track.wildblue.com
 track.written.com
 track.xtrasize.nl
+track.yello.de
 track.yellostrom.de
 track.yfret.com
 track.yieldsoftware.com
@@ -100290,7 +100280,6 @@ uscloud.com
 uscnpm.com
 uscreditcardguide.com
 uscti.org
-usd.sierra-boa.com
 usdbbx.mmartan.com.br
 usdehua.com
 use.fontawesome.com
@@ -102579,6 +102568,7 @@ vod-thumb-ww-live.bbcfmt.s.llnwi.net
 vod.com
 vod.edgecast.hls.ttvnw.net
 vod.wwe.com
+vod360.net
 vod46.com
 vodafone.com
 vodafone.cz
@@ -117436,6 +117426,7 @@ z100.com
 z1n.000webhostapp.com
 z2.cnywst.com
 z2.fm
+z2.lnymd.com
 z2.zhishidu.com
 z2py.com
 z3.ax1x.com
