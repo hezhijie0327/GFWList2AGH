@@ -1095,7 +1095,6 @@
 18.69.205.115.zz.countries.nerd.dk
 18.courier-push-apple.com.akadns.net
 18.courier2-push-apple.com.akadns.net
-1800704.com
 1800contacts.com
 1800flowers.com
 1800gotjunk.com
@@ -1577,7 +1576,6 @@
 21boy.com
 21centuryaccess.com
 21dressroom.com
-21haodianmt.com
 21hjdc.com
 21join.com
 21muwu.com
@@ -3319,7 +3317,6 @@
 592meiju.com
 5948684.com
 596.am
-5962624.cn
 59668a.com
 597259.cc
 598669.com
@@ -3588,7 +3585,6 @@
 661995.cc
 662211.com
 66222989.com
-6623362.com
 6627625.com
 663046.com
 66333885.com
@@ -3810,7 +3806,6 @@
 7065911.com
 70773.com
 7086.in
-708870.com
 7089262.com
 7090853.com
 70911h.com
@@ -3835,7 +3830,6 @@
 716.itemdb.com
 7160.com
 7167584.com
-7171hu.com
 71749b.com
 71ab.com
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
@@ -4699,7 +4693,6 @@
 942.mrbonus.com
 942porn.com
 942porn.net
-9439522.com
 94477.com
 9464145.com
 94695.com
@@ -4911,7 +4904,6 @@
 9968911.com
 99698r.com
 9970f269891e9b3afe59c006db14a883.nrb.footprintdns.com
-9972594.com
 99770.hhxxee.com
 9977buyu.com
 997hw.com
@@ -7384,7 +7376,6 @@ adbetclickin.pink
 adbinead.com
 adbiz.co.kr
 adbiz3.co.kr
-adbl.spieletipps.de
 adblade.com
 adblockplus.org
 adbma.adk2.co
@@ -8708,7 +8699,6 @@ ads2.contentabc.com
 ads2.evz.ro
 ads2.femmefab.nl
 ads2.gamecity.net
-ads2.greystripe.com
 ads2.haber3.com
 ads2.hsoub.com
 ads2.mediaarmor.com
@@ -10697,7 +10687,6 @@ ambientbp.com
 ambientedirect.com
 ambit.chat
 ambitvpn.com
-ambjl20.com
 ambria.de
 amcas.org
 amcastle.com
@@ -12060,6 +12049,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -12468,7 +12458,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appdynamics.co.uk
@@ -13490,6 +13479,7 @@ assemblecommunities.com
 asset-cache.net
 asset.nahnoji.cz
 asset.pagefair.net
+asset.tantanapp.com
 assetmanagement.att.com
 assetmanagement.pictet
 assets-cdn.github.com
@@ -13786,7 +13776,6 @@ attachments.office.net
 attachtrauma.org
 attackmen.com
 attalascom.com
-attaqwapreneur.com
 attbelieves.com
 attbusiness.net
 attcenter.com
@@ -14993,7 +14982,6 @@ baidu.com.hen83.com
 baidu.marylandbass.com
 baidu.masonic-lodge.ca
 baidu.swmbudokan.com
-baidu.tlssyg.com
 baidusemer.com
 baidut.github.io
 baiduvv.com
@@ -24315,7 +24303,6 @@ cn.venetianmacao.com
 cn.venetianmacau.com
 cn.yahoo.com
 cn.zimuzimu.com
-cn1.relay.iplc.pro
 cn1.stadiumgoods.com
 cn1069.org
 cn163.net
@@ -25315,7 +25302,6 @@ conres.com
 conrestestequipment.com
 conscrypt.com
 conscrypt.org
-consensu.org
 consensus.com
 consensusfax.com
 consent-manager.metomic.io
@@ -25937,7 +25923,6 @@ count.rtl.de
 count.webstatistik-bw.de
 count.yandeg.ru
 count10.51yes.com
-count11.51yes.com
 count12.51yes.com
 count14.51yes.com
 count15.51yes.com
@@ -25960,7 +25945,6 @@ count3.51yes.com
 count30.51yes.com
 count31.51yes.com
 count32.51yes.com
-count33.51yes.com
 count34.51yes.com
 count35.51yes.com
 count36.51yes.com
@@ -25974,8 +25958,6 @@ count42.51yes.com
 count43.51yes.com
 count44.51yes.com
 count45.51yes.com
-count46.51yes.com
-count47.51yes.com
 count48.51yes.com
 count49.51yes.com
 count5.51yes.com
@@ -26984,7 +26966,6 @@ ctor.io
 ctot.com
 ctowc.org
 ctp1.bforbank.com
-ctquan.com
 ctr-iwb.nmg.de
 ctr-opc.nmg.de
 ctr.nmg.de
@@ -28847,7 +28828,6 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
-dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -32091,6 +32071,7 @@ dvvkov.agrieuro.de
 dvvmvz.tut-prosto.ru
 dvyfpg.netology.ru
 dw-eu.com.com
+dw-online.ksosoft.com
 dw-world.com
 dw-world.de
 dw.com
@@ -33549,6 +33530,7 @@ ee.etowns.net
 ee.hdboping.com
 ee.mfufanj.cn
 ee.sightful.nl
+ee.u0r9.cn
 ee.wh723.cn
 ee.zowmgxpz.cn
 ee176.net
@@ -37565,7 +37547,6 @@ finishkilpailu.fi
 finishline.com
 finishwin.be
 finlandiatalo.fi
-finler.net
 finley.finleyusa.com
 finleyusa.com
 finlitsummit.org
@@ -40249,7 +40230,6 @@ gazzetta.adman.gr
 gb.igg.biz
 gb.net
 gb.qpoe.com
-gb.wanyi111.com
 gb.zettle.com
 gb508.com
 gbccu.ca
@@ -47332,7 +47312,6 @@ hj294.com
 hj2966.com
 hj3199.com
 hj3299.com
-hj354.com
 hj398.com
 hj447.com
 hj473.com
@@ -47353,7 +47332,6 @@ hj6855.com
 hj7001.com
 hj7009.com
 hj7738.com
-hj794.com
 hj8058.com
 hj829.com
 hj8383.com
@@ -48002,7 +47980,6 @@ hosyusokuhou.jp
 hot-mob.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
-hot.browser.miui.com
 hot.useractive.com
 hot1024.win
 hot4k.org
@@ -48955,7 +48932,6 @@ i.stack.imgur.com
 i.static.zaplata.bg
 i.v2ex.co
 i.vimeocdn.com
-i.w.inmobi.com
 i.w55c.net
 i.wuw.red
 i.youzipi.net
@@ -55058,7 +55034,6 @@ jx.911cha.com
 jx.lyhanda.com
 jx.rirxpqx.cn
 jx118114.net
-jx2833.com
 jx668.vip
 jx688.vip
 jx8885.com
@@ -55109,7 +55084,6 @@ jzplay.net
 jzplay518.com
 jzprtb.1stdibs.com
 jzpxyd.com
-jzqyw.com
 jzvhzmu.duckdns.org
 jzz.com
 k-0002.k-msedge.net
@@ -55603,7 +55577,6 @@ keqglr.panvel.com
 ker.pic2pic.site
 ker.www.wp.pl
 kerakoll.com
-kerenua.xyz
 kerizexe.duckdns.org
 kerjadigital.my.id
 kermi.de
@@ -57006,7 +56979,6 @@ lapfoxtrax.com
 lapiazzetta-horsham.com
 lapinkids.com
 lapolice.com
-lapolice.net
 lapperre.be
 lapphuong.com.vn
 lapreferente.com
@@ -60032,7 +60004,6 @@ m.ftchinese.com
 m.fuhuiapac.com
 m.fun551.com
 m.fun560.com
-m.future888.net
 m.fxcm-zh.com
 m.gcaog.com
 m.global-ssl.fastly.net
@@ -60058,7 +60029,6 @@ m.hot-mob.com
 m.hotmail.com
 m.huancai66.com
 m.hx623.cn
-m.hy10010.com.cn
 m.ihais.com
 m.ilife.cn
 m.iruad.com
@@ -60222,6 +60192,7 @@ m.yzc212.com
 m.z0mh0u.cn
 m.zdjgj.cn
 m.zenwq.com
+m.zowmgxpz.cn
 m.zuu.co.jp
 m.zwda.com
 m.zwdu.com
@@ -61063,7 +61034,6 @@ marcus.com
 marcusevans-events.com
 marcusmillichap.com
 marcusoscarsson.se
-marcussoil.com
 marefa.org
 marel.com
 marelbo.com
@@ -64819,7 +64789,6 @@ minecraftpremiumaccount.leakbay.net
 minecraftr.us
 minecraftshop.com
 mineirinhanalemanha.de
-minekitten.io
 minelli.fr
 minepi.com
 miner-deu-1.inf.nimiq.network
@@ -70390,7 +70359,6 @@ nykaafashion.com
 nykredit.dk
 nylaarp.com
 nylinvestments.com
-nylon-angel.com
 nylonstockingsonline.com
 nym2-tr.adnxs.com
 nym5c.bonlook.com
@@ -73651,7 +73619,6 @@ passmarketing.net.daraz.com
 passport.net
 passr-is-1-2.net.daraz.com
 password.newzgames.com
-password.thishack.org
 passwordreset.microsoftonline.com
 passwordsleakcheck-pa.googleapis.com
 passworld.cc
@@ -76389,7 +76356,6 @@ pp.promocionesfarma.com
 pp.ru
 pp.teksty-pesenok.ru
 pp.ua
-pp090909.com
 pp09s3217.steutura.com
 pp09s5392.riggearf.com
 pp2.dhzw.org
@@ -79682,7 +79648,6 @@ rbsaust.com.au
 rbsm.com
 rbspeakup.com
 rbtdcq.x2o.be
-rbwipb.nonton.ru
 rc-au.imrworldwide.com
 rc.376zf.com
 rc.andmejs.com
@@ -81576,7 +81541,6 @@ ru.com
 ru.gg
 ru.net
 ru.wargaming.net
-ru1.direct.iplc.pro
 ruai.lesile.net
 ruan.com
 ruanf.com
@@ -82479,7 +82443,6 @@ salebeatslasteststyle4you.com
 saleblackfridaydrebeats.com
 salecheaphandbags.com
 salefile.googlecode.com
-salemtoumi39.ddns.net
 salemwebnetwork.com
 sales-pop-dot-autoketing-production-sdk.appspot.com
 sales.anchorhanover.org.uk
@@ -83779,7 +83742,6 @@ sec-lib-oa-2.net.daraz.com
 sec-nfreya.net.daraz.com
 sec-wlan-switch.net.daraz.com
 sec.csr31.net.daraz.com
-secam.ddns.net
 secby.me
 seccionamarilla.com.mx
 secimage.adtech.fr
@@ -86112,7 +86074,6 @@ skypedataprdcoleus04.cloudapp.net
 skypedataprdcoleus06.cloudapp.net
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net
-skypedataprdcoleus14.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
 skypedataprdcoljpw01.cloudapp.net
@@ -86120,7 +86081,6 @@ skypedataprdcoljpw02.cloudapp.net
 skypedataprdcolneu01.cloudapp.net
 skypedataprdcolneu02.cloudapp.net
 skypedataprdcolneu04.cloudapp.net
-skypedataprdcolneu06.cloudapp.net
 skypedataprdcoluks01.cloudapp.net
 skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
@@ -86131,7 +86091,6 @@ skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus03.cloudapp.net
 skypedataprdcolwus04.cloudapp.net
 skypedataprdcolwus08.cloudapp.net
-skypedataprdcolwus09.cloudapp.net
 skypedataprdcolwus10.cloudapp.net
 skypedataprdcolwus11.cloudapp.net
 skypedataprdcolwus12.cloudapp.net
@@ -91138,7 +91097,6 @@ stats.garten.schule
 stats.gc-apple.com.akadns.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
-stats.geegain.com
 stats.geobox.app
 stats.getdoks.org
 stats.gethyas.com
@@ -91463,7 +91421,6 @@ stats.themakoreactor.com
 stats.therenegadecoder.com
 stats.thermofisher.com
 stats.thingsthatkeepmeupatnight.dev
-stats.thomasjensen.com
 stats.thomasvitale.com
 stats.thoughtcatalog.com
 stats.timmyomahony.com
