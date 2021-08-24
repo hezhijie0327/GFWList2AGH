@@ -1117,6 +1117,7 @@
 119hn.com
 119tx.com
 119you.com
+11a12.com
 11chuangye.com
 11dns.com
 11dream.net
@@ -12254,7 +12255,6 @@ bjmti.com
 bjmyw.com
 bjnaxl.com
 bjnsr.com
-bjornfromsweden.com
 bjp321.com
 bjpanzisheying.com
 bjpowernode.com
@@ -15421,7 +15421,6 @@ chinagdg.com
 chinagiftsfair.com
 chinagoldcoin.net
 chinagoldgroup.com
-chinagolfindustryexpo.com
 chinagolfshow.com
 chinagp.net
 chinagps.cc
@@ -19253,6 +19252,8 @@ dbyb.org
 dbytwl.com
 dbzgia.com
 dc-cn.com
+dcarimg.com
+dcarstatic.com
 dcb123.com
 dcdapp.com
 dcement.com
@@ -20548,7 +20549,6 @@ dongfang77.com
 dongfangfj.com
 dongfangfuli.com
 dongfangnews.com
-dongfangtai.com
 dongfangtech.net
 dongfangweiting.com
 dongfeng-honda-elysion.com
@@ -21329,7 +21329,6 @@ dyhxgame.com
 dyhzj.com
 dyj.cc
 dyjqd.com
-dykj.site
 dylc.com
 dylxx.net
 dyly.com
@@ -21376,7 +21375,6 @@ dzbake.com
 dzbarcode.com
 dzbchina.com
 dzblxx.com
-dzbmama.com
 dzboligang.com
 dzcgtgcl.com
 dzcj.tv
@@ -28216,6 +28214,7 @@ hdltest.com
 hdmayi.com
 hdmm168.com
 hdmnw.com
+hdmooncake.com
 hdmv.org
 hdnfm.com
 hdpfans.com
@@ -32309,7 +32308,6 @@ iopenhec.com
 ioperat.com
 ioqq.com
 ios1234.com
-ios8.app
 iosappx.com
 iosask.com
 ioschina.cc
@@ -34735,7 +34733,6 @@ jocctv.com
 joe92.com
 joehill.me
 joenchen.com
-johaney.com
 johhan.com
 johnardo.com
 johnwatsondev.com
@@ -40939,7 +40936,6 @@ meitegou.com
 meitianhui.com
 meitibijia.com
 meitironghe.org
-meitiyun.org
 meitu.com
 meituan.com
 meituan.net
@@ -45139,6 +45135,7 @@ paxdn.com
 paxgl.com
 paydxm.com
 payeco.com
+paylf.com
 paymax.cc
 paympay.com
 payrao.com
@@ -52418,7 +52415,6 @@ souqupu.com
 source3g.com
 sourcecodecap.com
 sourcedev.cc
-sourcejoy.com
 sousea.com
 soushai.com
 soushuking.com
@@ -53270,7 +53266,6 @@ swcd3.com
 swchina.org
 swcpu.com
 sweetalkos.com
-sweetcelebrationpa.com
 sweetdan.com
 sweetlove.cc
 sweetmartmarketing.com
@@ -55473,7 +55468,6 @@ tonitech.com
 tonnn.com
 tonylit.me
 tonysfarm.com
-tooben.com
 toobug.net
 toocle.com
 toodaylab.com
@@ -55561,7 +55555,6 @@ toprand.com
 topsage.com
 topscan.com
 topsedu.com
-topsounded.com
 topswim.net
 toptastewin.com
 topthink.com
@@ -55720,7 +55713,6 @@ trade-plug.net
 trade2cn.com
 tradeask.com
 tradehome.org
-tradeidc.com
 tradeleo.com
 traderwork.com
 tradew.com
@@ -56884,6 +56876,7 @@ un1c0de.xyz
 una-ad.com
 unages.com
 unbing.cn
+unblockcn.com
 unbuyi.com
 uncbd.com
 unccr.com
@@ -58628,7 +58621,6 @@ wdsrc.com
 wdssmq.com
 wdstory.com
 wdszb.com
-wdtcp.com
 wdtianxia.com
 wdtlfj.com
 wduw.com
@@ -61227,7 +61219,6 @@ xcdesign.net
 xcexe.com
 xcfee.com
 xcfunds.com
-xcggpt.com
 xcgjj.com
 xcgogo.club
 xcgogo.site
@@ -68841,7 +68832,6 @@ zjfdc.net
 zjft.com
 zjgas.net
 zjgjj.com
-zjgmsw.com
 zjgqt.org
 zjgrrb.com
 zjgslb.com
