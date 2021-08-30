@@ -4,7 +4,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -554,7 +553,6 @@
 0668.com
 068632.com
 06abc.com
-06bv.com
 06climate.com
 06dns.com
 06ef5c4379cb1f553795f0b3e8fd87dd.dlied1.cdntips.net
@@ -2098,7 +2096,6 @@
 166161.com
 166396.com
 1666.com
-1668g.com
 166cai.com
 166ks.net
 166sh.com
@@ -7633,7 +7630,6 @@
 6yuexi.com
 6yxk.com
 6yyy7.com
-6z1gf.cn
 6zoxt9.tdum.alibaba.com
 6zu.com
 7-hotel.com
@@ -7704,7 +7700,6 @@
 71baomu.com
 71baomu.net
 71dfd440.qc.x.bsgslb.cn
-71dj.org
 71dm.com
 71du.com
 71e.com
@@ -13893,6 +13888,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -13912,7 +13908,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -18847,7 +18842,6 @@ c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
 c.l570mb.cn
-c.lalaxqt.cn
 c.lattebank.com
 c.leankun.com
 c.lenovo.com.cn
@@ -18861,7 +18855,6 @@ c.n.shifen.com
 c.nkzker.cn
 c.ns8d.com
 c.nstool.ntes53.netease.com
-c.oumaite168.com.cn
 c.panruo.net.cn
 c.pc.qq.com
 c.pcs.baidu.com
@@ -24374,7 +24367,6 @@ coingogo.com
 coinnice.com
 coinsky.com
 coinvs.com
-coinw.com
 cojia.net
 cokemine.com
 cokll.com
@@ -27012,7 +27004,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -32613,7 +32604,6 @@ etax.zhejiang.chinatax.gov.cn
 etaxcn.com
 etc.1332vp.com
 etc.6187wo.com
-etc.jiguangzhuisu.com
 etccenter.com
 etcchebao.com
 etcsd.com
@@ -39662,7 +39652,6 @@ hbszzx.com
 hbtaiyang.com
 hbtcw.com
 hbtengniu.com
-hbtlsd.com
 hbtobacco.com
 hbtxbaidu.com
 hbtybio.com
@@ -45917,7 +45906,6 @@ ipr123.com
 ipr66.com
 iprchn.com
 iprdaily.com
-ipreport.yifutangvip.net
 ipresst.com
 iprun.com
 ips.ifeng.com
@@ -48868,7 +48856,6 @@ js.pub.tom.com
 js.qajypx.com
 js.qqsort.com
 js.ruiwen.com
-js.safe524.xyz
 js.shangxueba.com
 js.sohu.com
 js.stat.ijinshan.com
@@ -51314,7 +51301,6 @@ kuaixiazai.com
 kuaixun360.com
 kuaiya.cn
 kuaiyan.com
-kuaiyankanshu.net
 kuaiyilicai.com
 kuaiyingxiao88.com
 kuaiyoujia.com
@@ -54553,7 +54539,6 @@ lrcb.net
 lrcgc.com
 lrcku.com
 lrd.cc
-lrdgb.cn
 lrdzt.com
 lread.net
 lrenwang.com
@@ -54718,7 +54703,6 @@ lufeng.baixing.com
 luffycity.com
 luftweb.com
 lufuli.com
-lufuli.net
 lufunds.com
 lug.ustc.edu.cn
 lugir.com
@@ -55381,7 +55365,6 @@ m.news.cctv.com
 m.newsmth.net
 m.nq37f.cn
 m.nuoqingck.cn
-m.ocenp.com
 m.pinduoduo.net
 m.pizzahut.com.cn
 m.poonscn.com
@@ -63928,7 +63911,6 @@ pic.alipayobjects.com.danuoyi.tbcache.com
 pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
-pic.c-ctrip.com
 pic.c-ctrip.com.cdn20.com
 pic.chinaz.com
 pic.chinaz.com.wscdns.com
@@ -64349,7 +64331,6 @@ pkgautoupdate7.synology.cn
 pkginstaller-drcn.hispace.hicloud.com
 pkgklk.com
 pki-goog.l.google.com
-pkkjxs.cn
 pkm360.com
 pkmmo.com
 pko123.com
@@ -67959,7 +67940,6 @@ qtzoakjh.v1d.szbdyd.com
 qtzoawhy.v1d.szbdyd.com
 qtzoq1nh.v1d.szbdyd.com
 qtzoqtrf.v1d.szbdyd.com
-qtzqnstatics.mxingkong.net
 qtzslgm9.v1d.szbdyd.com
 qtzweb.mxingkong.net
 qu.fang.anjuke.com
@@ -68656,6 +68636,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -70640,7 +70621,6 @@ saee.org.cn
 saf588.com
 safe.liepin.com
 safe.ucweb.com
-safe524.xyz
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 safebrowsing.qq.com
@@ -75425,7 +75405,6 @@ static-data.eol.cn
 static-default.17house.com
 static-doubleclick-net.l.google.com
 static-dxospf.split.netease.com
-static-exp1.licdn.com
 static-img.threatbook.cn
 static-jstv-com.b0.aicdn.com
 static-jw.msstatic.com
@@ -75611,6 +75590,7 @@ static.sundxs.com
 static.sundxs.com.w.kunlungr.com
 static.t.agrantsem.com
 static.taishan.qq.com
+static.template.pcbeta.com
 static.terminus.io
 static.terminus.io.w.kunlunhuf.com
 static.thefifthera.com
@@ -77179,7 +77159,6 @@ t06img.yangkeduo.com
 t07img.yangkeduo.com
 t086.com
 t08img.yangkeduo.com
-t0vrxtvrkufhz8dcm5avg9chzwjpq7gk.yundunwaf4.com
 t1-dsa-opencdn.a.bdydns.com
 t1.58cdn.com.cn
 t1.612.com
