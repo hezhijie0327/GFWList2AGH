@@ -904,7 +904,6 @@
 1.feeddsp.cn
 1.feihua.com
 1.guyaheng.com
-1.hao123.com
 1.huobiwang.cc
 1.hysou.com
 1.idc100.com
@@ -10109,6 +10108,7 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -10577,6 +10577,7 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
+abtest.tantanapp.com
 abtionb.com
 abto.cc
 abuquant.com
@@ -11529,7 +11530,6 @@ afp.alicdn.com
 afp.m1905.com
 afp.zol-img.com.cn
 afpeng.alimama.com
-afpimages.eastday.com
 afpmm.alicdn.com
 afpssp.alimama.com
 afptrack.alimama.com
@@ -13795,7 +13795,6 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -13885,7 +13884,6 @@ app-router.com
 app-router.leancloud.cn
 app-sage.com
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14439,7 +14437,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -17633,7 +17630,6 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -18515,7 +18511,6 @@ buy027.com
 buy360.vip
 buyanshufa.com
 buyaocha.com
-buyaor.cc
 buybieshu.com
 buycarcn.com
 buychuan.com
@@ -18830,7 +18825,6 @@ c.kanwby.com
 c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
-c.l570mb.cn
 c.lattebank.com
 c.leankun.com
 c.lenovo.com.cn
@@ -18851,7 +18845,6 @@ c.pcs.baidu.com
 c.pcs.n.shifen.com
 c.piecoupon.cn
 c.sayhi.360.cn
-c.shishishiguixinfangfuzhuangshanghan.cn
 c.ssp.qq.com
 c.sssgao999.com
 c.sysycloud.com
@@ -23329,7 +23322,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -24526,6 +24518,7 @@ comseoer.com
 comsharp.com
 comsol.com
 comvps.com
+con.hk
 conac.cn
 conan.yuanfudao.com
 conchdesktop.com
@@ -26383,7 +26376,6 @@ d9.sina.com.cn
 d9.sinaimg.cn
 d959c33da1b7a55b8b5e10f902512b35.dlied1.cdntips.net
 d97b3956e88f47d54d10499f0ca8b01e.safeframe.googlesyndication.com
-d9917.com
 da-qian.com
 da-quan.net
 da.anythinktech.com
@@ -31509,7 +31501,6 @@ ecollision.shareinstall.com.cn
 ecom.snssdk.com
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
-ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecookinn.com
@@ -36309,7 +36300,6 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -37668,7 +37658,6 @@ gtn9.com
 gtnqk.com
 gto365.com
 gtobal.com
-gtobal.net
 gtshuwu.com
 gtshy.com
 gttof2020.com
@@ -39792,7 +39781,6 @@ hd-tvb.com
 hd.browser.miui.com
 hd.chinatax.gov.cn
 hd.gg
-hd.hupu.com
 hd.huya.com
 hd.huya.com.w.alikunlun.com
 hd.mmstat.com
@@ -41593,7 +41581,6 @@ hrhuiyi.com
 hrhy365.com
 hrintl.com.hk
 hrjg.com.cn
-hrkol.com
 hrloo.com
 hrm100.com
 hrmarket.net
@@ -43415,7 +43402,6 @@ ibestfanli.com
 ibestservice.com
 ibestv.com
 ibeta.me
-ibeta.me.w.kunluncan.com
 ibgbuy.com
 ibianqu.com
 ibiaozhi.com
@@ -44881,7 +44867,6 @@ img.yzcdn.cn
 img.zcool.cn
 img.zcool.cn.w.kunlungem.com
 img.zhls.qq.com
-img.zuimh.com
 img.zuowenwang.net
 img.zuoyebang.cc
 img0-arch.pconline.com.cn
@@ -46872,7 +46857,6 @@ jb-hacker.com
 jb.4hw.com.cn
 jb.asqql.com
 jb.ecar168.cn
-jb.mbaidu.top
 jb1000.com
 jb51.cc
 jb51.com
@@ -48800,6 +48784,7 @@ js.ad7.com
 js.admin6.com
 js.aq.qq.com
 js.aq.tc.qq.com
+js.bckrono.cn
 js.ccmeng.com
 js.cdn.aliyun.dcloud.net.cn
 js.cdn.aliyun.dcloud.net.cn.w.kunlungr.com
@@ -55288,6 +55273,7 @@ m.huya.com
 m.huya.com.w.kunlunar.com
 m.huya.com.w.kunlunar.com.qr.uuhimalayanqm.com
 m.huya.com.w.kunlunar.com.v.vvpncdn.com
+m.i2356.com
 m.icekr.com
 m.idongde.com
 m.im
@@ -55430,7 +55416,6 @@ m.xm124.com
 m.xuexila.com
 m.xyadaa.com
 m.xyadxia.com
-m.y195j.cn
 m.yalayi.com
 m.yanjunbo.com
 m.yes.youku.com
@@ -58642,7 +58627,6 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
-ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -62841,6 +62825,7 @@ pagecookery.com
 pages-juxiao.mediav.com
 pages.c-ctrip.com
 pages.c-ctrip.com.lxdns.com
+pages.ctrip.com
 pages.ctrip.com.cdn20.com
 pages.juxiao.mediav.com
 pages.tmall.com
@@ -63922,6 +63907,7 @@ pic.moad.cn
 pic.mytown.qq.com
 pic.new400.cn
 pic.orsoon.com
+pic.paopaoche.net
 pic.pc6.com
 pic.punchbox.org
 pic.qhyc55.com
@@ -64671,7 +64657,6 @@ porschesky.com
 port.sec.miui.com
 portablesoft.org
 portal-portm.meituan.com
-portal.xunyou.mobi
 portalcdn.cdnetworks.com
 portoflower.com
 portrait.gitee.com
@@ -72035,7 +72020,6 @@ sh.file.myqcloud.com
 sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
-sh.jd.com
 sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
@@ -74853,6 +74837,7 @@ speedpan.net
 speedsz.net
 speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
+speedv6.m.jd.com
 speedws.info
 speedws.org
 speedycloud.cc
@@ -79406,7 +79391,6 @@ tonglu.baixing.com
 tonglukuaijian.com
 tongluyizhao.com
 tongmengguo.com
-tongmoe.com
 tongpankt.com
 tongquee.com
 tongshanbank.com
@@ -82313,7 +82297,6 @@ v.hoopchina.com.cn
 v.ifeng.com
 v.img.pplive.cn
 v.iqilu.com
-v.jinliaoyang.com
 v.jsbgh.cn
 v.jstv.com
 v.jumorecn.com.cn
