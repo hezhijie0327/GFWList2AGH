@@ -78,6 +78,7 @@
 (@%!)cl5.apple.com.mwcname.com
 (@%!)client-api.itunes.apple.com.mwcname.com
 (@%!)gsa.apple.com.akadns.net
+(@%!)icloud.com
 (@%!)init-p01md.apple.com
 (@%!)init-p01md.apple.com.mwcname.com
 (@%!)init.ess.apple.com
