@@ -5051,7 +5051,6 @@
 52rd.com
 52rd.net
 52rental.com
-52saf.com
 52samsung.com
 52sddz.com
 52shangou.com
@@ -5463,7 +5462,6 @@
 58xs.la
 58xs.tw
 58xueche.com
-58xuechewang.com
 58xuexi.com
 58yiji.com
 58yuefu.com
@@ -6543,6 +6541,7 @@
 7dapei.com
 7dianw.com
 7didc.com
+7dmf7zl.cn
 7do.net
 7down.com
 7down.net
@@ -8797,6 +8796,7 @@ ahu.cc
 ahuano.com
 ahudows.com
 ahuyi.com
+ahwczn.cn
 ahwwfn.com
 ahwwnews.com
 ahydnet.com
@@ -10150,7 +10150,6 @@ appkai.com
 appkaifa.com
 appkefu.com
 appkg.com
-applaudads.com
 apple-dns.cn
 apple-dns.net
 apple.com
@@ -13442,7 +13441,6 @@ budou.com
 buduanwang.vip
 buduobaobao.com
 bufan.com
-buff777.vip
 buffst.com
 bughd.com
 bugku.com
@@ -17363,7 +17361,6 @@ cnfrag.com
 cnfree.org
 cnfruit.com
 cnfsae.com
-cnfuchsiaos.com
 cnfuyin.org
 cnfxj.org
 cnfygy.com
@@ -17493,7 +17490,6 @@ cnkivip.net
 cnkix.com
 cnkizw.com
 cnklog.com
-cnkme.com
 cnknowledge.com
 cnkok.com
 cnkore.com
@@ -21077,6 +21073,7 @@ doit.am
 doitim.com
 doki8.com
 doko.com
+dokrmob.com
 dolanzz.com
 dolboebishekonchennoenahui.xyz
 dolcn.com
@@ -28285,7 +28282,6 @@ hanshuliang.com
 hansight.com
 hansiji.com
 hansme.com
-hanspldata.com
 hanspub.org
 hansrobot.com
 hansuku.com
@@ -31804,7 +31800,6 @@ i8i8i8.com
 i8tq.com
 i9.org
 i91pv.com
-i999d.cn
 i9star.com
 i9wang.com
 ia-shenzhen.com
@@ -34169,7 +34164,6 @@ jc56.com
 jc85.com
 jcaik.com
 jcbctv.com
-jcboloni.cn
 jccsoc.com
 jccug.com
 jcedu.org
@@ -34679,7 +34673,6 @@ jianshu.io
 jianshu.tech
 jianshuapi.com
 jianshukeji.com
-jianshunrui.com
 jiantizi.com
 jiantuku.com
 jianwang360.com
@@ -39126,7 +39119,6 @@ letvcloud.com
 letvimg.com
 letvlb.com
 letvps.com
-letvstore.com
 letwind.com
 letwx.com
 letyo.com
@@ -42680,6 +42672,7 @@ mingbianji.com
 mingcalc.com
 mingchaoonline.com
 mingchaoyouxi.com
+mingcidianzi162.cn
 mingcloud.net
 mingczh.com
 mingda.net
@@ -44227,7 +44220,6 @@ nanzixun.com
 naobiao.com
 naoda.net
 naoffer.com
-naolifanghealth.com
 naonaola.com
 naotan020.com
 naozhong.net
@@ -54882,6 +54874,7 @@ swstsg.com
 swt0.com
 swwlotus.com
 swwy.com
+swy0dxi.cn
 sx189.com
 sx267.com
 sxafz.com
@@ -54934,6 +54927,7 @@ sxmtdz.com
 sxncb.com
 sxnycl.com
 sxol.com
+sxouyada.cn
 sxpdk.com
 sxpjp.com
 sxplc.com
@@ -57145,6 +57139,7 @@ tooopen.com
 tooseo.com
 tootour.com
 toouoo.com
+toourbb.com
 top-iot.com
 top100summit.com
 top147.com
@@ -63625,7 +63620,6 @@ xiaohei.com
 xiaoheiban.cn
 xiaoheihe.cn
 xiaoheima.com
-xiaohongblog.com
 xiaohongchun.com
 xiaohongdian.wang
 xiaohongshu.com
@@ -65443,6 +65437,7 @@ xuxian.com
 xuxian.me
 xuxueli.com
 xuxusheng.com
+xuyangwl.cn
 xuyaokeji.com
 xuyi.net
 xuyilx.com
@@ -65528,6 +65523,7 @@ xxlcn.com
 xxlinux.com
 xxliudsp.com
 xxlwin.com
+xxm.plus
 xxmac.com
 xxmanhua.info
 xxmh117.com
@@ -72014,13 +72010,17 @@ zzpd8.com
 zzpuke.com
 zzpzero.com
 zzqklm.com
+zzqqhb.com
 zzqxs.com
 zzrbl.com
+zzrcz.com
 zzrseng.com
+zzsdtzb.com
 zzsf.com
 zzsggzy.com
 zzsgjj.com
 zzssjx.com
+zzssywh.cn
 zzsteel.com
 zzstep.com
 zzt9.com
