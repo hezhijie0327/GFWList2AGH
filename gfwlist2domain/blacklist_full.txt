@@ -15077,7 +15077,6 @@ getipintel.net
 getiton.com
 getjetso.com
 getkeepsafe.com
-getlantern.cn
 getlantern.com
 getlantern.github.io
 getlantern.org
@@ -19835,6 +19834,7 @@ kwak.ml
 kwcg.ca
 kwfq.tk
 kwikj.com
+kwm.com
 kwok7.com
 kwongwah.com.my
 kx08s5838.ledetipe.com

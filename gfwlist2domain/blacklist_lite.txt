@@ -12500,7 +12500,6 @@ getipintel.net
 getiton.com
 getjetso.com
 getkeepsafe.com
-getlantern.cn
 getlantern.com
 getlantern.org
 getmalus.com
@@ -16580,6 +16579,7 @@ kwak.ml
 kwcg.ca
 kwfq.tk
 kwikj.com
+kwm.com
 kwok7.com
 kxlatv.com
 kxm599.com
