@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0-gold.net
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -2943,7 +2942,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -4726,7 +4724,6 @@
 39kx.com
 39meitu.com
 39mo.com
-39photo.net
 39shubao.com
 39sk.com
 39txt.com
@@ -6176,7 +6173,6 @@
 520ldf.com
 520link.com
 520love520.com
-520ly8.com
 520meirenyu.com
 520meirong.com
 520mingmei.com
@@ -10392,6 +10388,7 @@ a1.ifengimg.com
 a1.img.static.youmi.net
 a1.itc.cn
 a1.liuxue86.com
+a1.lmaq.cn
 a1.lshou.com
 a1.mingyihui.net
 a1.mzstatic.com
@@ -11981,7 +11978,6 @@ aicai.com
 aicaicdn.com
 aicaike.com
 aicdn.com
-aicdn2.com
 aicdn4.com
 aicdn5.com
 aichaicp.com
@@ -13781,6 +13777,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -14157,7 +14154,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
-app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14953,6 +14950,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.umeng.com
 au.w.inmobi.cn
 au.youmi.net
@@ -20821,7 +20819,6 @@ cdzdhx.com
 cdzgh.com
 cdzhinan.com
 cdzikao.com
-cdzimeijia.com
 cdzimo.com
 cdzixun.net
 cdzmn.com
@@ -20943,7 +20940,6 @@ ceobiao.com
 ceoeo.com
 ceoim.com
 ceomoo.com
-ceons4.com
 ceook.com
 ceoplaza.com
 ceotx.com
@@ -24463,6 +24459,7 @@ cnsecer.com
 cnseeq.com
 cnsesan.com
 cnsfk.com
+cnshef.com
 cnshipnet.com
 cnshipping.com
 cnsikao.com
@@ -25014,7 +25011,6 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -26200,7 +26196,6 @@ cvtvcn.com
 cw.guominziben.com
 cw.yyb.sched.dcloudstc.com
 cw100.com
-cwan.com
 cwbaike.com
 cwbpsi.com
 cwc.sspu.edu.cn
@@ -28842,7 +28837,6 @@ diershoubing.com
 dietfd.com
 difanapp.com
 difnxm.cn
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -30484,7 +30478,6 @@ dszj.net
 dsznajder.gallerycdn.azure.cn
 dszw.net
 dt-mg-cdn-1255331008.cos.ap-guangzhou.myqcloud.com
-dt.39photo.net
 dt.mydrivers.com
 dt.netease.im
 dta223kq.v1d.szbdyd.com
@@ -36173,6 +36166,7 @@ galgame.cc
 galgamezs.com
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -37431,7 +37425,6 @@ globalcdnweb.qiniu.com.w.kunlunar.com
 globalcompressor.com
 globaldangdang.hk
 globaletrust.com
-globalflyingmagazine.com
 globalhardwares.com
 globalimporter.net
 globalizex.com
@@ -39335,7 +39328,6 @@ habbygames.com
 habyc.com
 hac-ker.net
 hacdn.com
-hacdn.net
 hack0nair.me
 hack50.com
 hack520.com
@@ -45610,6 +45602,7 @@ img.samsungapps.com
 img.scoregg.com
 img.sogoucdn.com
 img.sogoucdn.com.p23.tc.cdntip.com
+img.srxjz.cn
 img.ssl.msdk.qq.com
 img.ssl.msdk.qq.com.x2.sched.dcloudstc.com
 img.sysgeek.cn
@@ -45642,6 +45635,7 @@ img.xiaozhuvideo.com
 img.xiaozhuvideo.com.w.kunlungr.com
 img.xitongcheng.com
 img.xitongcheng.com.cname.yunjiasu-cdn.net
+img.xiwnu.cn
 img.xuexila.com
 img.yangshengtang123.com
 img.yingshidiguo.cn
@@ -48943,7 +48937,6 @@ jiujiuwj.com
 jiujiuyingshi.com
 jiujiuyunhui.com
 jiukang.org
-jiuku.cc
 jiuku.com
 jiulingwan.com
 jiulishi.com
@@ -49870,7 +49863,6 @@ jsmxkj.com
 jsmxw.com
 jsncke.com
 jsningyi.com
-jsnol.com
 jsnp.golden1.sogou.com
 jsnx.net
 jsnxs.com
@@ -51285,6 +51277,7 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
+kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -51731,6 +51724,7 @@ knewbi.com
 knewhy.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knja123.top
 knotesapp.com
@@ -54830,6 +54824,7 @@ lm995.com
 lm9999.com
 lmacc.com
 lmanmo.com
+lmaq.cn
 lmbang.com
 lmbest.com
 lmbld.com
@@ -55836,7 +55831,6 @@ lvdoutang.com
 lvehaisen.com
 lvfang.cc
 lvfl.net
-lvfukeji.com
 lvgaud.ga
 lvgou.com
 lvguang.net
@@ -56458,6 +56452,7 @@ m.zhangyue.com
 m.zhaokaoti.com
 m.zhipin.com
 m.zhuxiaobang.com
+m.zkwsdf.com
 m.zol.com.cn
 m.zs-hospital.sh.cn
 m.zzchuy.cn
@@ -61270,6 +61265,7 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
+nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -61302,6 +61298,7 @@ nfcos.cn
 nfcws.hicloud.com
 nffair.com
 nffund.com
+nfh.cnshef.com
 nfjt.net
 nflchina.com
 nfmedia.com
@@ -62398,6 +62395,7 @@ ocsp.globalsign.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp2.globalsign.com
 ocsp3.sheca.com
@@ -65067,6 +65065,7 @@ pic.alipayobjects.com.danuoyi.tbcache.com
 pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
+pic.c-ctrip.com
 pic.c-ctrip.com.cdn20.com
 pic.casee.cn
 pic.chinaz.com
@@ -68557,7 +68556,6 @@ qns.as35q8.cn
 qnsb.com
 qnsdk.com
 qnssl.com
-qnsst.sy4z9f.cn
 qntz.cc
 qnvideo.mengniu99.com
 qnvod.net
@@ -76329,6 +76327,7 @@ srw00.com
 srwiiu.cn
 srworld.net
 srx3.net
+srxjz.cn
 srxww.com
 sryjx.com
 srzc.com
@@ -90394,6 +90393,7 @@ wyins.net
 wykefu.com
 wykw.com
 wykz.com
+wylws.com
 wymp4.net
 wymp46.com
 wyn88.com
@@ -92286,6 +92286,7 @@ xiwangd.com
 xiwanglife.com
 xiwenquan.com
 xiwnn.com
+xiwnu.cn
 xiwuji.com
 xixi520.com
 xixiaoyou.com
@@ -103701,6 +103702,7 @@ zsezt.com
 zsf.cool
 zsfstudio.xyz
 zsfund.com
+zsfy.org
 zsgd.com
 zsglrj.com
 zsgoodlighting.com
