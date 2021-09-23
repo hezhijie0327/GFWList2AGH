@@ -10961,7 +10961,6 @@ dictionary.com
 dictionary.goo.ne.jp
 didce.com
 diddykongracing.com
-didiao.cloud
 diedart2.com
 diedart5.com
 dielinke-riedstadt.de
@@ -13683,6 +13682,7 @@ firech.at
 fireemblemawakening.com
 firefox.com
 firefoxfan.com
+firefoxusercontent.com
 firelayers.net
 firemon.com
 fireofliberty.org
@@ -16348,6 +16348,7 @@ hd1565.com
 hd21.com
 hd25.tk
 hd36.win
+hd95996.com
 hdd.biz.st
 hdd2.host
 hddirectv.com
@@ -18894,7 +18895,6 @@ jbo53.com
 jbo600.com
 jbo61.com
 jbo65.com
-jbo8.com
 jbo830.com
 jbo84.com
 jbo87.com
@@ -22357,6 +22357,7 @@ moyu4.com
 moyuv5.com
 moyuvpn.net
 mozhua.net
+mozilla.com
 mozilla.community
 mozilla.net
 mozilla.org
