@@ -22272,12 +22272,17 @@ raptorvpn.com
 rarbg.is
 rarbg.me
 rarbgaccess.org
+rarbgaccessed.org
+rarbgget.org
 rarbggo.org
 rarbgmirror.com
 rarbgmirror.org
 rarbgproxy.org
 rarbgprx.org
+rarbgto.org
 rarbgunblock.com
+rarbgunblock.org
+rarbgway.org
 raremovie.cc
 raremovie.net
 raspberrypi.org
@@ -26998,6 +27003,7 @@ videoixir.net
 videojs.com
 videojug.com
 videolan.org
+videomarket.jp
 videomega.tv
 videomo.com
 videomobo.com

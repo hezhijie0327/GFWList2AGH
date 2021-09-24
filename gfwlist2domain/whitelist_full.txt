@@ -525,6 +525,7 @@
 0593666.com
 0594.com
 059400.com
+0594529.com
 0595job.com
 0595rc.com
 0596fc.com
@@ -908,7 +909,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -2945,7 +2945,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -5568,7 +5567,6 @@
 51864.com
 5187g.com
 5188.com
-5188815.com
 518ad.com
 519.best
 519397.com
@@ -8878,7 +8876,6 @@
 87w00b.tdum.alibaba.com
 87yy.com
 88-z.com
-88.yunqishi.net
 88.yunqishi8.com
 8800.org
 8800808.com
@@ -11416,6 +11413,7 @@ adpolestar.net
 adportion.com
 adpro.cn
 adpro.pro.cn
+adpron.com
 adproxy.autohome.com.cn
 adpub.yaolan.com
 adpublish.ydstatic.com
@@ -12139,7 +12137,6 @@ aimo.moe
 aimodou.net
 aimoge.com
 aimsen.com
-aimto.cn
 aimu-app.com
 aimu-online.oss-cn-hangzhou.aliyuncs.com
 ainfiniteactivity.com
@@ -13913,7 +13910,6 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
-api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -14344,7 +14340,6 @@ applex.net
 applicationloader.net
 applinzi.com
 applk.cn
-applog.camera360.com
 applog.ddxq.mobi
 applog.reader.qq.com
 applog.uc.cn
@@ -15173,6 +15168,7 @@ aweme-hl.snssdk.com.xi.zwtianshangm.com
 aweme.snssdk.com
 aweme.snssdk.com.xi.zwtianshangm.com
 aweme.snssdk.com.xi.zwtianshangm.com.qr.uuhimalayanqm.com
+awemeughun.com
 awesome-bruce.me
 awifi.cn
 awinic.com
@@ -16494,6 +16490,7 @@ bdcode.haochu.com.cname4009.yjs-cdn.com
 bdcode.qinglm.com
 bdcode.youke.com
 bdcode1.haodou.com
+bddm.999d.com
 bdf2.com
 bdf304.com
 bdfkb.com
@@ -18821,6 +18818,7 @@ busdh.com
 bushangban.com
 bushen365.com
 business-drcn.cloud.dbankcloud.cn
+business.92wy.com
 business.hicloud.com
 business.inveno.com
 business.msstatic.com
@@ -19815,7 +19813,6 @@ carnoc.com
 carodpiano.com
 carp.baidu.com
 carp56.com
-carpcw.com
 carpela.me
 carrobot.com
 carry6.com
@@ -19828,7 +19825,6 @@ cart.jd.com.gslb.qianxun.com
 cart.taobao.com
 cart.tmall.com
 cartelo.tmall.com
-cartooncn.org
 cartoonwin.com
 carutoo.com
 carvendy.com
@@ -22686,6 +22682,7 @@ chuanbojia.com
 chuanboyi.com
 chuandaizc.com
 chuandong.com
+chuang-yi.com.cn
 chuang.pro
 chuangbie.com
 chuangcache-bilibili.all.a.aocde.com
@@ -23724,6 +23721,7 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
+cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsapi.wifi8.com
 cmsblogs.com
@@ -24996,6 +24994,7 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -25124,6 +25123,7 @@ coolwp.com
 coolxap.com
 coolyun.com
 coolzou.com
+coomix.net
 cooo.us
 coooz.com
 coop.aihuishou.com
@@ -28964,6 +28964,7 @@ diqi.net
 diqi.sh
 diqibu.com
 diqing.baixing.com
+diqishu.com
 diqiujiayuan.com
 diqiuw.com
 diqu114.com
@@ -29399,6 +29400,7 @@ dlyilian.com
 dlyukun.cn
 dlzb.com
 dlztb.com
+dlzww.com
 dlzyc.com
 dlzycf.com
 dm.21hubei.com
@@ -32840,6 +32842,7 @@ eol8.com
 eolinker.com
 eomarket.com
 eomoy.com
+eoncreativity.com
 eonun.com
 eooioo.com
 eoopoo.com
@@ -35341,6 +35344,7 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
+fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -35864,6 +35868,7 @@ fy027.com
 fy169.net
 fy4zb.cn
 fy558.com
+fy65.com
 fy9.cc
 fy98.com
 fybanks.com
@@ -36030,6 +36035,7 @@ g.wan.2345.com
 g.wan.douyu.com
 g.x.evolife.cn
 g.xywy.com
+g.yccdn.com
 g.youyou234.com
 g.yuque.com
 g.zx-jsp.com
@@ -38637,6 +38643,7 @@ guoxuemi.com
 guoxuwang.com
 guoyang.cc
 guoyb.com
+guoyi360.com
 guoyice.com
 guoyitangtt.com
 guoyu.com
@@ -39317,7 +39324,6 @@ habadog.com
 habbygames.com
 habyc.com
 hac-ker.net
-hacdn.com
 hack0nair.me
 hack50.com
 hack520.com
@@ -41107,7 +41113,6 @@ hhht.lianjia.com
 hhht.zu.anjuke.com
 hhhtnews.com
 hhhtscf.com
-hhinternational.cn
 hhjkyz.com
 hhjtwl.com
 hhl1916.com
@@ -41444,7 +41449,6 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42838,7 +42842,6 @@ huayinjapan.com
 huayinziben.com
 huayoumengze.com
 huayoutianyu.com
-huayu9527.com
 huayuanlcd.com
 huayuannongji.com
 huayuebaobao.com
@@ -43922,7 +43925,6 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -49734,6 +49736,7 @@ js50.ys137.com
 js53777.com
 js6.efyt6.com
 js66649.com
+js74.yqjxzw.com
 js7xc.com
 js8.in
 js811.com
@@ -51325,7 +51328,6 @@ kexue.com
 kexue.fm
 kexuelife.com
 kexuezixunzzs.com
-key007.com
 keyan.life
 keyand.xyz
 keybag.id.mi.com
@@ -51761,7 +51763,6 @@ kokomh.com
 kole8.com
 kolrank.com
 kolstore.com
-kolur.top
 komect.com
 kometo.com
 kompaz.win
@@ -52693,7 +52694,6 @@ lakecn.com
 laker.me
 lakwdian.com
 lalala.lol
-lalalalala.club
 lalaxit.cn
 lalaxqt.cn
 laliga.pptv.com
@@ -56260,7 +56260,6 @@ m.haotoon.cn
 m.health.pingan.com
 m.hellobike.com
 m.heygugu.com
-m.hhinternational.cn
 m.hlcnzz.com
 m.hmzsfmjc.com
 m.hpfjy.com
@@ -58701,7 +58700,6 @@ mipengine.baidu.com
 mipengine.org
 miplus.cloud
 mipsa.ciae.ac.cn
-mipstatic.sm-tc.cn
 mipujia.com
 miquapp.com
 miquw.com
@@ -59210,7 +59208,6 @@ modern.tenpay.com
 modernsky.com
 modernweekly.com
 modian.com
-modix.biz
 modo.pub
 modoer.com
 modooplay.com
@@ -59388,7 +59385,6 @@ monitor.yigao.com
 monitor2.tgp.qq.com
 monitorapim1g.mathpool.cn
 monitorapim2g.mathpool.cn
-monitoring.cn1.modix.biz
 monizl.com
 monph.com
 monseng.com
@@ -60055,7 +60051,6 @@ mvads.kugou.com
 mvben.com
 mvc188.com
 mvcat.com
-mvgod.com
 mvhere.com
 mvideopic.bdstatic.com
 mvmpg.com
@@ -61260,7 +61255,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -61614,6 +61608,7 @@ njmama.com
 njmuseum.com
 njnutz.com
 njpwerner.gallerycdn.azure.cn
+njq.net
 njqxrc.com
 njrc365.com
 njrsrc.com
@@ -71511,6 +71506,7 @@ s.qhupdate.com
 s.renren.com
 s.search.bilibili.com
 s.share.baidu.com
+s.signstu.top
 s.ssl.qhimg.com
 s.ssl.qhres2.com
 s.taobao.com
@@ -71875,6 +71871,7 @@ saicgmac.com
 saicgroup.com
 saicjg.com
 saicmaxus.com
+saicmobility.com
 saicmotor.com
 saicyun.com
 saidawang.com
@@ -86861,6 +86858,7 @@ wenzhou.anjuke.com
 wenzhou.baixing.com
 wenzhousx.com
 wenzidi.com
+wenzon.com
 wepiao.com
 wepie.com
 weplaybubble.com
