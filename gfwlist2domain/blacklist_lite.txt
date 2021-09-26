@@ -1603,7 +1603,6 @@
 54647.global
 54647.io
 54647.online
-54647.org
 54647.xyz
 546990.com
 5482562.com
@@ -3866,6 +3865,7 @@ api-extractor.com
 api.ai
 api.news
 apiary.io
+apibay.org
 apigee.com
 apisof.net
 apitilt.com
@@ -5261,6 +5261,7 @@ benchprep.org
 bengmugenr.com
 benjamingolub.com
 benjibot.xyz
+benliton.com
 bennyp.net
 bennythink.com
 benstalk.com
@@ -7649,6 +7650,8 @@ cjb.net
 cjmall.com
 ck10019.cc
 ck101.com
+ckcdn.com
+ckck.fun
 ckw77.com
 clapaftis.com
 clarin.com
@@ -15783,6 +15786,7 @@ jdb48.com
 jdb88.com
 jdjcc.org
 jdlingyu.moe
+jdpavds.com
 jdsghsa.com
 jdw6.com
 jdwsy.com
@@ -16585,7 +16589,6 @@ kwak.ml
 kwcg.ca
 kwfq.tk
 kwikj.com
-kwm.com
 kwok7.com
 kxlatv.com
 kxm599.com
@@ -16810,6 +16813,7 @@ lebronjames.com
 lebtimnetz.de
 lecanardenchaine.fr
 lecloud.net
+lecoin.cc
 lede-project.org
 ledetipe.com
 ledongzhibo111.com
@@ -17323,6 +17327,7 @@ lovemarca.com
 lovemov.cc
 lovemyanime.net
 loveofkuanyin.com
+loveparents.org
 loverslab.com
 lovesexdurex.com
 lovethiscity.com
@@ -19972,6 +19977,7 @@ nxta.org
 ny1.com
 nyaa.com
 nyaa.eu
+nyaa.net
 nyaa.si
 nyahentai.com
 nyam1380.com
@@ -21194,6 +21200,7 @@ piratebay.com
 piratebayproxy.co
 piratebrowser.com
 piratelist.org
+pirates-forum.org
 piriform.com
 piring.com
 pise.pw
@@ -21856,6 +21863,8 @@ pthepiratebay.org
 ptlaohu.com
 ptt.cc
 ptt.com
+ptt2.cc
+ptt3.cc
 pttgame.com
 pttgopolitics.com
 pttvan.org
@@ -25790,6 +25799,7 @@ torrenty.org
 torrentz.eu
 torrentz2.eu
 torrentz2.is
+torrindex.net
 torss.cf
 torvpn.com
 toshiba-medical.biz
@@ -27710,6 +27720,8 @@ wannaflix.com
 wanokokorosoh.com
 wanqiucai.com
 want-daily.com
+want-media.com
+wantblogger.com
 wanyepu.com
 wanyi111.com
 wanz-factory.com
@@ -29868,6 +29880,7 @@ zuola.com
 zurama.ru
 zvereff.com
 zverovich.net
+zwtvusa.com
 zx-fly.com
 zxdl.pw
 zym9.net

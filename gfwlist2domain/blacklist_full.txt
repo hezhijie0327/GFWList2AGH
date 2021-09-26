@@ -1815,7 +1815,6 @@
 54647.global
 54647.io
 54647.online
-54647.org
 54647.xyz
 546990.com
 5482562.com
@@ -4395,6 +4394,7 @@ api1.sg888.net
 api1.sg8888.ws
 api17tp.apitilt.com
 apiary.io
+apibay.org
 apic.pinnacle.com
 apidocs.linksalpha.com
 apigame.yunbo11.com
@@ -6026,6 +6026,7 @@ benditabreja.com.br
 bengmugenr.com
 benjamingolub.com
 benjibot.xyz
+benliton.com
 bennyp.net
 bennythink.com
 benstalk.com
@@ -8853,6 +8854,8 @@ ck.juicyads.com
 ck.spacetechnology.net
 ck10019.cc
 ck101.com
+ckcdn.com
+ckck.fun
 ckw77.com
 cl.d0z.net
 cl.eye.rs
@@ -18918,6 +18921,7 @@ jdb48.com
 jdb88.com
 jdjcc.org
 jdlingyu.moe
+jdpavds.com
 jdsghsa.com
 jdw6.com
 jdwsy.com
@@ -19839,7 +19843,6 @@ kwak.ml
 kwcg.ca
 kwfq.tk
 kwikj.com
-kwm.com
 kwok7.com
 kwongwah.com.my
 kx08s5838.ledetipe.com
@@ -20099,6 +20102,7 @@ lebronjames.com
 lebtimnetz.de
 lecanardenchaine.fr
 lecloud.net
+lecoin.cc
 lede-project.org
 ledetipe.com
 ledongzhibo111.com
@@ -20690,6 +20694,7 @@ lovemarca.com
 lovemov.cc
 lovemyanime.net
 loveofkuanyin.com
+loveparents.org
 loverslab.com
 lovesexdurex.com
 lovethiscity.com
@@ -23890,6 +23895,7 @@ ny.visiontimes.com
 ny1.com
 nyaa.com
 nyaa.eu
+nyaa.net
 nyaa.si
 nyahentai.com
 nyam1380.com
@@ -25310,6 +25316,7 @@ piratebay.com
 piratebayproxy.co
 piratebrowser.com
 piratelist.org
+pirates-forum.org
 piriform.com
 piring.com
 pise.pw
@@ -26051,6 +26058,8 @@ ptlaohu.com
 pts.org.tw
 ptt.cc
 ptt.com
+ptt2.cc
+ptt3.cc
 pttgame.com
 pttgopolitics.com
 pttvan.org
@@ -30742,6 +30751,7 @@ torrenty.org
 torrentz.eu
 torrentz2.eu
 torrentz2.is
+torrindex.net
 torss.cf
 torvpn.com
 tosh.comedycentral.com
@@ -33025,6 +33035,8 @@ wannaflix.com
 wanokokorosoh.com
 wanqiucai.com
 want-daily.com
+want-media.com
+wantblogger.com
 wanyepu.com
 wanyi111.com
 wanz-factory.com
@@ -40346,6 +40358,7 @@ zuola.com
 zurama.ru
 zvereff.com
 zverovich.net
+zwtvusa.com
 zx-fly.com
 zxdl.pw
 zyd.jygweb.org
