@@ -1797,7 +1797,6 @@
 536258.com
 536273.com
 536308.com
-5365.com
 53688.com
 538877.com
 53900a.com
@@ -9682,7 +9681,6 @@ cs109.com
 cs140.com
 cs145.com
 cs154.com
-cs170.com
 cs172.com
 cs192.com
 cs193.com
@@ -12318,6 +12316,7 @@ eggc.com
 egghead.io
 egotastic.com
 egrnaa.lotcai.com
+egta.com
 egyptindependent.com
 ehentai.org
 ehgt.org
@@ -14589,7 +14588,6 @@ fun8809.com
 fun8810.com
 fun88113.com
 fun88126.com
-fun88223.com
 fun88721.com
 fun8878.com
 fun8889.com
