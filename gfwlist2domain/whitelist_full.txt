@@ -912,7 +912,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1511,7 +1510,6 @@
 1232463.shop.liebiao.com
 12333.com
 12333ask.com
-12333sb.com
 12333si.com
 1234.cx
 1234.zgxue.com
@@ -7199,7 +7197,6 @@
 5ykj.com
 5you.com
 5youchou.com
-5yrra.deshuangwang.cn
 5yun.org
 5zai.com
 5zewin.tdum.alibaba.com
@@ -13667,6 +13664,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -16774,6 +16772,7 @@ beltxman.com
 bemfa.com
 bemro.com
 bemyceo.com
+benbaisteel.com
 benbenq.com
 benber.com
 benbun.com
@@ -18274,7 +18273,6 @@ book118.com
 book1234.com
 book365.net
 book520.com
-book9.net
 bookapka.com
 bookask.com
 bookba.net
@@ -18322,7 +18320,6 @@ booster.xueersi.com
 boosyi.com
 boot-img.xuexi.cn
 boot-video.xuexi.cn
-boot.cdn.womendwxtaiyhng.top
 bootcdn.cn
 bootcdn.meihaoxiangwang.com
 bootcdn.net
@@ -18751,6 +18748,7 @@ buildface.com
 buildhr.com
 buildjob.net
 buimg.com
+bujiangjiu123.com
 bujie.com
 buka.cn
 bukamanhua.com
@@ -19149,7 +19147,6 @@ c.lianwangtech.com
 c.m.163.com
 c.mageti.cn
 c.mipcdn.com
-c.mobishu.com
 c.mp.qq.com
 c.mse.360.cn
 c.n.shifen.com
@@ -20429,7 +20426,6 @@ cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn-zjk-trans.dingtalk.com
-cdn.000714.xyz
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -25916,7 +25912,6 @@ ctc.qzonestyle.gtimg.cn.sched.px-dk.tdnsv6.com
 ctc.qzs.qq.com
 ctc.weather.com.cn
 ctc100.com
-ctcdns.com
 ctcefive.com
 ctcmo.com
 ctcnn.com
@@ -26845,6 +26840,7 @@ dach3mnw.v1d.szbdyd.com
 dach665e.v1d.szbdyd.com
 dach7dpq.v1d.szbdyd.com
 dach7qpd.v1d.szbdyd.com
+dachadu.cn
 dachanet.com
 dache.meituan.com
 dachenglaw.com
@@ -27394,7 +27390,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -28080,7 +28075,6 @@ desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
-deshuangwang.cn
 deshui.wang
 design.sspu.edu.cn
 design521.com
@@ -28220,6 +28214,7 @@ df9377.com
 dfad.dfdaily.com
 dfafei.com
 dfbgv.com
+dfc1.benbaisteel.com
 dfc6576a183420fc32b1d39450f216a0.safeframe.googlesyndication.com
 dfcfs.com
 dfcfw.com
@@ -34494,7 +34489,6 @@ fenxi.com
 fenxi.org
 fenxiangdashi.com
 fenxianglife.com
-fenxiaoba.net
 fenxiyi.com
 fenxuekeji.com
 fenyang.baixing.com
@@ -38067,7 +38061,6 @@ growthpic.weishi.qq.com
 grpc.biliapi.net
 grpc.snm0516.aisee.tv
 grs.dbankcloud.cn
-grs.dbankcloud.com
 grs.hicloud.com
 grt-china.com
 grtn.cn
@@ -41409,6 +41402,7 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -46689,7 +46683,6 @@ iqiyi-mipdx.cn.miaozhen.com
 iqiyi.com
 iqiyi.kim
 iqiyi.m.cn.miaozhen.com
-iqiyi.pub
 iqiyi.space
 iqiyih5.com
 iqiyipic.com
@@ -53628,7 +53621,6 @@ lfwtc.com
 lfx20.com
 lfyzjck.com
 lfz57739256.51sole.com
-lg.dmall.com
 lg1024.com
 lg199.com
 lg2.jointreport-switch.com
@@ -56270,6 +56262,7 @@ m.laigame7.net
 m.lanshiwan.cn
 m.laxienian888.com
 m.le.com
+m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
 m.lizhi.fm
@@ -60850,7 +60843,6 @@ ndser.net
 ndstatic.cdn.bcebos.com
 ndtinfo.net
 ndtsg.com
-ndtzx.com
 nduoa.com
 nduotuan.com
 ndvs87d.com
@@ -63128,6 +63120,7 @@ oraybox.com
 oraycn.com
 orayer.com
 orayimg.com
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com
@@ -63136,7 +63129,6 @@ orcode.com
 order.imooc.com
 order.yystatic.com
 ordercenter.console.aliyun.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
 orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
@@ -65571,8 +65563,6 @@ pluvet.com
 plycd.com
 plyz.net
 pm-summit.org
-pm.3.cn
-pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
 pm222.com
@@ -68481,7 +68471,6 @@ qnssl.com
 qntz.cc
 qnvideo.mengniu99.com
 qnvod.net
-qnvod.vip
 qnxxz.mengniu99.com
 qny.smzdm.com
 qnydns.com
