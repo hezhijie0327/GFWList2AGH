@@ -7910,6 +7910,7 @@ coinegg.com
 coinexchange.io
 coingi.com
 coinic.com
+coinmarketcap.com
 coinonecore.com
 coinonecorp.com
 coinsbank.com
@@ -11997,6 +11998,7 @@ ftf.org
 ftimg.net
 ftopx.com
 ftp.cc
+ftp.com
 ftp1.biz
 ftpaccess.cc
 ftpserver.biz
@@ -12092,7 +12094,6 @@ fun505.com
 fun530.com
 fun550.com
 fun5500.com
-fun551.com
 fun560.com
 fun562.com
 fun586.com

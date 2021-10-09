@@ -907,6 +907,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -2943,9 +2944,9 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -8861,6 +8862,7 @@
 87w00b.tdum.alibaba.com
 87yy.com
 88-z.com
+88.yunqishi.net
 88.yunqishi8.com
 8800.org
 8800808.com
@@ -11453,7 +11455,6 @@ ads.weilitoutiao.net
 ads.wepiao.com
 ads.yourfreedvds.com
 ads.yxdown.com
-ads360.cn
 ads8.com
 adsage.cn
 adsage.com
@@ -14030,7 +14031,6 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -14674,6 +14674,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -17696,7 +17697,6 @@ bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkqj.com
 bjkrtwl.com
-bjl06.com
 bjl2033.com
 bjl777.com
 bjlcs-tech.com
@@ -17927,7 +17927,6 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -19171,6 +19170,7 @@ c.tvsou.com
 c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.w.inmobi.cn
+c.weizhenwx.com
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -20016,7 +20016,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -20531,6 +20530,7 @@ cdn.segmentfault.com
 cdn.sencdn.com
 cdn.sencdn.com.w.kunlungr.com
 cdn.shanghai.nyu.edu
+cdn.shopifycdn.net
 cdn.shuidihuzhu.com
 cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
@@ -21271,6 +21271,7 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
+channel.m.163.com
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
@@ -22490,7 +22491,6 @@ chipwing.com
 chipwings.com
 chiq-cloud.com
 chiralquest.com
-chirui.net
 chisai.tech
 chisc.net
 chiselchina.com
@@ -23859,7 +23859,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -24953,6 +24952,7 @@ congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -28773,7 +28773,6 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -35620,6 +35619,7 @@ fun121.com
 fun223.com
 fun48.com
 fun501.com
+fun551.com
 fun702.com
 fun712.com
 fun809.com
@@ -41400,7 +41400,6 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -51659,7 +51658,6 @@ knewhy.com
 knewone.com
 knewsmart.com
 knicks.jd.com
-knicks.jd.com.gslb.qianxun.com
 knja123.top
 knotesapp.com
 knowgive.com
@@ -52483,7 +52481,6 @@ l1.tcdnlive.com
 l1.xfinfr.com
 l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
 l2-toutiao-ml.gslb.ksyuncdn.com
-l2-toutiao-onlycn-ml-js007.gslb.js007.jsfycdn3.com
 l2-toutiao-onlycn-ml.gslb.ksyuncdn.com
 l2.cloudhy.tcdn.qq.com
 l2.liveplay.myqcloud.com
@@ -53600,7 +53597,6 @@ lfang.com
 lfannaifu.cn
 lfbxw.com
 lfcmw.com
-lfengmobile.com
 lfengw.com
 lfex.com
 lfhacks.com
@@ -55111,7 +55107,6 @@ lololer.com
 lolshipin.com
 loltmall.com
 lolver.cross.qq.com
-lolvsdota.cn
 lolyculture.net
 lomark.cn
 lomoment.com
@@ -56267,7 +56262,6 @@ m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
 m.lizhi.fm
-m.lolvsdota.cn
 m.lousivency.com.cn
 m.lu.sogou.com
 m.lusrg.cn
@@ -56293,6 +56287,7 @@ m.news.cctv.com
 m.newsmth.net
 m.nuoqingck.cn
 m.nxypz.com
+m.ourlj.com
 m.pinduoduo.net
 m.pizzahut.com.cn
 m.poonscn.com
@@ -59104,7 +59099,6 @@ mobilewx.chaoxing.com
 mobileztgame.com
 mobisage.cn
 mobisense-hk.com
-mobishu.com
 mobiw.com
 mobjump.com
 mobjz.com
@@ -59148,7 +59142,6 @@ modb.pro
 model.sspu.edu.cn
 modeng178.com
 modengyingxiang.com
-modern.tenpay.com
 modernsky.com
 modernweekly.com
 modian.com
@@ -62315,6 +62308,7 @@ ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
+ocsp2.g.aaplimg.com
 ocsp2.globalsign.com
 ocsp3.sheca.com
 oct-asia.com
@@ -63398,6 +63392,7 @@ ourku.com
 ourl.co
 ourlife365.com
 ourlinc.com
+ourlj.com
 ourpalm.com
 ourplay.net
 ourren.com
@@ -64453,7 +64448,6 @@ pcfuns.com
 pcgeshi.com
 pcgogo.com
 pcgta.cc
-pch-img.net
 pch.qpic.cn
 pchome.com
 pchome.net
@@ -74101,6 +74095,7 @@ shopc.e.shifen.com
 shopchaoren.com
 shopee.cn
 shopeesz.com
+shopifycdn.net
 shopin.net
 shopj.net
 shopjyh.com
