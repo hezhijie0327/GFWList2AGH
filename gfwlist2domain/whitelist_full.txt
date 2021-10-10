@@ -126,6 +126,7 @@
 01c7ac46.qc.x.bsgslb.cn
 01caijing.com
 01faxing.com
+01fen.com
 01fy.cn
 01happy.com
 01home.com
@@ -2613,6 +2614,7 @@
 18touch.com
 18vps.com
 18wk.com
+18xl.biz
 18xs.org
 18yangzhi.com
 18yl.com
@@ -5285,7 +5287,6 @@
 49321.com
 4935238.b2b.jinanfa.cn
 49358.com
-4936.cn
 49363.com
 49453k0l.vr.loveota.com
 49453k0l.vs.loveota.com
@@ -16932,7 +16933,6 @@ bfn-sched.jcloud-cdn.com
 bfniq.theta.sogou.com
 bfqh.com
 bfqifu.com
-bfshan.cn
 bfsu-artery.net
 bfsutw.com
 bft.zoosnet.net
@@ -17927,6 +17927,7 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -18856,9 +18857,11 @@ bw88188.com
 bw8848.com
 bwae.org
 bwangel.me
+bway88688.com
 bwbot.org
 bwchinese.com
 bwda.net
+bwei228.com
 bwei8668.com
 bwfapiao.com
 bwfhmall.com
@@ -20016,7 +20019,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
@@ -21376,6 +21378,7 @@ chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
+chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
 chatnos.com
@@ -23859,6 +23862,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -25216,7 +25220,6 @@ cozyee.com
 cp.003store.com
 cp.7y7.com
 cp.eastmoney.com
-cp.efo.cc
 cp.gs307.com
 cp.jfcdns.com
 cp.qbaobei.com
@@ -27685,6 +27688,7 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -27904,7 +27908,6 @@ dearloc.com
 dearprinter.com
 deartree.com
 deathearth.com
-deathgun.cn
 debao.com
 debo-info.com
 debug.moe
@@ -28773,6 +28776,7 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -32714,6 +32718,7 @@ engine.tuia.cn
 engine.tuicoco.com
 english.cctv.com
 english.gov.cn
+english.sina.com
 english.sogou.com
 engliship4u.com
 englishtide.com
@@ -37700,7 +37705,6 @@ good-display.com
 good-fine.com
 good-import.com
 good.cc
-good.ta80.com
 good1230.com
 good321.net
 goodaiai.com
@@ -41831,9 +41835,9 @@ home-yd.chaoxing.com
 home.115.com
 home.51cto.com
 home.console.aliyun.com
-home.deathgun.cn
 home.htcsense.com
 home.httpcn.com
+home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -42028,7 +42032,6 @@ hospmall.com
 host666.net
 hostadm.net
 hostbuf.com
-hostcto.com
 hostdie.com
 hostelxian.com
 hostker.com
@@ -42466,6 +42469,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -43530,7 +43534,6 @@ hycfxdc.com
 hycgy.com
 hyckjic.com
 hydarts.com
-hydata.cc
 hydbest.com
 hydcd.com
 hydra.alibaba.com
@@ -45184,7 +45187,6 @@ image.missfresh.cn
 image.missfresh.cn.wswebpic.com
 image.n.shifen.com
 image.newasp.net
-image.p4p.sogou.com
 image.planet.youku.com
 image.ptmind.com
 image.res.hunantv.com
@@ -51658,6 +51660,7 @@ knewhy.com
 knewone.com
 knewsmart.com
 knicks.jd.com
+knicks.jd.com.gslb.qianxun.com
 knja123.top
 knotesapp.com
 knowgive.com
@@ -52774,6 +52777,7 @@ lanrenzhaofang.com
 lanrenzhijia.com
 lanrenzhoumo.com
 lansedongli.com
+lanseshuba.com
 lanseyujie.com
 lansha.tv
 lanshanweb.com
@@ -53846,7 +53850,6 @@ licaigc.com
 licaike.com
 licaiker.com
 licaimofang.com
-licancan.com
 licat.com
 licdn.cn
 license.bluesoleil.com
@@ -56255,6 +56258,7 @@ m.kokomh.com
 m.konshan.com
 m.kyxnz.cn
 m.laigame7.net
+m.lanseshuba.com
 m.lanshiwan.cn
 m.laxienian888.com
 m.le.com
@@ -57121,6 +57125,7 @@ maroclub.net
 maroon91.com
 marry5.com
 marry80.com
+mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -58239,7 +58244,6 @@ mibokids.com
 mibook-10006092.cos.myqcloud.com
 mibugs.com
 mic-s.com
-mic.ububyiw6655.xyz
 micai.com
 micaitu.net
 micaiying.com
@@ -59653,7 +59657,6 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
-msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -64946,7 +64949,6 @@ piaode.ren
 piaodown.com
 piaofang168.com
 piaohua.com
-piaohua668.com
 piaohuafl.com
 piaojubao.com
 piaoliang.com
@@ -69628,7 +69630,6 @@ qxwz.com
 qxxsjk.com
 qxyaoc.com
 qxzc.net
-qxznjy.com
 qxzsw.com
 qxzxp.com
 qy-office.com
@@ -72441,7 +72442,6 @@ sdk.xwuad.com
 sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk1xyajs.data.p2cdn.com
-sdk2.youguoquan.com
 sdkapi.douyucdn.cn
 sdkapi1.bizport.cn
 sdkapi10.bizport.cn
@@ -82456,7 +82456,6 @@ ubssdic.com.hk
 ubt.hellobike.com
 ubt0.fanli.com
 ubtrobot.com
-ububyiw6655.xyz
 ubuntubar.com
 ubuntukylin.com
 ubuntukylin.org
