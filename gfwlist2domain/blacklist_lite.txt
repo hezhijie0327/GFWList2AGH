@@ -10540,6 +10540,7 @@ ezpeer.com
 ezto.in
 eztw.com
 ezua.com
+f-droid.org
 f-q.me
 f-secure.com
 f1155.com
@@ -12114,7 +12115,6 @@ fun8809.com
 fun8810.com
 fun88113.com
 fun88126.com
-fun88721.com
 fun8878.com
 fun8889.com
 fun888city.net
@@ -13250,7 +13250,6 @@ guidaili.com
 guidemesingapore.com
 gulfsideacademy.com
 gulige.com
-guliw.com
 gum.co
 gumroad.com
 gun-world.net
