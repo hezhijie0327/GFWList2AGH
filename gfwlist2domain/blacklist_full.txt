@@ -2644,7 +2644,6 @@
 8821682.com
 88223885.com
 8822buyu.com
-882fc.com
 8833buyu.com
 8837340.com
 8841261.com
@@ -14564,7 +14563,6 @@ fun1738.com
 fun1818.com
 fun211.com
 fun216.com
-fun277.com
 fun281.com
 fun307.com
 fun308.com
@@ -28467,6 +28465,7 @@ slickvpn.com
 slides.new
 slideshare.com
 slideshare.net
+slidesharecdn.com
 slime.com.tw
 slimspots.com
 sling.com
