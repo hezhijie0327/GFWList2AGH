@@ -907,7 +907,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -2945,6 +2944,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
 2.centos.pool.ntp.org
@@ -4457,7 +4457,6 @@
 361way.com
 362.cc
 363.com
-363.in
 363322014.com
 363lm.com
 363u.com
@@ -10472,7 +10471,6 @@ a92192852611de63c8b6a378ae161b91.dlied1.cdntips.net
 a9377j.com
 a963.com
 a9c59e98feba790549d73fa577e62170.v.smtcdns.net
-a9lm.com
 a9v8.cn
 a9vg.com
 aa-oo.top06.cn
@@ -11059,7 +11057,6 @@ ad.1ting.com
 ad.21cn.com
 ad.3.cn
 ad.30xiaoshuo.com
-ad.363.in
 ad.4z4.cn
 ad.51wnl-cq.com
 ad.51wnl.com
@@ -11573,7 +11570,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 advert.api.thejoyrun.com
@@ -13586,6 +13582,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
+api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -13761,7 +13758,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14680,6 +14676,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -14771,7 +14768,6 @@ assets.alicdn.com.danuoyi.tbcache.com
 assets.analog.com
 assets.asklib.com
 assets.ckjr001.com
-assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -17224,6 +17220,9 @@ bilibilipcdn.xktmmosauzq.bilivideo.yfcdn.cn
 bilibiliyoo.com
 bilicdn1.com
 bilicdn2.com
+bilicdn3.com
+bilicdn4.com
+bilicdn5.com
 bilicraft.com
 biligame.com
 biligame.net
@@ -19180,7 +19179,6 @@ c.tvsou.com
 c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.w.inmobi.cn
-c.weizhenwx.com
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -19509,7 +19507,6 @@ caihongtang.com
 caihongto.com
 caihuaw.com
 caij100.com
-caiji.wiki
 caijing.com.cn
 caijing123.com
 caijing28.com
@@ -19852,6 +19849,7 @@ casvm.com
 casystar.com
 cat.sh.vip.dianping.com
 cat898.com
+catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -20470,6 +20468,7 @@ cdn.cn.gcloudcs.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.console.aliyun.com
 cdn.convergemob.com
+cdn.cytivalifesciences.com.cn
 cdn.data.video.iqiyi.com
 cdn.data.video.ptqy.gitv.tv
 cdn.dcloud.net.cn
@@ -27698,7 +27697,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -38989,7 +38987,6 @@ gzjzc.com
 gzkz88.com
 gzleilin.com
 gzlingli.com
-gzliy.com
 gzlujiao.com
 gzlz307.com
 gzlzfm.com
@@ -47417,7 +47414,6 @@ iythf.com
 iyuba.cn
 iyuedan.com
 iyuedian.com
-iyumiao.com.cn
 iyunbao.com
 iyunbiao.com
 iyunmai.com
@@ -50537,6 +50533,7 @@ k-day.com
 k-kbox.com
 k-res.net
 k-xian.com
+k.16vcd.com
 k.85wa.cn
 k.autohome.com.cn
 k.innvitor.com
@@ -56414,6 +56411,7 @@ m.zhipin.com
 m.zhuxiaobang.com
 m.zkwsdf.com
 m.zol.com.cn
+m.zougg.com
 m.zs-hospital.sh.cn
 m.zuimh.com
 m.zzchuy.cn
@@ -57922,7 +57920,6 @@ mengzhuangxiu.com
 mengzhuboke.com
 mengzone.com
 menhood.wang
-menjin.com
 menksoft.com
 menle.com
 menpiao.com
@@ -60721,7 +60718,6 @@ nayao.com
 nayatec.com
 nayei.com
 nayishuo.com
-nazhenkj.com
 nb-medicalsystem.com
 nb-xn.com
 nb.anjuke.com
@@ -63033,7 +63029,6 @@ openresty.org
 openrice.com
 opensc.co
 opensc.net
-openserviceauth.ctrip.com
 openset.wang
 opensoce.com
 openspeech.cn
@@ -66484,6 +66479,7 @@ pull-tsl-l11.douyincdn.com.sched.v1.tdnsv5.com
 pull-tsl-l3.douyincdn.com
 pull-tsl-l3.douyincdn.com.w.alikunlun.net
 pull.free.video.10010.com
+pull.push.sogou.com
 pull.tonhorn.cn
 pullword.com
 pullywood.com
@@ -66568,7 +66564,6 @@ push.khd.2345.cc
 push.ksapisrv.com
 push.kwd.inkuai.com
 push.m.youku.com
-push.mobile.kugou.com
 push.my.tv.sohu.com
 push.pgl.qq.com
 push.res.meizu.com
@@ -67104,7 +67099,6 @@ qbjrxs.com
 qblogin.kandian.qq.com
 qbox.me
 qbreport.html5.qq.com
-qbsznkj.com
 qbtfgd2e.v1d.szbdyd.com
 qbtfgd39.v1d.szbdyd.com
 qbtfjn3f.v1d.szbdyd.com
@@ -67661,7 +67655,6 @@ qianbao.com
 qianbao666.com
 qianbaocard.com
 qianbaohr.com
-qiancaosp1.xyz
 qiancheng.me
 qianchengriben.com
 qianclick.baidu.com
@@ -68388,6 +68381,7 @@ qlcoder.com
 qldzj.com
 qlgpy.com
 qlidc.com
+qlisv.siemens6es7.com
 qljgw.com
 qll-times.com
 qlmoney.com
@@ -74670,6 +74664,7 @@ siddim.com
 sidfate.com
 sie.sspu.edu.cn
 siecc.org
+siemens6es7.com
 sifalu.com
 sifangguo.com
 sifangvideo.com
@@ -103477,6 +103472,7 @@ zoubiao.com
 zoucheng.cc
 zoucz.com
 zoues.com
+zougg.com
 zoujinvr.com
 zoupingxian.anjuke.com
 zoutu.com
