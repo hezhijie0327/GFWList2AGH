@@ -3166,6 +3166,7 @@ a1007.dspw43.akamai.net
 a12223.com
 a1577.dspb.akamai.net
 a20104.com
+a202.net
 a2020.com
 a20309999.byethost9.com
 a2299.com
@@ -9547,7 +9548,6 @@ cpj.org
 cpk04.com
 cpk05.com
 cpk09.com
-cpk222.com
 cpk3333.com
 cpk55.com
 cpk9999.com
@@ -14578,7 +14578,6 @@ fun562.com
 fun586.com
 fun603.com
 fun605.com
-fun606.com
 fun612.com
 fun66996.com
 fun678.com
@@ -14589,7 +14588,6 @@ fun7733.com
 fun78.com
 fun780.com
 fun8011.com
-fun803.com
 fun88-mvp.com
 fun88.com.cn
 fun8802.com
