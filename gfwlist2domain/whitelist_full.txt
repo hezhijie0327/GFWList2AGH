@@ -910,6 +910,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2264,6 +2265,7 @@
 172tt.com
 172xiaoyuan.com
 173.com
+1731788.com
 1732.com
 1732.net
 17348.com
@@ -2937,6 +2939,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
@@ -11702,7 +11705,6 @@ affu.net
 afgame.com
 afhxm.com
 afie.xin
-afj.cc
 afjk.com
 afjob88.com
 afm.pipi.cn
@@ -12822,7 +12824,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -13037,6 +13038,7 @@ an.biocoop.cn
 an9.name
 ana.masky.biddingx.com
 ana.stg8.com
+ana.tatahn.com
 analog.com
 analy.qq.com
 analy.tuniu.cn
@@ -13568,7 +13570,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -13693,6 +13694,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -14104,6 +14106,7 @@ app-router.com
 app-router.leancloud.cn
 app-sage.com
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14752,6 +14755,7 @@ assets.alicdn.com.danuoyi.tbcache.com
 assets.analog.com
 assets.asklib.com
 assets.ckjr001.com
+assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -17100,7 +17104,6 @@ bigbigsun.com
 bigbigwork.com
 bigc.at
 bigcat.com
-bigcoob.xyz
 bigd.gome.com.cn
 bigda.com
 bigdata-expo.org
@@ -17450,6 +17453,7 @@ bixishang.com
 bixu.cc
 bixu.me
 bixueke.com
+bixuyao.com.cn
 biyabi.com
 biyage.com
 biyan8.com
@@ -17684,7 +17688,6 @@ bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkqj.com
 bjkrtwl.com
-bjl2033.com
 bjl777.com
 bjlcs-tech.com
 bjlemon.com
@@ -28769,7 +28772,6 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -29429,6 +29431,7 @@ dmjtxt.com
 dmlei.com
 dmm.aizhan.com
 dmmds.com
+dmouy.cn
 dmozdir.org
 dmp-data.vip.com
 dmp-data.vip.com.vipgslb.com
@@ -31672,7 +31675,6 @@ e9898.com
 e98d36d07efb4964d36ae65e946abda5.v.smtcdns.net
 e99999.com
 e9b964a28c009af6d4b99c22b0b06282.safeframe.googlesyndication.com
-e9emh.cn
 e9n6sgyg.p23.tc.cdntip.com
 ea-retina.com
 ea119.amdc.m.taobao.com
@@ -33575,6 +33577,7 @@ f4bcc8f95b3d0cc7d0259f0ce3c8c823.dlied1.cdntips.net
 f5.market.mi-img.com
 f5.market.xiaomi.com
 f50772c8f731218f.cdn.jiashule.com
+f50b5.cn
 f537.com
 f5432.com
 f54321.com
@@ -35814,7 +35817,6 @@ fy558.com
 fy65.com
 fy9.cc
 fy98.com
-fyal.e9emh.cn
 fybanks.com
 fybiji.com
 fybooks.com
@@ -36160,7 +36162,6 @@ game.res.meizu.com
 game.rising.cn
 game.str.mdt.qq.com
 game.subway.uu.cc
-game.tgbus.com
 game.tgp.qq.com
 game.vivo.com.cn
 game.vmall.com
@@ -41834,6 +41835,7 @@ home.51cto.com
 home.console.aliyun.com
 home.htcsense.com
 home.httpcn.com
+home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -41906,7 +41908,6 @@ hongdoulive.com
 hongen.com
 hongfeiyang.com
 hongfen.org
-hongfeng.co
 honggancn.com
 hongganji01.com
 honggebang.com
@@ -43504,7 +43505,6 @@ hxzq.cn
 hxzxg.com
 hy-cgp.com
 hy-zr.com
-hy.61.com
 hy.huangye88.com.cn
 hy.huangye88.net
 hy.nacwh.cn
@@ -43968,6 +43968,7 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
+i6.weather.oppomobile.com
 i618.com.cn
 i6879.com
 i7.3conline.com
@@ -57060,6 +57061,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -58617,6 +58619,7 @@ mintel.com
 mintmuse.com
 mints-id.com
 minunix.com
+minwear.com.cn
 minxindai.com
 minxing365.com
 minxue.net
@@ -59001,6 +59004,7 @@ mo.res.wpscdn.cn
 mo.techweb.com.cn
 mo.techweb.com.cn.w.kunlungr.com
 mo.test.haloapps.com
+mo.yun-pdm2000.cn
 mo298.com
 mo2g.com
 mo9.com
@@ -60668,7 +60672,6 @@ nas1.cn
 nas2x.com
 nas66.com
 nas7en42.sched.sma.tdnsv5.com
-nasads.com
 nasgetinfo.com
 nashwork.com
 nasimobi.com
@@ -60693,6 +60696,7 @@ nativeadv.dftoutiao.com
 nativeapp.toutiao.com
 nativematerial.tt.cn
 natqs.bealge.sogou.com
+nattest-china.com
 naturali.io
 naturallyariana.com
 nature-museum.net
@@ -62479,7 +62483,6 @@ oingo.com
 oiuwe.com
 oiwjcsh015.top
 oj3y7wx427mfa02u.aliyunddos1026.com
-ojkskjfkd.yuyinqs.com
 ojshdkfjlas.zhixianghuibao.com
 ojskdjkf.mmlala.com
 ok-meeting.com
@@ -79011,6 +79014,7 @@ tastespirit.com
 tastones.com
 tastysteak.com
 tatagou.com.cn
+tatahn.com
 tatatimes.com
 tatazu.com
 taterli.com
@@ -100561,7 +100565,6 @@ yuyanpingce.com
 yuyantang168.com
 yuyicai.com
 yuyin.tv
-yuyinqs.com
 yuyiya.com
 yuyoutuan.com
 yuyu.com
