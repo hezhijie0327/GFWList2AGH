@@ -4178,6 +4178,7 @@ analytics.com
 analytictech.com
 analyze-v.com
 anandaminers.com
+anandtech.com
 anantaravacationclub.com
 anarchistan.com
 anastasialin.com
@@ -5109,6 +5110,7 @@ avg.com
 avgle.com
 avgo78.org
 avgthreatlabs.com
+avh.world
 avhaha.com
 avhd101.com
 avia88.com
@@ -5154,6 +5156,9 @@ avtb01.com
 avtb388.com
 avtby.com
 avwife.com
+avxde.org
+avxhm.is
+avxlive.icu
 avyahoo.com
 aw15.iqi.asu.su
 awabo.com
@@ -9233,6 +9238,7 @@ coincola.com
 coinegg.com
 coinexchange.io
 coinf.com.mx
+coingecko.com
 coingi.com
 coinic.com
 coinmarketcap.com
@@ -10868,6 +10874,7 @@ dettolcleannaija.com
 dettolthailand.com
 deuceofclubs.com
 deutsche-welle.de
+deutschewelle.h-cdn.com
 deuxje7t39utb.cloudfront.net
 dev-gameservice-v2.firebaseio.com
 dev-guardianapis.com
@@ -14473,7 +14480,6 @@ ftiecla.com
 ftimg.net
 ftopx.com
 ftp.cc
-ftp.com
 ftp1.biz
 ftpaccess.cc
 ftpserver.biz
@@ -14484,6 +14490,7 @@ ftvcash.com
 ftvgirls.com
 ftvin.com
 ftvnews.com.tw
+ftx.com
 ftzulin.com
 fu2.club
 fu37.gq
@@ -16087,6 +16094,7 @@ gzm.tv
 gzone-anime.info
 gzroute53.com
 gzzt.org
+h-cdn.com
 h-china.org
 h-digital.athersite.com
 h-moe.com
@@ -17845,6 +17853,8 @@ imacsources.com
 image01.fenhao24.com
 image1.fmgstatic.com
 imageab.com
+imagecurl.com
+imagecurl.org
 imagefap.com
 imageflea.com
 imagegals.com
@@ -17857,6 +17867,7 @@ images-gaytube.com
 images.chesscomfiles.com
 images.comico.tw
 images.ptt.cc
+imageshack.com
 imageshack.us
 imagespost.com
 imagetwist.com
@@ -17893,6 +17904,7 @@ imgbabes.com
 imgbb.com
 imgbox.com
 imgchili.net
+imgcrl.org
 imgflare.com
 imgflip.com
 imgix.com
@@ -19050,7 +19062,6 @@ jin321.com
 jinbushe.org
 jing1155.com
 jing444444.com
-jingbets.com
 jingjibao.me
 jingking.net
 jingling.me
@@ -20013,6 +20024,7 @@ lausan.hk
 lavaone.com
 lavate.ch
 lavavpn.com
+lavteam.org
 law.com
 law.moj.gov.tw
 lawlove.org
@@ -20404,6 +20416,7 @@ lifestylegroup.hk
 lifetimeshares.com
 lifetvcn.com
 lifevpn.com
+lifewire.com
 liftoff.io
 lifujie.com
 lightboxcdn.com
@@ -21254,6 +21267,8 @@ manorama.com
 manoramanews.com
 manoramaonline.com
 manosx.com
+manoto1.tv
+manototv.com
 manporn.xxx
 mansion.com
 mansion88.com
@@ -28821,6 +28836,8 @@ speybay.com
 spfun.org
 sphard.com
 spicevpn.com
+spiceworks.com
+spiceworksstatic.com
 spideroak.com
 spiedigitallibrary.org
 spiegel-online.de
@@ -29951,6 +29968,7 @@ techrepublic.com
 techsmith.com
 techspot.com
 techstreet.com
+techtimes.com
 techviz.net
 teck.in
 teco-hk.org
@@ -39355,6 +39373,7 @@ xs.freepac.pw
 xs2888.com
 xs99.com
 xs9999.com
+xsava.xyz
 xscale.com
 xsden.info
 xsela.com
@@ -40154,6 +40173,7 @@ zaq.us
 zarechnii.ru
 zattinni.com.br
 zattoo.com
+zavat.pw
 zavodjenje.com
 zb.app
 zb.cn

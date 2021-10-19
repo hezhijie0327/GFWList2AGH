@@ -910,7 +910,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -9106,7 +9105,6 @@
 8oxjf0c1.sched.sma.tdnsv5.com
 8pig.com
 8pingce.com
-8ps158q1zb96j936.aliyunddos1023.com
 8pu.com
 8qbo76xm.v1d.szbdyd.com
 8qbo77d2.v1d.szbdyd.com
@@ -11703,7 +11701,6 @@ afenxi.com
 affecthing.com
 affu.net
 afgame.com
-afhxm.com
 afie.xin
 afjk.com
 afjob88.com
@@ -11888,7 +11885,6 @@ ahwwnews.com
 ahydnet.com
 ahydwy.com
 ahyessoft.com
-ahylong.cn
 ahyouan.com
 ahyouth.com
 ahyx.cc
@@ -13652,6 +13648,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -13705,7 +13702,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -14105,7 +14101,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -14852,6 +14847,7 @@ atido.com
 ating.info
 atishay-jain.gallerycdn.azure.cn
 atitsc.com
+atiws.aipai.com
 atiyun.com
 atj-kuaishou.37.com.cn
 atjiang.com
@@ -17563,6 +17559,7 @@ bj96007.com
 bjadn.net
 bjaic.com
 bjaodidazhong.com
+bjaoyou.cn
 bjatv.com
 bjbaidu88.com
 bjbaodao.net
@@ -19170,7 +19167,6 @@ c.w.inmobi.cn
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
-c.wxxljy.net
 c.xbjcgs.cn
 c.xianglong360.cn
 c.xiaobaipan.com
@@ -20012,8 +20008,8 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -21269,7 +21265,6 @@ channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
 channel.m.163.com
-channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channeleffect.com
@@ -22299,7 +22294,6 @@ chinasspp.com
 chinastock.com.cn
 chinastoneforest.com
 chinastor.com
-chinastor.org
 chinasufa.com
 chinasupercloud.com
 chinaswim.com
@@ -23853,7 +23847,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -26391,7 +26384,6 @@ czjpw.com
 czjsy.com
 czkbdq.net
 czkingdee.com
-czlhgz.com
 cznewcom.com
 czodb.com
 czongyi.com
@@ -34829,7 +34821,6 @@ fjccdn.net
 fjcesuo.com
 fjcoop.com
 fjcqjy.com
-fjctlnn.top
 fjcy10010.com
 fjcyl.org
 fjdaily.com
@@ -36471,7 +36462,6 @@ gbhome.com
 gbiac.net
 gbicdn.com
 gbicom.com
-gbitcoin.cn
 gblhgk.com
 gblj365.com
 gbofd.com
@@ -36585,7 +36575,6 @@ gdgcep.com
 gdggkf.com
 gdgudong.com
 gdgwyw.com
-gdgzhp.com
 gdhaoma.com
 gdhbsh.com
 gdhouqin.com
@@ -37335,7 +37324,6 @@ glcct.com
 gldtztc.com
 gleasy.com
 glface.com
-glg.uu.163.com
 glgczk.com
 glgoo.com
 glgoo.net
@@ -40023,7 +40011,6 @@ hars.gallerycdn.azure.cn
 harttle.land
 harvestcm.com
 harvestpawn.com
-harveysarv.com
 hasary.com
 hasea.com
 hasee.com
@@ -40185,7 +40172,6 @@ hblijiehb.com
 hbliti.com
 hblszq.com
 hbltzb.com
-hbly.net
 hblykj.com
 hbm360.com
 hbmes.com
@@ -48908,7 +48894,6 @@ jiuwa.net
 jiuwan.com
 jiuwei.net
 jiuwu.tech
-jiuwuqiong.com
 jiuxian.com
 jiuxianfeng.com
 jiuxihuan.net
@@ -49426,7 +49411,6 @@ jp02.dns.meo-sub.site
 jp03.dns.meo-sub.site
 jp04.dns.meo-sub.site
 jp14.com
-jp88.cc
 jpaasne.e.shifen.com
 jpad.baidu.com
 jpanj.com
@@ -49637,7 +49621,6 @@ js.sohu.com
 js.stat.ijinshan.com
 js.static.m1905.cn
 js.t.sinajs.cn
-js.ta80.com
 js.tianjimedia.com
 js.tongji.linezing.com
 js.tv.itc.cn
@@ -51855,6 +51838,7 @@ kr126.com
 krahag.com
 krbamboo.com
 krcom.cn
+krcs.kugou.com
 krdlw.com
 krdrama.com
 kriszhang.com
@@ -53009,7 +52993,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -56148,6 +56131,7 @@ m.biancheng.net.w.kunlunno.com
 m.biduo.cc
 m.bilibili.com
 m.biz
+m.bjaoyou.cn
 m.ccb.com
 m.ccshwy.com
 m.chaoliangyun.cn
@@ -56545,7 +56529,6 @@ maccura.com
 macd.cn
 macdaxue.com
 macflow.net
-macgg.com
 mach4s.com
 machaojin.com
 machenike.com
@@ -57439,7 +57422,6 @@ mcube-prod.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 mcufan.com
 mcuisp.com
 mcujl.com
-mculover.com
 mcusky.com
 mcuzone.com
 mcuzx.net
@@ -58248,7 +58230,6 @@ mic-s.com
 micai.com
 micaitu.net
 micaiying.com
-micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
 michaelapp.com
@@ -58644,6 +58625,7 @@ mipengine.baidu.com
 mipengine.org
 miplus.cloud
 mipsa.ciae.ac.cn
+mipstatic.sm-tc.cn
 mipujia.com
 miquapp.com
 miquw.com
@@ -66309,7 +66291,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
@@ -78545,7 +78526,6 @@ ta5seaje.v1d.szbdyd.com
 ta5segm9.v1d.szbdyd.com
 ta5y8xea.v1d.szbdyd.com
 ta5y8xey.v1d.szbdyd.com
-ta80.com
 taaas.org
 tabalt.net
 tabktnnh.v1d.szbdyd.com
