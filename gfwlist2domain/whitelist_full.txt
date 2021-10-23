@@ -2940,7 +2940,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
@@ -5077,6 +5076,7 @@
 4090.com
 40manhua.com
 40net.net
+40sihu.com
 40ya.com
 41188.com
 411au.com
@@ -7207,6 +7207,7 @@
 5ykj.com
 5you.com
 5youchou.com
+5yrra.deshuangwang.cn
 5yun.org
 5zai.com
 5zewin.tdum.alibaba.com
@@ -10393,7 +10394,6 @@ a1010.phobos.apple.com
 a11.gdl.netease.com
 a1166.com
 a135.net
-a152.cc
 a1548331f64d8af4385b4a7b9d2ccfa2.dl.txcdns.com
 a15d55423.5tps.xyz
 a166.com
@@ -10828,7 +10828,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -11160,7 +11159,6 @@ ad.winrar.com.cn
 ad.wlanbanlv.com
 ad.ximalaya.com
 ad.xkspbz.com
-ad.xn--3bs795g.link
 ad.yeshitv.com
 ad.yicai.com
 ad.yixin.im
@@ -13720,6 +13718,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -14254,6 +14253,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14687,7 +14687,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -18091,7 +18090,6 @@ bm001.com
 bm023.com
 bm024.com
 bm2088.com
-bm49.cc
 bm724.com
 bm777777.com
 bm8.tv
@@ -21394,7 +21392,6 @@ chapter.manhualang.com.w.cdngslb.com
 chapuw.com
 chargerlab.com
 chargerlink.com
-charlotteyeon.com
 charmelady.com
 charmingglobe.com
 chartboost-china.com
@@ -23884,6 +23881,7 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -27432,10 +27430,10 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -28119,6 +28117,7 @@ desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
+deshuangwang.cn
 deshui.wang
 design.sspu.edu.cn
 design521.com
@@ -29139,7 +29138,6 @@ djwcp.com
 djwins.com
 djwxw.com
 djwyjszpyxgs473.shop.258.com
-djxww.com
 djye.com
 djyjob.com
 djysx.com
@@ -40680,6 +40678,7 @@ hehesheng.com
 heheshouyou.com
 hehesy.com
 hehewan.com
+hehongmei.top
 hehouse.com
 hehuamei.com
 hei7.net
@@ -43879,6 +43878,7 @@ i-v6-plt.ugslb.com
 i-v6.mail.qq.com
 i-xinnuo.com
 i-xoron.com
+i.00oo00.com
 i.17173cdn.com
 i.178.com
 i.51job.com
@@ -44587,7 +44587,6 @@ idler-et.com
 idm-su.baidu.com
 idm.api.io.mi.com
 idm.bce.baidu.com
-idm.iot.mi.com
 idm.vip
 idmchina.net
 idmgr.ww.taobao.com
@@ -47696,6 +47695,7 @@ jblts.com
 jbo255.com
 jbo28.com
 jbo8.com
+jbo8822.com
 jbo909.com
 jbpbox.com
 jbqipa.com
@@ -56026,6 +56026,7 @@ lycgs.com
 lycheer.net
 lychevy.com
 lycndq.com
+lyczhb.com
 lyd28264730.b2b.huangye88.com
 lyd6688.com
 lydezx.net
@@ -56195,6 +56196,7 @@ m.99114.com
 m.999sjw.com
 m.99wushu.com
 m.9k9k.com
+m.abfalse.cn
 m.abfirst.cn
 m.ac.qq.com
 m.acc.qq.com
@@ -56300,6 +56302,7 @@ m.haiwainet.cn
 m.hao123.com
 m.haotoon.cn
 m.health.pingan.com
+m.hehongmei.top
 m.hellobike.com
 m.hlcnzz.com
 m.hpfjy.com
@@ -56466,7 +56469,6 @@ m.ximalaya.com
 m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
-m.xsk5j.cn
 m.xuanlimin.top
 m.xuexila.com
 m.yalayi.com
@@ -56485,7 +56487,6 @@ m.ys137.com
 m.yujiangchu.com
 m.yxixy.com
 m.yxwoo.com
-m.z83rj.cn
 m.zcygov.cn
 m.zhangyue.com
 m.zhaokaoti.com
@@ -56614,6 +56615,7 @@ mabangerp.com
 mabibook.com
 mabiji.com
 mabotech.com
+mac.orsoon.com
 mac.pcbeta.com
 mac.qq.com
 mac189.com
@@ -57217,7 +57219,6 @@ maro6.com
 maroon91.com
 marry5.com
 marry80.com
-mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -57591,6 +57592,7 @@ mdy-edu.com
 mdybk.com
 me-city.com
 me.afp.chinanews.com
+me.com.x9wj2.cn
 me.cpatrk.net
 me.csdn.net
 me.qidian.com
@@ -57690,7 +57692,6 @@ meeshow.com
 meet99.com
 meetfave.com
 meethall.com
-meethanshi.com
 meeting-75420.picgzc.qpic.cn
 meeting.qq.com
 meeting.tencent.com
@@ -61291,7 +61292,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -61924,7 +61924,6 @@ not3.com
 notadd.com
 note.youdao.com
 note52.com
-noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com
@@ -64426,6 +64425,7 @@ payh5.jd.com
 payh5.jd.com.gslb.qianxun.com
 paylf.com
 paymax.cc
+payment-website-pci.ol.epicgames.com
 payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com
@@ -66797,7 +66797,6 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
-px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -70537,7 +70536,6 @@ res.cc.cmbimg.com
 res.cc.cmbimg.com.w.alikunlun.com
 res.cdn.openinstall.io
 res.cocounion.com
-res.doc88.com
 res.douyucdn.cn
 res.douyucdn.cn.w.kunlunar.com
 res.dxpmedia.com
@@ -70558,7 +70556,6 @@ res.jiemian.com.wswebpic.com
 res.juduoping.com
 res.kfc.com.cn
 res.ldmnq.com
-res.limei.com
 res.lingxi365.cn
 res.mail.qq.com
 res.mall.10010.cn
@@ -92720,7 +92717,6 @@ xn--2qux23c9ziyrq.video
 xn--2qux23confgml.club
 xn--2qux23confgml.online
 xn--3bs795g.chat
-xn--3bs795g.link
 xn--3bs795g.pub
 xn--48s290ajcu2tzl891isd3anfh.com
 xn--4gqwb715dj2dewvbilsep42y.com
