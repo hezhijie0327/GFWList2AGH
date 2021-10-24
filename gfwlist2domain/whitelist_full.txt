@@ -914,6 +914,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -4407,6 +4408,7 @@
 360safedns.com
 360sdn.com
 360shipu.com
+360shopping.com.cn
 360shouji.com
 360shouzhuan.com
 360shuashua.com
@@ -5671,7 +5673,6 @@
 51dengshan.cn
 51devapp.com
 51diangu.com
-51dianji.cn
 51din.com
 51dingxiao.com
 51ditu.com
@@ -10330,7 +10331,6 @@ a.xywy.com
 a.xzzsjz.com
 a.yellowurl.cn
 a.yixie8.com
-a.yjbys.com
 a.youdao.com
 a.zdmimg.com
 a.zuowenxuan.cn
@@ -12101,7 +12101,6 @@ ailianbang.com
 ailiby.cn
 ailinux.net
 ailinzhou.com
-ailix.cn
 ailiyun.com
 ailom.com
 ailongmiao.com
@@ -13675,7 +13674,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -13766,7 +13764,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14129,7 +14126,6 @@ app-router.com
 app-router.leancloud.cn
 app-sage.com
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14687,6 +14683,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -15052,6 +15049,7 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autosup.com
+autoupdate.tantanapp.com
 autoupdate7.synology.cn
 autozw.com
 auvplayer.com
@@ -17820,7 +17818,6 @@ bjszhd.net
 bjtata.com
 bjtcf.com
 bjtelecom.net
-bjtimes.net
 bjtitle.com
 bjtjr.net
 bjtjw.net
@@ -18310,7 +18307,6 @@ bookingtee.com
 bookinlife.net
 bookkeeper.itunes.apple.com
 bookkeeper.itunes.apple.com.mwcname.com
-booklist.mobi
 bookmark.115.com
 bookqi.com
 bookresource.net
@@ -19622,7 +19618,6 @@ callda.com
 callget.cn
 callmewhy.com
 caloinfo.com
-calonye.com
 calt.com
 calvinneo.com
 cambm.com
@@ -22857,7 +22852,6 @@ ciac.zjw.sh.gov.cn
 ciamiecn.com
 ciaoca.com
 ciatcm.org
-ciavision.com
 cib-fund.com.cn
 cib.com.cn
 cibeslift.cn
@@ -23713,7 +23707,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -23828,7 +23821,6 @@ cn-sdjn2-cu-v-02.bilivideo.com
 cn-sdjn2-cu-v-03.bilivideo.com
 cn-sdjn2-cu-v-07.bilivideo.com
 cn-sdjn2-cu-v-08.bilivideo.com
-cn-sdjn2-cu-v-09.bilivideo.com
 cn-sdjn3-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
@@ -24990,7 +24982,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -35583,7 +35574,6 @@ fu68.com
 fu71hd0.cachenode.cn
 fubao.org
 fubaofei.com
-fubi8.com
 fuchaoqun.com
 fuckingdata.com
 fucnm.com
@@ -39252,6 +39242,7 @@ h5.wannaplay.cn
 h5.wdjky.com
 h5.weishi.qq.com
 h5.xiaolianhb.com
+h5.yangrongdayipifa.com
 h5.zhongguowangshi.com
 h5.zuimeitianqi.com
 h5120.com
@@ -42307,6 +42298,7 @@ hrcfc.com
 hrchina.cc
 hrday.com
 href.lu
+hreport.meituan.com
 hrexam.com
 hrfc.net
 hrflc.com
@@ -45462,7 +45454,6 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
-img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -49330,7 +49321,6 @@ jnzhonglidjc.com
 jnzycw.com
 jo668.com
 jo8cectz.sched.sma.tdnsv5.com
-joannalaura.com
 joaquinchou.com
 job.bytedance.com
 job.bytedance.com.w.kunluncan.com
@@ -49703,7 +49693,6 @@ js.penxiangge.com
 js.player.cntv.cn
 js.ptengine.cn
 js.ptmind.com
-js.pub.tom.com
 js.qajypx.com
 js.qqsort.com
 js.ruiwen.com
@@ -51323,7 +51312,6 @@ keslb.com
 kesucorp.com
 kesum.com
 ketangpai.com
-ketaoke.com
 ketijun.com
 ketuimage.com
 kevincc.xyz
@@ -52528,6 +52516,7 @@ kymjs.com
 kynix.com
 kyoceraconnect.com
 kyppt.com
+kypzu.cn
 kyqcfj.com
 kyriba.cn
 kysec.cn
@@ -54748,6 +54737,7 @@ lizhaoblog.com
 lizhaoxiang.com
 lizhenwang.com
 lizhi.com
+lizhi.cowtransfer.com
 lizhi.fm
 lizhi.io
 lizhi001.com
@@ -54980,7 +54970,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56918,7 +56907,6 @@ malabeibei.com
 malacca.inveno.com
 malagis.com
 malait.com
-malaosi.com
 malaysiaairlines.com
 maldiveszh.com
 maldun.com
@@ -57149,6 +57137,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -58930,7 +58919,6 @@ mlkxs.com
 mlkxshop.com
 mllog.jd.com
 mllog.jd.com.gslb.qianxun.com
-mllres.com
 mlmcms.com
 mlmfcn.com
 mlminorshort.weixin.qq.com
@@ -59740,7 +59728,6 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
-ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -60943,6 +60930,7 @@ ndstatic.cdn.bcebos.com
 ndtinfo.net
 nduoa.com
 nduotuan.com
+ndusa.cn
 ndvs87d.com
 ne.1rtb.com
 ne189.21cn.com
@@ -62196,7 +62184,6 @@ nvziwu.com
 nw-host.com
 nwbbs.com
 nwct.me
-nwenxue.com
 nweon.com
 nwpu.net
 nwtongcheng.com
@@ -62312,6 +62299,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2o1111.com
 o2o4.com
@@ -70642,7 +70630,6 @@ resu8.hjfile.cn
 resuly.me
 retalltech.com
 retargeting.ctrip.com
-retargeting.ctrip.com.tel.oy.ctripgslb.com
 retargeting.ctrip.com.tel.rb.ctripgslb.com
 retcode.alicdn.com
 retcode.alicdn.com.danuoyi.tbcache.com
@@ -97701,6 +97688,7 @@ yangqq.com
 yangqu.baixing.com
 yangqu.com
 yangquan-siemens.shop.liebiao.com
+yangrongdayipifa.com
 yangsam.com
 yangsheng.xiaozhuvideo.com
 yangshengliang.com
