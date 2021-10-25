@@ -558,6 +558,7 @@
 0663job.com
 0668.com
 068632.com
+069ld.com
 06abc.com
 06climate.com
 06dns.com
@@ -2942,7 +2943,6 @@
 2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -8167,7 +8167,6 @@
 78fz.com
 78gk.com
 78hr.com
-78o5a.cn
 78oa.com
 78pan.com
 78te.com
@@ -9033,6 +9032,7 @@
 8bears.com
 8bei8.com
 8bit.xin
+8bnwuz.cn
 8btc-ops.com
 8btc.com
 8btm.com
@@ -11447,7 +11447,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -11754,7 +11753,6 @@ ag17.wang
 ag365.com
 agalwood.net
 agamepower.com
-agathaedith.com
 agcloudcs.com
 agctc.com
 agd.p.360.cn
@@ -12948,7 +12946,6 @@ alwaysnb.com
 alwindoor.com
 alwonroad.club
 alxw.com
-aly766.com
 alyisheng.com
 alyms.cn
 alyzq.com
@@ -13764,6 +13761,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -19173,6 +19171,7 @@ c.mageti.cn
 c.mipcdn.com
 c.mp.qq.com
 c.mse.360.cn
+c.mywild.cn
 c.n.shifen.com
 c.njcengpianwang.cn
 c.ns8d.com
@@ -20036,11 +20035,11 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -20559,7 +20558,6 @@ cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
 cdn.sptcc.com
 cdn.sspai.com
-cdn.static.txhy888.cn
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.taboola.com.cn
@@ -22384,7 +22382,6 @@ chinaufo.com
 chinaui.com
 chinauidesign.com
 chinauma.com
-chinauma.net
 chinaums.com
 chinaun.net
 chinaunicom-a.com
@@ -25145,6 +25142,7 @@ corebai.com
 corebug.adsame.com
 coreldrawchina.com
 corner.houyi.baofeng.net
+coro.benbaisteel.com
 coroplastsheet.cn
 corp.google.com
 corp.meitu.com
@@ -28321,6 +28319,7 @@ dg-360lhx.com
 dg-fd.zol-img.com.cn
 dg-fd.zol-img.com.cn.wswebpic.com
 dg-hanxin.com
+dg-hospital.com
 dg-mall.com
 dg.anjuke.com
 dg.esf.fang.com
@@ -39288,7 +39287,6 @@ h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
 h5shuo.com
 h5speed.m.jd.com
-h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
 h5static.kuwo.cn
@@ -43931,6 +43929,7 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
+i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -47530,7 +47529,6 @@ j.9136.com
 j.98158.com
 j.appjiagu.com
 j.baminw.cn
-j.biquge520.cc
 j.credit.wwz114.cn
 j.diangon.com
 j.gamersky.com
@@ -54970,6 +54968,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -55696,6 +55695,7 @@ lulaohan.com
 lulaoye.1111.grfx-blog.top
 lulian.cn
 lulinux.com
+lulitechnology.cn
 lulu77.com
 lulufind.com
 lum114.com
@@ -55923,6 +55923,7 @@ lwfengji.net
 lwfjmj.com
 lwgsw.com
 lwhouse.com
+lwhsdfc.cn
 lwinfo.com
 lwinl.com
 lwinst.com
@@ -56175,7 +56176,6 @@ m.58xs.tw
 m.5you.com
 m.69o1c.cn
 m.6z1gf.cn
-m.78o5a.cn
 m.8684.cn
 m.8of9hd.cn
 m.937920.com
@@ -56348,6 +56348,7 @@ m.lenovo.com.cn.wscdns.com
 m.lizhi.fm
 m.lousivency.com.cn
 m.lu.sogou.com
+m.lulitechnology.cn
 m.lusrg.cn
 m.mafengwo.cn
 m.maiduoer.com
@@ -56451,7 +56452,6 @@ m.weibo.cn
 m.wooboo.com.cn
 m.wsxxu.com
 m.wuxiamh.com
-m.ww.yjbys.com.w.kunlunle.com
 m.x81zw.com
 m.xd5s.com
 m.ximalaya.com
@@ -63006,7 +63006,6 @@ openapi.alipaydns.com
 openapi.baidu.com
 openapi.boc.cn
 openapi.book118.com
-openapi.guanjia.qq.com
 openapi.huanxi.com
 openapi.inews.qq.com
 openapi.jrj.com.cn
@@ -66401,6 +66400,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
@@ -66785,6 +66785,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -67007,6 +67008,7 @@ q8vqp9ys.v1d.szbdyd.com
 q8vqp9zo.v1d.szbdyd.com
 q8vqpahb.v1d.szbdyd.com
 q8vqpzem.v1d.szbdyd.com
+q9y39.cn
 qa.m.jd.com
 qabot.autohome.com.cn
 qacg1359.v1d.szbdyd.com
@@ -68452,7 +68454,6 @@ ql.uzuzuz.com
 ql01t4.com
 ql18.mobi
 ql1d.com
-ql1tjbhoeshu.xiahongweishop.com
 ql2otgl6.v1d.szbdyd.com
 ql2otnxg.v1d.szbdyd.com
 ql47.com
@@ -70181,6 +70182,7 @@ reachmax.cn
 react-china.org
 react.mobi
 reactor.xingye.work
+read.qidian.com
 read678.com
 read8.net
 read8.org
@@ -82203,7 +82205,6 @@ txfeiyu.com
 txffp.com
 txfund.com
 txga.com
-txhy888.cn
 txianning.com
 txip8.com
 txiqy.v9.sched.tdnsv2.com
