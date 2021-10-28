@@ -3461,7 +3461,6 @@
 24572112-456.hd.webportal.top
 2459551.b2b.liebiao.com
 2459551.shop.liebiao.com
-2463b47a-ws.va.huya.com
 2463b4be-ws.va.huya.com
 246546.com
 2467034.b2b.liebiao.com
@@ -14187,7 +14186,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14715,7 +14713,6 @@ as2.binstream.live
 as35q8.cn
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asaki.me
 asao.com
@@ -15045,6 +15042,7 @@ australia.people.com.cn
 ausuu.com
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -15861,7 +15859,6 @@ baiwanzhan.com
 baiwt.com
 baiwutong.com
 baiwv.com
-baixiangnews.com
 baixiangxiang.com
 baixiaosheng.net
 baixing.com
@@ -16427,7 +16424,6 @@ bcjjg.bugsevent.com
 bcjxf.bugsevent.com
 bcjy123.com
 bck.hermes.cn
-bckrono.cn
 bclearning.top
 bclsw.com
 bcmcdn.com
@@ -18922,6 +18918,7 @@ buychuan.com
 buyertrade.taobao.com
 buyfine.net
 buyigang.com
+buyihao.com
 buyiju.com
 buyimg.bianxianmao.com
 buyin.jinritemai.com
@@ -23961,7 +23958,6 @@ cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -27515,7 +27511,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -33457,7 +33452,6 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
-ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -35086,7 +35080,6 @@ flamesky.org
 flamingcold.com
 flaredup.com
 flash.cn
-flash.sec.miui.com
 flash127.com
 flash2-http.qq.com
 flash8.net
@@ -36329,6 +36322,7 @@ game.res.meizu.com
 game.rising.cn
 game.str.mdt.qq.com
 game.subway.uu.cc
+game.tgbus.com
 game.tgp.qq.com
 game.vivo.com.cn
 game.vmall.com
@@ -41317,7 +41311,6 @@ hichao.com
 hichina.com
 hicling.com
 hicloud.com
-hiconics-dl.com
 hicoo.net
 hicosmo.com
 hicp.net
@@ -44009,7 +44002,6 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -45588,6 +45580,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -47822,6 +47815,7 @@ jbl100.com
 jblts.com
 jbo255.com
 jbo28.com
+jbo65.com
 jbo8.com
 jbo8822.com
 jbo909.com
@@ -49797,7 +49791,6 @@ js.ad7.com
 js.admin6.com
 js.aq.qq.com
 js.aq.tc.qq.com
-js.bckrono.cn
 js.ccmeng.com
 js.cdn.aliyun.dcloud.net.cn
 js.cdn.aliyun.dcloud.net.cn.w.kunlungr.com
@@ -52773,7 +52766,6 @@ label.wenjuan.com
 labfan.com
 laborlawtime.com
 labs.ra.icast.cn
-labsoft.org
 labtoday.net
 labview.help
 labxing.com
@@ -54670,7 +54662,6 @@ liulin.cc
 liulinblog.com
 liulishuo.com
 liulishuo.work
-liulu888.com
 liulv.net
 liumapp.com
 liumeinet.com
@@ -55119,6 +55110,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56323,7 +56315,6 @@ m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
 m.51job.com
-m.52tushuo.com
 m.58.com
 m.58xs.tw
 m.5you.com
@@ -56473,6 +56464,7 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
+m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -56548,7 +56540,6 @@ m.robooot.com
 m.rrsdl.com
 m.runoob.com
 m.sctcd.com
-m.sewxi.com
 m.sh.bendibao.com
 m.simba.taobao.com
 m.sina.com.cn
@@ -57365,6 +57356,7 @@ maro6.com
 maroon91.com
 marry5.com
 marry80.com
+mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -58729,7 +58721,6 @@ mingdao.com
 mingdao.net
 mingdao8.com
 mingdaocloud.com
-mingdiantou.com
 mingdongman.com
 mingin.com
 mingjian.com
@@ -61103,7 +61094,6 @@ ndstatic.cdn.bcebos.com
 ndtinfo.net
 nduoa.com
 nduotuan.com
-ndusa.cn
 ndvs87d.com
 ne.1rtb.com
 ne189.21cn.com
@@ -63395,7 +63385,6 @@ orcode.com
 order.imooc.com
 order.yystatic.com
 ordercenter.console.aliyun.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
 orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
@@ -63875,7 +63864,6 @@ p1.glb6.com
 p1.hoopchina.com.cn
 p1.img.cctvpic.com
 p1.itc.cn
-p1.jj20.com
 p1.lefile.cn
 p1.lefile.cn.wscdns.com
 p1.meituan.net
@@ -64787,7 +64775,6 @@ pcw-api.iqiyi.com.w.alikunlun.com
 pcw-data.video.iqiyi.com
 pcw365.com
 pcweb-v1.log.mgtv.com
-pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com
@@ -70760,7 +70747,6 @@ res.vmallres.com
 res.weread.qq.com
 res.wesure.cn
 res.woread.com.cn
-res.woread.com.cn.gslb.wo186.tv
 res.wx.qq.com
 res.wx.qq.com.sched.px-dk.tdnsv6.com
 res.wx.qq.com.sched.ssdv6.tdnsv6.com

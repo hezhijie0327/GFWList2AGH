@@ -170,7 +170,6 @@
 0700sun.com
 070ld.com
 071ld.com
-072ld.com
 0732.com
 07322222.com
 0736842.com
@@ -16129,7 +16128,6 @@ h5.013ld.com
 h5.069ld.com
 h5.070ld.com
 h5.071ld.com
-h5.072ld.com
 h5.073ld.com
 h5.074ld.com
 h5.076ld.com
@@ -18929,7 +18927,6 @@ jbo500.com
 jbo53.com
 jbo600.com
 jbo61.com
-jbo65.com
 jbo830.com
 jbo84.com
 jbo87.com
