@@ -558,7 +558,6 @@
 0663job.com
 0668.com
 068632.com
-069ld.com
 06abc.com
 06climate.com
 06dns.com
@@ -909,6 +908,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -2611,6 +2611,7 @@
 18vps.com
 18wk.com
 18xl.biz
+18xl.in
 18xs.org
 18yangzhi.com
 18yl.com
@@ -13823,7 +13824,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -14746,6 +14746,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -23157,7 +23158,6 @@ cjrcsc.com
 cjroq.bealge.sogou.com
 cjs556348.spzs.com
 cjsc.com
-cjssy.com
 cjting.me
 cjty.net
 cjv2gt.cn
@@ -23331,7 +23331,6 @@ clicki.cn
 clickip.hnol.net
 clicklog.hd.baofeng.com
 clicklog.moviebox.baofeng.com
-clicklog.moviebox.baofeng.net
 clickm.fang.com
 clickm.soufun.com
 clickn.fang.com
@@ -23791,6 +23790,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -23965,6 +23965,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -27514,7 +27515,6 @@ data.highpin.cn
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -28215,6 +28215,7 @@ deskcity.com
 deskcity.org
 deskguanjia.com
 deskier.com
+deskt.cn
 desktopcal.com
 desktopqa.com
 desktx.com
@@ -28365,6 +28366,7 @@ dfhs.tanx.com
 dfhtjn.com
 dfkcgs.com
 dfkhgj.com
+dflow.log.hunantv.com
 dfmc.com
 dfmcastrol.com
 dfmingya.com
@@ -28907,7 +28909,6 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -30461,7 +30462,6 @@ drone.xunyou.mobi
 dropboxchina.com
 dropsec.xyz
 drouma.com
-drrykr.com
 drs.wtzw.com
 drscrewdriver.com
 drte.irs03.com
@@ -35559,7 +35559,6 @@ fristlvy.com
 frjie.com
 frkq.com
 frlh168.com
-frmchina.net
 frntgq1w.sched.s2-dk.tdnsv5.com
 fro14.com
 from.mediaxx.cn
@@ -41428,6 +41427,7 @@ hiqidi.com
 hiram.wang
 hirede.com
 hiregistry.com
+hirek-online.com
 hireye.com
 hiroop.com
 hirosspac.com
@@ -41739,6 +41739,7 @@ hm-3223.net
 hm-yc.com
 hm-zif.com
 hm.baidu.com
+hm.baidu.com.jnsiematcnc.com
 hm.baidu.com.zzsdtzb.com
 hm.e.shifen.com
 hm.shuixyh.com
@@ -43380,7 +43381,6 @@ huohuolife.com
 huoji.com
 huoju365.com
 huojua.com
-huojua1.com
 huojub.com
 huojuli.com
 huokebao.net
@@ -49437,6 +49437,7 @@ jnrain.com
 jnrjljc2471.shop.258.com
 jnsdgz.com
 jnshu.com
+jnsiematcnc.com
 jnsino.com
 jnstdc.com
 jntinchina.com
@@ -51420,7 +51421,6 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
-kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -52677,7 +52677,6 @@ kzsiee.com
 kzt.cc
 kztpms.com
 kzwr.com
-l-f.pw
 l-rcd.iqiyi.com
 l.bjzsyx.cn
 l.bst.126.net
@@ -53793,7 +53792,6 @@ lf.snssdk.com
 lf1-dycdn-tos.pstatp.com
 lf1-dycdn-tos.pstatp.com.wsglb0.com
 lf127.net
-lf1782.com
 lf26-geckocdn-tos.pstatp.com
 lf3-geckocdn-tos.pstatp.com
 lf3-geckocdn-tos.pstatp.com.w.cdngslb.com
@@ -58945,7 +58943,6 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
-mix.linkedin.com
 mix.moe
 mixbao.com
 mixcapp.com
@@ -61178,7 +61175,6 @@ net130.com
 net199.com
 net2345.net
 net263.com
-net2cn.tk
 net767.com
 net9.org
 netac.com
@@ -63938,7 +63934,6 @@ p2pjj.com
 p2plive-ali.douyucdn.cn
 p2plive-ws.douyucdn.cn
 p2plog.douyucdn.cn
-p2pmid.baofeng.com
 p2pmidzj.baofeng.com
 p2pport.yfp2p.net
 p2psdk.wscdns.com
@@ -65303,7 +65298,6 @@ pic1.178.com
 pic1.58cdn.com.cn
 pic1.ajkimg.com
 pic1.dianshu119.com
-pic1.frmchina.net
 pic1.inter.ptqy.gitv.tv
 pic1.iqiyipic.com
 pic1.k73.com
@@ -65824,7 +65818,6 @@ pluvet.com
 plycd.com
 plyz.net
 pm-summit.org
-pm.3.cn
 pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
