@@ -8754,7 +8754,6 @@ dc0067.com
 dc0069.com
 dc0071.com
 dc0078.com
-dc0555.com
 dc1100.com
 dc1199.com
 dc221.com
@@ -12671,6 +12670,7 @@ github.io
 githubapp.com
 githubassets.com
 githubhackathon.com
+githubmemory.com
 githubpreview.dev
 githubstatus.com
 githubuniverse.com
