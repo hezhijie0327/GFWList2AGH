@@ -907,7 +907,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -11086,6 +11085,7 @@ ad-h5.fcb.com.cn.w.alikunlun.com
 ad-mex.com
 ad-mob-app.le.com
 ad-plus.cn
+ad-report.fcb.com.cn
 ad-safe.com
 ad-sdk.aiclk.com
 ad-sdk.aiclk.com.m.alikunlun.com
@@ -12075,7 +12075,6 @@ aifei8.net
 aifengjie.com
 aifenka.cn
 aifont.com
-aifu-pay.com
 aifu10.com
 aifu360.com
 aigame100.com
@@ -13978,7 +13977,6 @@ api.xiaoniangao.cn
 api.xiaoshuo1-sm.com
 api.ximalaya.com
 api.xinyue.qq.com
-api.xitongcheng.com
 api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
@@ -14182,6 +14180,8 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14742,7 +14742,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -15453,7 +15452,6 @@ b2c-seo.com
 b2cedu.com
 b2d8a27eeedbd3048aa42286a82ab5b2.dlied1.cdntips.net
 b2q.com
-b2sun.cc
 b3.jandan.net
 b318ldl1.s1txipv6.cdntip.com
 b339.photo.store.qq.com
@@ -23784,7 +23782,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -23898,7 +23895,6 @@ cn-roofexpert.com
 cn-sdjn2-cu-v-02.bilivideo.com
 cn-sdjn2-cu-v-03.bilivideo.com
 cn-sdjn2-cu-v-07.bilivideo.com
-cn-sdjn2-cu-v-08.bilivideo.com
 cn-sdjn3-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
@@ -23959,7 +23955,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -25062,6 +25057,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -26574,7 +26570,6 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
-d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
@@ -27507,6 +27502,7 @@ data.highpin.cn
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -31669,6 +31665,7 @@ e.ishansong.com
 e.joyxv.com
 e.k2wx5.cn
 e.kuaishou.com
+e.nejup.com
 e.ninebox.cn
 e.nxypz.com
 e.poonscn.com
@@ -32236,7 +32233,6 @@ edingtou.com
 edingzhuan.com
 edinuan.com
 edirect.asia
-edith.xiaohongshu.com
 editorconfig.gallerycdn.azure.cn
 ediuschina.com
 edk24.com
@@ -38411,6 +38407,7 @@ gtms03.alicdn.com.danuoyi.alicdn.com
 gtms04.alicdn.com
 gtms04.alicdn.com.danuoyi.alicdn.com
 gtn9.com
+gtnde.com
 gtnqk.com
 gto365.com
 gtobal.com
@@ -39454,6 +39451,7 @@ hackp.com
 hackpascal.net
 hackrf.net
 hackroad.com
+hacksgenie.com
 hacori.com
 hacpai.com
 haczjob.com
@@ -50749,7 +50747,6 @@ k0rz3n.com
 k1-biligame-migu.gslb.h.ngaacdn.cn
 k1-biligame.gslb.ksyuncdn.com
 k1-global.gslb.ksyuncdn.com
-k1-ipv6-js007.gslb.js007.jsfycdn3.com
 k1-ipv6.gslb.ksyuncdn.com
 k1.dancihu.com
 k1.gslb.ksyuncdn.com
@@ -52563,7 +52560,6 @@ kwcdn.000dn.com
 kwcscdn.000dn.com
 kwdsrv.51job.com
 kwenku.com
-kwflvcdn.000dn.com
 kwimg.kuwo.cn
 kwimg1.kuwo.cn
 kwimg2.kuwo.cn
@@ -53091,6 +53087,7 @@ laosiji007.com
 laosunit.com
 laotiaomao.com
 laowangappxy.xyz
+laowangblog.com
 laowangshengge.com
 laowuxx.com
 laoxiezi.com
@@ -54250,7 +54247,6 @@ linban.com
 linchuan.baixing.com
 linchuanschool.com
 lincoc.com
-lindanmiaoxiang.cn
 lindiankanshu.com
 linduwang.com
 line0.com
@@ -54630,6 +54626,7 @@ liuhu.net
 liuinsect.com
 liujiajia.me
 liujiangblog.com
+liujiaqi.top
 liujiasj.com
 liujto.com
 liujunworld.com
@@ -56423,6 +56420,7 @@ m.gexings.com
 m.gmw.cn
 m.gmw.cn.wscdns.com
 m.gotokeep.com
+m.gtnde.com
 m.gywlwh.com
 m.haiwainet.cn
 m.hao123.com
@@ -56442,7 +56440,6 @@ m.i2356.com
 m.idongde.com
 m.ienkdaged.cn
 m.imitui.com
-m.inchangling.com
 m.intl.taobao.com
 m.iqiyi.com
 m.iqiyipic.com
@@ -56482,6 +56479,7 @@ m.le.com
 m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
+m.liujiaqi.top
 m.lizhi.fm
 m.lousivency.com.cn
 m.lu.sogou.com
@@ -59891,6 +59889,7 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -61779,6 +61778,7 @@ njhgame.com
 njhszoo.com
 njhwsk.com
 njibhu.com
+njjrlf.com
 njjsyy.com
 njjuntong.com
 njkefayuan.com
@@ -62267,7 +62267,6 @@ nucc.com
 nucleisys.com
 nuecidc.com
 nuedcchina.com
-nuezhilian.com
 nufans.net
 nuicdc.org
 nullice.com
@@ -62457,6 +62456,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2o1111.com
 o2o4.com
@@ -64968,6 +64968,7 @@ petnakanojo.com
 petpcb.com
 petroren.com
 pets12345.com
+petsheying.com
 pettwo.com
 pewld.com
 pewsc.com
@@ -67890,6 +67891,7 @@ qhyedu.com
 qhyzzzs.com
 qi-che.com
 qi-ju.com
+qi-shi.top
 qi-wen.com
 qi.wndlkj.com
 qiachu.com
@@ -69012,7 +69014,6 @@ qroao6jx.v1d.szbdyd.com
 qroao6lj.v1d.szbdyd.com
 qrtest.com
 qrx.cc
-qs.lindanmiaoxiang.cn
 qs.qsmdeyz.cn
 qs.shouji.sogou.com
 qs.xiangzhuan999.cn
