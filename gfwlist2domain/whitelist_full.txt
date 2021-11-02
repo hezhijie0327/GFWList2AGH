@@ -906,6 +906,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -1194,7 +1195,6 @@
 108sq.com
 108tian.com
 109.com
-1090.h5.zyttx.com
 10906c0205096e21661807951a4d782e.dlied1.cdntips.net
 10909.com
 1090ys.com
@@ -10283,7 +10283,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -10512,7 +10511,6 @@ a92192852611de63c8b6a378ae161b91.dlied1.cdntips.net
 a9377j.com
 a963.com
 a9c59e98feba790549d73fa577e62170.v.smtcdns.net
-a9v8.cn
 a9vg.com
 aa-oo.top06.cn
 aa.0755rc.com
@@ -10707,7 +10705,6 @@ abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.kfyg.xyz
 abc.rwpt.top
-abc.yjbys.com
 abc.zhiyaspa.com
 abc12345.net
 abc12366.com
@@ -13195,7 +13192,6 @@ android.rqd.qq.com
 androidchina.net
 androidcookie.com
 androidinvest.com
-androidlog.shouji.baofeng.com
 androidmi.com
 androidonline.net
 androidonlines.com
@@ -13722,6 +13718,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -13803,6 +13800,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -13817,6 +13815,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -16524,6 +16523,7 @@ bdapark.com
 bdapi.ads.heytapmobi.com
 bdapi.ads.oppomobile.com
 bdasd.chdbook.cn
+bdasd.wmxa.cn
 bdatu.com
 bdbus-turbonet.baidu.com
 bdbus-turbonet.n.shifen.com
@@ -18802,6 +18802,7 @@ budou.com
 buduanwang.vip
 buduobaobao.com
 bufan.com
+buff.163.com
 buffst.com
 bug-xl9-ssl.xunlei.com
 bughd.com
@@ -22933,7 +22934,6 @@ cibuser.com
 cicaf.com
 cicc.com
 ciccfund.com
-ciccorporate.com
 ciccphoto.com
 ciccwm.com
 ciceme.com
@@ -23775,6 +23775,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -25057,6 +25058,7 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -25211,6 +25213,7 @@ coralsec.com
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -29426,7 +29429,6 @@ dllake.com
 dllcm.com
 dllhook.com
 dllku.com
-dllxsp.com
 dllzj.com
 dlmonita.com
 dlmzk.com
@@ -32492,7 +32494,6 @@ egou0515.com
 egouo.net
 egouz.com
 egovsum.com
-egozne.cn
 egreatworld.com
 egret-labs.org
 egret.com
@@ -32927,7 +32928,6 @@ eol8.com
 eolinker.com
 eomarket.com
 eomoy.com
-eoncreativity.com
 eonun.com
 eooioo.com
 eoopoo.com
@@ -33433,6 +33433,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -35098,7 +35099,6 @@ flnet.com
 flnetiot.com
 flomoapp.com
 flooc.com
-floor.jd.com
 floor.jd.com.gslb.qianxun.com
 floorb2b.com
 florentiavillage.com
@@ -35949,7 +35949,6 @@ fy-game.com
 fy-team.com
 fy027.com
 fy169.net
-fy4zb.cn
 fy558.com
 fy65.com
 fy9.cc
@@ -38463,7 +38462,6 @@ guangdong.sinaimg.cn
 guangfeng.com
 guanggao.com
 guanggaoad.youku.com
-guanggoo.com
 guanggu100.com
 guanggua.com
 guanghe.tv
@@ -41561,7 +41559,6 @@ hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42027,7 +42024,6 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
-homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -49548,7 +49544,6 @@ josephcz.xyz
 joshuais.me
 josncdn.com
 jotop.net
-jotrening.com
 jotrin.com
 jouav.com
 joudou.com
@@ -51407,6 +51402,7 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
+kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -56402,7 +56398,6 @@ m.fcb.com.cn
 m.fcb.com.cn.w.alikunlun.com
 m.feipaihehuoren.cn
 m.flycua.com
-m.fy4zb.cn
 m.g.pptv.com
 m.game.weibo.cn
 m.gamedog.cn
@@ -56463,7 +56458,6 @@ m.kfc.com.cn
 m.kokomh.com
 m.konshan.com
 m.kyxnz.cn
-m.laigame7.net
 m.lanseshuba.com
 m.lanshiwan.cn
 m.laxienian888.com
@@ -57269,7 +57263,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -59866,6 +59859,7 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -59892,7 +59886,6 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -65246,7 +65239,6 @@ pic.imgdb.cn
 pic.jd-bbs.com
 pic.jdbbs.com
 pic.jdunion.com
-pic.jiasuba.com
 pic.k.sohu.com
 pic.k73.com
 pic.kuaizhan.com
@@ -66079,7 +66071,6 @@ powerskystudio.com
 powervision.me
 powerxene.com
 powzamedia.com
-poxiao669.com
 poxiaotv.com
 poyang.cn
 poyang.com
@@ -67648,7 +67639,6 @@ qfihdr.com
 qfpay.com
 qfq.me
 qfrxyl.com
-qfs365.com
 qfschl.com
 qfss7cqy.v1d.szbdyd.com
 qfssmccb.v1d.szbdyd.com
@@ -72986,7 +72976,6 @@ security-lq.snssdk.com
 security-v6.ias.tencent-cloud.net
 security-web.cdn-go.cn
 security.bilibili.com
-security.browser.miui.com
 security.cdnetworks.com
 security.gome.com.cn
 security.iqiyi.com
