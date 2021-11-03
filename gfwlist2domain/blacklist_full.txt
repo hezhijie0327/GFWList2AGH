@@ -8940,6 +8940,7 @@ cloudfare.com
 cloudfire.com
 cloudflare-dns.com
 cloudflare-ipfs.com
+cloudflare-quic.com
 cloudflare.com
 cloudflare.net
 cloudflareapps.com
@@ -14583,7 +14584,6 @@ fun612.com
 fun66996.com
 fun678.com
 fun727.com
-fun737.com
 fun767.com
 fun7733.com
 fun78.com
