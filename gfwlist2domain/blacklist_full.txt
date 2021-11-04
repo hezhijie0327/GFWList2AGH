@@ -8397,6 +8397,7 @@ charticulator.com
 chase.com
 chat-test-app.firebaseio.com
 chat.stackexchange.com
+chatango.com
 chaterbate.com
 chatnook.com
 chatroom.dsn02.co
@@ -10751,6 +10752,9 @@ dedelu.com
 deepcoin.vip
 deepdiscount.com
 deeper.com
+deepfreeze.com
+deepfreeze.net
+deepfreeze.tech
 deepl.com
 deepmind.com
 deepspace.jpl.nasa.gov
@@ -13343,6 +13347,11 @@ farfetch.com
 farfetch.net
 farm.tanosecure.com.tw
 farmatotal.cl
+faronics.com
+faronics.kayako.com
+faronics.tech
+faronicslabs.com
+faronicswise.com
 farsipod101.com
 fartit.com
 farumradio.com
@@ -18235,6 +18244,7 @@ internepedia.tk
 internet.org
 internetarchive.org
 internetdefenseleague.org
+internetdownloadmanager.com
 internetexplorer.co
 internetexplorer.com
 internetfreedom.org
@@ -22696,6 +22706,7 @@ myav123.com
 myavfun.com
 myavsuper.com
 myball369.com
+myball7.com
 mybbs.us
 mybeatsbydrestudio.com
 mybeatsbydreuk.com
@@ -26836,6 +26847,7 @@ regionalwifi.net
 regiongold.com
 register.moex.gov.tw
 registerhulu.com
+registeridm.com
 registry.google
 rehabforum.org
 reimu.net
@@ -30752,6 +30764,7 @@ tomshardware.com
 ton.twimg.com
 tonalla.com
 tonalsoft.com
+tonec.com
 tongbao918.com
 tongbo8888.com
 tongil.or.kr

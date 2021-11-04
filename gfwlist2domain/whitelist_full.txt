@@ -1679,6 +1679,7 @@
 1314520sz.com
 131458.com
 1314mylove.com
+1314sss.top
 1314study.com
 1314wallet.com
 1314zf.com
@@ -10850,7 +10851,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -12534,7 +12534,6 @@ alertover.com
 alertserver.ushaqi.com
 alexa.chinaz.com
 alexa.sx
-alexanberton.com
 alexandraeden.com
 alexyan.cc
 aleyoo.com
@@ -13774,6 +13773,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -14302,6 +14302,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14735,7 +14736,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -18004,7 +18004,6 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -20067,7 +20066,6 @@ ccbtrust.com.cn
 ccc-2013.com
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
-ccc.sys.miui.com
 ccc.x.jd.com
 cccaq.com
 cccbs.net
@@ -24635,7 +24633,6 @@ co-effort.com
 co-inclusion.org
 co.0ci.top
 co.baifubao.com
-co.dtech.baofeng.com
 co188.com
 co188cdn.com
 coachtech.online
@@ -28890,6 +28887,7 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 difanapp.com
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -33082,7 +33080,6 @@ errlog.umeng.com
 error.alibaba.com
 error.taobao.com
 error.taobao.com.danuoyi.tbcache.com
-errorcode.logger.baofeng.com
 ers.baidu.com
 ershenghuo.net
 ershicimi.com
@@ -33426,7 +33423,6 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
-ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -40187,7 +40183,6 @@ hawbfa.com
 hawkeye.wenjuan.com
 hax18.com
 haxiu.com
-haxiu.org
 haxwx.cc
 hayeen.com
 haygptin.p23.tc.cdntip.com
@@ -42622,6 +42617,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
@@ -44128,6 +44124,7 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
+i6.weather.oppomobile.com
 i618.com.cn
 i6879.com
 i7.3conline.com
@@ -45735,7 +45732,6 @@ img.xgo.com.cn
 img.xiaohongshu.com
 img.xiaozhuvideo.com
 img.xiaozhuvideo.com.w.kunlungr.com
-img.xitongcheng.com
 img.xitongcheng.com.cname.yunjiasu-cdn.net
 img.xiwnu.cn
 img.xuexila.com
@@ -47670,7 +47666,6 @@ j9p.com
 ja.chushou.tv
 ja.gamersky.com
 ja.uwenku.com
-ja.x9wj2.cn
 ja1.gamersky.com
 ja2.gamersky.com
 jaadee.com
@@ -49821,6 +49816,7 @@ js.ub.fang.com
 js.ubaike.cn
 js.union-wifi.com
 js.users.51.la
+js.vipyy88.com
 js.xuexila.com
 js.xz6d.com
 js.yanyue.net
@@ -49855,6 +49851,7 @@ js2.idgdmgroup.com.cn
 js2.idgdmgroup.com.cn.w.kunluncan.com
 js2.t.sinajs.cn
 js3.org
+js3555.hongtaidichan.net
 js4.eastmoney.com
 js412.yqjxzw.com
 js4476.hongtaidichan.net
@@ -50873,7 +50870,6 @@ kaibo5888.com
 kaiboda.org
 kaiboer.com
 kaichengschool.com
-kaicong.info
 kaidanbao.com
 kaidian.amazon.cn
 kaidianbang.com
@@ -51398,7 +51394,6 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
-kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -55086,7 +55081,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56282,6 +56276,7 @@ m-zshosapp.zs-hospital.sh.cn
 m.01fy.cn
 m.10010.com
 m.10010.com.w.alikunlun.com
+m.1314sss.top
 m.163.com
 m.1688.com
 m.168ey.com
@@ -56520,6 +56515,7 @@ m.sctcd.com
 m.sh.bendibao.com
 m.simba.taobao.com
 m.sina.com.cn
+m.siwmc.cn
 m.sjzhushou.com
 m.slshiye.cn
 m.sm.cn
@@ -57263,6 +57259,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -57333,7 +57330,6 @@ maro6.com
 maroon91.com
 marry5.com
 marry80.com
-mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -60345,7 +60341,6 @@ myapp.com
 myappsky.com
 myarowanas.com
 myauth.us
-myball7.com
 mybank.cc
 mybank.cn
 mybdqn.com
@@ -63511,6 +63506,7 @@ osxapps.itunes.apple.com
 osxapps.itunes.apple.com.download.ks-cdn.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
+osxapps.itunes.g.aaplimg.com
 osyum.com
 osyunwei.com
 ot.io.mi.com
@@ -65797,6 +65793,7 @@ pluvet.com
 plycd.com
 plyz.net
 pm-summit.org
+pm.3.cn
 pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
@@ -66928,7 +66925,6 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
-px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -68382,7 +68378,6 @@ qishu.co
 qishu.tw
 qishunbao.com
 qisool.com
-qisuu.com
 qisuu.la
 qitete.com
 qiti88.com
@@ -69470,7 +69465,6 @@ quicky84.gallerycdn.azure.cn
 quictest.sogoucdn.com
 quilimen.com
 quimg.com
-quipin.cn
 quji.com
 qujianpan.com
 qujinhuo.com
@@ -75230,6 +75224,7 @@ siweidaoxiang.com
 siweiearth.com
 siweikongjian.net
 siweiw.com
+siwmc.cn
 siwuprint.com
 sixflower.com
 sixianchina.com
@@ -85024,6 +85019,7 @@ vipxdns.info
 vipxdns.net
 vipyl.com
 vipyooni.com
+vipyy88.com
 vipzhuanli.com
 viq3.fb360xp.com
 viqiyi.admaster.com.cn
@@ -90820,7 +90816,6 @@ x821.com
 x83zw.com
 x86android.com
 x8nlm0q2.dayugslb.com
-x9wj2.cn
 xa-online.com
 xa.58.com
 xa.anjuke.com
