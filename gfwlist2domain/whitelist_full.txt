@@ -10851,6 +10851,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -13687,6 +13688,7 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
+api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -13813,7 +13815,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -13991,6 +13992,7 @@ api.zhihu.com
 api.zhirenzhufu.com
 api.zhuanlan.sina.com.cn
 api.zhuti.xiaomi.com
+api.zhy333.com
 api.zol.com
 api.zone.lixian.vip.xunlei.com
 api1.888zy.cn
@@ -14175,6 +14177,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -23936,7 +23939,6 @@ cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.lakdc.top
 cn.launcher.battlenet.com.cn
-cn.linkedin.com
 cn.made-in-china.com
 cn.mclean.50union.com
 cn.msi.com
@@ -25171,7 +25173,6 @@ coomix.net
 cooo.us
 coooz.com
 coop.aihuishou.com
-coop.pop.baofeng.com
 coop100.com
 coopb2b.com
 cooperation.html5.qq.com
@@ -26260,6 +26261,7 @@ cxacg.com
 cxbz958.com
 cxc233.com
 cxcc.me
+cxcxt.com
 cxcyds.com
 cxdq.com
 cxfuwu.com
@@ -27489,7 +27491,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -29473,7 +29474,6 @@ dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
-dm.gucheng.com
 dm.hxzdhn.com
 dm.ishuo.cn
 dm.jb51.net
@@ -30219,7 +30219,6 @@ download.m.37.com
 download.mcloud.139.com
 download.microsoft.com
 download.onedns.net
-download.pchome.net
 download.pinyin.sogou.com
 download.qianka.com
 download.sangfor.com.cn
@@ -35093,6 +35092,7 @@ floorb2b.com
 florentiavillage.com
 floverow.com
 flow.10010.com
+flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowbet365.com
@@ -39373,7 +39373,6 @@ h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
 h5shuo.com
-h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -43091,6 +43090,7 @@ huifuyimin.com
 huigao-magnetics.com
 huigetv.com
 huigezi.org
+huigoushop.com
 huigun.top
 huihaicenter.com
 huihaicn.com
@@ -43970,6 +43970,7 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
+i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -46742,7 +46743,6 @@ ipinyou.com
 ipinyou.com.cn
 ipip-darwin.xycdn.com
 ipip.net
-ipips.pchome.net
 ipktv.com
 ipku.com
 iplascloud.com
@@ -47861,6 +47861,7 @@ jcsb.com
 jcsfs.com
 jcsjt.com
 jcssyxh.com
+jct.maptu.cn
 jctmj.net
 jctrans.com
 jctuku.com
@@ -49646,7 +49647,6 @@ jpyoo.com
 jpyssc.com
 jpzyfx.com
 jq-school.com
-jq.a0buy.top
 jq.qq.com
 jq22.com
 jq960.com
@@ -50351,7 +50351,6 @@ jushuo.com
 jusrlkubhjnr.com
 jussevent.com
 jusstickets.com
-just-machinery.com
 just4coding.com
 just4fun.ml
 just4fun.site
@@ -57285,6 +57284,7 @@ maps.apple.com
 mapsnap0.bdimg.com
 mapsp0.bdimg.com
 mapsv0.bdimg.com
+maptu.cn
 maqingxi.com
 maqinnews.com
 mar.vip.com
@@ -58826,6 +58826,7 @@ minxue.net
 minyaartcrafts.cn
 minzu56.net
 miot-spec.org
+mip-ruiwen-com.sm-tc.cn
 mip.3kr.com
 mip.ali213.net
 mip.daquan.com
@@ -61415,7 +61416,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -61896,7 +61896,6 @@ nmhfw.com
 nmhrjy.com
 nmimi.com
 nmkjxy.com
-nmlhkj.com
 nmmwz.com
 nmobi.kuwo.cn
 nmpcdn.com
@@ -66925,6 +66924,8 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
+px.ads.linkedin.com
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
