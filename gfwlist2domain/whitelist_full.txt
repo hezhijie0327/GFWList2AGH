@@ -1374,6 +1374,7 @@
 116cd.com
 116kj.com
 116yx.com
+1173d.cn
 11773.com
 1178.shucong.com
 1178586.b2b.liebiao.com
@@ -4281,6 +4282,7 @@
 35a847246fe4aa37c3723bd79b7211cd.dlied1.cdntips.net
 35ba.com
 35c7ebf03b643644e9cbdc34653831b0.dlied1.cdntips.net
+35d1.com
 35dalu.com
 35dxs.com
 35free.net
@@ -7785,6 +7787,7 @@
 710071.net
 71133.com
 7116dns.com
+711983.com
 711pr.com
 7120.com
 712100.com
@@ -10803,7 +10806,6 @@ ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ac1.786ip.com
-ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
 ac57.com
@@ -11011,7 +11013,6 @@ actions-semi.com
 actionsky.com
 activate-channel-guide.yy.com
 activation.unity.cn
-active.baofeng.com
 active.clewm.net
 active.starbucks.com.cn
 active.starbucks.com.cn.wsglb0.com
@@ -11531,6 +11532,7 @@ adsensor.org
 adserve2.tom.com
 adservice.google.com
 adservice.sigmob.cn
+adserviceretry.kugou.com
 adserving.yuewen.com
 adsfile.bssdlbig.kugou.com
 adsfile.qq.com
@@ -13719,7 +13721,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -13755,6 +13756,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -13837,6 +13839,7 @@ api.jits.heytapmobi.com
 api.jobui.com
 api.joomob.com
 api.jr.mi.com
+api.jsfc8.cn
 api.jszbtb.com
 api.k.163.com
 api.kingdata.ksyun.com
@@ -14267,7 +14270,6 @@ appadhoc.com
 appadhoc.net
 appao.com
 appapi.17house.com
-appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -15104,7 +15106,6 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autosup.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 autozw.com
 auvplayer.com
@@ -16538,6 +16539,7 @@ bdchina.com
 bdcloudapi.com
 bdcm.kandianla.com
 bdcode.2345.com
+bdcode.35d1.com
 bdcode.haochu.com
 bdcode.haochu.com.cname4009.yjs-cdn.com
 bdcode.qinglm.com
@@ -17529,7 +17531,6 @@ biubiubiu.org
 bivean.com
 biwanshequ.com
 biwei6699.com
-biwei8668.com
 bixia.org
 bixiabook.com
 bixiaobai.com
@@ -18315,6 +18316,7 @@ bolejiang.com
 bolelink.com
 bolianpro.com
 bolijob.com
+bolimen.top
 boll.me
 bolo.me
 bolopp.com
@@ -19265,7 +19267,6 @@ c.w.inmobi.cn
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
-c.wofbw.top
 c.xbjcgs.cn
 c.xianglong360.cn
 c.xiaobaipan.com
@@ -20103,9 +20104,9 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -22910,7 +22911,6 @@ chyxx.com
 chzhkeji.com
 chzhw.com
 chzybj.com
-ci-web.cn
 ci.xiaohongshu.com
 ci123.com
 ci52.com
@@ -25054,7 +25054,6 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
-connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -25375,7 +25374,6 @@ cpro.baidustatic.com
 cpro.bdrmb.cn
 cpro.cr173.com
 cpro.e.shifen.com
-cpro.fangtoo.com
 cpro.zhidao.baidu.com
 cpro.zol.com.cn
 cpro2.baidustatic.com
@@ -25963,7 +25961,6 @@ csxingfutemple.org
 csxlj.com
 csxnews.com
 csxsjc.com
-csxsyp.cn
 csxtedu.com
 csxvsd.cn
 csxww.com
@@ -29098,6 +29095,7 @@ diuling.com
 diushouji.com
 div.io
 divcss5.com
+diviner.jd.com
 diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
@@ -29438,7 +29436,6 @@ dlrkb.com
 dlrspace.com
 dls2.bigdata.samsung.com.cn
 dlsev.boc.cn
-dlsite-zh.com
 dlsjcsb.com
 dlsqb.com
 dlssa.com
@@ -31429,7 +31426,6 @@ dygang.net
 dygangs.com
 dygod.com
 dygod.org
-dygodj8.com
 dyhhy.cc
 dyhjw.com
 dyhr88.com
@@ -35087,6 +35083,7 @@ flnet.com
 flnetiot.com
 flomoapp.com
 flooc.com
+floor.jd.com
 floor.jd.com.gslb.qianxun.com
 floorb2b.com
 florentiavillage.com
@@ -36050,6 +36047,7 @@ g.163.com
 g.166.net
 g.168.it168.com
 g.6sfg.com
+g.711983.com
 g.ads.cn.miaozhen.com
 g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
@@ -39373,6 +39371,7 @@ h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
 h5shuo.com
+h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -47367,6 +47366,7 @@ iueux.com
 iufida.com
 iuhy.lhy2.xyz
 iuinns.com
+iuiweb.com
 iuliao.com
 iuni.com
 iuniware.com
@@ -49910,6 +49910,7 @@ jser.com
 jser.io
 jserr.cnzz.com
 jsf.cnlinfo.net
+jsfc8.cn
 jsfda.cn
 jsfengchao.com
 jsfof.com
@@ -50750,7 +50751,6 @@ k12zx.com
 k136.gslb.ksyuncdn.com
 k158-v6.gslb.ksyuncdn.com
 k164-azure.gslb.ksyuncdn.com
-k164-js007.gslb.js007.jsfycdn3.com
 k164.gslb.ksyuncdn.com
 k165.com
 k17-migu-other.gslb.h.ngaacdn.cn
@@ -55177,7 +55177,6 @@ logdu.com
 logger.qingting.fm
 logger.qmai.cn
 logger.qmai.cn.w.kunlunca.com
-logger.treexml.baofeng.com
 loggw-ex.alipay.com
 loggw-exsdk.alipay.com
 loggw-extiny.alipay.com
@@ -56434,7 +56433,6 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
-m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -62434,6 +62432,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2o1111.com
 o2o4.com
@@ -66704,7 +66703,6 @@ pull-tsl-l3.douyincdn.com.w.alikunlun.net
 pull.free.video.10010.com
 pull.ninebox.cn
 pull.push.sogou.com
-pull.tonhorn.cn
 pullword.com
 pullywood.com
 pulsigame.com
@@ -72779,7 +72777,6 @@ sdsmefina.com
 sdsp.ipinyou.com
 sdssytgc.com
 sdsszt.com
-sdsteel.cc
 sdtdata.com
 sdtieta.com
 sdtsrf.com
@@ -81037,7 +81034,6 @@ tongzhi.95516.com
 tongzhi.95516.com.wscdns.com
 tongzhousy.com
 tongzhuo100.com
-tonhorn.cn
 tonitech.com
 tonnn.com
 tonylit.me
