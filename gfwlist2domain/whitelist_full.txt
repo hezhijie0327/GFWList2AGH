@@ -3,7 +3,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -6941,7 +6940,6 @@
 58game.com
 58gameup.com
 58ganji.com
-58gocm.net
 58gush.com
 58house.com
 58huoban.com
@@ -10522,6 +10520,7 @@ a.qchannel03.cn
 a.qiao024.com
 a.qinghua5.com
 a.quangushi.com
+a.qunzou.com
 a.rensheng5.com
 a.sh.vip.dianping.com
 a.shczz.com
@@ -14551,7 +14550,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14774,7 +14772,6 @@ aqueck.com
 aqumon.com
 aqv.hicloud.com
 aqy.365dmp.com
-aqy103.com
 aqyun.com
 aqyzm.com
 aqyzmedia.yunaq.com
@@ -15617,7 +15614,6 @@ b.cdn03.duolebo.com
 b.cdn04.duolebo.com
 b.clkservice.youdao.com
 b.code.tanwanyx.com
-b.coroplastsheet.cn
 b.epinv.com
 b.gushiciju.com
 b.hiphotos.baidu.com
@@ -16979,7 +16975,6 @@ beemarket.tv
 beep365.com
 beeplay123.com
 beepool.org
-beerto.cn
 beervm.club
 beervm.xyz
 beeshow.tv
@@ -20393,6 +20388,7 @@ ccbtrust.com.cn
 ccc-2013.com
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
+ccc.sys.miui.com
 ccc.x.jd.com
 cccaq.com
 cccbs.net
@@ -24327,8 +24323,8 @@ cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.lakdc.top
 cn.launcher.battlenet.com.cn
+cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -25612,7 +25608,6 @@ corebug.adsame.com
 coreldrawchina.com
 corner.houyi.baofeng.net
 coro.benbaisteel.com
-coroplastsheet.cn
 corp.google.com
 corp.meitu.com
 corp.sina.com.cn
@@ -27881,7 +27876,6 @@ dassm.com
 dasung.com
 dasungtech.com
 dat.gtags.net
-dat1.jzjxmj.com
 dat8.cc
 data-ads.oneplusmobile.com
 data-hoisin.coocaa.com
@@ -29339,7 +29333,6 @@ diershoubing.com
 dietfd.com
 diexia.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -35577,6 +35570,7 @@ flamesky.org
 flamingcold.com
 flaredup.com
 flash.cn
+flash.sec.miui.com
 flash127.com
 flash2-http.qq.com
 flash8.net
@@ -36281,6 +36275,7 @@ fun121.com
 fun223.com
 fun277.com
 fun281.com
+fun371.com
 fun48.com
 fun501.com
 fun551.com
@@ -36289,7 +36284,6 @@ fun712.com
 fun737.com
 fun78.com
 fun803.com
-fun809.com
 fun88-i78.com
 fun8807.com
 fun88113.com
@@ -38044,7 +38038,6 @@ glcct.com
 gldtztc.com
 gleasy.com
 glface.com
-glg.uu.163.com
 glgczk.com
 glgoo.com
 glgoo.net
@@ -44859,7 +44852,6 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i6879.com
 i7.3conline.com
@@ -48558,6 +48550,7 @@ jbfoundry.com
 jbhdq.com
 jbl100.com
 jblts.com
+jbo106.com
 jbo255.com
 jbo28.com
 jbo65.com
@@ -50235,7 +50228,6 @@ jnw.cc
 jnwb.net
 jnxiuchuan.com
 jnxmycnc.com
-jnxz88.cn
 jnyestar.com
 jnyngg.cn
 jnzcsyj.com
@@ -50942,6 +50934,7 @@ jtstudy.com
 jttv.net
 jtug.code.poyang.com
 jtv123.com
+jtwlj.cn
 jtyjy.com
 jtyy.com
 ju33.com
@@ -52299,7 +52292,6 @@ kexing100.com
 kexinguoji.com
 kexinshe.com
 kexinyun.org
-kexn.net
 kexue.com
 kexue.fm
 kexuelife.com
@@ -55988,6 +55980,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56012,7 +56005,6 @@ log.kuaigeng.com
 log.kuwo.cn
 log.l.ywopt.com
 log.liusha.info
-log.ltype.baofeng.com
 log.m.sm.cn
 log.mengtuiapp.com
 log.mix.sina.com.cn
@@ -57223,7 +57215,6 @@ m.acfun.cn
 m.acfun.cn.w.kunlunar.com
 m.ad.zhangyue.com
 m.ads.sohu.com
-m.adtiming.com
 m.ahinun.cn
 m.ahwczn.cn
 m.aihuishou.com
@@ -57344,7 +57335,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -57378,7 +57368,6 @@ m.lousivency.com.cn
 m.lu.sogou.com
 m.lulitechnology.cn
 m.lusrg.cn
-m.mafengwo.cn
 m.maiduoer.com
 m.man66966.top
 m.manhua39.com
@@ -60226,7 +60215,6 @@ mobile.tx.ximalaya.com
 mobile.ximalaya.com
 mobile.yangkeduo.com
 mobile.youku.com
-mobile.zhushou.sogou.com
 mobile2.da.mgtv.com
 mobilead.kuwo.cn
 mobileanjian.com
@@ -62955,7 +62943,6 @@ nodepacific.com
 nodeyun.video.qq.com
 nohken-sdy.com
 nohup.cc
-noire.cc
 nokia-sbell.com
 nokia.la
 nokia88.com
@@ -66225,7 +66212,6 @@ pic.alipayobjects.com.danuoyi.tbcache.com
 pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
-pic.c-ctrip.com
 pic.c-ctrip.com.cdn20.com
 pic.casee.cn
 pic.chinaz.com
@@ -73742,7 +73728,6 @@ sdk-globalconfig.aiclk.com
 sdk-log-scdn.yfdts.net
 sdk-log.youdao.com
 sdk-open-phone.getui.com
-sdk.adtiming.com
 sdk.ai.wpscdn.cn
 sdk.api.bjshcw.com
 sdk.api.galaxyclouds.cn
