@@ -11933,6 +11933,7 @@ aegis.cdn-go.cn
 aegis.qq.com
 aehyok.com
 aemedia.org
+aencx.net
 aendc.com
 aeo-cctv.com
 aeonlifes.com
@@ -12360,6 +12361,7 @@ aikexi.com
 aikf.com
 aikucun.com
 ailaba.org
+ailamtrieuphu.com
 aileleba.com
 ailete.com
 ailewan.com
@@ -14424,7 +14426,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14462,6 +14463,7 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
+app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -18298,7 +18300,6 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -23933,7 +23934,6 @@ cltt.org
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
-club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -26980,6 +26980,7 @@ d.onlinedown.net
 d.pcs.baidu.com
 d.qchannel03.cn
 d.qingting.fm
+d.rexuebi.com
 d.s11.cn
 d.taptapdada.com
 d.tjgxzs.com
@@ -28356,7 +28357,6 @@ ddnsto.com
 ddong.com
 ddooo.com
 ddos-bj2.youzan.com
-ddos-defend.com
 ddos.com
 ddos2naive.com
 ddosc.com
@@ -29521,7 +29521,6 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
-display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com
@@ -33915,6 +33914,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -36282,7 +36282,6 @@ fun803.com
 fun88-i78.com
 fun8807.com
 fun88113.com
-fun88223.com
 fun88369.com
 fun88721.com
 funcdn.com
@@ -37609,6 +37608,7 @@ gfbhgz.com
 gfcdn.shop
 gfcdn.xyz
 gfcvisa.com
+gfd.huigoushop.com
 gfd178.com
 gfdns.net
 gfdsa.net
@@ -38210,6 +38210,7 @@ go300.com
 goalan.net
 goalhi.com
 goalmobi.com
+goaltraffic.com
 goapk.com
 gobanma.com
 gobasearcher.com
@@ -38551,6 +38552,7 @@ gousu.com
 goutanzi.com
 goutong.baidu.com
 gouwanmei.com
+gouweida.cn
 gouwubang.com
 gouwuke.com
 gouwumai.com
@@ -42207,7 +42209,6 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42969,7 +42970,6 @@ hpcoo.com
 hpd.a.shifen.com
 hpd.baidu.com
 hpe.cn
-hpfjy.com
 hpoi.net
 hpplay.cdn.cibn.cc
 hpplay.cn
@@ -52413,6 +52413,7 @@ kindleport.com
 kindlepush.com
 kinefinity.com
 king-capital.com
+king-oak.cn
 kingandwood.com
 kingball.net
 kingborn.org
@@ -57303,7 +57304,6 @@ m.haotoon.cn
 m.health.pingan.com
 m.hellobike.com
 m.hlcnzz.com
-m.hpfjy.com
 m.hubpd.com
 m.hupu.com
 m.huxiu.com
@@ -57325,6 +57325,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -58163,7 +58164,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -63003,6 +63003,7 @@ not3.com
 notadd.com
 note.youdao.com
 note52.com
+noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com
@@ -64720,7 +64721,6 @@ p.ananas.chaoxing.com.wswebpic.com
 p.appjiagu.com
 p.aty.sohu.com
 p.biligame.com
-p.bjdianyue.com
 p.cdn.persaas.dell.com
 p.clkservice.youdao.com
 p.comments.youku.com
@@ -64887,7 +64887,6 @@ p2pjj.com
 p2plive-ali.douyucdn.cn
 p2plive-ws.douyucdn.cn
 p2plog.douyucdn.cn
-p2pmidzj.baofeng.com
 p2pport.yfp2p.net
 p2psdk.wscdns.com
 p2psearcher.org
@@ -67873,7 +67872,6 @@ pvc123.com
 pvdata.ku6.com
 pvkj.com
 pvlog.hd.baofeng.com
-pvlog.moviebox.baofeng.com
 pvlog.moviebox.baofeng.net
 pvm.zol.com.cn
 pvmama.com
