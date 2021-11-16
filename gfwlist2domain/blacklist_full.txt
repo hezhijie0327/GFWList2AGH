@@ -5029,6 +5029,7 @@ authorizeddns.net
 authorizeddns.org
 authorizeddns.us
 authorxml.com
+authy.com
 auto-aufladen.de
 auto.freev2.top
 auto0391.com
@@ -30120,6 +30121,7 @@ tg.dev
 tg333.net
 tg9000.net
 tgcom24.it
+tgfcer.com
 tgpasia.com
 tgraph.io
 tgs.tca.org.tw
@@ -31122,6 +31124,7 @@ tttnew.com
 ttuhsc.edu
 ttv.com.tw
 ttvnw.net
+ttwstatic.com
 tu8964.com
 tub99.com
 tubaholic.com

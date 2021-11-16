@@ -4406,6 +4406,7 @@ authorizeddns.net
 authorizeddns.org
 authorizeddns.us
 authorxml.com
+authy.com
 auto-aufladen.de
 auto0391.com
 autobild.de
@@ -25237,6 +25238,7 @@ tg.dev
 tg333.net
 tg9000.net
 tgcom24.it
+tgfcer.com
 tgpasia.com
 tgraph.io
 tgstat.com
@@ -26118,6 +26120,7 @@ tttan.com
 tttnew.com
 ttuhsc.edu
 ttvnw.net
+ttwstatic.com
 tu8964.com
 tub99.com
 tubaholic.com

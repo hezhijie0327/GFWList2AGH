@@ -926,7 +926,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2502,6 +2501,7 @@
 17xlm.com
 17xsj.com
 17xueba.com
+17xuexiba.com
 17xxl.com
 17ya.com
 17yaoqu.com
@@ -2978,7 +2978,6 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -7642,6 +7641,7 @@
 66vod.net
 66wc.com
 66weiyou.com
+66wen.com
 66wz.com
 66xh.com
 66xue.com
@@ -9380,7 +9380,6 @@
 8zntx.com
 8zy.com
 9-zhuce.com
-9.pic.paopaoche.net
 9.pic.pc6.com
 900.la
 9000design.com
@@ -11706,7 +11705,6 @@ ads.waps.cn
 ads.wapx.cn
 ads.wasu.tv
 ads.weilitoutiao.net
-ads.wepiao.com
 ads.yourfreedvds.com
 ads.yxdown.com
 ads8.com
@@ -12363,7 +12361,6 @@ ailamtrieuphu.com
 aileleba.com
 ailete.com
 ailewan.com
-ailezhai.cn
 aili.com
 ailianbang.com
 ailiby.cn
@@ -13964,7 +13961,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -14010,6 +14006,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -14099,6 +14096,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14440,6 +14438,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -14509,6 +14508,7 @@ appadhoc.com
 appadhoc.net
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -15061,7 +15061,6 @@ asrmicro.com
 asrsingapore.com
 assbbs.com
 asset.newyx.net
-asset.tantanapp.com
 assets-global.viveport.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
@@ -16134,6 +16133,7 @@ baiyundou.net
 baiyuno.com
 baiyunxitong.com
 baiyuxiong.com
+baizb.com
 baizhan.net
 baizhanke.com
 baizhenzhu.com
@@ -17545,7 +17545,6 @@ bikehome.net
 biketo.com
 biketour-giant.com
 biknow.com
-bilebo.com
 bilezu.com
 bili-dyn-sched.jcloud-cdn.com
 bili.com
@@ -18293,7 +18292,7 @@ blackdragon.com
 blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -18879,7 +18878,6 @@ broadcastlv.chat.bilibili.com
 broadon.net
 broadskytech.com
 brogiao.com
-broker.mqtt.pandora.xiaomi.com
 broker1.sha1.prod.zpath.net
 broker2.sha1.prod.zpath.net
 broker3.sha1.prod.zpath.net
@@ -20422,8 +20420,8 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -25706,6 +25704,7 @@ cp455.com
 cpajia.com
 cpapi.steamchina.com
 cpass.com
+cpatrendreklam.com
 cpatrk.net
 cpats01.115.com
 cpbao.com
@@ -28481,7 +28480,6 @@ deepleaper.com
 deeplearn.me
 deeplink.umeng.com
 deepoon.com
-deepsheet.ltd
 deepsheet.net
 deepvision.ai
 deepzz.com
@@ -28539,7 +28537,6 @@ demaxiya.com
 demeiguoji.com
 demgs.com
 demix.cc
-demizhe.com
 demlution.com
 demo.adsame.com
 demo.jointreport-switch.com
@@ -29213,6 +29210,7 @@ dianwoda.com
 dianwoyou.com
 dianwuque.com
 dianxiaobao.net
+dianxin.com
 dianxin.net
 dianxinnews.com
 dianxinos.com
@@ -29906,6 +29904,7 @@ dlzb.com
 dlztb.com
 dlzyc.com
 dlzycf.com
+dm.17xuexiba.com
 dm.21hubei.com
 dm.300zi.com
 dm.3454.com
@@ -36398,7 +36397,6 @@ fw-biotech.com
 fw4.co
 fw4.me
 fwccw.com
-fwcdn.com
 fwcranes.com
 fwdq.com
 fwdq.net
@@ -37544,6 +37542,7 @@ geshui100.com
 geshuishuilvbiao2017.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -37688,6 +37687,7 @@ gg.miued.com
 gg.qucaigg.com
 gg.sonhoo.com
 gg.stargame.com
+gg.txtbbs.com
 gg.uuu9.com
 gg.vidown.cn
 gg.xywy.com
@@ -38179,7 +38179,6 @@ go.10086.cn
 go.5211game.com
 go.cc
 go.cnfol.com
-go.dlads.cn
 go.hangzhou.com.cn
 go.mie.gamecenter.qq.com
 go.mie.qq.com
@@ -42202,6 +42201,7 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -43307,6 +43307,7 @@ htwed.com
 htx.cc
 htxxpx.com
 htxyin.com
+hty.cdn-ng.net
 htyou.com
 htys.cc
 htyunwang.com
@@ -44265,7 +44266,6 @@ hx8886.com
 hx95.com
 hx99.net
 hx9999.com
-hxadt.com
 hxage.com
 hxayt33g.v1d.szbdyd.com
 hxayt363.v1d.szbdyd.com
@@ -54854,7 +54854,6 @@ liaoing.com
 liaokeyu.com
 liaokong.com
 liaoliao.com
-liaoningo.cn
 liaosam.com
 liaoshenrc.com
 liaotiangou.com
@@ -59366,6 +59365,7 @@ mic-s.com
 micai.com
 micaitu.net
 micaiying.com
+micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
 michaelapp.com
@@ -62354,7 +62354,6 @@ newzkoo.com
 nexiao.com
 nexmoe.com
 nexon.to
-nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com
 next.itellyou.cn
@@ -65383,6 +65382,7 @@ partner.googleadservices.com
 partner.toutiao.com
 partnerad.l.doubleclick.net
 partnerad.l.google.com
+partnerdownload.xunyou.com
 partners.sina.cn
 partnership.sspu.edu.cn
 parwix.com
@@ -65895,7 +65895,6 @@ pepcn.com
 pepprpvc.vip
 pepresource.com
 pepsico.com.cn
-perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 perfect-is-shit.com
@@ -66881,7 +66880,6 @@ polayoutu.com
 pole.6rooms.com
 polebrief.com
 policy-cde.le.com
-policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -71316,7 +71314,6 @@ rdls.bigdata.samsung.com.cn
 rdnsdb.com
 rdplat.com
 rds-buy.aliyun.com
-rds.alipay.com
 rds.console.aliyun.com
 rdsdk.com
 rdstat.tanx.com
@@ -75512,7 +75509,6 @@ shouyouqianxian.com
 shouyouribao.com
 shouyoutan.com
 shouyoutv.com
-shouyouyou.com
 shouyouzhijia.net
 shouzan365.com
 shouzhang.com
