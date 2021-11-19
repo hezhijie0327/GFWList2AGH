@@ -6336,6 +6336,7 @@ bitbank.cc
 bitbankgroup.com
 bitbay.net
 bitbucket.org
+bitc.bme.emory.edu
 bitchute.com
 bitcoin.org
 bitcoinheaven.pw
@@ -7453,6 +7454,7 @@ businesssource.bokf.com
 businesstoday.com.tw
 businesswebwise.com
 businessweek.com
+businessweekly.com.tw
 businessweekmag.com
 busjav.cc
 bustybloom.com
@@ -14595,6 +14597,7 @@ fun605.com
 fun612.com
 fun66996.com
 fun678.com
+fun712.com
 fun727.com
 fun767.com
 fun7733.com
@@ -14831,6 +14834,7 @@ gamez.com.tw
 gaming-notebooks.com
 gamingsoft.com
 gammalikker.net
+gamme.com.tw
 gamona.de
 gamousa.com
 ganbe.jp
@@ -20309,7 +20313,6 @@ level-plus.net
 levels.io
 leviathyn.com
 levote68.net
-levyhsu.com
 lewrockwell.com
 lex.idv.tw
 lexpress.fr
@@ -36097,7 +36100,6 @@ www.gmail.com.hk
 www.gmailvpn.com
 www.gmiddle.com
 www.gmiddle.net
-www.gmll.org
 www.gnavi.com
 www.gnupg.org
 www.goagent.biz
