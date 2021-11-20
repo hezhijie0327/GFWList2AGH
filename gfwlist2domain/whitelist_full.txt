@@ -2917,6 +2917,7 @@
 1tu1.com
 1u8stziw.sched.sma.tdnsv5.com
 1uandun.com
+1ug8jn.cn
 1uke.com
 1uuc.com
 1uwpmz.tdum.alibaba.com
@@ -6192,7 +6193,6 @@
 51yes.com
 51yey.com
 51yhdai.com
-51yhzp.com
 51yilu.com
 51yip.com
 51yjsteel.com
@@ -9075,6 +9075,7 @@
 88765.com
 887w.com
 888.tv.sohu.com
+88818122.cn
 8881919.cc
 88845678.com
 888593a.com
@@ -10465,6 +10466,7 @@ a.hecdn.net
 a.hecdn.net.w.kunlunso.com
 a.hexuntech.cn
 a.hiphotos.baidu.com
+a.huocheba.com
 a.img.static.youmi.net
 a.imgso.cn
 a.iy.com.cn
@@ -11023,7 +11025,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -13192,7 +13193,6 @@ alyssaeileen.com
 alyzq.com
 am.aicdn.com
 am.g.ireader.com
-am.szhome.com
 am.zdmimg.com
 am774.com
 am89.com
@@ -13312,6 +13312,7 @@ analytics-api.samsunghealthcn.com
 analytics-api.smzdm.com
 analytics-china.com
 analytics.163.com
+analytics.300624.com
 analytics.95516.com
 analytics.95516.com.wscdns.com
 analytics.agoda.com
@@ -14376,7 +14377,6 @@ app-router.com
 app-router.leancloud.cn
 app-sage.com
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14504,7 +14504,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -17403,7 +17402,6 @@ bigaaa.net
 bigaka.com
 bigan.net
 bigbaicai.com
-bigbaicai.wang
 bigbenmeng.com
 bigbigsun.com
 bigbigwork.com
@@ -18234,6 +18232,7 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -18605,7 +18604,6 @@ bookinlife.net
 bookkeeper.itunes.apple.com
 bookkeeper.itunes.apple.com.mwcname.com
 bookmark.115.com
-bookqi.com
 bookresource.net
 books.studygolang.com
 books51.com
@@ -19200,6 +19198,7 @@ bwmelon.com
 bwptl.com
 bwpx.com
 bwsoft.net
+bwtiyu.com
 bwxsj.com
 bx01.optimix.cn
 bx1k.com
@@ -24245,7 +24244,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -29297,7 +29295,6 @@ dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
-dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
@@ -37385,6 +37382,7 @@ genzhuang.org
 geo-drcn.platform.hicloud.com
 geo-prism-cn.htcsense.com
 geo-prism.htcsense.com
+geo.accdn.livepersonk.akadns.net
 geo.dbankcdn.com
 geo.gridsumdissector.com
 geo.hicloud.com
@@ -41309,7 +41307,6 @@ heimaying.com
 heimeiai.com
 heimeng.net
 heimizhou.com
-heimo.rrsdl.com
 heiniubao.com
 heinote.com
 heirenlei.com
@@ -42071,7 +42068,6 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42513,7 +42509,6 @@ home.51cto.com
 home.console.aliyun.com
 home.htcsense.com
 home.httpcn.com
-home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -43167,7 +43162,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -43874,6 +43868,7 @@ huoche.biz
 huoche.com
 huoche.net
 huoche.wiki
+huocheba.com
 huochepiao.com
 huochepiao.net
 huocheso.com
@@ -44607,7 +44602,6 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -45868,7 +45862,6 @@ im-ad.com
 im-ap.dongqiudi.com
 im-cc.com
 im-hist.iqiyi.com
-im-link-server-86.csdn.net
 im-x.jd.com
 im-x.jd.com.gslb.qianxun.com
 im.alimebot.com
@@ -50340,6 +50333,7 @@ jr123.com
 jr18.com
 jr1se25g.sched.sma.tdnsv5.com
 jrad.jd.com
+jrafspaelojsejbn.xyz
 jrclick.jd.com
 jrdzj.cc
 jrecchina.com
@@ -52531,7 +52525,6 @@ knewbi.com
 knewhy.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knja123.top
 knotesapp.com
@@ -57156,7 +57149,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -57284,7 +57276,6 @@ m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com
 m.vaxyz.com
-m.vchiy.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com
@@ -59205,7 +59196,6 @@ mic-s.com
 micai.com
 micaitu.net
 micaiying.com
-micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
 michaelapp.com
@@ -88990,6 +88980,7 @@ wkimg.com
 wklken.me
 wklm2018.com
 wkmic.com
+wknniyu.cn
 wkpcw.cn
 wkphoto.cdn.bcebos.com
 wkread.com
@@ -90761,6 +90752,7 @@ www.jobui.com
 www.jpush.cn
 www.jpushoa.com
 www.jqhtml.com
+www.jrafspaelojsejbn.xyz
 www.jsbc.com
 www.jsfda.cn
 www.jsgsj.gov.cn
@@ -92051,6 +92043,7 @@ xcexe.com
 xcfee.com
 xcfs-public.xystatic.com
 xcfunds.com
+xcgcwfc.cn
 xcggpt.cn
 xcgjj.com
 xcgogo.club
