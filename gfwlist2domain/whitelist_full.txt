@@ -5448,7 +5448,6 @@
 4inlook.com
 4jplus.com
 4jwl1zkf.sched.sma.tdnsv5.com
-4jzl.cn
 4k123.com
 4kbizhi.com
 4kfv18.cn
@@ -8376,6 +8375,7 @@
 7c9e20f2e085f9d082e3ac8838061999.safeframe.googlesyndication.com
 7caiyun.com
 7capp.com
+7cbwus.cn
 7ccj.com
 7cen.com
 7cf212f05ce3c304240913b08a53ff5a.safeframe.googlesyndication.com
@@ -11003,6 +11003,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -11670,7 +11671,6 @@ adsensor.org
 adserve2.tom.com
 adservice.google.com
 adservice.sigmob.cn
-adserviceretry.kugou.com
 adserving.yuewen.com
 adsfile.bssdlbig.kugou.com
 adsfile.qq.com
@@ -11709,7 +11709,6 @@ adsmogo.com
 adsmogo.mobi
 adsmogo.net
 adsmogo.org
-adsolution.imtt.qq.com
 adsoss.uqualities.com
 adsp.xunlei.com
 adsrvr.cn
@@ -12509,7 +12508,6 @@ aiyouxi07.vip
 aiyoweia.com
 aiyuangong.com
 aiyuke.com
-aiyun.co
 aiyunxiao.com
 aizaoqi.com
 aizhan.com
@@ -13823,6 +13821,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com
@@ -13884,6 +13883,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -14102,6 +14102,7 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
+api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.ujian.cc
 api.union.vip.com
@@ -15192,7 +15193,6 @@ australia.people.com.cn
 ausuu.com
 auth-ai.meituan.com
 auth.api.gitv.tv
-auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -16502,7 +16502,6 @@ bbs.dmzj.com
 bbs.elecfans.com
 bbs.elecfans.com.w.kunlunca.com
 bbs.feng.com
-bbs.gameres.com
 bbs.greendown.cn
 bbs.iappstoday.com
 bbs.ikuai8.com
@@ -17164,7 +17163,6 @@ betterzip.net
 betterzipcn.com
 betway118.com
 betway556.com
-betway88help.com
 beva.com
 bevol.com
 bewaycare.com
@@ -17883,7 +17881,6 @@ bjdcfy.com
 bjdfart.com
 bjdfxj.com
 bjdgqx.com
-bjdianyue.com
 bjdiaoyu.com
 bjdingyi.com
 bjdjc.com
@@ -18095,7 +18092,6 @@ bjwfz.com
 bjwhds.com
 bjwj2y.com
 bjwkzl.com
-bjwmys.com
 bjwsk.com
 bjwsyy.com
 bjwszyxy.com
@@ -20677,6 +20673,7 @@ cdn-adn-https-share.rayjump.com
 cdn-adn-https-share.rayjump.com.wswebcdn.com
 cdn-adn-https.rayjump.com
 cdn-adn-https.rayjump.com.wswebpic.com
+cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-ali.content.steamchina.com
 cdn-api-my.le.com
@@ -21016,6 +21013,7 @@ cdnyt69.com
 cdnyzdjj.com
 cdnzhuji.com
 cdooc.com
+cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -21568,7 +21566,6 @@ changtounet.com
 changtu.baixing.com
 changtu.com
 changtu8.com
-changweibo.net
 changxie.com
 changxing.baixing.com
 changxingyun.com
@@ -32848,6 +32845,7 @@ eiabbs.net
 eickaopei.com
 eicodesign.com
 eicp.net
+eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -35322,6 +35320,7 @@ fjsdn.com
 fjsen.com
 fjsfa.org
 fjsfy.com
+fjshxjs.cn
 fjsj.com
 fjsjs.com
 fjsnhd.org
@@ -36705,6 +36704,7 @@ gamelauncher.samsung.com.cn
 gameloveman.com
 gamemale.com
 gamemei.com
+gameoftraffic.com
 gameol.com
 gamepf.com
 gameplus-platform.cdn.bcebos.com
@@ -36962,7 +36962,6 @@ gbtags.com
 gbtranswins.com
 gbw114.com
 gbwbv6.a.vvipcdn.com
-gbzumh.cn
 gc-repair.com
 gc-zb.com
 gc1616.com
@@ -38871,6 +38870,7 @@ guanhuaju.com
 guanjia.10010.com
 guanjia.lenovo.com.cn
 guanjia2.com
+guanjiabo.net
 guanjiajf.com
 guanjianfeng.com
 guankou.net
@@ -39630,7 +39630,6 @@ h.myyqxiu.com
 h.pcd.autohome.com.cn
 h.sora.yoyi.com.cn
 h.trace.qq.com
-h.yosjob.cn
 h.youdao.com
 h0.ifengimg.com
 h01.hxsame.hexun.com
@@ -42543,7 +42542,6 @@ hongshu.com
 hongshunet.com
 hongsungifts.com
 hongt.com
-hongtaidichan.net
 hongtastock.com
 hongtongad.com
 hongtu.net
@@ -50395,14 +50393,12 @@ js1cdn.clubstatic.lenovo.com.cn
 js1cdn.clubstatic.lenovo.com.cn.wswebcdn.com
 js2.a.kwimgs.com
 js2.a.yximgs.com
-js2.idgdmgroup.com.cn
 js2.idgdmgroup.com.cn.w.kunluncan.com
 js2.t.sinajs.cn
 js3.org
 js3n.com
 js4.eastmoney.com
 js412.yqjxzw.com
-js4476.hongtaidichan.net
 js50.ys137.com
 js53777.com
 js6.efyt6.com
@@ -52233,7 +52229,6 @@ kjbnm.xyz
 kjcad.net
 kjcdn.com
 kjcgzh.com
-kjchangdu.com
 kjchina.com
 kjcity.com
 kjcxpp.com
@@ -53235,7 +53230,6 @@ l.dalemax.cn
 l.fancyapi.com
 l.fastapi.net
 l.glrcy.cn
-l.gm.mob.com
 l.huya.com
 l.kscmt.cn
 l.mamababu.cn
@@ -55483,7 +55477,6 @@ ljtx.com
 ljwit.com
 ljxww.com
 ljzfin.com
-lk.4jzl.cn
 lk.brand.sogou.com
 lk.kepuwen.com
 lkcgyl.com
@@ -55676,7 +55669,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -57080,7 +57072,6 @@ m.nb.17house.com
 m.nejup.com
 m.news.cctv.com
 m.newsmth.net
-m.nkjfzq43034.cn
 m.nuoqingck.cn
 m.nxypz.com
 m.o4hpc.cn
@@ -57785,7 +57776,6 @@ mao.li
 mao999.com
 maobotv.com
 maobugames.com
-maobujie.com
 maodou.com
 maodouapp.com
 maoerduo2018.com
@@ -59214,7 +59204,6 @@ mikuac.com
 mikublog.com
 mikucdn.com
 mikuclub.fun
-mil.gbzumh.cn
 mil.news.sina.com.cn
 mil.rfjckj.cn
 mil.youth.cn
@@ -62488,6 +62477,7 @@ nlv2.com
 nlwl.iqiyi.com
 nlxn.com
 nly6.com
+nlyjs2015.com
 nlypx.com
 nlyt5j5a.v1d.szbdyd.com
 nlyt5j87.v1d.szbdyd.com
@@ -63076,7 +63066,6 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
-o2o.api.xiaomi.com
 o2o.keloop.cn
 o2o1111.com
 o2o4.com
@@ -67463,7 +67452,6 @@ push.res.meizu.com
 push.tv.sohu.com
 push.ulive.ugslb.com
 push.wapx.cn
-push.xdrig.com
 push.yuedu.163.com
 push.zdworks.com
 push.zhangyue.com
@@ -70995,7 +70983,6 @@ rdtuijian.com
 rdwork.com
 rdx.autohome.com.cn
 rdxmt.com
-rdxw8.com
 rdyhly.net
 rdyjs.com
 rdzhijia.com
@@ -71334,7 +71321,6 @@ report.samsung.japps.cn
 report.taptapdada.com
 report.tga.qq.com
 report.url.cn
-report.vip.meituan.com
 report.vip.qq.com
 reportlog.dftoutiao.com
 reports.baidu.com
@@ -100573,7 +100559,6 @@ yoqu.net
 yorentown.com
 york33.com
 yoseleather.com
-yosjob.cn
 yotta800.com
 you-mi.net
 you.163.com
