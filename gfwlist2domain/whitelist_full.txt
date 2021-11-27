@@ -5430,7 +5430,6 @@
 4g.youku.com
 4g0.cc
 4gfy.com
-4ggame8.com
 4ggogo.com
 4gh6.com
 4glte.org
@@ -10620,6 +10619,7 @@ a5f69f96a90aed270c560e827d1b8e48.dlied1.cdntips.net
 a5idc.net
 a615e890c8748a1b.cdn.jiashule.com
 a632079.me
+a63t9o1azf.com
 a646b6a6bf836cb073a5c94ab2f5fb39.safeframe.googlesyndication.com
 a6518f2746f86af5a42af6eb26efef88.safeframe.googlesyndication.com
 a655e64b5b118aa8b9b9790c332aba29.dlied1.cdntips.net
@@ -14250,7 +14250,6 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -14428,7 +14427,6 @@ appadhoc.com
 appadhoc.net
 appao.com
 appapi.17house.com
-appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -14988,7 +14986,6 @@ assets.alicdn.com.danuoyi.tbcache.com
 assets.analog.com
 assets.asklib.com
 assets.ckjr001.com
-assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -15687,6 +15684,7 @@ b90246b47bbdc22caa900cb6467f847d.safeframe.googlesyndication.com
 b92.photo.store.qq.com
 b9999.com
 ba-li.com
+ba.fqzds.com
 ba05e9866e07280b264b911aaf3e346f.safeframe.googlesyndication.com
 ba125.com
 ba210.com
@@ -18721,6 +18719,7 @@ bqg8.cc
 bqg8.la
 bqgimgs1.cdn.bcebos.com
 bqgyy.com
+bqhnj.cn
 bqiapp.com
 bqimg.com
 bql999.com
@@ -20318,6 +20317,7 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -20864,7 +20864,6 @@ cdn.wtzw.com.wswebpic.com
 cdn.wup.huya.com
 cdn.wuxiqiangheng.com
 cdn.wwads.cn
-cdn.xianliao.me
 cdn.ycxjtd.com
 cdn.ynuf.aliapp.org
 cdn.ynuf.aliapp.org.w.alikunlun.com
@@ -21013,7 +21012,6 @@ cdnyt69.com
 cdnyzdjj.com
 cdnzhuji.com
 cdooc.com
-cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -24202,7 +24200,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -26458,6 +26455,7 @@ curlc.com
 curryhuang.com
 cusdvs.net
 custeel.com
+customstat.video.51togic.com
 custweb.alipay.com
 cut35.com
 cutecomm.com
@@ -30118,7 +30116,6 @@ doit.kccqgj.cn
 doitim.com
 doki8.com
 doko.com
-dokrmob.com
 dol.deliver.ifeng.com
 dol.tianya.cn
 dolanzz.com
@@ -37348,7 +37345,6 @@ geshui100.com
 geshuishuilvbiao2017.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -47668,6 +47664,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -53230,6 +53227,7 @@ l.dalemax.cn
 l.fancyapi.com
 l.fastapi.net
 l.glrcy.cn
+l.gm.mob.com
 l.huya.com
 l.kscmt.cn
 l.mamababu.cn
@@ -56946,7 +56944,6 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
-m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -62740,6 +62737,7 @@ npxsw.com
 npyun.com
 npz.com
 nq.com
+nq37f.cn
 nq6.com
 nqfwx.cn
 nr-esc.com
@@ -66561,7 +66559,6 @@ polayoutu.com
 pole.6rooms.com
 polebrief.com
 policy-cde.le.com
-policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -67578,6 +67575,7 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.ads.linkedin.cn
+px.ads.linkedin.com
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -70100,6 +70098,7 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
+query.hicloud.com
 query.tencent-cloud.com
 querylist.cc
 queshao.com
@@ -74584,6 +74583,7 @@ shengcai.net
 shengcaijinrong.com
 shengdan.com
 shengdaosoft.com
+shengdaoyiliao.com
 shengdaprint.com
 shengdianhuadg.com
 shengdianhuadk.com
@@ -75169,6 +75169,7 @@ show.bilibili.com.w.kunlunar.com
 show.chuangyi.taobao.com
 show.chuangyi.taobao.com.w.alikunlun.com
 show.f.mediav.com
+show.findqc.com
 show.g.mediav.com
 show.govhunan.cn
 show.govjiangsu.cn
@@ -92338,7 +92339,6 @@ xiankan.com
 xiankankan.com
 xianlaigame.com
 xianlaihy.com
-xianliao.me
 xianlife.com
 xianlu0605.com
 xianmin.org
