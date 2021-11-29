@@ -2762,6 +2762,8 @@
 9afd1.com
 9agz1.com
 9aje1.com
+9anime.id
+9anime.ws
 9apps.com
 9bac1.com
 9baf1.com
@@ -3743,6 +3745,7 @@ anhqv.es
 anidom.com
 anime-sharing.com
 animecrazy.net
+animedao-tv.com
 animedreaming.tv
 animeshippuuden.com
 animestigma.com
@@ -6080,6 +6083,7 @@ bmwworld.com
 bmwworld.net
 bmwworld.tv
 bmwzentrum.com
+bn5x.net
 bn65.com
 bnaz.org
 bnbstatic.com
@@ -6171,6 +6175,7 @@ boomss.cc
 boomssr.com
 boomtrain.com
 boostmobile.com
+booth.pm
 bootstrapcdn.com
 borderlandindustry.ml
 borderlands-books.com
@@ -10961,6 +10966,7 @@ famousfootwear.com
 famunion.com
 fan-qiang.com
 fanatical.com
+fanbox.cc
 fancy7.com
 fandango.com
 fandom.com
@@ -12154,6 +12160,7 @@ fundfire.com
 fundpaypal.com
 fundraisingwithfacebook.com
 funf.tw
+funimation.com
 funimax.com
 funkyimg.com
 funny-games.biz
@@ -13758,6 +13765,7 @@ hidess.com
 hidester.com
 hidethisip.net
 hidevpn.com
+hidive.com
 hidrive.com
 hifacebook.info
 higfw.com
@@ -15808,7 +15816,6 @@ jbo61.com
 jbo84.com
 jbo87.com
 jbo8822.com
-jbo8877.com
 jbo9.com
 jbo919.com
 jbo98.com
@@ -15847,6 +15854,7 @@ jessewilkinson.com
 jesus-army.com
 jetbrains.com
 jetbrains.net
+jetbrains.space
 jetbrains.team
 jetfuelapp.com
 jetfuelapps.com
@@ -19593,6 +19601,7 @@ nicolasi.com
 nicolasmoro.net
 niconico.com
 niconode.com
+nicotv.me
 nicovideo.jp
 nicozon.net
 nicstudios.com
@@ -20298,6 +20307,7 @@ onepointcommerce.com
 onesto.re
 onestore.ms
 onetenth.me
+onetrust.com
 onevpn.com
 onevps.com
 oneworld.cz
@@ -23325,6 +23335,7 @@ seniorexpress.org
 sensolnet.com
 sensortower.com
 sensorynetworks.com
+sentry.io
 senvpn.com
 senzacodice.com
 seondlife.com
@@ -27622,6 +27633,7 @@ vriendenvantibet.be
 vrmtr.com
 vrsmash.com
 vrt.be
+vrv.co
 vs8866.com
 vs8989.com
 vs9933.com
