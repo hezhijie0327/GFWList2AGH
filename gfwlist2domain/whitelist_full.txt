@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -2149,7 +2148,6 @@
 16595.com
 166.com
 166.net
-166015.com
 166161.com
 166396.com
 1666.com
@@ -2630,7 +2628,6 @@
 18touch.com
 18vps.com
 18wk.com
-18xl.in
 18xs.org
 18yangzhi.com
 18yl.com
@@ -2922,7 +2919,6 @@
 1v1offcn.com
 1vp.me
 1w499yq9.sched.sma.tdnsv5.com
-1w5ddx.cn
 1wandian.com
 1wang.com
 1wgbl4qm.s1txipv6.cdntip.com
@@ -4844,7 +4840,6 @@
 3d2013.com
 3d2s.com
 3d344a3a.qc.x.bsgslb.cn
-3d414.com
 3d4feefaedba36e7540c1a68f3d6a413.safeframe.googlesyndication.com
 3d56.net
 3d5bf54d42668db1bb427d60d.mdbook.cn
@@ -11774,7 +11769,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 advbeta.madserving.com
@@ -13887,7 +13881,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -13941,7 +13934,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -14081,7 +14073,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -19133,7 +19124,6 @@ buysun.net
 buysweet.com
 buytips.site
 buyu46.com
-buyuninfo.com
 buzhi5.com
 buzhibushi.com
 buzx53.cn
@@ -20328,7 +20318,6 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
@@ -21824,7 +21813,6 @@ chenall.net
 chenanz.com
 chenapp.com
 chende.net
-cheneyliu.com
 cheng-nuo.com
 cheng-sen.com
 cheng.guru
@@ -25439,6 +25427,7 @@ coomix.net
 cooo.us
 coooz.com
 coop.aihuishou.com
+coop.pop.baofeng.com
 coop100.com
 coopb2b.com
 coophone.com
@@ -25473,7 +25462,6 @@ coralsec.com
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
-core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -25614,6 +25602,7 @@ cpicsz.com
 cpihualai.com
 cpitsh.org
 cpjltx.com
+cpk55.com
 cplchain.com
 cpnic.com
 cpo.xyz
@@ -28698,7 +28687,6 @@ dgapi.zhhainiao.com
 dgbfzz88.com
 dgch.net
 dgchangan.com
-dgd2018.com
 dgddh.xyz
 dgdxs.com
 dgg.net
@@ -29191,7 +29179,6 @@ diershoubing.com
 dietfd.com
 diexia.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -29786,6 +29773,7 @@ dm.cqdxun.cn
 dm.hxzdhn.com
 dm.ishuo.cn
 dm.jb51.net
+dm.jinshasi.cn
 dm.jsyst.cn
 dm.lianzhixiu.com
 dm.oadz.com
@@ -32781,7 +32769,6 @@ eflycloud.com
 eflydns.net
 efmac.org
 efnchina.com
-efo.cc
 efotile.com
 efount.com
 efoxconn.com
@@ -33672,7 +33659,6 @@ events.jianshu.io
 events.op.hicloud.com
 events.pingan.com
 events2.djicdn.com
-evenyao.com
 evepc.163.com
 everbright.com
 everdns.com
@@ -37790,7 +37776,6 @@ gjzq.com.cn
 gjzy.com
 gk-net.com
 gk-z.com
-gk.com
 gk.link
 gk.sina.cn
 gk027.com
@@ -38574,6 +38559,7 @@ grouplus.com
 grouptalk.c2c.qq.com
 groupyd.chaoxing.com
 groupyd2.chaoxing.com
+grours.cn
 growingio.cn
 growingio.com
 growthpic.weishi.qq.com
@@ -49436,6 +49422,7 @@ jinshangdai.cc
 jinshangdai.com
 jinshanju.com
 jinshare.com
+jinshasi.cn
 jinshisoft.com
 jinshuju.co
 jinshuju.com
@@ -51299,7 +51286,6 @@ k-day.com
 k-kbox.com
 k-res.net
 k-xian.com
-k.16vcd.com
 k.autohome.com.cn
 k.innvitor.com
 k.m.autohome.com.cn
@@ -59225,7 +59211,6 @@ mikesent-awareness-02.com
 mikesent.net
 mikewootc.com
 mikoshu.me
-miku.fm
 miku.ink
 miku4567.com
 mikuac.com
@@ -60510,6 +60495,7 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -60541,7 +60527,6 @@ msg.csdn.net
 msg.douyu.com
 msg.eclicks.cn
 msg.iqiyi.com
-msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
@@ -67419,7 +67404,6 @@ pupumall.com
 pupumall.net
 pupurazzi.com
 pupuwang.com
-puqer.cn
 purcotton.com
 purcow.com
 pureage.info
@@ -67612,7 +67596,6 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.ads.linkedin.cn
-px.ads.linkedin.com
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
