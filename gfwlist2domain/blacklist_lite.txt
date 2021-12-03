@@ -12136,7 +12136,6 @@ fun702.com
 fun712.com
 fun727.com
 fun767.com
-fun7733.com
 fun780.com
 fun8011.com
 fun809.com
@@ -13258,7 +13257,6 @@ gu-chu-sum.org
 gu-web.net
 gu.com
 guaguass.com
-guaguass.org
 guaiguaizhanhao.com
 guaihan.com
 guaika.cc
@@ -15137,6 +15135,9 @@ intelinsight.com
 inteliotmarketplace.com
 intell.com
 intellearningseries.com
+intellij.com
+intellij.net
+intellij.org
 intellinuxgraphics.com
 intellinuxgraphics.net
 intellinuxwireless.net

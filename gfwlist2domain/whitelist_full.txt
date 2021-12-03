@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -2955,7 +2954,6 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -5451,7 +5449,6 @@
 4l.hk
 4lzx.com
 4name.com
-4nzrqw.cn
 4paradigm.com
 4px.com
 4pyun.com
@@ -9150,7 +9147,6 @@
 8bears.com
 8bei8.com
 8bit.xin
-8bnwuz.cn
 8btc-ops.com
 8btc.com
 8btm.com
@@ -11142,6 +11138,7 @@ actions-semi.com
 actionsky.com
 activate-channel-guide.yy.com
 activation.unity.cn
+active.baofeng.com
 active.clewm.net
 active.starbucks.com.cn
 active.starbucks.com.cn.wsglb0.com
@@ -11757,6 +11754,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 advbeta.madserving.com
@@ -13642,7 +13640,6 @@ aoedi.com
 aoerdz.com
 aoetech.com
 aofenghuanjing.com
-aofrp.com
 aograph.com
 aohuasports.com
 aoidf3.com
@@ -13838,6 +13835,7 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
+api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -13922,6 +13920,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -13944,6 +13943,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -14089,7 +14089,6 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
-api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.ujian.cc
 api.union.vip.com
@@ -18736,7 +18735,6 @@ brbtyt.com
 breadtrip.com
 breakingnewsireland.com
 breakyizhan.com
-breeze.olclient.baofeng.com
 brentron.com
 bricktou.com
 bridge-image.com
@@ -19456,6 +19454,7 @@ c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.vlion.cn
 c.w.inmobi.cn
+c.whbhsoft.cn
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -20306,6 +20305,7 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -22090,7 +22090,6 @@ china-pops.net
 china-pub.com
 china-qiao.com
 china-reform.org
-china-review.com
 china-ric.com
 china-riscv.com
 china-russia.org
@@ -27359,7 +27358,6 @@ daixiaorui.com
 daixingmo.com
 daiyanbao.com
 daiyanmama.com
-daiyoubang.com
 daiyuxia.com
 daizhuzai.com
 daizitouxiang.com
@@ -28043,6 +28041,7 @@ dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
 dc.api.my7v.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -29352,6 +29351,7 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
+display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com
@@ -30011,7 +30011,6 @@ dnzhuti.com
 dnzjds.com
 do-shi.com
 do.lymstsc.com
-do.yy.duowan.com
 do1024.com
 do123.net
 do1618.com
@@ -31943,7 +31942,6 @@ e.t71q.com
 e.tapdb.net
 e.tf.360.cn
 e.vaxyz.com
-e.vchiy.com
 e.weather.com.cn
 e.weibo.com
 e.wsxxu.com
@@ -32828,6 +32826,7 @@ eiabbs.net
 eickaopei.com
 eicodesign.com
 eicp.net
+eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -33193,7 +33192,6 @@ enunix.com
 envisioncn.com
 enyamusical.com
 enzj.com
-eo.graintown.cn
 eo.yun-pdm2000.cn
 eoaoo.com
 eoeandroid.com
@@ -34549,6 +34547,7 @@ fcyhw.com
 fcz360.com
 fczx.com
 fd-trust.com
+fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -35729,6 +35728,7 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
+fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -35835,6 +35835,7 @@ freshhema.com
 freshnewsnet.com
 frhelper.com
 friendeye.com
+friends-public-service-prod06.ol.epicgames.com
 fright-tattoo.com
 fringe-zero.com
 friok.com
@@ -36054,6 +36055,7 @@ fun48.com
 fun501.com
 fun551.com
 fun737.com
+fun7733.com
 fun78.com
 fun803.com
 fun88113.com
@@ -37069,6 +37071,7 @@ gdkz88.com
 gdlins.com
 gdliontech.com
 gdlppow.com
+gdlvbiaokeji.cn
 gdmappress.com
 gdmeishile.cn
 gdmingshizx.com
@@ -38332,7 +38335,6 @@ gouwuwang988.com
 gouwuyu.com
 gov.cn
 gov.mo
-govbeijing.cn
 govchengdu.cn
 govchongqing.cn
 govfz.com
@@ -38437,7 +38439,6 @@ gradgroup.com
 gradgroup.net
 grainedu.com
 grainstorage.net
-graintown.cn
 gran.work
 grand.ele.me
 grandcloud.cn
@@ -39098,7 +39099,6 @@ guozhivip.com
 guozhiyouq.com
 guozhongxin.com
 guozi.org
-guozi.tv
 guoziyx.com
 gupaoedu.com
 gupei.com
@@ -44586,7 +44586,6 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i6879.com
 i7.3conline.com
@@ -47841,7 +47840,6 @@ iufida.com
 iuhy.lhy2.xyz
 iuinns.com
 iuiweb.com
-iuliao.com
 iuni.com
 iuniware.com
 iuoooo.com
@@ -55544,7 +55542,6 @@ lncldglobal.com
 lncnw.com
 lndao.com
 lndhdx.com
-lndnserror6.wo.com.cn
 lndzxy.com
 lnemci.com
 lnest.com
@@ -55637,7 +55634,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -57824,7 +57820,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -67264,7 +67259,6 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
-pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com
@@ -85339,7 +85333,6 @@ vchangyi.com
 vchat5.com
 vchatshow.com
 vchello.com
-vchiy.com
 vchome.net
 vcimg.com
 vcinchina.com
