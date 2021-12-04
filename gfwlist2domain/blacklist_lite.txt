@@ -12592,6 +12592,7 @@ gfw.im
 gfw.press
 gfw.report
 gfw.wtf
+gfwatch.org
 gfwvpn.com
 gfx.ms
 gfx47.com

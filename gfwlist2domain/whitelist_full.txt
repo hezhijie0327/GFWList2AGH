@@ -2953,7 +2953,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.bashenghuo.com
+2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -3162,7 +3162,6 @@
 21datasheet.com
 21dianyuan.com
 21edu8.com
-21educ.com
 21ejob.com
 21eline.com
 21epub.com
@@ -9620,7 +9619,6 @@
 92220668.com
 92220701.com
 922c25.com
-922x7c.cn
 925177359317868fca73f994645a371b.safeframe.googlesyndication.com
 925pk.com
 925ps.com
@@ -9866,7 +9864,6 @@
 961.com
 9610.com
 9611111.com
-96138.net
 96160.cc
 96189.com
 9618968.com
@@ -13546,7 +13543,6 @@ anxiw.com
 anxjm.com
 anxnr.com
 anxz.com
-any.broker.prod.zpath.net
 any.cdn-go.cn.cloud.tc.qq.com
 any.cdn-go.x2s-dstack.sched.dcloudstc.com
 any123.com
@@ -13960,7 +13956,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14090,7 +14085,6 @@ api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.udache.com
-api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -14879,6 +14873,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -18682,7 +18677,6 @@ boyuonline.com
 bozhihua.com
 bozhong.com
 bp-api.coohua.com
-bp576.com
 bphetaomiao.com
 bpimg.com
 bppan.com
@@ -20778,7 +20772,6 @@ cdn.huaixuejy.com
 cdn.huijiwiki.com
 cdn.iciba.com
 cdn.iclicash.com
-cdn.img.liuxingyul.cn
 cdn.ioiox.com
 cdn.iplaysoft.com
 cdn.ishansong.com
@@ -21674,6 +21667,7 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -24183,6 +24177,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.version.battle.net
@@ -28177,7 +28172,6 @@ ddmapimg.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
-ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -32826,7 +32820,6 @@ eiabbs.net
 eickaopei.com
 eicodesign.com
 eicp.net
-eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -37329,6 +37322,7 @@ geshui100.com
 geshuishuilvbiao2017.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -38580,6 +38574,7 @@ gsdpw.com
 gsflcp.com
 gsgs10086.com
 gshhqy.com
+gshtrl.top
 gsi24.com
 gsicpa.net
 gsjie.com
@@ -41682,6 +41677,7 @@ hicling.com
 hicloud.com
 hiconey.com
 hicoo.net
+hicooer.cn
 hicosmo.com
 hicp.net
 hicss.net
@@ -43623,6 +43619,7 @@ huixianxian.baixing.com
 huixiaoer.com
 huixiaoer.net
 huixing.hk
+huixingcheng.cn
 huixingsoft.com
 huixinli.com
 huixinyt.com
@@ -46012,7 +46009,6 @@ img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
 img-x.jd.com
-img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
 img.0bp.top
@@ -49194,6 +49190,7 @@ jindian120.com
 jindianweb.com
 jindidata.com
 jindingfm.com
+jindowins.com
 jindun007.net
 jindunfan.com
 jinduoduo.net
@@ -55634,6 +55631,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -58756,7 +58754,6 @@ metacd.com
 metajs.info
 metal-min.com
 metalchina.com
-metao.com
 metcn.com
 meten.com
 meteni.com
@@ -59078,6 +59075,7 @@ midea.com.tr
 midicn.com
 midifan.com
 midifan.org
+midinfo.baofeng.com
 midiyinyue.com
 midlele.com
 midonline.net
@@ -59212,6 +59210,7 @@ mime.n.shifen.com
 mimeihui.com
 mimg.126.net
 mimg.127.net
+mimg.hicooer.cn
 mimg.shuaishou.com
 mimgame.com
 mimi456.com
@@ -60369,7 +60368,6 @@ mqq-plugin.qq.com.sched.dlied1.tdnsv5.com
 mqq-plugin.qq.com.yyb.sched.dcloudstc.com
 mqq.tenpay.com
 mqqad.cs0309.html5.qq.com
-mqqad.html5.qq.com
 mqqadr.reader.qq.com
 mqtt-internal-public.zhihu.com
 mqtt-web.zhihu.com
@@ -60480,6 +60478,7 @@ msg.csdn.net
 msg.douyu.com
 msg.eclicks.cn
 msg.iqiyi.com
+msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
@@ -61921,7 +61920,6 @@ news.gtimg.cn
 news.html5.qq.com
 news.ifeng.com
 news.iju.cn
-news.jiukang.org
 news.jstv.com
 news.l.qq.com
 news.m.liebao.cn
@@ -64770,6 +64768,7 @@ pagechoicemotu.gentags.net
 pages-juxiao.mediav.com
 pages.c-ctrip.com
 pages.c-ctrip.com.lxdns.com
+pages.ctrip.com
 pages.ctrip.com.cdn20.com
 pages.juxiao.mediav.com
 pages.tmall.com
@@ -65366,6 +65365,7 @@ pcw-api.iqiyi.com.w.alikunlun.com
 pcw-data.video.iqiyi.com
 pcw365.com
 pcweb-v1.log.mgtv.com
+pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com
@@ -66414,7 +66414,6 @@ pluvet.com
 plycd.com
 plyz.net
 pm-summit.org
-pm.3.cn
 pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
