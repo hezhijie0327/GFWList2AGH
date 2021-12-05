@@ -11751,7 +11751,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 advbeta.madserving.com
@@ -13939,7 +13938,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -14458,7 +14456,6 @@ appdownload.youku.com
 appdp.com
 appdriver.cn
 appdriver.com.cn
-appdump.nie.netease.com
 appduu.com
 appeasou.com
 appengine.wmpvp.com
@@ -15171,6 +15168,7 @@ australia.people.com.cn
 ausuu.com
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -16483,6 +16481,7 @@ bbs.dmzj.com
 bbs.elecfans.com
 bbs.elecfans.com.w.kunlunca.com
 bbs.feng.com
+bbs.gameres.com
 bbs.greendown.cn
 bbs.iappstoday.com
 bbs.ikuai8.com
@@ -18180,7 +18179,6 @@ blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -18918,7 +18916,6 @@ btrace.play.aiseet.atianqi.com
 btrace.qq.com
 btrace.video.qq.com
 btrace.ysp.cctv.cn
-btracker.top
 btrcsc.com
 btrmhg.com
 bts.hk
@@ -20259,6 +20256,7 @@ ccbtrust.com.cn
 ccc-2013.com
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
+ccc.sys.miui.com
 ccc.x.jd.com
 cccaq.com
 cccbs.net
@@ -20299,7 +20297,6 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -22950,7 +22947,6 @@ chuanbojia.com
 chuanboyi.com
 chuandaizc.com
 chuandong.com
-chuang-yi.com.cn
 chuang.pro
 chuangbie.com
 chuangcache-bilibili.all.a.aocde.com
@@ -25272,7 +25268,6 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -25282,6 +25277,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -28341,7 +28337,6 @@ dejavu.apple.com
 dekeego.com
 dektw.com
 del.chinaz.com
-delai.me
 delanauto.com
 delegation.a.shifen.com
 deli-tools.com
@@ -28457,7 +28452,6 @@ detail.tmall.com.danuoyi.tbcache.com
 detail.zol.com.cn
 detailskip.taobao.com
 detailskip.taobao.com.danuoyi.tbcache.com
-detatu.com
 detdr2l5.v1d.szbdyd.com
 detect.mb.qq.com
 detian-chem.com
@@ -34977,7 +34971,6 @@ ffxiv.xin
 ffyd8.com
 ffyinxiang.com
 ffyoo.com
-fg-z.com
 fg.cc
 fg8uqn1.cachenode.cn
 fga0.market.xiaomi.com
@@ -36047,7 +36040,6 @@ fun371.com
 fun48.com
 fun501.com
 fun551.com
-fun737.com
 fun7733.com
 fun78.com
 fun803.com
@@ -38794,7 +38786,6 @@ guandongyucang.com
 guang.com
 guang.sdsgwy.com
 guang1.zhakao.cn
-guang8.cc
 guangan.baixing.com
 guangbo.net
 guangchangwu.net
@@ -39800,7 +39791,6 @@ hackp.com
 hackpascal.net
 hackrf.net
 hackroad.com
-hacksgenie.com
 hacori.com
 hacpai.com
 haczjob.com
@@ -48548,7 +48538,6 @@ jf.winads.cn
 jf258.com
 jf2688.com
 jf365.boc.cn
-jf88811.com
 jf95.com
 jf9p.com
 jfbcb.com
@@ -54662,7 +54651,6 @@ lifan.com
 lifanmy.com
 life.ccb.com
 life.e0575.com
-life.html5.qq.com
 life.youku.com
 life365.com
 lifeall.com
@@ -55663,7 +55651,6 @@ log.mmstat.com
 log.mpns.hunantv.com
 log.music.baidu.com
 log.nuomi.com
-log.nvwa.baofeng.com
 log.p2p.hunantv.com
 log.qchannel03.cn
 log.qvb.qcloud.com
@@ -57033,7 +57020,6 @@ m.mpl.dutils.com
 m.myams.cn
 m.nabeghlavi.com.cn
 m.nb.17house.com
-m.nejup.com
 m.news.cctv.com
 m.newsmth.net
 m.nuoqingck.cn
@@ -57059,7 +57045,6 @@ m.qy.net
 m.qzone.com
 m.reachmax.cn
 m.robooot.com
-m.rrsdl.com
 m.runoob.com
 m.sctcd.com
 m.sh.bendibao.com
@@ -57467,7 +57452,6 @@ mail.wo.cn
 mail.yeah.net
 mail163.com
 maila88.com
-mailatuan.net
 mailbusinfo.com
 mailehudong.com
 mailejifen.com
@@ -57818,6 +57802,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -58107,7 +58092,6 @@ mbinary.xyz
 mbjb1.girl13.com
 mblode.gallerycdn.azure.cn
 mbokee.com
-mbox98.com
 mboxone.com
 mbrowser.baidu.com
 mbrowser.n.shifen.com
@@ -59025,6 +59009,7 @@ mic-s.com
 micai.com
 micaitu.net
 micaiying.com
+micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
 michaelapp.com
@@ -60459,7 +60444,6 @@ mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
 msedge.b.tlu.dl.delivery.mp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -61695,7 +61679,6 @@ neitui.me
 neituixiaowangzi.com
 neixin.cn
 nejmqianyan.cn
-nejup.com
 nelkshuhe.com
 nellit.net
 nemosdo.com
@@ -65673,7 +65656,6 @@ phonegap100.com
 phonekr.com
 phopic.com
 phormchina.com
-photo.941ziyuan.cn
 photo.backerbiotech.cn
 photo.chaoxing.com
 photo.codefat.cn
@@ -66074,7 +66056,6 @@ pingback.sogou.com
 pingcap.com
 pingcoo.com
 pingding.baixing.com
-pingeds.cn
 pingfangx.com
 pingfenbang.com
 pingfore.qq.com
@@ -66348,6 +66329,7 @@ player.bilibili.com.w.alikunlun.com
 player.cntv.cn
 player.mgtv.com
 player.mgtv.com.wscdns.com
+player.tenglutg.com
 player.youku.com
 player888.cn
 playerhotfix.douyucdn.cn
@@ -66414,6 +66396,7 @@ pluvet.com
 plycd.com
 plyz.net
 pm-summit.org
+pm.3.cn
 pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
