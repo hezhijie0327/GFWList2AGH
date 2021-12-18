@@ -1210,7 +1210,6 @@
 31666vv.com
 3168c1.com
 316ee.net
-316ii.net
 316jj.net
 3178a.com
 3178d.com
@@ -1991,7 +1990,6 @@
 6240063.com
 6241071.com
 6269404.com
-626aaa.net
 626ccc.net
 626ii.net
 626ll.net
@@ -2149,7 +2147,6 @@
 66866842.com
 6688pjdc.com
 66891.com
-668cc668.com
 668cp00.com
 668ii668.com
 668jj668.com
@@ -7573,7 +7570,6 @@ buyu9900.com
 buyu9901.com
 buyu9911.com
 buyu9955.com
-buyu9979.com
 buzzardflapper.com
 buzzav.com
 buzzhand.com
@@ -10635,7 +10631,6 @@ dc1199.com
 dc221.com
 dc2210.com
 dc2go.ca
-dc3311.com
 dc3366.com
 dc433.com
 dc4400.com
@@ -29179,7 +29174,6 @@ static.iwincdn.com
 static.palgrave.com
 static.pubu.tw
 static.shemalez.com
-static.techspot.com
 static01.nyt.com
 statically.io
 staticflickr.com
@@ -29936,6 +29930,7 @@ tbthouston.org
 tc.tdna.me
 tc168.cf
 tc345.com
+tc39.es
 tc5266.net
 tccwonline.org
 tcdw-84f59.firebaseio.com
@@ -31555,6 +31550,7 @@ typenetwork.com
 typepad.com
 typesquare.com
 typography.com
+typora.io
 tz605.com
 u.cc.st
 u.f-q.me
