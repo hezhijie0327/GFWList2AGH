@@ -9316,6 +9316,7 @@ com.pr
 com.pt
 com.py
 com.qa
+com.ru
 com.sa
 com.sb
 com.sl

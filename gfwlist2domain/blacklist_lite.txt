@@ -7991,6 +7991,7 @@ com.pr
 com.pt
 com.py
 com.qa
+com.ru
 com.sa
 com.sb
 com.sl
@@ -22180,6 +22181,7 @@ qtrac.eu
 qtweeter.com
 quad9.net
 qualcomm-email.com
+qualcomm.com
 qualcommhalo.com
 qualcommlabs.com
 qualcommmea.com
