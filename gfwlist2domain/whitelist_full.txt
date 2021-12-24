@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -300,7 +299,6 @@
 028hema.com
 028hr.org
 028ip.com
-028kingdee.net
 028kuaidai.com
 028office.com
 028pxw.com
@@ -909,7 +907,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
@@ -1296,7 +1293,6 @@
 1144725.shop.liebiao.com
 1144hu.com
 11467.com
-1146974.b2b.liebiao.com
 1146974.shop.liebiao.com
 11476d9f165b3cc916ced3d14301f70c.safeframe.googlesyndication.com
 1148900.p23.tc.cdntip.com
@@ -1353,7 +1349,6 @@
 1156dns.com
 115800.com
 1158pk.com
-1159905.shop.liebiao.com
 115cdn.net
 115ecaefdd11e285d5c9107539f9cece.dlied1.cdntips.net
 115img.com
@@ -1384,7 +1379,6 @@
 1187803.b2b.liebiao.com
 1188.com
 1188560.b2b.liebiao.com
-1188560.shop.liebiao.com
 1189.tv
 118cha.com
 118cy.com
@@ -1496,7 +1490,6 @@
 12317wan.com
 1231818.com
 12322app.com
-1232463.shop.liebiao.com
 12333.com
 12333ask.com
 12333si.com
@@ -1615,7 +1608,6 @@
 127.com
 127.net
 1274cabf9fc86bb0e8416c08d7acd560.v.smtcdns.net
-1277766.b2b.liebiao.com
 1278721.com
 12799.com
 127tv.com
@@ -1626,7 +1618,6 @@
 128ic.com
 128qd.com
 128uu.com
-1291088.shop.liebiao.com
 1294472.p23.tc.cdntip.com
 1297447.b2b.liebiao.com
 1297447.shop.liebiao.com
@@ -1696,7 +1687,6 @@
 1352121.b2b.liebiao.com
 1352121.shop.liebiao.com
 135309.com
-1353305.shop.liebiao.com
 135650.com
 1356789.com
 1356net.com
@@ -1783,7 +1773,6 @@
 1415926.mobi
 1415926pi.com
 14244.com
-1427325.shop.liebiao.com
 14294.com
 1432283.shop.liebiao.com
 1446065.b2b.liebiao.com
@@ -2243,7 +2232,6 @@
 173zy.com
 17439999.com
 17446.com
-1750184.b2b.liebiao.com
 1754395.b2b.liebiao.com
 17558.net
 1756307.shop.liebiao.com
@@ -2586,7 +2574,6 @@
 1951257.b2b.liebiao.com
 1951257.shop.liebiao.com
 195155.com
-1954826.shop.liebiao.com
 1955212.b2b.jinanfa.cn
 1956064.shop.liebiao.com
 1956917.s2txipv6.cdntip.com
@@ -2714,7 +2701,6 @@
 1g1g.com
 1g31.com
 1g61mso84vcvu798.aliyunddos1026.com
-1gangting.com
 1gbru.com
 1geauomt3gezdrctsfaaurce.ourdvsss.com
 1gesem.com
@@ -2887,6 +2873,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -3055,7 +3042,6 @@
 217wo.com
 2180535.dispatch.spcdntip.com
 218167.582582.com
-2182269.shop.liebiao.com
 218257.com
 218318.com
 218573.com
@@ -3109,6 +3095,7 @@
 21mcu.com
 21mingshi.com
 21mmo.com
+21mob.com
 21momo.com
 21na.com
 21nowart.com
@@ -3156,7 +3143,6 @@
 22.jiangzi.com
 22.jiangzi.com.cname3039.yjs-cdn.com
 2203704.b2b.liebiao.com
-2209988.b2b.liebiao.com
 2209988.shop.liebiao.com
 221234.xyz
 2213.com
@@ -3164,7 +3150,6 @@
 221400job.com
 22145.com
 2215193.b2b.liebiao.com
-2215193.shop.liebiao.com
 221532.com
 221576.com
 2217.com
@@ -3378,20 +3363,17 @@
 24183f0d.qc.x.bsgslb.cn
 24183fca.qc.x.bsgslb.cn
 24183fdb.qc.x.bsgslb.cn
-2419506.b2b.liebiao.com
 2421js.com
 2425099.shop.liebiao.com
 2426c4d3d539985bced80be7fa75482e.dlied1.cdntips.net
 243ty.com
 244101.cc
 24415126f52baedc7d219c5f9c0f70dc.dlied1.cdntips.net
-2447754.b2b.liebiao.com
 2447754.shop.liebiao.com
 2451608.b2b.liebiao.com
 24537.uk
 2455383.b2b.liebiao.com
 24572112-456.hd.webportal.top
-2459551.b2b.liebiao.com
 2459551.shop.liebiao.com
 246546.com
 2476038.b2b.liebiao.com
@@ -3438,8 +3420,6 @@
 2501742.b2b.liebiao.com
 2505928.b2b.liebiao.com
 2507178.shop.liebiao.com
-2508021.b2b.liebiao.com
-2508731.b2b.liebiao.com
 2509449.b2b.liebiao.com
 2509449.shop.liebiao.com
 250sy.cc
@@ -3448,7 +3428,6 @@
 2519728.b2b.liebiao.com
 2523101.b2b.liebiao.com
 2523101.shop.liebiao.com
-2525071.b2b.liebiao.com
 2525f12e7b06a7ab99ec65298fb15c4b.dlied1.cdntips.net
 2529.com
 2529212.com
@@ -3476,7 +3455,6 @@
 255899.p23.tc.cdntip.com
 25591.com
 2560899.shop.liebiao.com
-2561820.b2b.liebiao.com
 2561820.shop.liebiao.com
 2564384.shop.liebiao.com
 256621849725484df96496db3ae4a6b7.dlied1.cdntips.net
@@ -3569,7 +3547,6 @@
 269.net
 26923.com
 2696007a22a157075a7e4760d.mdbook.cn
-2699806.b2b.liebiao.com
 2699806.shop.liebiao.com
 26abc.com
 26ef.com
@@ -3885,7 +3862,6 @@
 30dj.com
 30edu.com.cn
 30ka.com
-30mksr.cn
 30nl.net
 30play.com
 30px.com
@@ -4040,7 +4016,6 @@
 3259.com
 326165f333e5d78c03f526835b379ccf.dlied1.cdntips.net
 3266585.b2b.jinanfa.cn
-327412.shop.m.liebiao.com
 32800.com
 3289.com
 328f.com
@@ -4372,7 +4347,6 @@
 360xiehui.com
 360xixi.com
 360xkw.com
-360xs.com
 360yfw.com
 360youtu.com
 360yun.org
@@ -4908,7 +4882,6 @@
 3vkj.net
 3vlm.net
 3vsheji.com
-3w.huanqiu.com
 3wads.com
 3wap.cc
 3wcoffee.com
@@ -5050,7 +5023,6 @@
 425yx.com
 42651.com
 426g.com
-42857.shop.m.liebiao.com
 429006.com
 42927bj.com
 42927gz.com
@@ -5064,7 +5036,6 @@
 431261dd70ea6c599dabad8bc8358aa8.dlied1.cdntips.net
 431582fc7dc659abb3c8b0a55adefeee.dlied1.cdntips.net
 4321.com
-432326.shop.m.liebiao.com
 432520.com
 432672.p23.tc.cdntip.com
 432c9567.51cto.com.cname.yunduns.com
@@ -5137,7 +5108,6 @@
 453600.net
 453b0a2fa57c9a011ac3bbd6fbb580a7.dlied1.cdntips.net
 455261.com
-455422.shop.m.liebiao.com
 45575.com
 455b31ca3d7fce56d42c7681fad5c51f.iflysec.com
 456.net
@@ -8458,7 +8428,6 @@
 80881.com
 808cdn.com
 808w.com
-8090-sec.com
 8090.com
 8090.pk
 8090.so
@@ -9641,7 +9610,6 @@
 95081.com
 950901.com
 95095.com
-951049.shop.m.liebiao.com
 95105369.com
 95105555.com
 95105556.com
@@ -9660,7 +9628,6 @@
 9536299.slego.tcloudscdn.com
 953a61383037a8304748e5270853e42f.dlied1.cdntips.net
 95408.com
-954095.shop.m.liebiao.com
 954cc7685b51022eb3277c774ac960b1.safeframe.googlesyndication.com
 95504.net
 95508.com
@@ -10290,7 +10257,6 @@ a.quangushi.com
 a.qunzou.com
 a.rensheng5.com
 a.sh.vip.dianping.com
-a.shczz.com
 a.tanx.com
 a.tiyuxiu.com
 a.tool.lu
@@ -11015,6 +10981,7 @@ activity.gtimg.cn
 activity.hdslb.com
 activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
+activity.kugou.com
 activity.kugou.com.wswebcdn.com
 activity.m.kuaishou.com
 activity.qzone.qq.com
@@ -13051,7 +13018,6 @@ amijiaoyu.com
 aminer.org
 aminglinux.com
 aminoacid-jirong.com
-amn57.com
 amo9.com
 amobbs.com
 amoeba.fudata.cn
@@ -14128,6 +14094,7 @@ apkui.com
 apkyx.com
 apkzu.com
 aplan.tv
+aplbs.yy.com
 aplum-inc.com
 aplum.com
 aplus.pptv.com
@@ -14304,6 +14271,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14966,7 +14934,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -15963,6 +15930,7 @@ bangboer.net
 bangboss.com
 bangcle.com
 bangdao-tech.com
+bangdu2.com
 banggo.com
 banghaiwai.com
 bangirls.com
@@ -19534,7 +19502,6 @@ ca002.com
 ca003.com
 ca08308411e85782886c7053d0285ede.v.smtcdns.net
 ca168.com
-ca2008.shop.liebiao.com
 ca39.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
@@ -20004,6 +19971,7 @@ casystar.com
 cat.sh.vip.dianping.com
 cat898.com
 catall.com
+catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -21448,6 +21416,7 @@ channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
 channel.m.163.com
+channel.togo666.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channelbeyond.com
@@ -23618,6 +23587,7 @@ cloudtui.com
 cloudv.cdnetworks.com
 cloudvast.com
 cloudvdn.com
+cloudvideo.thepaper.cn
 cloudvip1.com
 cloudvogue.com
 cloudvse.com
@@ -24696,6 +24666,7 @@ cnxingoplastics.com
 cnxishui.net
 cnxk.com
 cnxklm.com
+cnxmyb.cn
 cnxnmy.com
 cnxuntu.com
 cnyanglao.com
@@ -37161,6 +37132,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -42990,7 +42962,6 @@ huakebosi.com
 huakeyun.com
 hualady.com
 hualala.com
-hualang361.com
 hualet.org
 hualiandressing.com
 hualianxin.com
@@ -49100,7 +49071,6 @@ jingxi-sched.jcloudimg.com
 jingxi.com
 jingxialai.com
 jingxianglawfirm.com
-jingxiangyalvji.cn
 jingxinad.com
 jingxingseo.com
 jingxuanwang.com
@@ -51499,6 +51469,7 @@ katvr.com
 katyusha.net
 kaven.xyz
 kawahdinosaur.com
+kawayiyi.icu
 kayege.info
 kayoudi.com
 kaytrip.com
@@ -54822,7 +54793,6 @@ linuxpanda.tech
 linuxpk.com
 linuxplus.org
 linuxprobe.com
-linuxqq.net
 linuxrumen.com
 linuxsight.com
 linuxsir.com
@@ -56718,6 +56688,7 @@ m.client.10010.com
 m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
+m.cnxmyb.cn
 m.cocounion.com
 m.cqzspt888.cn
 m.ctrip.com
@@ -57524,7 +57495,6 @@ manshen.net
 manshitea.com
 mantouji.net
 mantusy.com
-mantutu.com
 manweiwenhua.com
 manwuxian123.com
 manxiu-law.com
@@ -59557,7 +59527,6 @@ mnihyc.com
 mnjj.group
 mnkan.com
 mnlscz.com
-mnmnh.com
 mnoswqa.com
 mnpz8.com
 mnqlog.ldmnq.com
@@ -61780,7 +61749,6 @@ newswifiapi.dfshurufa.com
 newswifiapi.dftoutiao.com
 newsxc.com
 newsyc.com
-newsyule.com
 newtalentaward.com
 newton-api.ele.me
 newtonghua.com
@@ -64864,7 +64832,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -65460,7 +65427,6 @@ photo.chaoxing.com
 photo.codefat.cn
 photo.fanya.chaoxing.com
 photo.headwell.cn
-photo.jingxiangyalvji.cn
 photo.jstv.com
 photo.pic.sohu.com
 photo.sina.com.cn
@@ -67332,6 +67298,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -67435,7 +67402,6 @@ q.i.gdt.qq.com
 q.ox11.com
 q.qlogo.cn
 q.qq.com
-q.qsmdeyz.cn
 q.reg.163.com
 q.s.cr-nielsen.com
 q.stock.sohu.com
@@ -74257,7 +74223,6 @@ shcsup.com
 shcwbz.com
 shcxzxgs.com
 shcymc.com
-shczz.com
 shdctp.com
 shdjt.com
 shdrkj.com
