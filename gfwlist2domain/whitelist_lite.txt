@@ -4073,7 +4073,6 @@
 4hgame.com
 4hou.com
 4hpy.com
-4htixb.cn
 4inlook.com
 4jplus.com
 4k123.com
@@ -11442,7 +11441,6 @@ basemu.com
 basequan.com
 basestonedata.com
 bashan.com
-bashenghuo.com
 bashuhuapai.com
 bashuku.com
 basiccat.org
@@ -13331,7 +13329,6 @@ bqg5.cc
 bqg8.cc
 bqg8.la
 bqgyy.com
-bqhnj.cn
 bqiapp.com
 bqimg.com
 bql999.com
@@ -13473,7 +13470,6 @@ btiyu.com
 btmao.cc
 btmayi.cc
 btmeiju.com
-btmil.com
 btnotes.com
 btoo3.com
 btophr.com
@@ -13690,7 +13686,6 @@ bxwx.tv
 bxwx.us
 bxwx520.com
 bxwx99.com
-bxxhdq.com
 bxxy.com
 bxycw.com
 bxynzz.com
@@ -19938,8 +19933,11 @@ dbyb.org
 dbytwl.com
 dbzgia.com
 dc-cn.com
+dcarapi.com
 dcarimg.com
+dcarlive.com
 dcarstatic.com
+dcarvod.com
 dcb123.com
 dcdapp.com
 dcdkjx.com
@@ -21276,6 +21274,7 @@ dongcai.net
 dongcaibaoxian.com
 dongchaba.com
 dongchedi.com
+dongchediapp.com
 dongcheng120.com
 dongchenghotels.com
 dongdalou.com
@@ -30099,7 +30098,6 @@ hkpep.com
 hkproperty.com
 hkqbh.com
 hkqq8.com
-hkqzzlyy.com
 hkskyloyd.com
 hkslg520.com
 hkstv.tv
@@ -40856,7 +40854,6 @@ lophoctienganh.org
 lopkino.com
 lopopoo.com
 lorefree.com
-lorzl.gq
 losala.com
 losking.com
 lossyou.com
@@ -45731,7 +45728,6 @@ nvshengjie.com
 nvshuyun.com
 nvtnet.com
 nvude3.com
-nvwojk.com
 nvwu.com
 nvzhanshen.com
 nvzhubo.cc
@@ -46833,7 +46829,6 @@ paomo.com
 paomou.com
 paopao.com
 paopaoche.net
-paopaochina.com
 paopaox.com
 paoshuba.cc
 paoxq.com
@@ -58110,6 +58105,7 @@ trustmta.com
 trustocean.com
 trustsoc.com
 trustutn.org
+trwba.com
 trwl.net
 try2explore.com
 tryenough.com
