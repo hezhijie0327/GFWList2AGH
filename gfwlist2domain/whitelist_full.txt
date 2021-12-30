@@ -913,7 +913,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1257,6 +1256,7 @@
 111com.net
 111g.com
 111jz.com
+111ol.com
 111qqz.com
 111tt.icu
 111yao.com
@@ -1292,7 +1292,6 @@
 1144725.shop.liebiao.com
 1144hu.com
 11467.com
-1146974.shop.liebiao.com
 11476d9f165b3cc916ced3d14301f70c.safeframe.googlesyndication.com
 1148900.p23.tc.cdntip.com
 114best.com
@@ -1343,7 +1342,6 @@
 11544.com
 1155.com
 1155871.com
-1156.yalqq8976.com.w.cdngslb.com
 1156dns.com
 115800.com
 1158pk.com
@@ -1354,7 +1352,6 @@
 115z.com
 1160440.b2b.jinanfa.cn
 1162954.b2b.liebiao.com
-1162954.shop.liebiao.com
 1163.com
 1164915.shop.liebiao.com
 1165490.shop.liebiao.com
@@ -1670,7 +1667,6 @@
 135-139.com
 135031.com
 1351.com
-1352121.b2b.liebiao.com
 135309.com
 135650.com
 1356789.com
@@ -1768,7 +1764,6 @@
 1469166.b2b.liebiao.com
 1473846f4246d54ff5ac91bd5d228550.dlied1.cdntips.net
 1475507.shop.liebiao.com
-1477637.shop.liebiao.com
 1478803.b2b.jinanfa.cn
 147xiaoshuo.com
 147xs.com
@@ -1781,7 +1776,6 @@
 148com.com
 148la.com
 1492500.shop.liebiao.com
-1495853.shop.liebiao.com
 14a417717147fec7593007265cd0dd60.safeframe.googlesyndication.com
 14e9171248b89c81158fa57479aec5d0.safeframe.googlesyndication.com
 14febc4b4c44577cf31224c86a506cd0.safeframe.googlesyndication.com
@@ -2555,7 +2549,6 @@
 195855.com
 1959888.b2b.liebiao.com
 1965288.s1txipv6.cdntip.com
-1967066.b2b.liebiao.com
 1967066.shop.liebiao.com
 19687.com
 1972285.shop.liebiao.com
@@ -2928,7 +2921,6 @@
 202m.com
 202wan.com
 2033f23e8070d152c94a3a07e9e1e014.dlied1.cdntips.net
-2042587.b2b.liebiao.com
 2045480.s1txipv6.cdntip.com
 2045480.sched.sma-dk.tdnsv5.com
 2048sj.com
@@ -3261,7 +3253,6 @@
 2374505.p23.tc.cdntip.com
 2374505.sched.sma.tdnsv5.com
 2374597.p23.tc.cdntip.com
-2374947.shop.liebiao.com
 2376613.b2b.liebiao.com
 2378425.b2b.liebiao.com
 2378425.shop.liebiao.com
@@ -3383,7 +3374,6 @@
 253u.com
 2541.com
 2541629.shop.liebiao.com
-2548976.b2b.liebiao.com
 254game.com
 25522jb.com
 2556036.shop.liebiao.com
@@ -3393,7 +3383,6 @@
 25591.com
 2560899.shop.liebiao.com
 2561820.shop.liebiao.com
-2564384.shop.liebiao.com
 256621849725484df96496db3ae4a6b7.dlied1.cdntips.net
 2566u8.com
 256app.com
@@ -3440,7 +3429,6 @@
 260.net
 260396.s2.cdntip.com
 2605253.b2b.liebiao.com
-2613445.b2b.liebiao.com
 263.com
 263.net
 263em.com
@@ -5721,6 +5709,7 @@
 51minbingtuan.net
 51miz.com
 51mkf.com
+51mld.cn
 51mockup.com
 51modo.cc
 51mokao.com
@@ -7308,7 +7297,6 @@
 6678net.com
 66825.com
 668559.com
-6686697.com
 66868.com
 6686x1.com
 6688.com
@@ -11056,6 +11044,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -14219,7 +14208,6 @@ app.gmugmu.com
 app.gsxt.gov.cn
 app.hnzycfc.com
 app.houyi.baofeng.net
-app.icast.cn
 app.ingame.qq.com
 app.jiuzhilan.com
 app.juwang.com
@@ -14316,6 +14304,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14656,7 +14645,6 @@ artfoxlive.com
 artgohome.com
 artgoin.com
 arthome163.com
-arthtml.com
 arthurchiao.art
 arti200.com
 article-api.huxiu.com
@@ -14842,7 +14830,6 @@ asrmicro.com
 asrsingapore.com
 assbbs.com
 asset.newyx.net
-asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-global.viveport.com
@@ -20885,6 +20872,7 @@ cdn20.info
 cdn20.org
 cdn2000.com
 cdn2020.com
+cdn207img.115.com
 cdn210img.115.com
 cdn3-new.xkspbz.com
 cdn3.apple-mapkit.com
@@ -21914,7 +21902,6 @@ cheoz.com
 chepin88.com
 chepinnet.com
 chepoo.com
-cherishhealth.net
 cherongzi.com
 cherriespie.com
 cherry.le.com
@@ -28534,6 +28521,7 @@ derwer.com
 derzh.com
 des8.com
 desaysv.com
+desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
@@ -28596,7 +28584,6 @@ dev46.baidupan.com
 dev53.baidupan.com
 dev76.baidupan.com
 dev798.com
-dev95.baidupan.com
 dev996.com
 devask.net
 devclub.cc
@@ -37758,7 +37745,6 @@ gh8s.com
 ghac.cn
 ghatg.com
 ghboke.com
-ghflv.com
 ghghgf.51dongshi.com
 ghgy.com
 ghgy.net
@@ -38418,6 +38404,7 @@ google.cn
 googleadapis.com
 googleads.com
 googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
 googleadservices.com
 googleadsserving.cn
 googleanalytics.com
@@ -39116,6 +39103,7 @@ gudaovision.com
 gudi.cc
 gudi.suning.com
 gudianhr.com
+guduopu.com
 guer.org
 guess.mediav.com
 guess.tf.360.cn
@@ -46125,7 +46113,6 @@ image3.mall.icbc.com.cn
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
-image66.top2099.com
 image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
@@ -55416,7 +55403,6 @@ linstitute.net
 lint2.com
 lintey.com
 lintongrc.com
-lintyone.top
 linuo-paradigma.com
 linuser.com
 linux-code.com
@@ -57552,6 +57538,7 @@ m.static.xitongzhijia.net
 m.suning.com
 m.suofeiyashop.com
 m.szmt02.cn
+m.szmt11.cn
 m.szmt18.cn
 m.sztjdz.com.cn
 m.tansuotv.com
@@ -57699,6 +57686,7 @@ m3avko1.cachenode.cn
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
 m3u8.tv
+m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com
@@ -62553,7 +62541,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -72407,7 +72394,6 @@ rms.shop.jd.com.gslb.qianxun.com
 rmsfilling-drcn.platform.hicloud.com
 rmsznet.com
 rmttjkw.com
-rmtx.ra.icast.cn
 rmtxpv.ra.icast.cn
 rmw.jdburl.com
 rmwdn.com
@@ -72599,7 +72585,6 @@ rq.upgrade.drivergenius.com
 rq.wh.cmcm.com
 rqd.ias.tencent-cloud.net
 rqi17.com
-rqjhhg.cn
 rqjrb.com
 rqshbp.net
 rqz1.com
@@ -73998,7 +73983,6 @@ sd.iqilu.com
 sd.jumei.com
 sd.qunliao.info
 sd.sina.com.cn
-sd.taptap.com
 sd.youshu.cc
 sd11185.com
 sd173.com
@@ -80072,6 +80056,7 @@ szmrcd.com
 szmsheng.com
 szmslaser.com
 szmt02.cn
+szmt11.cn
 szmt18.cn
 szmtzc.com
 szmuseum.com
