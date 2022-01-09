@@ -6158,6 +6158,7 @@ bootstrapcdn.com
 borderlandindustry.ml
 borderlands-books.com
 borderlessprepaid.com
+borgenmagazine.com
 boringart.lt
 boringcompany.com
 borquezyburr.cl
@@ -17154,6 +17155,7 @@ linuxtoy.org
 lionsroar.com
 lipuman.com
 liquid.com
+liquiditytp.com
 liquidvpn.com
 liquipedia.org
 lis888.com
@@ -18358,7 +18360,6 @@ miniso-bh.com
 miniso-np.com
 miniso-nz.com
 miniso.co
-miniso.com
 miniso.pk
 minisoindia.com
 minisojordan.com
@@ -19873,7 +19874,9 @@ notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
 notion-static.com
+notion.com
 notion.new
+notion.site
 notion.so
 notionsmarketing.com
 notnancy.cl
