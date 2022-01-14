@@ -136,6 +136,12 @@
 # OpenDNS
 (@&!)doh.opendns.com
 
+# ServiceNow
+(@&!)service-now.com
+
+# UUP dump
+(@&!)uupdump.net
+
 # 钱美流量 #8
 (@%!)ssnm.xyz
 
