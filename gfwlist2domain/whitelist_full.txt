@@ -906,6 +906,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -928,6 +929,7 @@
 1.pncdn.cn
 1.proewildfire.cn
 1.qjhm.net
+1.shopit.cn
 1.sj33.net
 1.snzfj.net
 1.tecbbs.com
@@ -3144,7 +3146,6 @@
 2345daohang.com
 2345download.com
 2345ff.com
-2345kankan.com
 2345licai.com
 2345mbrowser.com
 2345soso.com
@@ -16195,6 +16196,7 @@ bayimob.com
 bayinfu.com
 bayinh.com
 bayinmao.com
+baymax.video
 bayno.cn
 baytaku.com
 bayuegua.com
@@ -18521,7 +18523,6 @@ boydwang.com
 boyicn.com
 boyingsj.com
 boyue.com
-boyunjian.com
 boyunso.com
 boyuonline.com
 bozhihua.com
@@ -19270,6 +19271,7 @@ c.kanwby.com
 c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
+c.l570mb.cn
 c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
@@ -19963,7 +19965,6 @@ case91.com
 casece.org
 casee.cn
 casestudy.html5.qq.com
-cashier.alipay.com
 cashier.ele.me
 cashier.youzan.com
 cashierrz41.alipay.com
@@ -21510,7 +21511,6 @@ chaonanrc.com
 chaonei.com
 chaonengjie.com
 chaonenglu.com
-chaoqun.mobi
 chaoren.com
 chaoshanren.com
 chaoshen.cc
@@ -24763,7 +24763,6 @@ cnzhiyuanhui.com
 cnzhqs.com
 cnzjol.com
 cnzlapp.com
-cnzmyn.com
 cnzsqh.com
 cnzsyz.com
 cnzweal.com
@@ -27170,7 +27169,6 @@ dad7715a6ce9f10f1bab6bfa565c0545.v.smtcdns.net
 dadaabc.com
 dadaabcc.com
 dadabew.com
-dadabus.com
 dadagame.com
 dadagem.xyz
 dadaizi.com
@@ -34455,7 +34453,6 @@ fawen8.com
 fawulu.com
 faxdns.com
 faxdns.net
-faxeye.com
 faxian.aichaoxing.com
 faxian.youku.com
 faxingchina.com
@@ -34834,7 +34831,6 @@ fengimg.com
 fengj.com
 fengji.me
 fengji.net
-fengjiangqwe.xyz
 fengjing.com
 fengjinshuo.com
 fengjr.com
@@ -35569,6 +35565,7 @@ focus.cn
 focus.scol.com.cn
 focus.youth.cn
 focuschina.com
+focused.wang
 focussend.com
 fodang.org
 fodian.net
@@ -42049,6 +42046,7 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -55937,6 +55935,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -58969,7 +58968,6 @@ melove.net
 memacx.com
 memagames.com
 member.bilibili.com
-member.chinaacc.com
 member.jr.jd.com
 member.jschina.com.cn
 member.zcygov.cn
@@ -71039,7 +71037,6 @@ qvzkltqe.v1d.szbdyd.com
 qvzkwap3.v1d.szbdyd.com
 qw.cc
 qwdacy.com
-qwddcwmwqiqwd21.cn
 qweather.com
 qweather.net
 qweoc88123.top
@@ -73607,7 +73604,6 @@ sc.appvipshop.com
 sc.appvipshop.com.vipgslb.com
 sc.chinaz.com
 sc.csai.cn
-sc.fengjiangqwe.xyz
 sc.gg
 sc.gsxt.gov.cn
 sc.youku.com
@@ -75696,6 +75692,7 @@ shopeesz.com
 shoperm.com
 shopifycdn.net
 shopin.net
+shopit.cn
 shopj.net
 shopjyh.com
 shoplineapp.cn
@@ -77138,7 +77135,6 @@ snjairport.com
 snjbs.com
 snjjiu.com
 snjrsks.com
-snmi.cn
 snnd.co
 snobten.com
 snodehome.com
@@ -81088,7 +81084,6 @@ techer.gallerycdn.azure.cn
 techflow520.com
 techgastronomy.com
 techgogogo.com
-techieliang.com
 techkedu.com
 techmiao.com
 technode.com
