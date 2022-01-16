@@ -139,6 +139,10 @@
 # ServiceNow
 (@&!)service-now.com
 
+# SmartSheet
+(@&!)app.smartsheet.com
+(@&!)smartsheet.com
+
 # UUP dump
 (@&!)uupdump.net
 
