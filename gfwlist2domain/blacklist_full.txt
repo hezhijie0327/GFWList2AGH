@@ -6500,7 +6500,6 @@ blog.google
 blog.hungching.com
 blog.idevr.com
 blog.imprezagt1031.idv.tw
-blog.inoreader.com
 blog.instapaper.com
 blog.iphone-dev.org
 blog.iruo.cc
@@ -12580,6 +12579,7 @@ eporner.com
 eporner.eu
 epotala.com
 eprice.com.hk
+eq.ccu.edu.tw
 equestfood.com
 equinenow.com
 er-webs.com
@@ -14901,6 +14901,7 @@ gc919.com
 gca-mining.com
 gca.nat.gov.tw
 gcandy999.com
+gcc.ntu.edu.tw
 gcc.org.hk
 gccnews.org
 gcfta.com
@@ -23135,6 +23136,7 @@ net-tv.tw
 net.au
 net.br
 net.co
+net.in
 net.my
 net.nz
 net.tr
@@ -31105,7 +31107,6 @@ tt667788.com
 tt687.com
 tt836.net
 tt99.com
-ttct.edu.tw
 tteshop.com
 tthdd.com
 ttkacz.com
