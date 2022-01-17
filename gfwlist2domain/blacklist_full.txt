@@ -4432,6 +4432,7 @@ app.leg.wa.gov
 app.link
 app.simplenote.com
 app.smartmailcloud.com
+app.smartsheet.com
 app.staging.nuorder.com
 app.tutanota.com
 app.tv333.us
@@ -14574,7 +14575,6 @@ fun702.com
 fun712.com
 fun727.com
 fun737.com
-fun767.com
 fun780.com
 fun8011.com
 fun809.com
@@ -17413,6 +17413,7 @@ hustlerstore.com
 hustlertube.com
 hustvpn.com
 hut2.ru
+hutao.cloud
 hutianyi.net
 hutong9.net
 hutpromos.com
@@ -26128,7 +26129,6 @@ pttweb.tw
 ptw8.com
 ptwxz.com
 ptysa.com.mx
-pu002.com
 pu0020.com
 pu0021.com
 pu0023.com
@@ -28506,6 +28506,7 @@ smartmailcloud.com
 smartone.com
 smartoneholdings.com
 smartonerobotics.com
+smartsheet.com
 smartsignature.io
 smartsimcha.com
 smartsource.com
