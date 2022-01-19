@@ -19550,7 +19550,6 @@ keytransparency.foo
 keytransparency.org
 kf5656g.com
 kf8h.com
-kfc2002.com
 kfc2003.com
 kfc2006.com
 kfc2008.com
@@ -25780,7 +25779,6 @@ powerbeats2wireless.com
 powerbeatsbydrdre.com
 powerbeatsbydre.com
 powerbi.com
-powercx.com
 powerdns.org
 poweredbyintel.com
 powerofresolve.com
