@@ -1301,7 +1301,6 @@
 3xplanet.com
 40030d.com
 40066hg.com
-4008851718.com
 400ks.com
 4022011.com
 40220c.com
@@ -3211,6 +3210,8 @@ airconsole.com
 aircrack-ng.org
 airfrance.fr
 airgonetworks.com
+airhorn.solutions
+airhornbot.com
 airiti.com
 airitilibrary.com
 airliners.net
@@ -9133,15 +9134,26 @@ dirtyrhino.com
 discfan.net
 discoins.com
 disconnect.me
+discord-activities.com
 discord.co
 discord.com
+discord.design
+discord.dev
 discord.gg
 discord.gift
 discord.gifts
 discord.media
 discord.new
+discord.store
+discord.tools
+discordactivities.com
 discordapp.com
+discordapp.io
 discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
 discordstatus.com
 discountbeatsbydre-us.com
 discountbeatsstore.com
@@ -16573,7 +16585,6 @@ ksforfree.ml
 kshownow.net
 kslive.tv
 ksmeow.moe
-ksmxpj.com
 kspcoin.com
 kto.asia
 ktrackmp.com
@@ -17131,6 +17142,7 @@ lin.ee
 lincolnisland.com
 lindadevries.com
 line-apps-beta.com
+line-apps-rc.com
 line-apps.com
 line-beta.me
 line-cdn.net
@@ -17143,7 +17155,9 @@ linecorp.com
 linefriends.com
 lineinchina.com
 linemobile.com
+linemyshop.com
 linepost.hk
+lineshoppingseller.com
 linglingfa.com
 lingobite.com
 lingq.com
@@ -26530,6 +26544,7 @@ ubertags.com
 ubf.kr
 ubint.net
 ubisoft.com
+ubisoftconnect.com
 ubktv.com
 ubl.com
 ublock.org
