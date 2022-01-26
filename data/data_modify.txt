@@ -133,6 +133,9 @@
 (@%!)cdn.jsdelivr.net
 (@&!)jsdelivr.net
 
+# Miro
+(@&!)miro.com
+
 # OpenDNS
 (@&!)doh.opendns.com
 
