@@ -3420,7 +3420,6 @@
 28nxuy.tdum.alibaba.com
 28rv.com
 28sn.com
-28tlc.com
 28tui.com
 28u.org
 28weixinqun.com
@@ -5476,7 +5475,6 @@
 51growup.com
 51gsl.com
 51guanhuai.com
-51gugu.com
 51guoji.com
 51gxqm.com
 51h5.com
@@ -13658,8 +13656,8 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -14581,7 +14579,6 @@ as2.binstream.live
 as35q8.cn
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asaki.me
 asao.com
@@ -14857,7 +14854,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -18612,6 +18608,7 @@ bs-adaptive.pull.yximgs.com
 bs-dolfin.net
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -18949,7 +18946,6 @@ bwae.org
 bwangel.me
 bway881360.com
 bway886.com
-bway88688.com
 bway996.com
 bwbot.org
 bwchinese.com
@@ -19293,7 +19289,6 @@ c.uaa.iqiyi.com
 c.umsns.com
 c.uqjflmw.cn
 c.v4dwkcv.com
-c.vl665.cn
 c.vlion.cn
 c.w.inmobi.cn
 c.wdgrtug.cn
@@ -31898,6 +31893,7 @@ e.eqxiu.com
 e.fengyx.com
 e.fengyx.com.cname1236.yjs-cdn.com
 e.gitee.com
+e.gomev.cn
 e.hogyp.com
 e.ishansong.com
 e.joyxv.com
@@ -35936,7 +35932,6 @@ fsr.lenovomm.com
 fssfs.com
 fsshenneng.com
 fstcb.com
-fswdgc.com
 fswl66.com
 fsxchina.com
 fsxdwy.com
@@ -38138,6 +38133,7 @@ gomeholdings.com
 gomehome.com
 gomeplus.com
 gomesell.com
+gomev.cn
 gomo.com
 gonelist-doc.cugxuan.cn
 gonelist.cugxuan.cn
@@ -39203,6 +39199,7 @@ guwenxs.com
 guwu121.com
 guxunw.com
 guyaheng.com
+guyijiankang.cn
 guyouzhan.com
 guyuenglish.com
 guyungame.com
@@ -42037,7 +42034,6 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42527,6 +42523,7 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
+homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -44039,6 +44036,7 @@ hw3static.com
 hw555.com
 hw6.com
 hw99.com
+hwa.his.huawei.com
 hwactive.com
 hwad.zuimeitianqi.com
 hwadmin.com
@@ -50389,7 +50387,6 @@ jqfax.com
 jqgc.com
 jqgcw.com
 jqhtml.com
-jqmt.qq.com
 jqmtws.tcdn.qq.com
 jqpress.com
 jqr.com
@@ -52079,7 +52076,6 @@ kejietextile.com
 kejihai.com
 kejijie.net
 kejik.com
-kejike.com
 kejilie.com
 kejimeixue.com
 kejimt.com
@@ -55610,7 +55606,6 @@ livejs1.ksapisrv.com
 livejs2.gifshow.com
 livejs2.ksapisrv.com
 livelink-75088.picgzc.qpic.cn
-livem.l.qq.com
 liveme.com
 livemediav.com
 livemixer1.kksmg.com
@@ -60261,7 +60256,6 @@ mobiletrain.org
 mobilewx.chaoxing.com
 mobileztgame.com
 mobisage.cn
-mobisense-hk.com
 mobiw.com
 mobjump.com
 mobjz.com
@@ -60842,6 +60836,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -75641,6 +75636,7 @@ shoot.photo
 shootmedia.net
 shop-gateway.tuhu.cn
 shop-gw.chengxinyouxuan.com
+shop-h5.guyijiankang.cn
 shop.3dmgame.com
 shop.admin.yinyuetai.com
 shop.ali213.com
@@ -105014,6 +105010,7 @@ zhuanstatic.com
 zhuanti.hebnews.cn
 zhuantilan.com
 zhuanxiandai.com
+zhuanxing.cn
 zhuanyejun.com
 zhuanyepeixun.com
 zhuanyes.com
