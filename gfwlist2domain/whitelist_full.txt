@@ -900,7 +900,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2176,6 +2175,7 @@
 17888.com
 178bird.com
 178bit.com
+178bx.cn
 178du.com
 178gg.com
 178hui.com
@@ -2689,7 +2689,6 @@
 1peixun.com
 1pm2.com
 1point3acres.cn
-1point3acres.com
 1ppt.com
 1px.wang
 1q2q.com
@@ -5590,7 +5589,6 @@
 51minbingtuan.net
 51miz.com
 51mkf.com
-51mld.cn
 51mockup.com
 51modo.cc
 51mokao.com
@@ -10035,7 +10033,6 @@ a.eqxiu.com
 a.exam58.com
 a.f-0.cc
 a.fxltsbl.com
-a.game.163.com
 a.gdt.qq.com
 a.hbf23.cn
 a.hecdn.net
@@ -10903,6 +10900,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -13600,7 +13598,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -13846,7 +13843,6 @@ api1.kwaixiaodian.com
 api1.mimikko.cn
 api1.nn.com
 api1.tuisong.baidu.com
-api2.1point3acres.com
 api2.analysys.cn
 api2.ctc.ximalaya.com
 api2.e.kuaishou.com
@@ -14575,6 +14571,7 @@ as2.binstream.live
 as35q8.cn
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asaki.me
 asao.com
@@ -14850,6 +14847,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -17987,7 +17985,6 @@ blackdir.com
 blackdragon.com
 blackeep.com
 blackh4t.org
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -18660,7 +18657,6 @@ bstjiaoyu.com
 bstzcs.com
 bsurl.cc
 bsv.atm.youku.com
-bsx81.com
 bsyjrb.com
 bsyxx.com
 bszh.cn
@@ -20399,6 +20395,7 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20604,7 +20601,6 @@ cdn.app.liuxingyul.cn
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.bdstatic.com
-cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -36063,7 +36059,6 @@ fun315.com
 fun371.com
 fun48.com
 fun501.com
-fun551.com
 fun603.com
 fun767.com
 fun7733.com
@@ -37354,7 +37349,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -39836,7 +39830,6 @@ h8jx.com
 h8r5us1.cachenode.cn
 h9imt8jv.sched.d0.tdnsv5.com
 ha.gsxt.gov.cn
-ha.wheel.duolebo.com
 ha97.com
 haawking.com
 habadog.com
@@ -43140,6 +43133,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httprunner.org
@@ -46150,7 +46144,6 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
-img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -47851,7 +47844,6 @@ itemcdn.zcycdn.com.w.kunlungr.com
 itemifs.tanx.com
 itensoft.com
 iter168.com
-iterduo.com
 iteshop.com
 itest.info
 itetc.org
@@ -55934,6 +55926,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -59754,7 +59747,6 @@ minunix.com
 minxindai.com
 minxing365.com
 minxue.net
-minyaartcrafts.cn
 minzu56.net
 miot-spec.org
 mip-ruiwen-com.sm-tc.cn
@@ -62414,7 +62406,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -62541,7 +62532,6 @@ nicaifu.com
 nice-app.com
 nice1688.com
 nicebing.com
-niceboybao.com
 nicecdn.com
 nicefilm.com
 niceimg.net
@@ -63446,7 +63436,6 @@ o.if.qidian.com
 o.phb123.com
 o1.jyjyj.cn
 o136.com
-o2.cdn.t5.work
 o2123.com
 o2ee.com
 o2mania.com
@@ -65697,7 +65686,6 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
-pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -71233,6 +71221,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -72384,7 +72373,6 @@ roobo.com
 roodoo.net
 roof325.com
 roogames.com
-rookiego.com
 room365.com
 roomse.com
 roosur.com
@@ -73249,7 +73237,6 @@ s96.cnzz.com
 s98s2.com
 s9c6b193.irs03.com
 s9jk.com
-s9w.cc
 s9yun.com
 sa-api.sreminder.cn
 sa-ec.com
@@ -74102,7 +74089,6 @@ sdwanping.com
 sdwdxl.com
 sdwenlian.com
 sdwgyy.com
-sdwhsb.com
 sdx.microsoft.com
 sdxczn.com
 sdxietong.com
@@ -75892,6 +75878,7 @@ shsipo.com
 shsixun.com
 shsjb.com
 shskapp.com
+shsnjj.top
 shsot.com
 shspark.com
 shspdt.com
@@ -78039,6 +78026,7 @@ sso.biancheng.net
 sso.chaoxing.com
 sso.le.com
 sso.letv.com
+sso.ptlogin2.qq.com
 ssofair.com
 ssoffo.com
 ssozz.com
