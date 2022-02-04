@@ -1416,7 +1416,6 @@
 12120.net
 1213.me
 121314.com
-1214bdk.xyz
 121ask.com
 121mu.com
 121xia.com
@@ -2084,7 +2083,6 @@
 17.huanqiu.com
 170.com
 17025.org
-1703838.b2b.liebiao.com
 1708131.sched.ap.tdnsv5.com
 1708131.v9.sched.tdnsv2.com
 1708359d3207f3032a9888955ad309a3.dlied1.cdntips.net
@@ -3027,7 +3025,6 @@
 222i.net
 223.com
 223.so
-2230241.b2b.liebiao.com
 22332008.com
 2237c56669b04deb4d9b5060.mdbook.cn
 2238725.shop.liebiao.com
@@ -3052,7 +3049,6 @@
 2280.com
 2281789.file.p23.tc.cdntip.com
 2281wa.ren
-2286532.shop.liebiao.com
 2288.org
 2295.com
 2298.com
@@ -12693,6 +12689,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -19228,7 +19225,6 @@ c.ibzs5j.cn
 c.img001.com
 c.jinliaoyang.com
 c.jjkk.org
-c.jvcpgjh.cn
 c.kanwby.com
 c.kuaiduizuoye.com
 c.kuwo.cn
@@ -19545,6 +19541,7 @@ cadcaecam.com
 cadict.net
 cadmon.net
 cadreg.com
+caduka.cn
 cadzhuan.com
 cadzj.com
 cadzxw.com
@@ -20304,7 +20301,6 @@ ccsp-egmas.sf-express.com
 ccsph.com
 ccstock.cn
 ccsw003.com
-cct01.com
 cct08.com
 cct365.net
 cctalk.com
@@ -20395,7 +20391,6 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20601,6 +20596,7 @@ cdn.app.liuxingyul.cn
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.bdstatic.com
+cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -25060,6 +25056,7 @@ commonapi.ai.xiaomi.com
 commonapi.ztsafe.com
 commonapi.ztsafe.com.w.alikunlun.com
 commoncdn.yangkeduo.com
+commons.moegirl.org.cn
 commons.moegirl.org.cn.dsa.dnsv1.com
 communicatte.com
 communities.apple.com
@@ -25478,7 +25475,6 @@ cpicsz.com
 cpihualai.com
 cpitsh.org
 cpjltx.com
-cpk55.com
 cpkmh.mingsheng888.cn
 cplchain.com
 cpnic.com
@@ -26356,7 +26352,6 @@ cutercounter.com
 cuteximi.com
 cutout.pro
 cutowallpaper.com
-cutt.com
 cutv.com
 cuuhn.com
 cuyoo.com
@@ -26717,7 +26712,6 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
-d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
@@ -28039,7 +28033,6 @@ dczou.com
 dd-advisor.com
 dd-cdn.origin-apple.com.akadns.net
 dd-img.com
-dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
@@ -33918,6 +33911,7 @@ f.gm.mob.com
 f.goodq.top
 f.goodq.top.w.cdngslb.com
 f.hiphotos.bdimg.com
+f.hshczy.com
 f.mengtuiapp.com
 f.mengtuiapp.com.w.kunlunar.com
 f.seals.qq.com
@@ -37352,7 +37346,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -39175,7 +39168,6 @@ gushequ.com
 gushfx.com
 gushi.ci
 gushi.com
-gushiciju.com
 gushicimingju.com
 gushidaquan.cc
 gushiju.net
@@ -42605,7 +42597,6 @@ hongtastock.com
 hongtongad.com
 hongtu.net
 hongtuwang.com
-hongweipeng.com
 hongxiaolong.com
 hongxin18.com
 hongxinbao.com
@@ -42977,6 +42968,7 @@ hsgjj.com
 hsgjysj.com
 hsgsy.com
 hsh.zu.anjuke.com
+hshczy.com
 hshh.org
 hshotel.com
 hshs.com
@@ -45969,7 +45961,6 @@ image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
-image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
 image82.360doc.cn
@@ -52893,7 +52884,6 @@ ksbdsk.jomodns.com
 kscac.com
 kscdn.yishihui.com
 kscdns.com
-kscmt.cn
 ksdkcks.com
 ksdlp.com
 ksdown.com
@@ -53460,7 +53450,6 @@ l.gm.mob.com
 l.huoshan.com
 l.huoshan.com.w.cdngslb.com
 l.huya.com
-l.kscmt.cn
 l.mamababu.cn
 l.news.qq.com
 l.qq.com
@@ -57231,6 +57220,7 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -59949,7 +59939,6 @@ mlapp.cn
 mlb.did.ijinshan.com
 mlbuy.com
 mlearn.pingan.com.cn
-mlearn.pingan.com.cn.cdn20.com
 mlgame.wang
 mlgame.xin
 mlgj.com
@@ -61815,7 +61804,6 @@ nanjingkaishan.com
 nanjinglongyu.com
 nanjingtianqi114.com
 nanjingui.com
-nanjishidu.me
 nanjixiong.com
 nankaimba.org
 nanlebbs.com
@@ -64794,7 +64782,6 @@ p.alimama.com
 p.ananas.chaoxing.com
 p.appjiagu.com
 p.aty.sohu.com
-p.bangdu2.com
 p.biligame.com
 p.cdn.persaas.dell.com
 p.clkservice.youdao.com
@@ -67050,6 +67037,7 @@ pole.6rooms.com
 polebrief.com
 policy-cde.le.com
 policy.jd.com
+policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
 polingba.com
@@ -72849,6 +72837,7 @@ s.autoimg.cn
 s.bdstatic.com
 s.btime.com
 s.c-ctrip.com
+s.caduka.cn
 s.cdn.u17t.com
 s.cdxyb.cn
 s.chuimg.com
@@ -77993,7 +77982,6 @@ ssl.trace.zhiziyun.com
 ssl.ts7.qq.com
 ssl.ts8.qq.com
 ssl.wlogin.qq.com
-ssl.woshishuish.top
 ssl.zy3dku.cn
 ssl4.my.800cdn.com
 sslaaa.com
