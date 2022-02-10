@@ -116,6 +116,15 @@
 # 抖音 #10
 (@%!)douyincdn.com
 
+# FastGit
+(@&!)archive.fastgit.org
+(@&!)assets.fastgit.org
+(@&!)customer-stories-feed.fastgit.org
+(@&!)download.fastgit.org
+(@&!)fastgit.org
+(@&!)hub.fastgit.org
+(@&!)raw.fastgit.org
+
 # GitHub
 (@&!)github.com
 (@&!)githubusercontent.com
