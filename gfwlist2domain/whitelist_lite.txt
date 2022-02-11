@@ -1421,7 +1421,6 @@
 13fuwu.com
 13gm.com
 13hangpifa.com
-13ie.com
 13mobi.com
 13wn.com
 13ww.net
@@ -20394,7 +20393,6 @@ diamondfsd.com
 dian-ai.com
 dian-stable.com
 dian-ying.com
-dian.io
 dian.so
 dian123.com
 dian321.com
@@ -22921,6 +22919,7 @@ elecinfo.com
 elecrystal.com
 elecshop.com
 elefang.com
+elefantsearch.com
 eleme.cn
 eleme.io
 elemecdn.com
@@ -26359,7 +26358,6 @@ ggcj.com
 ggcykf.com
 ggda365.com
 ggdawanjia.com
-ggdoc.com
 ggemo.com
 ggerg.com
 ggeye.com
@@ -32282,7 +32280,6 @@ icemle.org
 iceshi.org
 icesimba.com
 icevpn.org
-icewing.cc
 icewingcc.com
 icfans.com
 icfcc.com
@@ -35648,6 +35645,7 @@ jiuku.com
 jiulesy.com
 jiulingwan.com
 jiulishi.com
+jiulx.com
 jiumaojiu.com
 jiumaster.com
 jiumei.com
@@ -45555,6 +45553,7 @@ npxsw.com
 npyun.com
 npz.com
 nq.com
+nq37f.cn
 nq6.com
 nqfwx.cn
 nr-esc.com
@@ -45679,7 +45678,6 @@ nutspace.com
 nutz.io
 nutzam.com
 nuubao.com
-nuuha.com
 nuuxie.com
 nuvoltatech.com
 nuvoton-m0.com

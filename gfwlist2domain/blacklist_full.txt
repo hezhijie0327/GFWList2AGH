@@ -2337,7 +2337,6 @@
 7652.com
 766352.com
 76652200.com
-7668924.com
 7673888.com
 7679229.com
 7686592.com
@@ -3283,6 +3282,7 @@ ac.mz
 ac.uk
 ac1124.com
 ac1125.com
+academic.eb.com
 academynetriders.com
 acca.com
 accbusiness.com
@@ -4151,6 +4151,7 @@ anandtech.com
 anantaravacationclub.com
 anarchistan.com
 anastasialin.com
+anatomy.tv
 anb.org
 anchor.fm
 anchorfree.com
@@ -4681,6 +4682,7 @@ aquexu.github.io
 aqy103.com
 ar.hao123.com
 arabicbible.org
+arabidopsis.org
 arabslavetrade.com
 aransrl.com.ar
 arapurayil.com
@@ -4841,6 +4843,7 @@ asm.org
 asme.org
 asminternational.org
 asmr8.org
+asn-online.org
 asn.au
 asnebula.cf
 asp-cc.com
@@ -5964,6 +5967,8 @@ beauty.md
 bebc.us
 bebinin.com
 bebo.com
+beck-online.beck.de
+beck.de
 becketfund.org
 beckley.co.za
 becomeindex.com
@@ -5979,6 +5984,7 @@ beevpn.com
 beezmall.com
 beforeitsnews.com
 befuck.com
+begellhouse.com
 begin-trade.com
 behance.com
 behance.net
@@ -6318,9 +6324,11 @@ binwang.me
 biobioabogados.cl
 bioexpress.pt
 biofos.com
+biologists.com
 biomedcentral.com
 bione.cc
 bione.me
+bioone.org
 biorxiv.org
 bioware.com
 biowarestore.com
@@ -6736,6 +6744,7 @@ bloombergvault.com
 bloombergview.com
 bloomfortune.com
 bloommicroventures.com
+bloomsburycollections.com
 bloomsburydesignlibrary.com
 bloxcms.com
 blpcareers.com
@@ -8478,6 +8487,7 @@ checkpoint.com
 checkthis.com
 cheezit.com
 chei.us
+chemnetbase.com
 chen-lin.idv.tw
 chen0430tw.comyr.com
 chenboyo.com
@@ -11213,6 +11223,7 @@ dl-laby.jp
 dl.666987.com
 dl.98123e.com
 dl.98123l.com
+dl.begellhouse.com
 dl.box.net
 dl.discordapp.net
 dl.dropboxusercontent.com
@@ -12040,6 +12051,7 @@ easypic.com
 easyvpn.zone
 eatapple.net
 eater.com
+eb.com
 ebacc777.com
 ebahy.com
 ebanoapartments.com
@@ -13754,6 +13766,7 @@ firstfivefollowers.com
 firstory.me
 firstpost.com
 firstrade.com
+firstsearch.oclc.org
 fisac-irsf.org
 fishfortomorrow.org
 fishing.tlc88108.com
@@ -19047,6 +19060,7 @@ jgoodies.com
 jhalderm.com
 jhanssen.org
 jhpeng.com
+jhu.edu
 ji5755.com
 jianduwang.site
 jiangweiping.com
@@ -19224,6 +19238,7 @@ journaldequebec.com
 journalgame.com
 journalism.org
 journalofdemocracy.org
+jove.com
 joyandkin.hk
 joyclub.de
 joyid-f154b.firebaseio.com
@@ -19484,6 +19499,7 @@ kaotic.com
 kapaza.be
 karayou.com
 karbon.to
+karger.com
 karirbdl.com
 karkhung.com
 karmapa-teachings.org
@@ -21567,6 +21583,7 @@ mediere-oradea.ro
 medium.com
 medium.systems
 medley.com
+medone-education.thieme.com
 medrxiv.org
 meebo.com
 meet.new
@@ -22362,6 +22379,7 @@ moralesbrothers.com
 morazzia.com
 morbell.com
 moreheadphones.com
+morganclaypool.com
 morlive.com
 morningstar.com
 morningsun.org
@@ -22598,6 +22616,7 @@ muramura.tv
 murmur.tw
 murmurcn.com
 murtadho.com.br
+muse.jhu.edu
 musemagazine.it
 musescore.com
 mushroomtube.com
@@ -24068,6 +24087,7 @@ occupythebanks.com
 occupytiananmen.com
 oceandigitalshop.com
 oclaje.org.br
+oclc.org
 oclearningteam.co.uk
 oclearningteam.com
 oclp.hk
@@ -24109,6 +24129,7 @@ odobo.com
 odprava.si
 odysee.com
 oe3511.com
+oecd-ilibrary.org
 oed.com
 oeea.org
 offbeatchina.com
@@ -24419,7 +24440,6 @@ openyu.org
 opera-mini.net
 opera.com
 operavpn.com
-opg.optica.org
 opgg-static.akamaized.net
 opinionjournal.com
 opior.com
@@ -24512,6 +24532,7 @@ orz.pp.ru
 orzdream.com
 orzistic.org
 osakihsieh.tw
+osapublishing.org
 oscaro.com
 oscaryang.tw
 oscclub.com
@@ -25941,6 +25962,7 @@ project-syndicate.org
 projectapex.com
 projectara.com
 projectbaseline.com
+projecteuclid.org
 projectfreetv.ch
 projecth.us
 projecthannah.org
@@ -27213,6 +27235,7 @@ runos.us
 runox.biz
 runox.net
 runoz.us
+rupress.org
 ruralgenius.com
 ruralict.com
 ruruba.com
@@ -27340,6 +27363,7 @@ sactownbankruptcy.com
 sadistic-v.com
 sadout.com
 sadpanda.us
+sae.org
 safasti.com
 safasti.net
 safe-inet.com
@@ -30342,6 +30366,7 @@ thewirecutter.com
 thewonderful101.com
 theworldnus.com
 theync.com
+thieme-connect.com
 thieme.com
 thinkable.org
 thinkboxsoftware.com
@@ -30843,6 +30868,7 @@ tosh.comedycentral.com
 toshiba-medical.biz
 totalav.com
 totallynsfw.com
+totalmateria.com
 totalvpn.com
 totheglory.im
 totogeeks.com
@@ -31645,6 +31671,7 @@ ukwhoswho.com
 ulike.net
 ulol.com
 ulop.net
+ulrichsweb.serialssolutions.com
 ultimaforever.com
 ultimaonline.com
 ultimatesurrender.com
@@ -33787,6 +33814,7 @@ wolfatbestbuy.net
 wolfax.com
 wolfgang.site40.net
 wolislaw.com
+wolterskluwer.com
 womany.net
 wombo.ai
 womenresources.org
@@ -33895,6 +33923,7 @@ wral.com
 wrapmasterusa.com
 wrchina.org
 wrchristian.com
+wrds-www.wharton.upenn.edu
 wreac.org
 wrenchead.com
 wretch.cc
