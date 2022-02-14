@@ -896,7 +896,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -5700,7 +5699,6 @@
 51taowei.com
 51taoyang.com
 51tb.me
-51teach.club
 51test.net
 51testing.com
 51testing.net
@@ -13572,7 +13570,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -13625,7 +13622,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -13669,7 +13665,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14585,7 +14580,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -19265,7 +19259,6 @@ c.yes.youku.com
 c.yootui19999.com
 c.youdao.com
 c.youike.com.cn
-c.zbwnzb.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
@@ -24030,7 +24023,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.tencent.lb.metowolf.com
 cn.vc
@@ -25894,7 +25886,6 @@ cscec.com
 cscec1b.net
 cscec5b3.com
 cscecst.com
-cscectc.com
 cschannel.anticheatexpert.com
 cschlosser.gallerycdn.azure.cn
 csci.hk
@@ -34594,7 +34585,6 @@ feelec.net
 feeliu.com
 feemoo.vip
 feepan.com
-feerbook.com
 feesoon.com
 feetype.jd.com
 feetype.jd.com.gslb.qianxun.com
@@ -39277,7 +39267,6 @@ gxidc.com
 gxind.com
 gxjgdj.com
 gxjtaq.com
-gxjubao.org
 gxjznet.com
 gxkjbg.com
 gxkjdns.com
@@ -42475,6 +42464,7 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
+homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -42644,6 +42634,7 @@ hostmsu.ru
 hostproph.com
 hostxen.com
 hostyun.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotcbit.org
@@ -43848,7 +43839,6 @@ huomaotv.com
 huomaow.com
 huomaqun.com
 huoming.com
-huonvd.cn
 huoqiuapp.com
 huoqiucaijing.com
 huorong.cn
@@ -45743,7 +45733,6 @@ ilaic.org
 ilaisa.com
 ilaitui.com
 ilancai.com
-ilancc.com
 ilanluo.com
 ilanni.com
 ilanx.net
@@ -45927,7 +45916,6 @@ image2.sina.com.cn
 image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
-image6.mall.icbc.com.cn
 image6.mall.icbc.com.cn.wscdns.com
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn
@@ -46411,6 +46399,7 @@ img1.v.tmcdn.net
 img1.xitongzhijia.net
 img1.yulu99.com
 img10.360buyimg.com
+img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
@@ -47789,6 +47778,7 @@ itelly.net
 itellyou.cn
 itellyou.com
 item-china.cn
+item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
@@ -48411,6 +48401,7 @@ jbhdq.com
 jbl100.com
 jblts.com
 jbo28.com
+jbo311.com
 jbo600.com
 jbo65.com
 jbo8.com
@@ -50277,6 +50268,7 @@ jp03.dns.meo-sub.xyz
 jp04.dns.meo-sub.site
 jp04.dns.meo-sub.xyz
 jp14.com
+jp88888887.cn
 jpaasne.e.shifen.com
 jpad.baidu.com
 jpanj.com
@@ -50470,7 +50462,6 @@ js.mgtv.com.wscdns.com
 js.miaozhen.com
 js.mosflower.cn
 js.mscto.com
-js.mumayi.net
 js.oh100.com
 js.passport.qihucdn.com
 js.penxiangge.com
@@ -56673,7 +56664,6 @@ luointo.com
 luojiji.com
 luojilab.com
 luojituili.com
-luokewan.com
 luokuang.com
 luolai.com
 luolai.tech
@@ -57165,6 +57155,7 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -57418,6 +57409,7 @@ m.zhaokaoti.com
 m.zhipin.com
 m.zhuxiaobang.com
 m.zkwsdf.com
+m.zn8ni.cn
 m.zol.com.cn
 m.zougg.com
 m.zs-hospital.sh.cn
@@ -62406,6 +62398,7 @@ nginx.leakzero.com
 nginx.mijisou.com
 ngjjtg.com
 ngloom.me
+ngmaul.cn
 ngnice.com
 ngo.minigame.qq.com
 ngocn.net
@@ -65451,7 +65444,6 @@ parkmecn.com
 parkviewgreen.com
 parnassusdata.com
 parol-group.com
-parryqiu.com
 parsein.com
 parser.houyi.baofeng.net
 part1-pcdn.fun.tv
@@ -73504,7 +73496,6 @@ sc-cdn.dpvs.yximgs.com
 sc-jiaoyu.com
 sc-report.tantanapp.com
 sc-vis.com
-sc.51teach.club
 sc.94rp.com
 sc.alicpb.top
 sc.anhuiry.com
@@ -82249,7 +82240,6 @@ tmea116.oss-cn-beijing.aliyuncs.com
 tmead.y.qq.com
 tmechina.org
 tmeiju.com
-tmetb.net
 tmfmazu-wangka6.m.qq.com
 tmfmazu4http-wangka.m.qq.com
 tmfmazuhttp-wangka.m.qq.com
@@ -105757,6 +105747,7 @@ zmzfile.com
 zmzjk.com
 zmzjstu.com
 zn8.com
+zn8ni.cn
 znba.net
 znbo.com
 zncaijing.com

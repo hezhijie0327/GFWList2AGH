@@ -2223,6 +2223,7 @@
 6up.bet
 6up.com
 6yhy.com
+7-zip.org
 7.buyu213.com
 7004202.com
 70066hg.com
@@ -8275,6 +8276,7 @@ cdp.org
 cdp1989.org
 cdp1998.org
 cdp2006.org
+cdpa.url.tw
 cdpeu.org
 cdpusa.org
 cdpweb.org
@@ -9047,7 +9049,6 @@ cn.akinator.com
 cn.akinator.mobi
 cn.bigshorts.tv
 cn.bongacams.sexy
-cn.calameo.com
 cn.caserandom.com
 cn.com
 cn.dayabook.com
@@ -10710,6 +10711,7 @@ ddl70q3k97azf.cloudfront.net
 ddnete.com
 ddns.info
 ddns.me
+ddns.me.uk
 ddns.mobi
 ddns.ms
 ddns.name
@@ -11881,6 +11883,7 @@ dynamic-dns.net
 dynamic-proxy.com
 dynamicdns.biz
 dynamicdns.co.uk
+dynamicdns.me.uk
 dynamicdns.org.uk
 dynamics.com
 dynasys.org
@@ -18964,7 +18967,6 @@ jbo13.com
 jbo25.com
 jbo255.com
 jbo27.com
-jbo311.com
 jbo443.com
 jbo500.com
 jbo53.com
@@ -35302,7 +35304,6 @@ www.cincainews.com
 www.cio2020.com
 www.circleof6app.com
 www.cite.com.tw
-www.citizenlab.org
 www.citizenvpn.com
 www.citizenvpn.dk
 www.citypopulation.de
