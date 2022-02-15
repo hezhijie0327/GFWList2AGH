@@ -4163,7 +4163,6 @@
 363lm.com
 363u.com
 364000.com
-3647.tech
 3648980.com
 365128.com
 365135.com
@@ -6679,7 +6678,6 @@
 5duo.com
 5e3aa5fa5505481d0afa9b60.mdbook.cn
 5e969c7aa80f6957335fc413552b1b48.dlied1.cdntips.net
-5ebo.com
 5ecdn.com
 5ede337a36c9346ea8f3d14b66f1af38.dlied1.cdntips.net
 5ee1f452c9098ccb7bfc28d490850059.dlied1.cdntips.net
@@ -7884,7 +7882,6 @@
 78tp.com
 78yx.net
 78zph.com
-792mw.com
 793360.com
 7937.com
 7940.com
@@ -12112,7 +12109,6 @@ aiyou.com
 aiyou.tv
 aiyouman.com
 aiyoumi.com
-aiyouxi07.vip
 aiyoweia.com
 aiyuangong.com
 aiyuke.com
@@ -13665,6 +13661,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -13943,7 +13940,6 @@ apkgu.com
 apkjam.com
 apkplug.com
 apkrj.com
-apks.juyoufan.net
 apkui.com
 apkyx.com
 apkzu.com
@@ -14580,6 +14576,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -20567,7 +20564,6 @@ cdn.app.liuxingyul.cn
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.bdstatic.com
-cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -22897,6 +22893,7 @@ chunshuizhijia.com
 chunsuns.com
 chuntiansongart.com
 chunxuanmao.com
+chunyin.site
 chunyiscdk.com
 chunyu.me
 chunyu.mobi
@@ -23928,7 +23925,6 @@ cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
 cn-hbcd2-cu-v-13.bilivideo.com
 cn-hbcd2-cu-v-15.bilivideo.com
-cn-hbcd2-cu-v-17.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
 cn-java.com
@@ -24023,6 +24019,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.tencent.lb.metowolf.com
 cn.vc
@@ -24215,7 +24212,6 @@ cndy.org
 cndzq.com
 cndzys.com
 cnecc.com
-cnedoc.com
 cnedres.org
 cneeex.com
 cnelc.com
@@ -27987,6 +27983,7 @@ dczou.com
 dd-advisor.com
 dd-cdn.origin-apple.com.akadns.net
 dd-img.com
+dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
@@ -29315,7 +29312,6 @@ dj.captcha.qq.com
 dj.net
 dj.renren.com
 dj0.baidu.com
-dj0ts1x.cn
 dj1.baidu.com
 dj10.com
 dj134.com
@@ -36010,7 +36006,6 @@ fun371.com
 fun48.com
 fun501.com
 fun767.com
-fun7733.com
 fun803.com
 fun88113.com
 fun88369.com
@@ -37257,6 +37252,7 @@ gensee.com
 genshuixue.com
 gentags.com
 gentags.net
+gentian-frd.hjapi.com
 genymotion.net
 genzhuang.org
 geo-drcn.platform.hicloud.com
@@ -43406,7 +43402,6 @@ huayimedia.com
 huayiming.com
 huayingsc.com
 huayinjapan.com
-huayinziben.com
 huayiwork.com
 huayoumengze.com
 huayoutianyu.com
@@ -46175,7 +46170,6 @@ img.douyucdn.cn.w.cdngslb.com
 img.downk.cc
 img.duoyi.com
 img.duoyi.com.dycdn.com
-img.dydab.com
 img.eqbyc.com
 img.expreview.com
 img.feitian001.com
@@ -47783,6 +47777,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -57146,6 +57141,7 @@ m.chinachooses.com
 m.chinasspp.com
 m.chinaz.com
 m.chinaz.com.wswebpic.com
+m.chunyin.site
 m.chusan.com
 m.client.10010.com
 m.client.10010.com.w.cdngslb.com
@@ -62331,7 +62327,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -63381,7 +63376,6 @@ o2yhq.com
 o360.youbo02.com
 o37o.net
 o3ndix.com
-o4h0np7.cn
 o4hpc.cn
 o4on.vip
 o51d6rc1.sched.s11t.tdnsv5.com
@@ -66970,6 +66964,7 @@ polayoutu.com
 pole.6rooms.com
 polebrief.com
 policy-cde.le.com
+policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -71808,6 +71803,7 @@ res.bk.10010.cn.w.cdngslb.com
 res.cc.cmbimg.com
 res.cc.cmbimg.com.w.alikunlun.com
 res.cdn.openinstall.io
+res.doc88.com
 res.douyucdn.cn
 res.douyucdn.cn.w.kunlunar.com
 res.dxpmedia.com
@@ -78794,7 +78790,6 @@ styadmin.com
 stylecdn.com
 stylemode.com
 styles-sys.com
-styongtu.com
 stz8.com
 su-long.com
 su.addnewer.com
