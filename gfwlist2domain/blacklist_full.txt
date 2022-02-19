@@ -2587,7 +2587,6 @@
 874962.co
 8757.org
 8758809.com
-876xx.com
 8786.net
 878867.com
 88.ssh01.com
@@ -7632,6 +7631,7 @@ bway889900.com
 bway928.com
 bway981.com
 bway991.com
+bway996.com
 bway997.com
 bwaycn.com
 bwbx.io
@@ -22127,7 +22127,6 @@ mjlsh.usc.cuhk.edu.hk
 mjpservices.us
 mjs-122.com
 mjsnails.com.au
-mk5000.com
 mkhq.co.kr
 mklegaladvice.com
 mksa.top
