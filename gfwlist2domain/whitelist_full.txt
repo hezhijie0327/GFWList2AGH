@@ -900,6 +900,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -3087,6 +3088,7 @@
 233d.net
 233fe74fb3ae83d76629e5e5cd504e89.v.smtcdns.net
 233i.me
+233lyly.com
 233o.net
 233py.com
 233wo.com
@@ -3300,7 +3302,6 @@
 264802.com
 265.com
 2656000.com
-265660.com
 26595.com
 265g.com
 265o.com
@@ -3505,7 +3506,6 @@
 2gmbbl.cn
 2gua.gallerycdn.azure.cn
 2gxw.com
-2gz9nc.cn
 2hainan.com
 2hanju.com
 2hanjutv.com
@@ -6130,7 +6130,6 @@
 52wendang.com
 52wlw.com
 52wmb.com
-52wooolpk.com
 52wubi.com
 52xiaomian.com
 52xiaoshuowang.com
@@ -8314,7 +8313,6 @@
 8289880.com
 828g.com
 8296686.fls.doubleclick.net
-82a.net
 82aeb8ed591c18d800b6cab4e4e46176.v.smtcdns.net
 82ip.com
 82ky.com
@@ -9153,7 +9151,6 @@
 91town.com
 91tuyatu.com
 91tw.net
-91tzy.com
 91ud.com
 91up.com
 91vpn.com
@@ -13657,6 +13654,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14819,6 +14817,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -21118,6 +21117,7 @@ cfogc.com
 cfp1li1.cachenode.cn
 cfpa.pw
 cfpl.online
+cfpsf.com
 cfsc.com.cn
 cfsino.com
 cfsl2017.com
@@ -26586,6 +26586,7 @@ cznewcom.com
 czongyi.com
 czopen.com
 czpoly.com
+czqfloor.com
 czrj.com
 czrxw.com
 czry888.com
@@ -27016,7 +27017,6 @@ dabaicai.org
 dabaicai.pw
 dabaicai.shop
 dabaigongju.com
-daban001.com
 dabangm.com
 dabangp.com
 dabangq.com
@@ -27618,6 +27618,7 @@ data.xiaoheihe.cn
 data.xxt.aichaoxing.com
 data2.itv.ptqy.gitv.tv
 data380.com
+data5u.com
 data6.video.iqiyi.com
 data985.com
 dataaq.yy.com
@@ -31568,7 +31569,6 @@ dy-vod-i.bytegslb.com
 dy-vod-i.yangyi02.com
 dy-vod-j.yangyi02.com
 dy.163.com
-dy.cm
 dy008.com
 dy1-vip-ssl.xunlei.com
 dy1905.net
@@ -35954,7 +35954,6 @@ fujincenter.com
 fujinli.com
 fujunjie.com
 fuka.cc
-fukebi.com
 fukeha.com
 fulantv.com
 fulevmy.com
@@ -36840,7 +36839,6 @@ garmuri.com
 garnoc.com
 garphy.com
 garply.com
-gars57.cn
 gas-analyzers.com
 gas.data.pplive.com
 gasfw.com
@@ -38562,6 +38560,7 @@ gsjpy.com
 gsjtky.com
 gsjy.net
 gsktraining.com
+gskwai.com
 gskyty.com
 gslb-all.geekzu.org.cname.yunjiasu-cdn.net
 gslb.cdn.163fen.com
@@ -39003,6 +39002,7 @@ guocuijingju.com
 guodafdc.com
 guodegang.org
 guodingnet.com
+guodongbaohe.com
 guodu.com
 guodu.hk
 guoers.com
@@ -40173,6 +40173,7 @@ hanzhong.baixing.com
 hanzhong.lianjia.com
 hanzhong123.com
 hanzify.org
+hanzufang.com
 hao-sheng-yi.com
 hao.17173.com
 hao.7654.com
@@ -44049,7 +44050,6 @@ hx76xwdj.v1d.szbdyd.com
 hx76xwgr.v1d.szbdyd.com
 hx76xwnl.v1d.szbdyd.com
 hx8886.com
-hx95.com
 hx99.net
 hx9999.com
 hxage.com
@@ -46775,7 +46775,6 @@ inc365.com
 incake.net
 incensechina.com
 incloudexpo.com
-incnjp.com
 incopat.com
 incoto.com
 incsg.com
@@ -47042,6 +47041,7 @@ insnail.com
 inspur.com
 inspuronline.com
 inspurpower.com
+insta360.com
 instafogging.com
 install.kugou.com
 install.yzapi.top
@@ -53190,7 +53190,6 @@ kuqi.com
 kuqin.com
 kurogame.com
 kurokingdom.com
-kurongdai.com
 kurukurumi.com
 kusdk.com
 kushenchina.net
@@ -53969,7 +53968,6 @@ lcdushi.com
 lcdwiki.com
 lcfby.com
 lcfile.com
-lcfs0769.com
 lcfw.co
 lcgod.com
 lchot.com
@@ -54392,6 +54390,7 @@ letabc.com
 letaikeji.com
 letao.com
 letfind.com
+letinet.com
 leting.io
 letoom.com
 letou118.net
@@ -56814,7 +56813,6 @@ lw0591.com
 lw208.com
 lw23.com
 lw54.com
-lw85.com
 lw88.site
 lwcj.com
 lwd3699.com
@@ -61841,6 +61839,7 @@ nbcyl.com
 nbd.com.cn
 nbdeli.com
 nbdeli.net
+nbdig.com
 nbdisco.com
 nbdskj.com
 nbegame.com
@@ -64429,7 +64428,6 @@ oss.console.aliyun.com
 oss.haomaishou.com
 oss.link
 oss.mail.qq.com
-oss.mzyyun.com
 oss.oact.net
 oss.so
 oss.suning.com
@@ -65489,7 +65487,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -77101,7 +77098,6 @@ soa-vip-ssl.xunlei.com
 soa.vip.xunlei.com
 soagw.live.xunlei.com
 soagw.pw.xunlei.com
-soarfi.cn
 soarwatch.com
 soba8.com
 sobaidupan.com
@@ -77680,7 +77676,6 @@ spprec.com
 spps.cc
 spr-atm.com
 sprabbit.com
-spralipay.com
 spread.sm.cn
 spreton.com
 spring4all.com
@@ -78688,6 +78683,7 @@ store.st.dl.pinyuncloud.com
 store.steamchina.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
+store.storevideos.cdn-apple.com
 store.sunlands.com
 store.sunlands.com.wswebcdn.com
 store.taobao.com
@@ -81562,7 +81558,6 @@ tianfeiyu.com
 tianfupic.com
 tianfus.com
 tianfusoftwarepark.com
-tianhaijiaodai.com
 tianhaohz.com
 tianhejiayi.com
 tianhenggo.xyz
@@ -82487,7 +82482,6 @@ tongye.biz
 tongyi.com
 tongyidrying.com
 tongyongji.net
-tongyongpe.com
 tongyou188.com
 tongyuanos.com
 tongyue.com
@@ -82915,7 +82909,6 @@ tracking.ad-survey.com
 tracking.babytree.com
 tracking.cat898.com
 tracking.chacha.com
-tracking.epicgames.com
 tracking.kdnet.net
 tracking.miui.com
 tracking.v.tf.360.cn
@@ -84081,6 +84074,7 @@ tzfile.com
 tzfuke.com
 tzgcjie.com
 tzhealth.com
+tzhqg.cn
 tzhsdqyxgs850.shop.258.com
 tzhubo.com
 tzhwcc.com
