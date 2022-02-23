@@ -13,7 +13,7 @@ function GetData() {
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt"
-        "https://raw.githubusercontent.com/jimmyshjj/DHDb/main/dhdb_domestic.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_domestic.txt"
     )
     cnacc_trusted=(
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
