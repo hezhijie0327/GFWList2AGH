@@ -114,7 +114,7 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "https://doh.pub:443/dns-query"
+                "https://dns.alidns.com/dns-query"
             )
             foreign_dns=(
                 "tls://dns.google
