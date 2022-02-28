@@ -477,7 +477,6 @@
 0559fc.com
 0561house.com
 0563job.com
-0564luan.com
 0566cn.net
 0566fc.com
 0566job.com
@@ -2749,7 +2748,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.centos.pool.ntp.org
+2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
@@ -7975,7 +7974,6 @@
 7dff40fe78bd0de3db7b87ccbaa2b97b.safeframe.googlesyndication.com
 7dianw.com
 7didc.com
-7dmf7zl.cn
 7do.net
 7down.com
 7down.net
@@ -13588,6 +13586,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -15207,7 +15206,6 @@ b.tvsou.com
 b.unjs.com
 b.vlion.cn
 b.wxebgpj.cn
-b.xp0f4cj.cn
 b.youdao.com
 b.yzcdn.cn
 b.zol-img.com.cn
@@ -15495,6 +15493,7 @@ baidu-cn-north-00001.bj-a.bcebos.com
 baidu-int.com
 baidu-itm.com
 baidu-mgame.com
+baidu-mipdx.cn.miaozhen.com
 baidu-umoney.com
 baidu-wenxue.com
 baidu.cc
@@ -18848,6 +18847,7 @@ buylabel.com
 buysun.net
 buysweet.com
 buyu46.com
+buyu876.com
 buzhi5.com
 buzhibushi.com
 buzzads.com
@@ -23443,7 +23443,6 @@ cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
 cloudcc.com
 cloudcdn.dopa.com
-cloudcdn.dopa.com.cn
 cloudcdn.net
 cloudcdns.com
 cloudcdns.net
@@ -23560,6 +23559,7 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -25324,6 +25324,7 @@ cowtransfer.com
 coyuk.com
 cozumpartisi.com
 cozyee.com
+cp-9044xpj.internet7.vip
 cp.003store.com
 cp.5jjx.net
 cp.7y7.com
@@ -26276,7 +26277,6 @@ cvte.com
 cvtvcn.com
 cw.yyb.sched.dcloudstc.com
 cw100.com
-cw49z0.cn
 cwbaike.com
 cwbpsi.com
 cwc.sspu.edu.cn
@@ -29692,7 +29692,6 @@ dn-staticdown.qbox.me
 dn-udeskpub.qbox.me
 dn.com
 dn1234.com
-dn4onjr.cn
 dn580.com
 dn8188.com
 dnajc.co
@@ -31657,7 +31656,6 @@ dzllzg.com
 dzmdq.com
 dzmhospital.com
 dzng.com
-dzooo.cn
 dzoptics.com
 dzpk.com
 dzqu.com
@@ -35031,7 +35029,6 @@ finditandzip.ga
 findlawimg.com
 findme.wang
 findoout.com
-findqc.com
 findshu.net
 findxk.com
 findyou.xin
@@ -41903,6 +41900,7 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -46169,6 +46167,7 @@ img.poppur.com
 img.qcloud.com
 img.qianwee.com
 img.qidian.com
+img.qj.media8.cn
 img.qunliao.info
 img.qunliao.info.qiniudns.com
 img.qwps.cn
@@ -47907,7 +47906,6 @@ iuniware.com
 iuoooo.com
 iuplus.com
 iupnlpd.cn
-iuqcmmqjzwdi.dn4onjr.cn
 iuuu9.com
 iuynfg.com
 iv.doubleclick.net
@@ -50189,7 +50187,6 @@ jp03.dns.meo-sub.xyz
 jp04.dns.meo-sub.site
 jp04.dns.meo-sub.xyz
 jp14.com
-jp88888887.cn
 jpaasne.e.shifen.com
 jpad.baidu.com
 jpanj.com
@@ -53315,7 +53312,6 @@ l.web.huya.com
 l.web.huya.com.w.kunluncan.com
 l.yidianzixun.com
 l.ykimg.com
-l07m8gu.cn
 l1.tcdnlive.com
 l1.xfinfr.com
 l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
@@ -53851,6 +53847,7 @@ lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
 lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
+lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -56991,6 +56988,7 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
+m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
@@ -57134,7 +57132,6 @@ m.iqiyipic.com
 m.isamanhua.com
 m.ishansong.com
 m.ithome.com
-m.izuis.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
@@ -58537,7 +58534,6 @@ medsci-tech.com
 medstarcorp.com
 medtion.com
 medusa.dianping.com
-medvoice.cdn.bcebos.com
 meechao.com
 meefon.com
 meegoe.com
@@ -60648,7 +60644,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -60660,6 +60655,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -62233,6 +62229,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -71878,7 +71875,6 @@ rglg.uu.163.com
 rgoo.com
 rgrcb.com
 rgslb.com
-rguidemetro.com
 rgyun.com
 rgznworld.com
 rh.code.jjyx.com
@@ -73777,7 +73773,6 @@ sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk1xyajs.data.kuiniuca.com
 sdk1xyajs.data.p2cdn.com
-sdkapi-smartop.jiguang.cn
 sdkapi.douyucdn.cn
 sdkapi1.bizport.cn
 sdkapi10.bizport.cn
@@ -75597,7 +75592,6 @@ show.bilibili.com.w.kunlunar.com
 show.chuangyi.taobao.com
 show.chuangyi.taobao.com.w.alikunlun.com
 show.f.mediav.com
-show.findqc.com
 show.g.mediav.com
 show.govhunan.cn
 show.jiuhui899.com
