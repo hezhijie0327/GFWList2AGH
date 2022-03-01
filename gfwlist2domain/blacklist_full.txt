@@ -929,7 +929,6 @@
 222ub.com
 223.ax.lt
 223.t28.net
-2233xpj.com
 22341cp.com
 2235h.com
 223dd.net
@@ -29255,6 +29254,7 @@ steamcdn-a.akamaihd.net
 steamcommunity-a.akamaihd.net
 steamcommunity.com
 steamcontent.com
+steamdeck.com
 steamedfish.org
 steamgames.com
 steamoe.com
