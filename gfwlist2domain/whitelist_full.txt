@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -883,6 +884,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -894,7 +896,6 @@
 1.guyaheng.com
 1.huobiwang.cc
 1.hysou.com
-1.idc100.com
 1.iqeq.com.cn
 1.isanxia.com
 1.jiqie.cn
@@ -2656,7 +2657,6 @@
 1pm2.com
 1point3acres.cn
 1ppt.com
-1px.wang
 1q2q.com
 1qa.link
 1qfa.com
@@ -5030,6 +5030,7 @@
 4glte.org
 4gqp.com
 4gtoefl.com
+4h44.com
 4h6s.com
 4hgame.com
 4hou.com
@@ -10883,6 +10884,7 @@ ad2.yangjinyou.com
 ad24cd2629b586671852df562721a395.dlied1.cdntips.net
 ad3.sina.com.cn
 ad321.cc
+ad365.cc
 ad4.sina.com.cn
 ad5.com
 ad518.com
@@ -11165,7 +11167,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -19177,7 +19178,6 @@ c.wkanx.com
 c.woaiseo.com.cn
 c.wyykxyp.cn
 c.xbjcgs.cn
-c.xianglong360.cn
 c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
@@ -19822,7 +19822,6 @@ case91.com
 casece.org
 casee.cn
 casestudy.html5.qq.com
-cashier.alipay.com
 cashier.ele.me
 cashier.youzan.com
 cashierrz41.alipay.com
@@ -19979,7 +19978,6 @@ cc8.cc
 cca.mob.com
 ccabchina.com
 ccai.cc
-ccaiye.com
 ccapbook.com
 ccapedu.com
 ccartd.com
@@ -21652,7 +21650,6 @@ cheoz.com
 chepin88.com
 chepinnet.com
 chepoo.com
-cherongzi.com
 cherriespie.com
 cherry.le.com
 cherymanuals.com
@@ -23606,6 +23603,7 @@ cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
 cm.ipinyou.com
+cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
@@ -24138,7 +24136,6 @@ cnexp.net
 cnexps.com
 cneyoo.com
 cnezsoft.com
-cnf.adbana.com
 cnfanews.com
 cnfantasia.com
 cnfaxie.org
@@ -26264,6 +26261,7 @@ cxh99.com
 cxhl365.net
 cxhr.com
 cximg.com
+cxjju.cn
 cxkjjy.com
 cxmb2r9o.v1d.szbdyd.com
 cxmld.com
@@ -27110,6 +27108,7 @@ daishangqian.com
 daishu.com
 daishujiankang.com
 daishutijian.com
+daitianyu.vip
 daiwoqu.com
 daixiaobao.com
 daixiaomi.com
@@ -33310,6 +33309,7 @@ eternalsakura13.com
 eternalsys.com
 etest8.com
 eteste.com
+eteun.cn
 etf.group
 etf88.com
 eth6.org
@@ -35310,7 +35310,6 @@ fn.com
 fn9rg2ol.p23.tc.cdntip.com
 fn9rg2ol.sched.sma.tdnsv5.com
 fnapi.4399sy.com
-fnbocll.cn
 fnc.cn
 fnet2124098.atobo.com
 fnetlink.com
@@ -40232,7 +40231,6 @@ haorencai.net
 haorendao.com
 haorenka.me
 haorooms.com
-haosdhc.cn
 haoseals.com
 haosenchina.com
 haoservice.com
@@ -42670,7 +42668,6 @@ hrbeduy.com
 hrbesd.com
 hrbmama.com
 hrbmilan.com
-hrbpay.com
 hrbrc.com
 hrbslh.com
 hrbswx.com
@@ -54245,7 +54242,6 @@ levect.com
 levelup.cn
 leviding.com
 levy.work
-levyhsu.com
 lewaila.com
 lewaimai.com
 lewanduo.com
@@ -55665,6 +55661,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -56141,7 +56138,6 @@ lovfp.com
 lovgiin.com
 lovology.com
 lovstone.com
-lownguw.top
 lowpew.com
 lowsfish.com
 lowucity.com
@@ -57088,7 +57084,6 @@ m.newsmth.net
 m.nq37f.cn
 m.nuoqingck.cn
 m.nxypz.com
-m.nydjsm.cn
 m.o4hpc.cn
 m.ourlj.com
 m.pinduoduo.net
@@ -57877,7 +57872,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -59607,6 +59601,7 @@ mjoys.com
 mjrui.com
 mjs.sinaimg.cn
 mjtom.com
+mjvmypr.cn
 mjx123.com
 mjyjt.biz
 mjyun.com
@@ -60535,6 +60530,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -63085,7 +63081,6 @@ nyato.com
 nybai.com
 nybaidu.net
 nyckidsclub.com
-nydjsm.cn
 nydus.battle.net
 nyfg.com
 nyhnx.com
@@ -79892,7 +79887,6 @@ t3315.com
 t355u.tdum.alibaba.com
 t365777.com
 t38uu.k42jvw.com
-t3pp.com
 t4-dsa-opencdn.a.bdydns.com
 t4.a.market.xiaomi.com
 t4.agrantsem.com
