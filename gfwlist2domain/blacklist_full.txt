@@ -2218,7 +2218,6 @@
 70066hg.com
 7009.cc
 701136.com
-7016281.com
 7024411.com
 7024646.com
 702632.cc
@@ -2257,7 +2256,6 @@
 72.iseoz.com
 721av.com
 7230874.com
-7235671.com
 72365.com
 7236535.com
 7249k.com
@@ -10803,6 +10801,8 @@ denverpost.com
 dependabot.com
 depoon.com
 depositphotos.com
+deps.dev
+deps.info
 deptofhealth.xyz
 deqmgur9wakvx.cloudfront.net
 derbytournaments.com
@@ -14553,6 +14553,7 @@ fun281.com
 fun307.com
 fun308.com
 fun327.com
+fun371.com
 fun392.com
 fun505.com
 fun530.com
@@ -24364,6 +24365,8 @@ openobservatory.org
 openproxy.co.uk
 openshift.redhat.com
 opensource.google
+opensourceinsight.dev
+opensourceinsights.dev
 openssl.org
 openstreetmap.com
 openstreetmap.net
