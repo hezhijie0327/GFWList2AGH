@@ -829,6 +829,7 @@
 0gouche.com
 0gq2p7eckbs26f.mwcname.com
 0gzld3p4.sched.sma.tdnsv5.com
+0hvago6.cn
 0i-i0.com
 0i6vus1.cachenode.cn
 0ij3tm.com
@@ -4994,6 +4995,7 @@
 4e3196ae8d0ac24b98ae32a3335feea4.dlied1.cdntips.net
 4ef9a9756ea5ecec55d8f92c62ec7912.safeframe.googlesyndication.com
 4everdns.com
+4excel.cn
 4f3b8343846e306792069c9737e45c1c.rdt.cfogc.com
 4f5d04f6440a45cd5b6b183fede3899e.dlied1.cdntips.net
 4f89.com
@@ -8926,7 +8928,6 @@
 917118.com
 917558.com
 91756.cn
-9178.work
 917935868.p23.tc.cdntip.com
 917ka.com
 917st.com
@@ -10078,6 +10079,7 @@ a3116817c6493f49cf3c63caff3962b5.dlied1.cdntips.net
 a390v39z.sched.s2-dk.tdnsv5.com
 a3a5xi06.sched.pddlego-dk.tdnsv5.com
 a3dbb2db4761ad7d6de576d464c067f6.safeframe.googlesyndication.com
+a3p4.com
 a4.b2b168.com
 a4.ikafan.com
 a4.mzstatic.com
@@ -10283,7 +10285,6 @@ aad.tw
 aadn6nkpbx7oasjkdha2vostkhzuq888.node.ppio.cloud
 aadongman.com
 aads-cng.net
-aads.shuzilm.cn
 aafanke.cc
 aagw.sdo.com
 aaid.amap.com
@@ -10307,6 +10308,7 @@ aau8.xyz
 aau9.xyz
 aayis.com
 aaz1.xyz
+aazcio.cn
 ab.cnbanbao.com
 ab.dydab.com
 ab.hwwt8.com
@@ -10341,7 +10343,6 @@ abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.kfyg.xyz
 abc.rwpt.top
-abc.xtyx918.com
 abc.yebaike.com
 abc.yjbys.com
 abc.zhiyaspa.com
@@ -11811,7 +11812,6 @@ aikexi.com
 aikf.com
 aikucun.com
 ailaba.org
-ailamtrieuphu.com
 ailbaba.me
 ailete.com
 ailewan.com
@@ -11999,7 +11999,6 @@ aixinquban.com
 aixinwu.org
 aixinyunfan.com
 aixq.com
-aixsq.com
 aixuedai.com
 aixuefu.com
 aixuejun.com
@@ -13581,6 +13580,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14147,6 +14147,7 @@ appnavi.baidu.com
 appnode.com
 apponline.research.qq.com
 appoptimize-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn
+appoptimize-drcn.dbankcdn.cn
 appoptimize-drcn.dbankcdn.cn.cdn.dnsv1.com
 appoptimize-drcn.dbankcdn.com
 appoptimize-drcn.dbankcdn.com.c.cdnhwc1.com
@@ -14530,7 +14531,6 @@ askbob.pingan.com.cn
 askci.com
 askdfjkls.moxiaoqihuoguo.com
 asketchup.com
-askfsh.cn
 asklib.com
 asklicai.com
 askmaclean.com
@@ -15665,7 +15665,6 @@ baixiongz.com
 baixiu.org
 baixk.com
 baixkw.cn
-baixu.com
 baiyangwang.com
 baiye5.com
 baiyewang.com
@@ -19049,7 +19048,6 @@ c-uaa.if.iqiyi.com
 c-yl.com
 c.02kdid.com
 c.28rv.com
-c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -27908,7 +27906,6 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
-ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -31665,6 +31662,7 @@ e.cnxmyb.cn
 e.dangdang.com
 e.domob.cn
 e.dr-zh.com
+e.dukangjiu.net.cn
 e.eqxiu.com
 e.fengyx.com
 e.fengyx.com.cname1236.yjs-cdn.com
@@ -32233,6 +32231,7 @@ edatahome.com
 edatop.com
 edawiki.com
 edb-tech.com
+edc.zzzkxx.com
 edcba.com
 edd1d412e86361b58929a8d0e4a5ba3d.dlied1.cdntips.net
 eddic.net
@@ -34888,7 +34887,6 @@ files.wondercv.com
 files.zuhaohao.com
 files.zuhaohao.com.w.kunlungr.com
 files2.sogou.com
-filetracker.xyz
 filez.com
 fillersmart.com
 fillseo.com
@@ -36490,7 +36488,6 @@ gamerstorm.com
 games.mobileapi.hupu.com
 games.renren.com
 games.sina.com.cn
-games.tgbus.com
 games.tgbus.com.wscdns.com
 gameservice.com
 gamesh.com
@@ -37116,7 +37113,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -38776,7 +38772,6 @@ guimengning.com
 guimi.com
 guimilu.com
 guimipay.net
-guisd.com
 guitarpro.cc
 guixue.com
 guiyang.baixing.com
@@ -40143,7 +40138,6 @@ haokan.com
 haokan.hao123.com
 haokan.lcs.baidu.com
 haokan123.com
-haokan3.cn
 haokan5.com
 haokan58.com
 haokanbu.com
@@ -41023,7 +41017,6 @@ heizhushoes.com
 heizuan.com
 hejiajinrong.com
 hejian669.51sole.com
-hejies.com
 hejinchuitou.net
 hejiu2016.com
 hejizhan.com
@@ -42043,6 +42036,7 @@ hnfapiao.com
 hnfaren.com
 hnfjwh.com
 hnfjz.com
+hnfpgm.com
 hnfyqmj.com
 hngbjy.com
 hngbw.com
@@ -44320,7 +44314,6 @@ i.tddmp.com
 i.ulmdb.cn
 i.vip.iqiyi.com
 i.w.inmobi.cn
-i.w.inmobi.com
 i.waimai.meituan.com
 i.weread.qq.com
 i.work.weixin.qq.com
@@ -46183,7 +46176,6 @@ img11-sched.jcloudimg.com
 img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
-img13.360buyimg.com
 img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -48461,7 +48453,6 @@ jevictek.com
 jewellworld.com
 jewelryseeds.com
 jexus.org
-jexzh.com
 jeyi.com
 jf.10010.com
 jf.ccb.com
@@ -49666,6 +49657,7 @@ jjygym.com
 jjyl12349.com
 jjyx.com
 jjyy.me
+jjz666.cn
 jjzdm.com
 jjzfgjj.com
 jjzl800.com
@@ -50297,6 +50289,7 @@ js74.yqjxzw.com
 js7xc.com
 js8.in
 js811.com
+js883.hnfpgm.com
 js96008.com
 js99cf.com
 jsadsdisplay.cn-beijing.log.aliyuncs.com
@@ -52302,7 +52295,6 @@ knewhy.com
 knewone.com
 knewsmart.com
 knicks.jd.com
-knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
 knotesapp.com
@@ -53873,6 +53865,7 @@ learning.snssdk.com
 learning.snssdk.com.w.cdngslb.com
 learning.u.wpscdn.cn
 learnku.com
+learnnode.gitee.io
 learsun.com
 leb-china.com
 lebang.com
@@ -56090,7 +56083,6 @@ lovev.com
 lovewith.me
 lovewj.info
 lovewusun.com
-loveyisheng.com
 lovezhangjunning.com
 lovezhuoyou.com
 lovfp.com
@@ -56265,7 +56257,6 @@ ltnic.com
 ltp-cloud.com
 ltp.ai
 ltplayer.com
-ltsbsy.qq.com
 ltscsy.qq.com
 ltsf.com
 ltssjy.qq.com
@@ -57000,7 +56991,6 @@ m.jdcdn.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
-m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -57829,7 +57819,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -58598,7 +58587,6 @@ meiyinji.vip
 meiyixia.com
 meiyixinrui.com
 meiyou.com
-meiyu7.com
 meiyue.com
 meiyuxiuxiu.com
 meizhanggui.cc
@@ -58850,7 +58838,6 @@ mg3721.com
 mg67.com
 mgame-sv.netease.com
 mgame.sohu.com
-mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
 mgbsdk.matrix.netease.com
@@ -60659,6 +60646,7 @@ mtkdy.com
 mtketang.com
 mtksj.com
 mtktk.com
+mtl.xtpxw.com
 mtm.mo
 mtmos.com
 mtmss.com
@@ -62075,7 +62063,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexmoe.com
 nexon.to
 next-union.com
@@ -64595,7 +64582,6 @@ p2.itc.cn
 p2.lefile.cn
 p2.lefile.cn.wscdns.com
 p2.music.126.net
-p2.pstatp.com
 p2.pstatp.com.w.kunlungr.com
 p2.qhimg.com
 p2.ssl.qhimg.com
@@ -64817,7 +64803,6 @@ p6.95558000.com
 p6.douyinpic.com
 p6.itc.cn
 p6.music.126.net
-p6.pstatp.com
 p6.qhimg.com
 p6.toutiaoimg.com
 p69-caldav.icloud.com.cn
@@ -66464,6 +66449,7 @@ pl.cp31.ott.cibntv.net
 pl.taptap.com
 pl.uwenku.com
 pl.youku.com
+pl520.com
 pl8la42.cn
 plaidc.com
 plalzhang.com
@@ -68248,7 +68234,6 @@ qccip.com
 qccost.com
 qccr.com
 qccrm.com
-qcdrp.com
 qcds.com
 qcenglish.com
 qcgcj.com
@@ -68977,7 +68962,6 @@ qilongtan.com
 qiluhospital.com
 qiluhua.com
 qiluivf.com
-qilungroup.cn
 qiluyidian.mobi
 qiluyidian.net
 qima-inc.com
@@ -71180,6 +71164,7 @@ re.m.jd.com
 re.m.jd.com.gslb.qianxun.com
 re.m.taobao.com
 re.taobao.com
+re.taotaosou.com
 re53f7dj.v1d.szbdyd.com
 reachace.com
 reachjunction.com
@@ -94802,6 +94787,7 @@ xtlkgc.com
 xtlog.com
 xtmtrj.com
 xtongs.com
+xtpxw.com
 xtrc.net
 xtruh.uranus.sogou.com
 xtseo.com
@@ -106503,6 +106489,7 @@ zzz4.com
 zzzdm.com
 zzzhisou.com
 zzzj.com
+zzzkxx.com
 zzzla.com
 zzzsxx.com
 zzzyb.com
