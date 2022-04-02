@@ -4184,6 +4184,7 @@ angola.org
 angulardart.org
 angularjs.org
 anhqv.es
+anidb.net
 anidom.com
 anime-sharing.com
 animecrazy.net
@@ -4848,6 +4849,7 @@ asproexapi.com
 asredas.com
 assembla.com
 assets.bwbx.io
+assets.fanart.tv
 assets.fastgit.org
 assets.gitlab-static.net
 assetsadobe.com
@@ -5375,7 +5377,6 @@ baidu.masonic-lodge.ca
 baidu.swmbudokan.com
 baiduyun.me
 baidyanath.net.in
-baifayule.com
 baige-vpn.com
 baihua.org
 baijie.org
@@ -13336,6 +13337,7 @@ famousfootwear.com
 famunion.com
 fan-qiang.com
 fanarchive.campfirenow.com
+fanart.tv
 fanatical.com
 fanbox.cc
 fancy7.com
