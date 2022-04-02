@@ -63,6 +63,9 @@
 (@&!)share.acgnx.se
 (@&!)www.acgnx.se
 
+# AniDB
+(@&!)anidb.net
+
 # AniX.Moe
 (@&!)www.anix.moe
 
@@ -115,6 +118,10 @@
 
 # 抖音 #10
 (@%!)douyincdn.com
+
+# fanart.tv
+(@&!)assets.fanart.tv
+(@&!)fanart.tv
 
 # FastGit
 (@&!)archive.fastgit.org
