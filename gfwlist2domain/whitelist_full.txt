@@ -6703,6 +6703,7 @@
 5kcrm.net
 5kda.com
 5khouse.com
+5kmm.top
 5kupky.tdum.alibaba.com
 5lanren.com
 5lbw.com
@@ -10742,6 +10743,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -13503,7 +13505,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -13583,7 +13584,6 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
-api.node1.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -13989,7 +13989,6 @@ appbyme.com
 appbz.info
 appc.baidu.com
 appc1.com
-appccc.com
 appcdn.wapx.cn
 appchannel.html5.qq.com
 appchina.com
@@ -14844,6 +14843,7 @@ autoshanghai.org
 autosmt.net
 autospaceplus.com
 autosup.com
+autoupdate.tantanapp.com
 autoupdate7.synology.cn
 autozw.com
 autumnleaf.ltd
@@ -17832,7 +17832,6 @@ blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
-blackhole.m.jd.com.gslb.qianxun.com
 blackmailedslave.com
 blackshark.com
 blackshow.me
@@ -19943,6 +19942,7 @@ ccbfund.com
 ccbfutures.com
 ccbiji.com
 ccbintl.com.hk
+ccbiotech.co
 ccbleasing.com
 ccbookfair.com
 ccbpension.com
@@ -20224,7 +20224,6 @@ cczq.com
 cczq.net
 ccztv.com
 cd-ct.com
-cd-ctfs.ftn.qq.com
 cd-cxh.com
 cd-kc.com
 cd-vv.com
@@ -26067,7 +26066,6 @@ cug2313.com
 cugbonline.cn
 cugstore.com
 cugxuan.cn
-cuhzsx.xyz
 cui.m.1688.com
 cuiapi.lenovo.com.cn
 cuiauth.lenovo.com.cn
@@ -27859,6 +27857,7 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -29168,6 +29167,7 @@ djzhx.com
 djzr88.com
 dk21sebn.v1d.szbdyd.com
 dk21teaa.v1d.szbdyd.com
+dk2323dk.xyz
 dk23w9x5.v1d.szbdyd.com
 dk23wj5h.v1d.szbdyd.com
 dk93f2cb.v1d.szbdyd.com
@@ -30486,6 +30486,7 @@ dss2.baidu.com
 dss2.bdstatic.com
 dss3.baidu.com
 dss3.bdstatic.com
+dssh.shop
 dssz.com
 dstfsbc.com
 dsti.net
@@ -31064,6 +31065,7 @@ duxw.xiaowenweb.com.cname2238.yjs-cdn.com
 duyandb.com
 duyao001.com
 duyidu.com
+duyidu.net
 duyixing.com
 duyixpy.top
 duzelong.com
@@ -32534,7 +32536,6 @@ eickaopei.com
 eicodesign.com
 eicp.net
 eid.jd.com
-eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
 eidv2.jd.com
@@ -37074,7 +37075,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -41717,6 +41717,7 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -44944,7 +44945,6 @@ ido-love.com
 ido114.com
 ido512.com
 idoacg.com
-idoall.org
 idocbank.com
 idocv.com
 idoh.v.trpcdn.net
@@ -45051,6 +45051,7 @@ ieltschn.com
 iemblog.com
 ienjoys.com
 ienjoys.mobi
+ienkdaccessible.cn
 ienkdaged.cn
 ierhou.com
 iermu.com
@@ -46486,7 +46487,6 @@ in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
 in.vipliangmei.com
-in.wxebgpj.cn
 in001.com
 in1.feed.uu.cc
 in1.secure.uu.cc
@@ -52227,6 +52227,7 @@ kmlcl.com
 kmlhh.com
 kmmama.com
 kmplayercn.com
+kmpxq.cn
 kmtarena.net
 kmuldoky.p23.tc.cdntip.com
 kmw.com
@@ -52248,6 +52249,7 @@ knewbi.com
 knewhy.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -57771,6 +57773,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -58879,6 +58882,7 @@ mhuodong.elong.com
 mhv2.net
 mhwck.com
 mhwmm.com
+mhwozc.cn
 mhwsw.com
 mhwy2.com
 mhxin.com
@@ -60411,6 +60415,7 @@ ms.actingidekex.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.ienkdaccessible.cn
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -60422,6 +60427,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -66627,6 +66633,7 @@ pokemmc.com
 pokemon-unitepgame.com
 pokemon.name
 pokermate.net
+pokeryun.site
 poketec.com
 pokooo.com
 polaris-vc.com
@@ -70784,6 +70791,7 @@ r.dmp.sina.com.cn
 r.img.cctvpic.com
 r.inews.qq.com
 r.l.youku.com
+r.m.duyidu.net
 r.mail.163.com
 r.photo.store.qq.com
 r.ppdai.com
@@ -72243,6 +72251,7 @@ runcmd.com
 runcome.com
 runde666.net
 rundejy.com
+rundenongye.com
 rundongex.com
 runexception.com
 runfox.com
@@ -72491,7 +72500,6 @@ s.w.bilicdn1.com
 s.wapadv.com
 s.webp2p.letv.com
 s.weibo.com
-s.wxebgpj.cn
 s.xiaolianhb.com
 s.xiaolianhb.com.w.kunlungr.com
 s.xinghao89.com
@@ -73143,6 +73151,7 @@ sc.appvipshop.com
 sc.appvipshop.com.vipgslb.com
 sc.chinaz.com
 sc.csai.cn
+sc.dssh.shop
 sc.gg
 sc.gsxt.gov.cn
 sc.hnsyjaeger.site
@@ -87075,6 +87084,7 @@ wan95.com
 wanbang365.com
 wanbaoju.com
 wancai.com
+wancai.shop
 wancaibb.com
 wancaiinfo.com
 wancaomei.com
@@ -102487,6 +102497,7 @@ yupu.com
 yuqianshu.com
 yuqiaolong.com
 yuqinge.com
+yuquad.com
 yuquanhosp.com
 yuque.com
 yureen.com
@@ -103636,6 +103647,7 @@ zgycsc.com
 zgyeda.com
 zgyey.com
 zgygsy.com
+zgyhw.mobi
 zgyhys.org
 zgyingtong.com
 zgyinpin.com
