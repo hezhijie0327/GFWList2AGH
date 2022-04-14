@@ -2965,7 +2965,6 @@
 99135.com
 9918811.com
 9938153.com
-9949469.com
 9960.com
 9960cp1.com
 9960xl.com
@@ -6383,6 +6382,7 @@ biz.st
 biz.tm
 bizhat.com
 bizimama.com
+bizographics.com
 bizppurio.com
 biztech.ro
 bizzapp.com
@@ -10626,6 +10626,7 @@ dbmws10dbd2dl.cloudfront.net
 dbo15s62lcu1q.cloudfront.net
 dbr.ee
 dbw9999.com
+dc-msedge.net
 dc0031.com
 dc0062.com
 dc0063.com
@@ -11941,6 +11942,7 @@ e.spagettitoast.com
 e.spee.pro
 e.t28.net
 e.tv100.us
+e122475.dscg.akamaiedge.net
 e123.hk
 e127f.azurewebsites.net
 e19.entrychat.com
@@ -15919,6 +15921,7 @@ gpstheseries.com
 gputechconf.com
 gqfx.com
 gqueues.com
+gr-assets.com
 gr.jp
 gr8domain.biz
 gr8name.biz
@@ -19972,6 +19975,9 @@ kzeng.info
 kznbadminton.co.za
 kzqzb.com
 kzsxy.org
+l-0005.dc-msedge.net
+l-0005.l-msedge.net
+l-msedge.net
 la-conjugaison.fr
 la-forum.org
 la4065.com
@@ -20453,6 +20459,7 @@ libredns.gr
 libreswan.org
 librox.co.za
 libsyn.com
+licdn.cn.cdn20.com
 licdn.com
 license.uat.widevine.com
 licensebuttons.net
@@ -20550,6 +20557,7 @@ link.theplatform.com
 link2know.co
 linkbucks.com
 linkedin.com
+linkedin.sc.omtrdc.net
 linkideo.com
 linkmetube.com
 links.nutaku.net
@@ -27644,6 +27652,7 @@ scanbc.com
 scasino.com
 sccycles.cl
 scdn.co
+scene7.com
 scenesource.me
 sceper.ws
 scgpbl.cn
