@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.3
+# Current Version: 1.2.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -113,10 +113,24 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
+                # "https://dns.alidns.com:443/dns-query"
+                # "https://dns.ipv6dns.com:443/dns-query"
+                # "https://doh.360.cn:443/dns-query"
                 "https://doh.pub:443/dns-query"
+                # "tls://dns.alidns.com:853"
+                # "tls://dns.ipv6dns.com:853"
+                # "tls://dot.360.cn:853"
+                # "tls://dot.pub:853"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
+                # "https://dns.google:443/dns-query"
+                "https://dns.opendns.com:443/dns-query"
+                # "https://dns11.quad9.net:443/dns-query"
+                # "https://dns64.google:443/dns-query"
+                # "tls://dns.google:853"
+                # "tls://dns.opendns.com:853"
+                # "tls://dns11.quad9.net:853"
+                # "tls://dns64.google:853"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
