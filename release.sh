@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.4
+# Current Version: 1.2.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -126,11 +126,11 @@ function GenerateRules() {
                 # "https://dns.google:443/dns-query"
                 "https://dns.opendns.com:443/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
-                # "https://dns64.google:443/dns-query"
+                # "https://dns64.dns.google:443/dns-query"
                 # "tls://dns.google:853"
                 # "tls://dns.opendns.com:853"
                 # "tls://dns11.quad9.net:853"
-                # "tls://dns64.google:853"
+                # "tls://dns64.dns.google:853"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
