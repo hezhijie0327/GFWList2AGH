@@ -7893,6 +7893,7 @@ codeburst.io
 codecademy.com
 codecampo.com
 codefarmer.cf
+codeforaliving.io
 codeger.com
 codeguru.com
 codei.sh
@@ -12152,6 +12153,7 @@ fun678.com
 fun702.com
 fun712.com
 fun737.com
+fun767.com
 fun7733.com
 fun78.com
 fun780.com
@@ -12513,7 +12515,6 @@ german-webproxy.de
 germandeli.com
 germany-webproxy.de
 gerritcodereview.com
-gesgxsj.com
 gesundteam.se
 get-a-fuck-tonight.com
 get-express-vpn.com
@@ -22849,7 +22850,6 @@ rocketfishproducts.com
 rockethub.com
 rocketreading123.com
 rocketvpn.net
-rockpays.com
 rocksdb.com
 rocksdb.net
 rocksdb.org
@@ -24451,9 +24451,11 @@ stackauth.com
 stackexchange.com
 stackmod.blog
 stackoverflow.blog
+stackoverflow.co
 stackoverflow.com
 stackoverflow.email
 stackoverflowbusiness.com
+stackoverflowcareers.com
 stackpath.com
 stackpath.dev
 stackpathcdn.com
