@@ -14222,6 +14222,7 @@ howstrange.me
 howtoforge.com
 howtohackfacebook-account.com
 hoxx.com
+hoyo.link
 hoyolab.com
 hoyoverse.com
 hp-imagine.com
@@ -20473,6 +20474,7 @@ openmine.cl
 openobservatory.org
 opensea.io
 opensource.google
+opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
 openssl.org
