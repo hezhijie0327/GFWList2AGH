@@ -108,6 +108,15 @@
 (@%!)cn.bing.net
 (@%!)www.bing.com
 
+# Cloudflare
+(@&!)1dot1dot1dot1.cloudflare-dns.com
+(@&!)cloudflare-dns.com
+(@&!)dash.cloudflare.com
+(@&!)dns.cloudflare.com
+
+# Cloudflare Workers
+(@&!)workers.dev
+
 # DNSPod
 (@%!)dns.pub
 (@%!)doh.pub
@@ -153,6 +162,7 @@
 (@&!)miro.com
 
 # OpenDNS
+(@&!)dns.opendns.com
 (@&!)doh.opendns.com
 
 # ServiceNow
