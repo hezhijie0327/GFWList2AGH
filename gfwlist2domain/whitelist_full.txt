@@ -2410,7 +2410,6 @@
 1919game.net
 192ly.com
 1931.com
-1931354.sched.sinastatic-dk.tdnsv5.com
 1937cn.com
 193839.com
 193sa.com
@@ -2813,7 +2812,6 @@
 210z.com
 211-95-34-3.ksyungslb.com
 211-95-34-4.ksyungslb.com
-211-95-34-5.ksyungslb.com
 2115.com
 211600.com
 211ic.com
@@ -5371,7 +5369,6 @@
 51hostonline.com
 51hsw.com
 51huanhuan.com
-51huaxin.net
 51huaya.com
 51hunningtu.com
 51hvac.com
@@ -6080,7 +6077,6 @@
 53471.com
 535300.net
 53531dcg.com
-535o.com
 5360jx.com
 53617686.com
 5365253.b2b.jinanfa.cn
@@ -6097,6 +6093,7 @@
 53chewu.com
 53dns.org
 53e55n.tdum.alibaba.com
+53gem.com
 53info.com
 53iq.com
 53kf.com
@@ -7276,7 +7273,6 @@
 6plat.org
 6pmcn.com
 6puppy.xyz
-6qbjsp1.cachenode.cn
 6qjl2kwl.sched.s2-dk.tdnsv5.com
 6ql3nk.tdum.alibaba.com
 6renyou.com
@@ -8664,6 +8660,7 @@
 8liuxing.com
 8lk.com
 8llp.com
+8mfty.com
 8mhh.com
 8miu.com
 8miu.net
@@ -9154,7 +9151,6 @@
 941e9c0e0514a91a97a6994deadcdc20.safeframe.googlesyndication.com
 941jy.com
 941mg.com
-941ziyuan.cn
 942ss.com
 944.com
 94445.com
@@ -14076,7 +14072,6 @@ apps5.oingo.com
 appsad.cn
 appsale.58.com
 appscan.io
-appsdk.tanv.com
 appsdt.com
 appsec-mobile.meituan.com
 appsec.hicloud.com
@@ -15259,7 +15254,6 @@ background.cowtransfer.com
 backstage-img-ssl.a.88cdn.com
 backup.hdslb.com
 backup.hdslb.com.w.alikunlun.com
-backzero.com
 bacocis.com
 bacs.51job.com
 bad1.51gxqm.com
@@ -17743,7 +17737,6 @@ blackdir.com
 blackdragon.com
 blackeep.com
 blackh4t.org
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -21270,6 +21263,7 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -21587,7 +21581,6 @@ child.youku.com
 childjia.com
 childlib.org
 chillyroom.com
-chilouhua.com
 chilunyc.com
 chiluyingxiao.com
 chimatong.com
@@ -22998,7 +22991,6 @@ cksvbgda.v1d.szbdyd.com
 cksvbgdd.v1d.szbdyd.com
 cksvbgql.v1d.szbdyd.com
 ckuai.com
-ckvfor2.cachenode.cn
 ckxsw.com
 ckxx.net
 ckzhijiaedu.com
@@ -27704,7 +27696,6 @@ dd373.com
 dd3d.xyz
 dd4.com
 dd6300.fun
-dd66778899.com
 dd713.bj.bcebos.com
 dd7474a61d209bac3e80f1d6d5a5b023.safeframe.googlesyndication.com
 dd8828.com
@@ -32220,7 +32211,6 @@ ee-skin.com
 ee-vip.net
 ee.0pi84.cn
 ee.1s8pj.cn
-ee.j5s9b.cn
 ee.u4q2.cn
 ee.xr883.cn
 ee.zn8ni.cn
@@ -34646,6 +34636,7 @@ fhthkz.cn
 fhtj.com
 fhtlw.com
 fhtre.com
+fhtzvip.com
 fhwlgs.com
 fhycs.com
 fhyx.com
@@ -37948,7 +37939,6 @@ goulong.com
 goumee.com
 goumin.com
 gounahaozi.org
-goupskins.com
 goupuzi.com
 goushh.com
 gouso.com
@@ -38343,7 +38333,6 @@ gtcim.com
 gtd.alicdn.com
 gtdlife.com
 gtdstudy.com
-gteg5d3.cachenode.cn
 gter.net
 gtfund.com
 gtgres.com
@@ -54115,7 +54104,6 @@ lgstatic.com
 lgtianma.cn
 lguohe.com
 lgwf1.shiep.edu.cn
-lgzikao.com
 lh-lx.com
 lh.kehuduan.2345.com
 lh168.net
@@ -57165,7 +57153,6 @@ magicwatchface.com
 magicwindow.cn
 magicwinmail.com
 magicyourlife101.com
-magiphone.cn
 magnet.rayjump.com
 magook.com
 magsci.org
@@ -58793,6 +58780,7 @@ micaiying.com
 micardapi.micloud.xiaomi.net
 micblo.com
 michael-j.net
+michael31lin.com
 michaelapp.com
 micheal.wang
 michelam.com
@@ -61072,7 +61060,10 @@ n.vlion.cn
 n.yfi8.com
 n.yunshipei.com
 n0.sinaimg.cn
+n0233.com
+n0399.com
 n0404.com
+n0488.com
 n0808.com
 n0egpr2.cachenode.cn
 n0f856rf.p23.tc.cdntip.com
@@ -61508,7 +61499,6 @@ neijiang.baixing.com
 neimengguyongli.com
 neirong.funshion.com
 neitui.com
-neitui.me
 neituixiaowangzi.com
 neixin.cn
 nejmqianyan.cn
@@ -61934,7 +61924,6 @@ nhzedu.com
 nhzj.com
 nhzs.com
 nhzy.org
-ni4r5f3.cachenode.cn
 ni8.com
 nianbao.tianyancha.com
 nianbin.com
@@ -62972,7 +62961,6 @@ ocsp.globalsign.com
 ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
-ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp2.globalsign.com
@@ -65522,6 +65510,7 @@ pgdt.ugdtimg.com
 pgdt.ugdtimg.com.sched.legopic2-dk.tdnsv6.com
 pgdt.ugdtimg.com.sched.ssdv3-dk.tdnsv6.com
 pgdt.ugdtimg.com.sched.ssdv6.tdnsv6.com
+pgeuxfs.cn
 pgfbtjiy.cn
 pgjcqm.com
 pgl-world.com
@@ -65582,7 +65571,6 @@ phonegap100.com
 phonekr.com
 phopic.com
 phormchina.com
-photo.941ziyuan.cn
 photo.backerbiotech.cn
 photo.chaoxing.com
 photo.codefat.cn
@@ -70476,6 +70464,7 @@ qyi.io
 qyiliao.com
 qyjnxh.com
 qyjpzx.com
+qyjzleh.cn
 qykh2009.com
 qyle1.com
 qyled.xyz
@@ -74294,7 +74283,6 @@ shangye.lianjia.com
 shangyejihua.com
 shangyekj.com
 shangyeluoji.com
-shangyexin.com
 shangyexinzhi.com
 shangyingwm.com
 shangyouze.com
@@ -79077,6 +79065,7 @@ szaisino.com
 szaiten.com
 szande.com
 szaodis.com
+szasm8.com
 szaudio.com
 szbbs.org
 szbcase.com
@@ -83526,6 +83515,7 @@ u.yy.com
 u.zhugeapi.net
 u0.iqiyipic.com
 u005.com
+u0056.com
 u0072.com
 u01-ml.gslb.ksyuncdn.com
 u01.gslb.ksyuncdn.com
