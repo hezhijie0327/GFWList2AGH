@@ -155,7 +155,7 @@
 (@%!)it-global.cn
 
 # jsDelivr
-(@%!)cdn.jsdelivr.net
+(@&!)cdn.jsdelivr.net
 (@&!)jsdelivr.net
 
 # Miro
