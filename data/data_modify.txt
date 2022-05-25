@@ -63,6 +63,9 @@
 (@&!)share.acgnx.se
 (@&!)www.acgnx.se
 
+# AniDB
+(@&!)anidb.net
+
 # AniX.Moe
 (@&!)www.anix.moe
 
@@ -105,6 +108,15 @@
 (@%!)cn.bing.net
 (@%!)www.bing.com
 
+# Cloudflare
+(@&!)1dot1dot1dot1.cloudflare-dns.com
+(@&!)cloudflare-dns.com
+(@&!)dash.cloudflare.com
+(@&!)dns.cloudflare.com
+
+# Cloudflare Workers
+(@&!)workers.dev
+
 # DNSPod
 (@%!)dns.pub
 (@%!)doh.pub
@@ -115,6 +127,10 @@
 
 # 抖音 #10
 (@%!)douyincdn.com
+
+# fanart.tv
+(@&!)assets.fanart.tv
+(@&!)fanart.tv
 
 # FastGit
 (@&!)archive.fastgit.org
@@ -146,6 +162,7 @@
 (@&!)miro.com
 
 # OpenDNS
+(@&!)dns.opendns.com
 (@&!)doh.opendns.com
 
 # ServiceNow

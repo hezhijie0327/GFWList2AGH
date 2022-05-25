@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.3
+# Current Version: 1.2.5
 
 # forked from https://github.com/hezhijie0327/GFWList2AGH
 ## How to get and use?
