@@ -2067,7 +2067,6 @@
 1mxian.com
 1n11.com
 1nami.com
-1news.cc
 1nmob.com
 1nongjing.com
 1nsou.com
@@ -5646,6 +5645,7 @@
 60mil.com
 60nm.com
 60tui.com
+60wr.com
 61.com
 610115.com
 610213.net
@@ -6051,7 +6051,6 @@
 706kj.com
 7080edu.com
 7082.com
-708990.com
 70950.com
 70dh.com
 70dir.com
@@ -6271,7 +6270,9 @@
 77ebooks.com
 77hei.com
 77l.com
+77mh.app
 77mh.com
+77mh.in
 77music.com
 77mv.com
 77nt.com
@@ -9700,7 +9701,6 @@ aoaob.com
 aoapp.com
 aobacore.com
 aobaishi.com
-aobo62.com
 aobosoft.com
 aoc.com
 aocde.com
@@ -21677,7 +21677,6 @@ dygang.com
 dygang.net
 dygangs.com
 dygf.com
-dygod.com
 dygod.org
 dyhhy.cc
 dyhjw.com
@@ -26746,6 +26745,7 @@ gqm168.com
 gqooh.com
 gqqsm.com
 gqsoso.com
+gqsou.com
 gqt168.com
 gqtpw.com
 gqyy8.com
@@ -31686,6 +31686,7 @@ ib-china.com
 ib07.com
 ibaba88.com
 ibadboy.net
+ibaiji.org
 ibailve.com
 ibaizhu.com
 ibanbu.com
@@ -37458,6 +37459,8 @@ knotesapp.com
 know88.com
 knowgive.com
 knowhow-china.com
+knowingclouds.com
+knowingcloudvip.com
 knowncoin.com
 knownpcb.com
 knownsec.com
@@ -38880,6 +38883,7 @@ lemonyd.com
 lemonyule.com
 lemote.com
 lempstack.com
+lengcat.com
 lenget.com
 lenggirl.com
 lengqing.org
@@ -44803,7 +44807,6 @@ njzztyl.com
 nk84.com
 nkp969.com
 nkscdn.com
-nktaba.com
 nktxv.com
 nky556.com
 nkyp.com
@@ -47430,6 +47433,7 @@ ppxclub.com
 ppxhw.com
 ppxs.net
 ppxwo.com
+ppym.xyz
 ppys.net
 ppys5.com
 ppzhan.com
@@ -53692,6 +53696,7 @@ someet.cc
 someibo.com
 somepen.com
 something8.com
+sometracking.com
 somic.cc
 somo.so
 somode.com
@@ -54249,7 +54254,6 @@ stcash.com
 stcmcu.com
 stcmcudata.com
 stcn.com
-stcpsm.com
 stcv66.com
 stdaily.com
 stdard.com
@@ -55406,6 +55410,7 @@ tabrays.com
 tabuzhe.com
 tachangxing.com
 taclsc.org
+tactan.net
 tadiao168.com
 tadseeker.com
 tadu.com
@@ -56468,7 +56473,6 @@ tianqihoubao.com
 tianqijun.com
 tianqikb.com
 tianqistatic.com
-tianqiwang.org
 tianrow.com
 tianruixinxi.com
 tianruiyun.com
@@ -56688,6 +56692,7 @@ tingsec.link
 tingshubao.com
 tingshuge.com
 tingtao.net
+tingxiangzu.com
 tingyulou.com
 tingyun.com
 tingyusw.xyz
@@ -58368,6 +58373,7 @@ ucjoy.com
 uckendo.com
 ucloud.cn
 ucloudgda.com
+ucloudnaming.info
 uclouds3.com
 ucly.net
 ucnaming.info
@@ -59472,6 +59478,7 @@ vipshop.com
 vipshopyao.com
 vipsinaapp.com
 vipsmt.com
+vipsrc.com
 vipstatic.com
 vipstore.com
 viptail.com
@@ -59900,6 +59907,7 @@ w1821.com
 w1831.com
 w1989.com
 w20.net
+w2008.store
 w218.com
 w2bc.com
 w2fzu.com
@@ -66308,7 +66316,6 @@ ybs120.com
 ybscjp.com
 ybtong.com
 ybtvyun.com
-ybtzjt.com
 ybvipdns.com
 ybvv.com
 ybword.com
@@ -69997,6 +70004,7 @@ zhangjunbk.com
 zhangkai.red
 zhangle.com
 zhangli2015.com
+zhanglijie.work
 zhangliziyun.com
 zhangluya.com
 zhanglvtong.com
@@ -71770,6 +71778,7 @@ zppk.net
 zppop.com
 zppxba.com
 zptong.com
+zptq.com
 zpwansf.cn
 zpxw.vip
 zpzyb.com
