@@ -6406,6 +6406,7 @@
 7ka.co
 7kk.com
 7kla.com
+7ko.com
 7kww.net
 7kxs.com
 7kzw.com
@@ -6857,7 +6858,6 @@
 88eq.com
 88fenxiao.com
 88h3.com
-88hd.tv
 88hom.com
 88ht.com
 88htu.com
@@ -9833,6 +9833,7 @@ apmvista.com
 apnenggong.com
 apnring.com
 apollo.auto
+apollocode.net
 apollotop.com
 apous.com
 apowo.com
@@ -14429,6 +14430,7 @@ cdnhwc3.com
 cdnhwc6.com
 cdnhwchcg02.com
 cdni.net
+cdnidc.net
 cdnimg.org
 cdnjm.cn
 cdnjsp.wang
@@ -36923,6 +36925,7 @@ kejian.design
 kejianyi.com
 kejietextile.com
 kejihai.com
+kejihub.com
 kejijie.net
 kejik.com
 kejilie.com
@@ -39040,6 +39043,7 @@ lgctshanghai.com
 lgdisplayproduct.com
 lgexam.com
 lghsrh.com
+lgimg.com
 lgmjg.com
 lgo100.com
 lgoing.com
@@ -45019,7 +45023,6 @@ nss.im
 nssd.org
 nsshare.com
 nsstream.com
-nstom.net
 nstooll.com
 nsw88.com
 nsw99.com
@@ -45234,7 +45237,6 @@ oa5588.com
 oa8000.com
 oabg.net
 oabus.net
-oacn.org
 oact.net
 oadz.com
 oahelp.com
@@ -48421,6 +48423,7 @@ qingting123.com
 qingtingfm.com
 qingtingip.com
 qingtingtrip.com
+qingtuan.tech
 qinguanjia.com
 qingwawa.com
 qingwk.com
@@ -57023,7 +57026,6 @@ tongxianghuicn.com
 tongxiehui.net
 tongxin.com
 tongxin.org
-tongxinclub.com
 tongxinghui.com
 tongxinky.com
 tongxinmao.com
@@ -58991,6 +58993,7 @@ uyou.com
 uyouqu.com
 uyshipin.com
 uyueread.com
+uyun-cdn.com
 uyunad.com
 uyunbaby.com
 uyuyao.com
@@ -67884,6 +67887,8 @@ youpinx.com
 youpinyizu.com
 youpinzhekou.com
 youpukeji.cn
+youpumao.com
+youpumao.ink
 youqichuyun.com
 youqing8.com
 youqinggong.com
@@ -68334,7 +68339,6 @@ yuaniis.com
 yuanjie.org
 yuanjisong.com
 yuanjoy.com
-yuanjubieshu.com
 yuanlai.com
 yuanlian365.com
 yuanliao.info
