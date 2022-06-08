@@ -26,7 +26,6 @@
 001pp.com
 001tech.com
 001town.com
-00290777.com
 002lzj.com
 0033.com
 0037wan.com
@@ -3452,6 +3451,7 @@
 2shoujie.com
 2shu8.cc
 2sitebbs.com
+2smoto.com
 2smtc.com
 2sx.net
 2te.com
@@ -5794,7 +5794,6 @@
 52article.com
 52as.com
 52asus.com
-52asy.xyz
 52audio.com
 52ayw.com
 52bar.com
@@ -10772,6 +10771,7 @@ adeline.cc
 aden.baidu.com
 adeng.hpplay.cn
 adesk.com
+adexplain.com
 adexpo.tencentmusic.com
 adextra.51wnl-cq.com
 adf.dahe.cn
@@ -11503,7 +11503,6 @@ aibooks.cc
 aibosha.com
 aicai.com
 aicaicdn.com
-aicaike.com
 aicdn.com
 aicdn4.com
 aicdn5.com
@@ -14011,6 +14010,7 @@ appshike.com
 appsign-in.dmall.com
 appsimg.com
 appsina.com
+appso.com
 appso.yingjiesheng.com
 appsoc.yingjiesheng.com
 appstochina.com
@@ -28810,6 +28810,7 @@ ditan360.com
 ditan369.com
 dithub.com
 ditian-tech.com
+ditiefuli.com
 ditietu.com
 ditiezu.com
 ditiezu.net
@@ -32745,7 +32746,6 @@ epinga.com
 epinv.com
 epjike.com
 epjob88.com
-epjyw.com
 epkey.com
 epkrt1bk.sched.s2-dk.tdnsv5.com
 eplove.com
@@ -37005,6 +37005,7 @@ ggv.cmvideo.cn
 ggw.gusuwang.com
 ggw.watertu.com
 ggwan.com
+ggwan.net
 ggweb.net
 ggx.cmvideo.cn
 ggx01.miguvideo.com
@@ -37094,7 +37095,6 @@ gif5.net
 gifcool.com
 giffox.com
 gifhome.com
-gifms.com
 gifshow-vod-gd.b0.aicdn.com
 gifshow.b0.aicdn.com
 gifshow.com
@@ -42080,7 +42080,6 @@ hostelxian.com
 hostker.com
 hostkvm.com
 hostloc.com
-hostmsu.ru
 hostproph.com
 hostxen.com
 hostyun.com
@@ -43397,7 +43396,6 @@ huzhongxin.com
 huzhou.baixing.com
 huzhoumuseum.com
 huzicaotang.com
-huzs.net
 huzu.com
 hv.code.tanwanyx.com
 hvac001.com
@@ -46852,7 +46850,6 @@ ipv6-aserver-heyi.m.taobao.com.gds.alibabadns.com
 ipv6-img.dns.iqiyi.com
 ipv6-mobilelivephoto.bs2dl.yy.com
 ipv6-static.dns.iqiyi.com
-ipv6.la
 ipv6.ustc.edu.cn
 ipv6chong.qq.com
 ipv6dns.com
@@ -49940,7 +49937,6 @@ jsche.net
 jschengta.com
 jschunxing.com
 jscj.com
-jsckjqr.com
 jsclearing.com
 jscm.a.etoote.com
 jscmjt.com
@@ -57476,7 +57472,6 @@ marketing.alibaba.com
 marketing.etouch.cn
 marketing.waimai.meituan.com
 marketingapi.hellobike.com
-marketiva-platform.com
 marketreportchina.com
 markhoo.com
 markjour.com
@@ -59372,7 +59367,6 @@ mnbvtgv.com
 mndqlib.net
 mndsoft.com
 mng0303.com
-mng044.com
 mnihyc.com
 mnjj.group
 mnkan.com
@@ -65758,6 +65752,7 @@ pilifx.com
 pim-drcn.cloud.dbankcloud.cn
 pim.baidu.com
 pim.n.shifen.com
+pimaoji.com
 pimei.com
 pimg3.126.net
 pimlog.baidu.com
@@ -67888,6 +67883,7 @@ qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
 qdairlines.com
+qdairport.com
 qdall01.baidupcs.com
 qdbdsk.com
 qdcaijing.com
@@ -70939,7 +70935,6 @@ remaijie.net
 remapcity.com
 remark.dance
 remax-bj.com
-remehealth.com
 rememtek.com
 remen88.com
 remimarsal.gallerycdn.azure.cn
@@ -79444,6 +79439,7 @@ tac.coconut.is
 tac.googleapis.com
 tachangxing.com
 taclsc.org
+tacool.com
 tactan.net
 tactics.bainv.net
 tad.suning.com
@@ -80069,7 +80065,6 @@ tctask.com
 tctd.net
 tctip.com
 tctong.com
-tcxfpc-pcb.com
 tcxw.cc
 tcy365.com
 tcyl.pro
@@ -81062,7 +81057,6 @@ timy.ink
 tinderboxx.com
 tinfinite.com
 ting-tou.com
-ting30.com
 ting55.com
 tingall.com
 tingbook.com
@@ -88457,6 +88451,7 @@ whutech.com
 whutosa.com
 whuwto.com
 whwanshun.com
+whwat.com
 whwater.com
 whwebsite.com
 whweo.com
@@ -93809,6 +93804,7 @@ xlimg.net
 xlinclass.com
 xlisp.net
 xljnjy.com
+xljsci.com
 xlkorganic.com
 xlkty.com
 xllxdg.com
