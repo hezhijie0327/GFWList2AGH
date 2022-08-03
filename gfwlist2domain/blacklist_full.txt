@@ -10031,6 +10031,7 @@ crikey.com.au
 crisisresponse.google
 cristyli.com
 crit-staging.com
+crl.microsoft.com
 crmdynint-gcc.com
 crmdynint.com
 crocoguide.com
@@ -12724,7 +12725,6 @@ ebuyheadphones.com
 ec-media.sndcdn.com
 ec.7788.hk
 ec21.com
-eca.hinet.net
 ecademy.com
 ecaipe.com.ar
 ecapi-pchome.cdn.hinet.net
@@ -16831,7 +16831,6 @@ gtdollar.com
 gtinfo.com.ar
 gtloli.com
 gtloli.net
-gtlsca.nat.gov.tw
 gtricks.com
 gts-vpn.com
 gtv.org
@@ -23815,6 +23814,7 @@ msads.net
 msauth.net
 msb.strikewin.com
 mschallenge2018.com
+mscrl.microsoft.com
 msdn.com
 msecnd.net
 msedge.net
@@ -25494,9 +25494,8 @@ ocregister.com
 ocry.com
 ocsolutions.servehttp.com
 ocsp-certum.com
-ocsp.eca.hinet.net
-ocsp.gtlsca.nat.gov.tw
 ocsp.int-x3.letsencrypt.org
+ocsp.microsoft.com
 octanevpn.com
 octave-online.net
 october-review.org
@@ -25701,6 +25700,7 @@ oneintranet.veolia.com
 onejav.com
 onenote.com
 onenote.net
+oneocsp.microsoft.com
 oneplusnews.com
 onepointcommerce.com
 onesto.re
