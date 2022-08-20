@@ -8379,6 +8379,7 @@ codecademy.com
 codecampo.com
 codefarmer.cf
 codeforaliving.io
+codeforces.com
 codeger.com
 codeguru.com
 codei.sh
@@ -16431,6 +16432,7 @@ inxxtv.com
 inyt.com
 ioe.com
 ioffergift.com
+ioinformatics.org
 ionic.cf
 iop.org
 ios-icloud.com
