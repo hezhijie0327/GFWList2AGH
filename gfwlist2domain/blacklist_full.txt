@@ -3664,6 +3664,7 @@ aetoscg.com
 aevpn.com
 aeweb.xyz
 aex88.com
+af-south-1.myhuaweicloud.com
 af.mil
 afantibbs.com
 afcp01.com
@@ -4533,6 +4534,9 @@ aorus.com
 aosintegrity.com
 aouwe.com
 ap-northeast-1.console.aws.amazon.com
+ap-southeast-1.myhuaweicloud.com
+ap-southeast-2.myhuaweicloud.com
+ap-southeast-3.myhuaweicloud.com
 ap.org
 ap0le.com
 ap2.googleusercontent.com
@@ -13505,6 +13509,7 @@ etvonline.hk
 etwealth.com
 eu-consumer-empowerment.com
 eu-ssa.org
+eu-west-0.myhuaweicloud.com
 eu-west-1.console.aws.amazon.com
 eu.org
 eu49.com
@@ -16014,6 +16019,7 @@ geinoueroch.com
 gekikame.com
 gelbooru.com
 gelbooru.me
+gelbooru.wjcodes.com
 gemfire.net
 gemfury.com
 gen.lib.rus.ec
@@ -17640,7 +17646,9 @@ hentai2012.com
 hentai247.net
 hentai2read.com
 hentai2w.com
+hentai44.com
 hentai4manga.com
+hentai69.online
 hentaiaction.net
 hentaiathome.net
 hentaibar.com
@@ -21224,6 +21232,7 @@ kompoz2.com
 kompozer.net
 konachan.com
 konachan.net
+konachan.wjcodes.com
 kone.com
 koogay.com
 koolsolutions.com
@@ -21397,6 +21406,8 @@ l-0005.l-msedge.net
 l-msedge.net
 la-conjugaison.fr
 la-forum.org
+la-north-2.myhuaweicloud.com
+la-south-2.myhuaweicloud.com
 la4065.com
 lab.gracecode.com
 lab.skk.moe
@@ -24665,6 +24676,7 @@ n8photos.com
 n9887.com
 n9919.com
 na-att-idns.net
+na-mexico-1.myhuaweicloud.com
 na.ddns.name
 na.kalone.net
 na.tl
@@ -25650,6 +25662,7 @@ nsc.gov.tw
 nsdl.co.in
 nsfw.xxx
 nsfwgifs.com
+nsfwmemes.com
 nsimg.net
 nsl-node.ml
 nsnai.com
@@ -26377,6 +26390,7 @@ orxtv.com
 orz.pp.ru
 orzdream.com
 orzistic.org
+orzqwq.com
 osakihsieh.tw
 osapublishing.org
 oscaro.com
@@ -29372,6 +29386,7 @@ rtm.tnt-ea.com
 rts.ch
 rtsinfo.ch
 rtycminnesota.org
+ru-northwest-2.myhuaweicloud.com
 ruanf.com
 ruanyifeng.com
 rubias19.com
@@ -29530,6 +29545,7 @@ s8ds5gfm.xyz
 s8forum.com
 s99bet.com
 s99bet.net
+sa-brazil-1.myhuaweicloud.com
 sa.com
 sa.hao123.com
 sa36.net
@@ -30088,6 +30104,7 @@ sendspace.com
 sendvid.com
 seneporno.com
 seniorexpress.org
+senpaiheat.com
 sensolnet.com
 sensortower.com
 sensorynetworks.com
@@ -35124,6 +35141,7 @@ vipshoes2.com
 vipstudiocali.com
 viptlc6088.com
 vipvpn.hu
+viralcum.com
 viralporn.com
 virbuzz.com
 virginia.edu
@@ -36497,6 +36515,7 @@ wizluv.com
 wizproxy.com
 wjbk.org
 wjbookny.com
+wjcodes.com
 wjlife.com
 wjsnr.com
 wjy002.jigsy.com
