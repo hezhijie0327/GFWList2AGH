@@ -8292,7 +8292,6 @@ cmule.net
 cmule.org
 cmx.im
 cn-proxy.com
-cn.com
 cn1069.org
 cn1lib.org
 cn42.ga
@@ -15276,6 +15275,7 @@ hostei.com
 hostens.com
 hostingbulk.com
 hostingerapp.com
+hostloc.com
 hoststool.net
 hostux.net
 hostzi.com
