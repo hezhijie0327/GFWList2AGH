@@ -19280,7 +19280,6 @@ in-the-band.net
 in.com
 in.flnet.org
 in.gr
-in.th
 in01.icu
 in04.icu
 in05.icu
@@ -20591,8 +20590,12 @@ jm-madeira.pt
 jm607.com
 jma.go.jp
 jmara.net
+jmcomic.me
 jmcomic.mobi
+jmcomic.moe
 jmcomic.xyz
+jmcomic1.city
+jmcomic1.me
 jmcomic1.mobi
 jmlr.org
 jmscult.com
