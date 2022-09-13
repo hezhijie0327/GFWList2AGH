@@ -9493,6 +9493,7 @@ cloudflareok.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
+cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
@@ -29160,6 +29161,7 @@ renzhecloud.com
 repaik.com
 repo.akii.art
 repo.brucezhang.cf
+repo.new
 report4you.com.au
 reporter.bz
 repostone.home.blog
@@ -31635,6 +31637,7 @@ starchu.com
 starcraft.com
 starcraft2.com
 starfares.com
+starfieldtech.com
 starfishfx.com
 starfox.com
 stark-verlag.ch
