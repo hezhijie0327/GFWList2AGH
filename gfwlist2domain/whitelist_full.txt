@@ -11932,6 +11932,7 @@ ali-proxy.pull.yximgs.com.w.alikunlun.net
 ali-safety-video.acfun.cn
 ali-safety-video.acfun.cn.w.alikunlun.com
 ali-safety-video.acfun.cn.w.alikunlun.com.qr.uuhimalayanqm.com
+ali-star.com
 ali-stats.jpush.cn
 ali-xdcmt.static.yximgs.com
 ali.game.yximgs.com
@@ -16991,6 +16992,7 @@ birdbro.com
 birdgesdk.com
 birdol.com
 birdpush.com
+birentech.com
 bisairi.com
 bisenet.com
 bishe1234.com
@@ -18496,6 +18498,7 @@ bxrfund.com
 bxsnews.com
 bxsychina.com
 bxunit.com
+bxv8.com
 bxwst.com
 bxwx.la
 bxwx.tv
@@ -22070,6 +22073,7 @@ chinawuyuan.com
 chinaxiaokang.com
 chinaxinge.com
 chinaxinport.com
+chinaxinye.com
 chinaxpp.com
 chinaxq.com
 chinaxqf.com
@@ -23936,6 +23940,7 @@ cnmeiwei.com
 cnmia.org
 cnmill.com
 cnmineqs.net
+cnmmsc.org
 cnmo.com
 cnmobile.net
 cnmods.net
@@ -24131,6 +24136,7 @@ cnwebe.com
 cnweblog.com
 cnwebshow.com
 cnweilo.com
+cnweisou.com
 cnwen.net
 cnwenshi.net
 cnwest.com
@@ -32527,7 +32533,6 @@ enroobbs.com
 enrz.com
 enscg.com
 enshide.com
-enshifdc.com
 enshijob.com
 ensts.cn
 enstylement.com
@@ -33790,6 +33795,7 @@ fastonetech.com
 fastreportcn.com
 fastsoc.com
 fastsoso.cc
+faststatics.com
 fat999.com
 fatedier.com
 fateskins.com
@@ -41989,6 +41995,7 @@ hortor020.com
 hortorgames.com
 hosizoraworks.org
 hosjjk.com
+hosory.com
 hospital.pku.edu.cn
 hospmall.com
 host666.net
@@ -54356,7 +54363,6 @@ linglong.space
 linglongart.com
 linglonglife.com
 linglongtech.com
-linglu666.com
 lingmovie.com
 lingnanpass.com
 lingocn.com
@@ -54452,6 +54458,7 @@ linkh5.com
 linkh5.xyz
 linkhaitao.com
 linkheer.com
+linkiebuy.com
 linkingme.com
 linkist.net
 linkjg.cn
@@ -55126,6 +55133,7 @@ locationhera.ximalaya.com
 locatran.com
 locez.com
 lockfans.com
+locklauncher.com
 lockscreenimg.com
 lockty.com
 lockview.cn
@@ -59360,6 +59368,7 @@ mobayke.com
 mobayx.com
 mobcastlead.com
 mobcent.com
+mobcloud.mobi
 mobdatas.com
 mobds.pthejzb.com
 mobeehome.com
@@ -61203,7 +61212,6 @@ ncpa-classic.com
 ncpqh.com
 ncpssd.org
 ncq8.com
-ncrica.org
 ncsi.uu.netease.com
 ncss.cn
 ncu.me
@@ -62841,6 +62849,7 @@ ofmonkey.com
 ofo.com
 ofo.so
 ofpay.com
+ofpay365.com
 ofuns.com
 ofweek.com
 ofweek.net
@@ -65041,6 +65050,7 @@ pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com
 pcwenti.com
+pcwgu.com
 pcwl.com
 pcxzo.pluto.sogou.com
 pcyangguangban.com
@@ -68777,6 +68787,7 @@ qiumeiapp.com
 qiumibao.com
 qiumijia.com
 qiuqiuqipai.com
+qiuqiusd.com
 qiuquan.cc
 qiushi.com
 qiushibaike.com
@@ -74628,6 +74639,7 @@ ship56.net
 shipfinder.com
 shipgce.com
 shiphr.com
+shipinzhibojian.com
 ships66.com
 shipsc.org
 shiptux.com
@@ -78784,6 +78796,7 @@ syoogame.com
 syoseo.com
 syoucn.com
 syouhui.com
+syounggroup.com
 syouzyo.org
 sypao.com
 sypole.com
@@ -80662,6 +80675,8 @@ thecode.me
 thecodeway.com
 thedatasys.com
 theduapp.com
+thefastfile.com
+thefastimg.com
 thefatherofsalmon.com
 thefifthera.com
 thegbdc.com
@@ -87615,6 +87630,7 @@ weeyun.com
 wefans.com
 wefiler.com
 wefinger.club
+wefitos.com
 wefunol.com
 wegame.com
 wegame.com.cn
@@ -87695,6 +87711,7 @@ weifengke.com
 weifengou.com
 weifengtang.com
 weifengtianxia.com
+weifenpay.com
 weifrom.com
 weigang.com
 weigongju.org
@@ -92499,7 +92516,6 @@ xiamh.com
 xiami.com
 xiami.fm
 xiami.net
-xiami77.com
 xiamiaopai.com
 xiamoyun.com
 xiamp4.com
@@ -98763,6 +98779,7 @@ xy78.com
 xy980.net
 xyadz.byf.com
 xyb100.com
+xyb2b.com
 xybsyw.com
 xybygw.com
 xycaogen.com
@@ -104209,6 +104226,7 @@ zhongyongbao.vip
 zhongyoo.com
 zhongyouex.com
 zhongyougc.com
+zhongyoumedia.com
 zhongyunjy.com
 zhongzhao.com
 zhongzhide.com
