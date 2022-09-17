@@ -8713,6 +8713,7 @@ cdig.info
 cdjp.org
 cdkworkshop.com
 cdlib.org
+cdmatech.com
 cdmr.rpz.su
 cdn-apple.com
 cdn-cvprhkn01m01.streaming.mediaservices.windows.net
@@ -10859,6 +10860,7 @@ d333888.com
 d3372z5ghuqrcg.cloudfront.net
 d33rhn1om6dyij.cloudfront.net
 d33uxjz28fpmpx.cloudfront.net
+d33wubrfki0l68.cloudfront.net
 d33zs0szg2w108.cloudfront.net
 d347t1jq2o5r0r.cloudfront.net
 d34end593ni7uj.cloudfront.net
@@ -11287,6 +11289,7 @@ dc9977.com
 dcard.cc
 dcard.hk
 dcard.io
+dcard.link
 dcard.tw
 dcb68.com
 dcb77.com
@@ -25020,7 +25023,9 @@ netflixdnstest9.com
 netflixinvestor.com
 netflixtechblog.com
 netignition.com
+netlify.app
 netlify.com
+netlifystatus.com
 netmap.su
 netme.cc
 netmums.com

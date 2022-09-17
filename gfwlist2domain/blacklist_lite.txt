@@ -7612,6 +7612,7 @@ cdig.info
 cdjp.org
 cdkworkshop.com
 cdlib.org
+cdmatech.com
 cdn-terapeak.com
 cdn22.xyz
 cdn77.com
@@ -9374,6 +9375,7 @@ dc9977.com
 dcard.cc
 dcard.hk
 dcard.io
+dcard.link
 dcard.tw
 dcb68.com
 dcb77.com
@@ -21120,7 +21122,9 @@ netflixdnstest9.com
 netflixinvestor.com
 netflixtechblog.com
 netignition.com
+netlify.app
 netlify.com
+netlifystatus.com
 netmap.su
 netme.cc
 netmums.com
