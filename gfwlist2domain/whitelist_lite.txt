@@ -2302,7 +2302,6 @@
 22edu.com
 22ff.com
 22hd.com
-22hyk.com
 22ja.com
 22k9.com
 22lianmeng.com
@@ -3754,7 +3753,6 @@
 44api.com
 44dt.com
 44england.com
-44hyk.com
 44pd.com
 44pq.co
 44vs.com
@@ -5004,7 +5002,6 @@
 55hl.com
 55hl.net
 55home.com
-55hyk.com
 55i8.com
 55idc.com
 55jisu.com
@@ -6412,7 +6409,6 @@
 8080i.com
 8081.net
 80881.com
-808cdn.com
 808w.com
 8090.com
 8090.pk
@@ -7806,7 +7802,6 @@ a0x.cn
 a1166.com
 a135.net
 a166.com
-a1714.com
 a2048.com
 a21fs.com
 a21yishion.com
@@ -9121,6 +9116,7 @@ aliyunedu.net
 aliyunfuwuqi.com
 aliyunga0017.com
 aliyunga0018.com
+aliyunga0019.com
 aliyungf.com
 aliyunhelp.com
 aliyunhn.com
@@ -12659,14 +12655,18 @@ bobtj.com
 bobtranslate.com
 boc.cn
 bocaidaka.com
+bocamchina.com
 bocaviation.com
+boccfc.cc
 boccfc.cn
 boce.com
 bocep2c.com
+bocfullertonbank.com
 bocgi.com
 bocgins.com
 bochk.com
 bocichina.com
+bocifunds.com
 bocigroup.com
 bocim.com
 bocomcc.com
@@ -13931,6 +13931,7 @@ ccartd.com
 ccarting.com
 ccasy.com
 ccb.com
+ccbcos.com
 ccbft.com
 ccbfund.cn
 ccbfund.com
@@ -13943,6 +13944,7 @@ ccbpension.com
 ccbride.com
 ccbseoul.com
 ccbwfs.com
+ccbxt.com
 cccaq.com
 cccbs.net
 ccccl.net
@@ -15881,6 +15883,7 @@ chinaunicomglobal.com
 chinaunicomvideo.cn
 chinauniforms.com
 chinaunionpay.com
+chinaunionpay.net
 chinauniversalasset.com
 chinaunix.com
 chinaunix.net
@@ -16364,7 +16367,9 @@ cifoo.com
 ciftis.org
 cigadesign.com
 cigarambassador.com
+cignacmb-ipmi.com
 cignacmb.com
+cignacmbamc.com
 cihai123.com
 cihexpo.com
 ciia-if.org
@@ -16738,6 +16743,7 @@ cmbchina.com
 cmbchina.net
 cmbimg.com
 cmbt.cn
+cmbuat.com
 cmbuy10086.com
 cmbwinglungbank.com
 cmbzqtf.cn
@@ -16761,6 +16767,8 @@ cmechina.net
 cmejob.com
 cmenergyshipping.com
 cmes.org
+cmf.biz
+cmf.ltd
 cmfchina.com
 cmfish.com
 cmfspay.com
@@ -17479,6 +17487,7 @@ cnzznz.com
 co-effort.com
 co-inclusion.org
 co-mall.net
+co.nl
 co188.com
 co188cdn.com
 coalcn.com
@@ -17654,6 +17663,7 @@ colourhs.com
 colourlife.com
 com-rail.com
 com.fi
+com.la
 com.tv
 com21.com
 com4loves.com
@@ -18794,7 +18804,6 @@ cznewcom.com
 czongyi.com
 czopen.com
 czpoly.com
-czqfloor.com
 czrj.com
 czry888.com
 czsbtjx.com
@@ -29207,7 +29216,6 @@ hgzkb.com
 hgzrc.com
 hh-gltd.com
 hh010.com
-hh04.com
 hh1488.com
 hhailuo.com
 hhbg123.com
@@ -31787,18 +31795,38 @@ icast.cn
 icasthq.com
 icastlewar.com
 icax.org
+icbc-at.com
+icbc-cz.com
 icbc-ltd.com
 icbc-uk.com
 icbc-us.com
+icbc.ae
+icbc.be
+icbc.de
+icbc.eu
 icbc.jp
+icbc.lu
+icbcalmaty.kz
 icbcasia.com
+icbcina.com
+icbcindia.com
+icbcit.com
 icbclondon.com
+icbcme.ae
+icbcmoscow.ru
 icbcmy.com
+icbcnz.com
+icbcpanama.com
+icbcparis.fr
+icbcpl.com
 icbcstandard.com
 icbcstandardbank.com
 icbcstandardresources.com
 icbcstandardsecurities.com
 icbcswiss.com
+icbcthai.com
+icbkfs.com
+icbkus.com
 icbuy.com
 icc.link
 icc.one
@@ -44584,6 +44612,7 @@ nhbhpx.club
 nhdmd.com
 nhfpdc.cn
 nhganggeban.com
+nhhwhxh.com
 nhnexpo.com
 nhnsc.com
 nhnst.com
@@ -45946,7 +45975,6 @@ osvlabs.com
 oswdj.com
 oswhy.com
 osx.cx
-osyum.com
 osyunwei.com
 otcgd.com
 otcms.com
@@ -48501,7 +48529,6 @@ qingflow.com
 qingfo.com
 qingfuwucdn.net
 qingfuyun.com
-qingfuzaixian.com
 qinggl.com
 qingguo.com
 qinghe.tv
@@ -55715,6 +55742,7 @@ tanglei.name
 tangmi.net
 tangobrowser.net
 tangongye.com
+tangqingtuia1.com
 tangrenjv.com
 tangruiqian.com
 tangsanshu.com
@@ -56351,6 +56379,7 @@ teshenqi.com
 tesla.cn
 tesolsh.com
 tesoon.com
+test-cignacmb.com
 test-edu.net
 test404.com
 testbird.com
@@ -57066,6 +57095,7 @@ tlgslb.com
 tlightsky.com
 tlinx.com
 tlivecdn.com
+tlivepush.com
 tljcw.com
 tljob8001.com
 tlkzs.com
@@ -57812,7 +57842,6 @@ ttkmj.net
 ttkmj.org
 ttkuan.com
 ttkxh.com
-ttkyy.net
 ttll.cc
 ttlsa.com
 ttlutuan.com
@@ -58875,6 +58904,7 @@ unionbig.com
 unioncyber.net
 unionli.com
 unionpay.com
+unionpay.net
 unionpay95516.cc
 unionpayintl.com
 unionpaysecure.com
