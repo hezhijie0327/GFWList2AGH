@@ -5574,6 +5574,8 @@ aznmovies.com
 aznude.com
 azproxies.com
 azubu.tv
+azure-devices-int.net
+azure-devices.net
 azure-dns.com
 azure-dns.info
 azure-dns.net
@@ -23257,6 +23259,8 @@ man993.com
 managed-pki.ch
 managedmeetingrooms.com
 managedpki.com
+management-azure-devices-int.net
+management-azure-devices.net
 manager-magazin.de
 manarat.com
 manausclass.com.br
