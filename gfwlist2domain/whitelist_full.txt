@@ -5038,7 +5038,6 @@
 519332da.rtc.youme.im
 519397.com
 51969.com
-51985.net
 5199.cc
 5199.com
 5199658.com
@@ -7973,6 +7972,7 @@
 81toutiao.com
 81tt.net
 81xy.com
+81xz.com
 81yy.cc
 81zw.com
 81zw.us
@@ -12675,6 +12675,7 @@ anicoga.com
 anijue.com
 animalchina.com
 animationcritics.com
+animetamashi.com
 animetaste.net
 anitama.net
 anitoys.com
@@ -14660,7 +14661,6 @@ avq360.com
 avrvi.com
 avrw.com
 avtechcn.com
-avtt0033.com
 avtt830.com
 avu8qy84.sched.sma-dk.tdnsv5.com
 avvr.club
@@ -16834,9 +16834,13 @@ bilibili.cc
 bilibili.cn
 bilibili.co
 bilibili.com
+bilibili.net
+bilibili.tv
+bilibiligame.co
 bilibiligame.net
 bilibilihelper.com
 bilibilijj.com
+bilibilipay.com
 bilibilipcdn.xktmmosauzq.bilivideo.yfcdn.cn
 bilibiliyoo.com
 bilicdn1.com
@@ -16844,6 +16848,7 @@ bilicdn2.com
 bilicdn3.com
 bilicdn4.com
 bilicdn5.com
+biligame.co
 biligame.com
 biligame.net
 biligo.com
@@ -16854,6 +16859,7 @@ bilingling.com
 bilive.com
 bilivideo.cn
 bilivideo.com
+bilivideo.net
 biliyu.com
 bill-jc.com
 bill.agent.56.com
@@ -17365,7 +17371,6 @@ bjqyjjlb.com
 bjrc.com
 bjrcb.com
 bjrdhx.com
-bjrel.com
 bjretech.com
 bjreview.com
 bjrhxp.com
@@ -21034,7 +21039,6 @@ channelray.com
 channeltrack.yy.com
 channingsun.bid
 chanpay.com
-chanpin.biz
 chanpin100.com
 chanpinban.com
 chanpindashi.com
@@ -22187,7 +22191,6 @@ chinazov.com
 chinazwds.com
 chinazwds.org
 chinazxt.com
-chinazyjr.com
 chinca.org
 chindiaforum.com
 chine-info.com
@@ -31138,6 +31141,7 @@ dxecs.com
 dxf5.com
 dxf6.com
 dxias.com
+dxiazaicc.com
 dxjs.com
 dxlfile.com
 dxlmdd.com
@@ -40609,6 +40613,7 @@ hdsdyyy.com
 hdsky.net
 hdslb.com
 hdslb.net
+hdslb.org
 hdsx36hb.com
 hdsx39hb.com
 hdt.adx.admaster.com.cn
@@ -45477,7 +45482,6 @@ im5i.com
 im64.jpush.cn
 im87.net
 im9.com
-imac.hk
 imaccn.com
 imaegoo.com
 image-ad.sm.cn
@@ -48632,6 +48636,7 @@ jianjian.tv
 jianjiaobuluo.com
 jianjie8.com
 jiankang.com
+jiankang.org
 jiankanghebei.com
 jiankangju.com
 jianke.cc
@@ -48951,6 +48956,7 @@ jiliguara.xyz
 jilihuadu.com
 jilingban.com
 jilingwy.org
+jilinoffcn.com
 jilinpujiyiyuan.com
 jilinwula.com
 jiliyun.com
@@ -50471,6 +50477,7 @@ jucelin.com
 jucheng01.net
 juchuangbio.com
 judouapp.com
+juduo.cc
 juduoping.com
 jue.so
 jue1.com
@@ -65500,6 +65507,7 @@ pdns.nudt.edu.cn
 pdosgk.com
 pdown.org
 pdown.stat.360safe.com
+pdowncc.com
 pdrcfw.com
 pdreading.com
 pdryx.com
@@ -74828,6 +74836,7 @@ shenghuowo.com
 shenghuozhe.net
 shengjing360.com
 shengjoy.com
+shengjunshi.com
 shengli.com
 shengming.net
 shengniuuz.com
@@ -87310,6 +87319,7 @@ wang1314.net
 wang502.com
 wanga.me
 wangamela.com
+wangan.com
 wanganedu.com
 wangbixi.com
 wangcaigu.com
@@ -89230,7 +89240,6 @@ win7999.com
 win7china.com
 win7en.com
 win7qijian.com
-win7qjb.com
 win7sky.com
 win7w.com
 win7xzb.com
@@ -95318,6 +95327,7 @@ xweb.vip
 xwei.tv
 xwhb.com
 xwhodesign.com
+xwie.com
 xwjqr.com
 xwjr.com
 xwjy.org
@@ -101333,6 +101343,7 @@ ynztzh.com
 ynzxpx.com
 ynzy-tobacco.com
 yo4399.com
+yo9.com
 yoagoa.com
 yobangbang.com
 yobbom.com
@@ -101948,7 +101959,6 @@ yqmh.com
 yqp3.com
 yqp6.com
 yqphh.com
-yqptzx.com
 yqsbz.com
 yqtc.com
 yqtxt.com
@@ -105160,6 +105170,7 @@ zidootv.com
 ziewje.com
 zifandiaosu.com
 zifeiwuya.com
+zifumao.com
 zige365.com
 zigecha.com
 zigeer.com
@@ -105602,6 +105613,7 @@ zkx.cc
 zkxblog.com
 zkxlkj.net
 zkxww.com
+zkyai.com
 zkydib.com
 zkyouxi.com
 zkyxls.com
