@@ -4139,6 +4139,14 @@ alquds.edu
 alsharifa.com
 alsupnet.com
 alt.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
 altavista.com
 altera.com
 alteraforum.com
@@ -5365,6 +5373,7 @@ av-movie1.xyz
 av-ok.com
 av-test.org
 av-th.net
+av-top.com
 av-wiki.net
 av.com
 av.dmixtv.site
@@ -24761,6 +24770,7 @@ mt0.google.cn
 mt1.google.cn
 mt2.google.cn
 mt3.google.cn
+mtalk.google.com
 mtanos.com
 mtao.fun
 mtco.com
