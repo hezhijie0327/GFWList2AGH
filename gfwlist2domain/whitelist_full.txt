@@ -47,7 +47,6 @@
 00817.com
 0082tv.com
 008321.com
-00853.la
 0086crane.com
 0086l.com
 0086org.com
@@ -1208,7 +1207,6 @@
 114park.com
 114photo.com
 114piaowu.com
-114pifa.com
 114pinpai.com
 114px.com
 114qy.com
@@ -4715,6 +4713,7 @@
 473414c9b3b45a00ee1ee0814352d97e.safeframe.googlesyndication.com
 47365.com
 4738.com
+4743.uk
 47473.com
 474b.com
 475287.s2txipv6.cdntip.com
@@ -12784,7 +12783,6 @@ antuan532.com
 antuni.com
 antutu.com
 antutu.net
-antuzhi.com
 antvr.com
 antzk.com
 anw.red
@@ -13800,7 +13798,6 @@ appinn.com
 appinn.net
 appintoscreenshow.dftoutiao.com
 appjiagu.com
-appjzy.com
 appkaifa.com
 appkefu.189.cn
 appkefu.com
@@ -15182,7 +15179,6 @@ baiducontent.com
 baidudaquan.com
 baidufe.com
 baidufree.com
-baidui.vip
 baidullyouku.xyz
 baidulook.com
 baidunongmin.com
@@ -16056,7 +16052,6 @@ bdcdn.20000714.xyz
 bdcdn.20000714.xyz.cname.yunjiasu-cdn.net
 bdcdn.50i3.cn
 bdcdncmn-gd.inter.71edge.com
-bdcdnimg.com
 bdchina.com
 bdcloudapi.com
 bdclouddns.com
@@ -29466,6 +29461,7 @@ dnsinside.net
 dnsip.net
 dnsis.net
 dnsjia.com
+dnslv.com
 dnsmeasurement.com
 dnsmsn.com
 dnsng.net
@@ -32974,7 +32970,6 @@ esfimg.com
 eshangle.com
 eshangxian.com
 eshanyao.com
-eshenan.com
 eshenlin.com
 eshimin.com
 eshiyun.info
@@ -39458,6 +39453,7 @@ haianedu.net
 haianw.com
 haibao.cn
 haibao.com
+haibao123.xyz
 haibaobaoxian.com
 haibaoyl.com
 haibaoyouxi.com
@@ -40497,6 +40493,7 @@ hcicloud.com
 hcjsk120.com
 hcl100.com
 hcmiraefund.com
+hcnamecdn.com
 hcnamecdns.com
 hcndv.bili.cc.adclouds.cn
 hcocoa.com
@@ -44934,7 +44931,6 @@ idv1f7o.qiniudns.com
 idwzx.com
 idx.3g.yy.com
 idx.m.hub.sandai.net
-idyjy.com
 idyzs.com
 idzcp.com
 idzoom.com
@@ -51029,7 +51025,6 @@ jzant.com
 jzapi.baidu.com
 jzb.com
 jzbar.net
-jzbbc.com
 jzbdc.com
 jzcbank.com
 jzchou.com
@@ -54078,6 +54073,7 @@ lens.zhihu.com
 lensuo.com
 lenwoo.com
 lenzhao.com
+leo.moe
 leo96.com
 leoao-inc.com
 leoao.com
@@ -55163,6 +55159,7 @@ liuyansha.vip
 liuyanzhao.com
 liuyifei.cc
 liuyingqiang.com
+liuzaoqi.com
 liuzhichao.com
 liuzhixiang.com
 liuzhuan.oss-accelerate.aliyuncs.com
@@ -55192,6 +55189,7 @@ live-spare.alicdn.com
 live-spare.alicdn.com.danuoyi.tbcache.com
 live-trace.bilibili.com
 live-tv.xuexi.cn
+live-voip.com
 live-vts.lol.qq.com
 live-ws1.jd.com
 live-ws1.jd.com.gslb.qianxun.com
@@ -60170,7 +60168,6 @@ mopair-erm.net
 mopcn.com
 mopei8.com
 moper.me
-mopiaoyao.com
 mopicer.com
 mopnativeadv.037201.com
 mopoint.com
@@ -63160,7 +63157,6 @@ ocd120.com
 ocean.sankuai.com
 oceanbase.com
 oceanbot-steam.com
-oceancnc.com
 oceanengine.com
 oceanlau.com
 oceanol.com
@@ -68611,7 +68607,6 @@ qhnhnx5e.v1d.szbdyd.com
 qhnhqkjh.v1d.szbdyd.com
 qhnjek5r.v1d.szbdyd.com
 qhnjwez1.v1d.szbdyd.com
-qhnode.com
 qhnx2mkc.v1d.szbdyd.com
 qhnx919j.v1d.szbdyd.com
 qhnx98ha.v1d.szbdyd.com
@@ -75869,7 +75864,6 @@ shyunwei.net
 shyuwl.com
 shyuzhai.com
 shywtb.com
-shyxcm.com
 shyxi5.com
 shyxwz.com
 shyy6688.com
@@ -79929,7 +79923,6 @@ t3.qpic.cn
 t3.tiles.ditu.live.com
 t3315.com
 t355u.tdum.alibaba.com
-t365777.com
 t4-dsa-opencdn.a.bdydns.com
 t4.a.market.xiaomi.com
 t4.agrantsem.com
@@ -82939,6 +82932,7 @@ tryineapp.com
 trylist.com
 trylist.net
 trymoka.com
+tryqkj.com
 tryst.net.cn
 tryurbest.com
 tryxue.com
@@ -83528,6 +83522,7 @@ tvblack.com
 tvbwind.com
 tvbxcg6.com
 tvcbook.com
+tvccc.org
 tventry.com
 tvepg.pandora.xiaomi.com
 tversion2.lol.qq.com
@@ -90331,6 +90326,7 @@ wsskj520.cn
 wsssec.com
 wstatic-hb.bj.bcebos.com
 wstx.com
+wsurl.cc
 wsv.cdp.qq.com
 wsv.cdp.qq.com.cdn.dcloudstc.com
 wsview.com
@@ -90498,6 +90494,7 @@ wujiexiang.com
 wujiexueyuan.com
 wujiit.com
 wujinimg.com
+wujinkk.com
 wujinpp.com
 wujixiaoshuo.com
 wujiyou.com
@@ -105260,6 +105257,7 @@ zhzyw.com
 zhzyw.org
 zhzzx.com
 zi.com
+zi5.cc
 ziben365.com
 zibo.anjuke.com
 zibo.baixing.com
