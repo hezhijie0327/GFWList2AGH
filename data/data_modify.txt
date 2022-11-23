@@ -108,6 +108,10 @@
 (@%!)cn.bing.net
 (@%!)www.bing.com
 
+# 苍穹の下
+(@&!)000714.xyz
+(@&!)blueskyxn.com
+
 # Cloudflare
 (@&!)1dot1dot1dot1.cloudflare-dns.com
 (@&!)cloudflare-dns.com
