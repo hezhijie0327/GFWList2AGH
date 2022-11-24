@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.6
+# Current Version: 1.2.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
