@@ -2431,6 +2431,7 @@
 2ibook.com
 2ic.cc
 2ita.com
+2itcn.com
 2j88.com
 2jianli.com
 2k2k.com
@@ -3284,6 +3285,7 @@
 3snews.net
 3songshu.com
 3stl.com
+3t769up6.com
 3tilabs.com
 3type.cn
 3u.com
@@ -9512,6 +9514,7 @@ aws-border.cn
 aws-icp-domain-manager.cn
 awsapps.cn
 awsapps.com.cn
+awsdns-cn-36.net
 awsdns-cn-57.com
 awsok.com
 awspal.com
@@ -17180,6 +17183,7 @@ cshnkj.com
 cshope.net
 cshufanyi.com
 cshxdc.com
+cshyqx.com
 cshzw.com
 csi.gstatic.com
 csic-711.com
@@ -23396,6 +23400,7 @@ fuxingwang.com
 fuxunpay.com
 fuyangtv.com
 fuych.net
+fuyeor.com
 fuyinchina.com
 fuyou888.com
 fuyoubank.com
@@ -27658,6 +27663,7 @@ hk-vstart.com
 hk.uy
 hk515.net
 hkaco.com
+hkaik.com
 hkance.com
 hkance.xyz
 hkanews.com
@@ -31132,6 +31138,7 @@ ipcwifi.com
 ipcxz.com
 ipdaili.com
 ipddz.com
+ipdfmaster.com
 ipdftool.com
 ipdianhua.com
 ipdsms.com
@@ -36717,6 +36724,8 @@ lezhuan.com
 lezhuan168.com
 lezhuan365.com
 lezi.com
+lezuan.net
+lezuan9.com
 lf-rc1.yhgfb-cn-static.com
 lf-tools.net
 lf127.net
@@ -41626,6 +41635,7 @@ new-mobi.com
 new-more.com
 new-thread.com
 new1cloud.com
+new253.com
 new669.com
 newacademic.net
 newadblock.com
@@ -46112,6 +46122,7 @@ qudong51.net
 qudushu.com
 quduwu.com
 quduzixun.com
+quectel.com
 quegame.com
 quegoo.com
 quegui.run
@@ -49536,6 +49547,7 @@ shzhyx.com
 shzkb.com
 shzpin.com
 shzq.com
+shzs-benz-vpc.com
 shzsun.com
 si-en.com
 si-in.com
@@ -53418,6 +53430,7 @@ tmdm.com
 tmeiju.com
 tmeissheng.com
 tmgwdz.vip
+tmhhost.com
 tmhong.com
 tmhvps.com
 tmiep.org
@@ -54607,6 +54620,7 @@ tzhwcc.com
 tzidt.com
 tzjxl.com
 tzlib.net
+tzlongwu.com
 tzm66.com
 tzoo-img.com
 tzres.com
@@ -56009,6 +56023,7 @@ vtibet.com
 vtoutiao.cc
 vtrois.com
 vtuzx.com
+vu99.com
 vue-js.com
 vue5.com
 vuejscaff.com
@@ -57211,6 +57226,7 @@ west263.com
 west95582.com
 west999.com
 westbund.com
+westcits.com
 weste.net
 westengine.com
 westfutu.com
@@ -59026,6 +59042,7 @@ xaztdz.com
 xazzg.com
 xazzp.com
 xazzs.com
+xb.app
 xb.dlservice.microsoft.com
 xb21cn.com
 xb2s.com
@@ -60835,6 +60852,8 @@ xrunda.com
 xrwcn.com
 xs-servers.com
 xs.la
+xs123.net
+xs123.org
 xs222.tw
 xs2500.com
 xs3cnc.com
@@ -60947,6 +60966,7 @@ xtzjcz.com
 xu1s.com
 xuanad.com
 xuanba.com
+xuanbar.com
 xuanbiaoqing.com
 xuancaizi.com
 xuanceo.com
@@ -61436,6 +61456,7 @@ xyzmdzs.com
 xyzq.com.cn
 xyzs.com
 xyzsq.com
+xyzvo.com
 xz-juming.com
 xz.com
 xz577.com
@@ -61845,6 +61866,7 @@ ydamc.com
 ydaobo.com
 ydbimg.com
 ydc360.com
+yddff556.xyz
 ydh.fun
 ydimmi.com
 ydjia.com
