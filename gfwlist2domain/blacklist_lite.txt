@@ -4690,6 +4690,7 @@ arethusa.su
 arewereadyyet.com
 arexv.com
 areyoucreditwise.com
+argotunnel.com
 aria.ms
 arily.moe
 arincdirect.com
@@ -8829,6 +8830,7 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.net
 cloudflare.tv
+cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
 cloudflareclient.com
