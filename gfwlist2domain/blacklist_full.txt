@@ -10198,6 +10198,7 @@ cloudimg.io
 cloudinary.com
 cloudinary.net
 cloudinsights.com
+cloudlatex.io
 cloudlive.com
 cloudlock.com
 cloudmagic.com
@@ -38894,6 +38895,7 @@ wionews.com
 wionnews.com
 wipower.com
 wire.com
+wired.com
 wiredbytes.com
 wiredpen.com
 wireguard.com
