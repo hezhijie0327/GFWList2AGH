@@ -14539,7 +14539,9 @@ get-tune.net
 get.app
 get.dev
 get.how
+get.new
 get.page
+get.rsvp
 getadblock.com
 getastrill.com
 getavpn.org
@@ -16013,6 +16015,7 @@ hexdocs.pm
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
+hey.boo
 heyav.tv
 heydoga.com
 heydouga.com
@@ -22882,6 +22885,7 @@ new-akiba.com
 new-av.com
 new-jero.net
 new-redtube.com
+new.day
 new3dcomics.com
 new96.ca
 newadvent.org
