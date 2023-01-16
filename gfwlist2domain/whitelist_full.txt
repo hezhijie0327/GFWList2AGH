@@ -13329,6 +13329,8 @@ cevsn.com
 cf-china.info
 cf-ns.com
 cf-ns.net
+cf-ns.site
+cf-ns.tech
 cf.com
 cf69.com
 cf865.com
@@ -13368,6 +13370,8 @@ cfryny.com
 cfsino.com
 cfsl2017.com
 cftea.com
+cftest7.com
+cftest8.com
 cftong.com
 cfucn.com
 cfund108.com
@@ -15303,6 +15307,11 @@ clouddongying.com
 clouddream.net
 cloudflare-cn.com
 cloudflare520.com
+cloudflarecn.net
+cloudflareinsights-cn.com
+cloudflareprod.com
+cloudflarestaging.com
+cloudflarestoragegw.com
 cloudfoshan.com
 cloudfront-cn.net
 cloudfuqing.com
