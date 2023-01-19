@@ -37639,6 +37639,8 @@ vcupbox.net
 vcupmars.com
 vdoav.com
 vds.rightster.com
+ve-dash-uk-live.akamaized.net
+ve-uhd-push-uk-live.akamaized.net
 vector.im
 vedaadvantage.com
 veepn.com
@@ -38473,6 +38475,8 @@ vrsumo.com
 vrt.be
 vrv.co
 vs-cmaf-push-uk-live.akamaized.net
+vs-cmaf-pushb-ww-live.akamaized.net
+vs-hls-pushb-uk-live.akamaized.net
 vs.com
 vs8866.com
 vs8989.com
