@@ -3648,7 +3648,6 @@ acebook.com
 acel.com
 acer-group.com
 acer.com
-acer.com.cn
 aceros-de-hispania.com
 acertainsound.com
 acethon.com
@@ -3761,7 +3760,6 @@ adidas-group.com
 adidas.be
 adidas.ch
 adidas.com
-adidas.com.cn
 adidas.it
 adipascu.ro
 adityabhushan.com
@@ -3922,7 +3920,6 @@ aeon-pool.com
 aerilon.com
 aerisapi.com
 aeroflot.ru
-aerogard.com.cn
 aerogardcn.com
 aeromatasia.com
 aeromexico.com
@@ -4122,7 +4119,6 @@ airwatchqa.com
 airwick.be
 airwick.ch
 airwick.com
-airwick.com.cn
 airwick.hr
 airwick.it
 airwick.net
@@ -4273,7 +4269,6 @@ alekberg.net
 alesso.net
 alexa.com
 alexafund.cn
-alexafund.com.cn
 alexanderstreet.com
 alexgallego.org
 alexlur.org
@@ -4381,7 +4376,6 @@ alphabet.be
 alphabet.biz
 alphabet.ch
 alphabet.com
-alphabet.com.cn
 alphabet.com.lv
 alphabet.com.pt
 alphabet.info
@@ -4530,33 +4524,24 @@ amazonauthorinsights.com
 amazonaws-china.com
 amazonaws.cn
 amazonaws.com
-amazonaws.com.cn
 amazonaws.tv
 amazonbusiness.cn
-amazonbusiness.com.cn
 amazonbusiness.org
 amazonbusinessblog.com
 amazonchoice.cn
-amazonchoice.com.cn
 amazonchoices.cn
-amazonchoices.com.cn
 amazondevicesupport.com
 amazonfctours.com
 amazonianblog.com
 amazonimages.com
 amazoninspire.cn
-amazoninspire.com.cn
 amazonlaunchpad.cn
 amazonlaunchpad.com
-amazonlaunchpad.com.cn
-amazonlending.com.cn
 amazonliterarypartnership.com
 amazonlumberyard.wang
 amazonnow.cn
-amazonnow.com.cn
 amazonpay.com
 amazonprimevideo.cn
-amazonprimevideo.com.cn
 amazonprimevideos.com
 amazonsdi.com
 amazonses.com
@@ -4565,10 +4550,8 @@ amazontrust.com
 amazonvideo.cc
 amazonvideo.com
 amazonvideodirect.com
-amazonwebservices.com.cn
 amazonworkdocs.cn
 amazonworkdocs.com
-amazonworkdocs.com.cn
 ambit.chat
 ambitvpn.com
 ambjl20.com
@@ -4774,7 +4757,6 @@ andysparis.com
 aneisa.com
 anfutong.cn
 anfutong.com
-anfutong.com.cn
 angela-merkel.de
 angelblog.jp
 angelfire.com
@@ -5123,7 +5105,6 @@ apple-darwin.com
 apple-darwin.net
 apple-darwin.org
 apple-dns.com
-apple-dns.com.cn
 apple-enews.com
 apple-expo.com
 apple-hk.com
@@ -5183,14 +5164,12 @@ applecensorship.com
 applecentar.co.rs
 applecentar.rs
 applecenter.cn
-applecenter.com.cn
 applecentre.info
 appleclassicipod.com
 applecom.com
 applecomputer-imac.com
 applecomputer.cn
 applecomputer.com
-applecomputer.com.cn
 applecomputerimac.com
 applecomputerinc.info
 applecoronavirus.com
@@ -5200,7 +5179,6 @@ appledaily.com.tw
 appledarwin.com
 appledarwin.net
 appledns.cn
-appledns.com.cn
 appleenews.com
 appleexpo.info
 applefilmaker.com
@@ -5252,13 +5230,11 @@ applepay.info
 applepay.rs
 applepay.tv
 applepaycash.cn
-applepaycash.com.cn
 applepaycash.net
 applepaycash.tv
 applepaymerchantsupplies.info
 applepaysupplies.cn
 applepaysupplies.com
-applepaysupplies.com.cn
 applepaysupplies.info
 applepaysupplies.net
 applepaysupplies.tv
@@ -5277,7 +5253,6 @@ applestore.cc
 applestore.ch
 applestore.cn
 applestore.com
-applestore.com.cn
 applestore.com.ee
 applestore.com.hr
 applestore.com.pt
@@ -5293,7 +5268,6 @@ appletips.net
 appletv.com
 appletv.wang
 appletv4.cn
-appletv4.com.cn
 applewallet.com
 applewallet.tv
 applewatch.tv
@@ -5421,7 +5395,6 @@ armovs.com
 army.mil
 arph.org
 arphic.com
-arphic.com.cn
 arrowsoftruth.org
 art.sy
 art1lib.com
@@ -5467,7 +5440,6 @@ aseschool.org
 asesoria.cl
 asexdoll.com
 asezwao.org
-asfiovnxocqpcry.com.cn
 asg.to
 asgam.com
 asha.org
@@ -5602,7 +5574,6 @@ astrumpeople.com
 asu.mx
 asu.su
 asus.com
-asus.com.cn
 asuscomm.com
 asxxtv.com
 async.be
@@ -5929,7 +5900,6 @@ aws.adana123.site
 aws.e8play.cc
 awsapps.cn
 awsapps.com
-awsapps.com.cn
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -6357,7 +6327,6 @@ battleforcecomix.com
 battlefront2.com
 battlefrontii.com
 battlelog.com
-battlenet.com.cn
 baumann-solutions.de
 bawimydzieci.pl
 baxsound.com
@@ -6630,10 +6599,8 @@ beats-seller.com
 beats-soaho.com
 beats1.cc
 beats1.cn
-beats1.com.cn
 beats1.tv
 beats123.com
-beats2.com.cn
 beats4.cn
 beats4.net
 beats4outlets.com
@@ -6899,7 +6866,6 @@ behance.net
 behindkink.com
 beibao.cn
 beibao.com
-beibao.com.cn
 beijing1989.com
 beijing2022.art
 beijingbiden.com
@@ -6963,7 +6929,6 @@ bestbuy-int.com
 bestbuy-jobs.com
 bestbuy.cn
 bestbuy.com
-bestbuy.com.cn
 bestbuy.info
 bestbuy24x7solutions.com
 bestbuybusiness.com
@@ -7293,7 +7258,6 @@ bind2.com
 bine.me
 bing.cn
 bing.com
-bing.com.cn
 bing.net
 bingads.com
 bingagencyawards.com
@@ -7949,7 +7913,6 @@ bmw.ch
 bmw.co.id
 bmw.com
 bmw.com.bd
-bmw.com.cn
 bmw.com.co
 bmw.com.do
 bmw.com.py
@@ -8369,7 +8332,6 @@ bridgestone-tac-oman.com
 bridgestone.cn
 bridgestone.co.id
 bridgestone.com
-bridgestone.com.cn
 bridgestone.com.co
 bridgestoneamericas.com
 bridgestonearena.com
@@ -9152,7 +9114,6 @@ canon.be
 canon.ch
 canon.cn
 canon.com
-canon.com.cn
 canon.ee
 canon.hr
 canon.it
@@ -9596,6 +9557,8 @@ cfhks.org.hk
 cfna.com
 cfos.de
 cfr.org
+cftest5.cn
+cftest6.cn
 cftfc.com
 cfun88.com
 cfwives.com
@@ -10077,7 +10040,6 @@ cisco-returns.com
 cisco-warrantyfinder.com
 cisco.cn
 cisco.com
-cisco.com.cn
 cisco.evergage.com
 cisco.mobi
 ciscoccservice.com
@@ -10196,7 +10158,6 @@ cleansite.info
 cleansite.us
 cleansolutions.mx
 clearasil.cn
-clearasil.com.cn
 clearharmony.net
 clearlinux.org
 clearsurance.com
@@ -10783,7 +10744,6 @@ connect-in-canada.com
 connect-link.com
 connect.facebook.net
 connectcommerce.cn
-connectcommerce.com.cn
 connectcommerce.info
 connectcommerce.tv
 connected-drive.com
@@ -11327,7 +11287,6 @@ cya888.com
 cyaontheroad.com
 cybatron.net
 cyber-bay.cn
-cyber-bay.com.cn
 cyber-bay.info
 cyber-bay.org
 cyber-insider.com
@@ -12401,7 +12360,6 @@ dettol.ch
 dettol.co.id
 dettol.com
 dettol.com.bd
-dettol.com.cn
 dettol.net
 dettol.pk
 dettol.pt
@@ -12688,7 +12646,6 @@ discuss.com.hk
 discuss4u.com
 discussionsapple.com
 dish.com
-dishwashingexpert.com.cn
 dishworld.com
 disk.yandex.com
 disney-asia.com
@@ -13424,7 +13381,6 @@ dumpxxx.net
 dun.im
 dungeonkeeper.cn
 dungeonkeeper.com
-dungeonkeeper.com.cn
 dunyabulteni.net
 duoguge.net
 duosuccess.com
@@ -13441,7 +13397,6 @@ durex.be
 durex.co.id
 durex.com
 durex.com.bd
-durex.com.cn
 durex.com.co
 durex.com.hr
 durex.com.pk
@@ -13452,7 +13407,6 @@ durex.pt
 durexcam.com
 durexcanada.com
 durexchina.com
-durexchina.com.cn
 durexindia.com
 durexloveclub.com
 durexukraine.com
@@ -13526,7 +13480,6 @@ dylangauthier.com
 dyn.mk
 dyn8ut7a1f702.cloudfront.net
 dynacw.com
-dynacw.com.cn
 dynafleetonline.com
 dynalias.com
 dynamic-dns.net
@@ -13750,7 +13703,6 @@ ebay.be
 ebay.ch
 ebay.cn
 ebay.com
-ebay.com.cn
 ebay.it
 ebay.net.cn
 ebay.org
@@ -13768,7 +13720,6 @@ ebayadvertising.com
 ebayanunsios.net
 ebayauction.com
 ebayaustralia.com
-ebayauthenticate.com.cn
 ebaybags.com
 ebaybank.com
 ebaybenefits.com
@@ -13782,7 +13733,6 @@ ebaycdn.net
 ebaychina.net
 ebayclassifieds.cn
 ebayclassifieds.com
-ebayclassifieds.com.cn
 ebayclassifieds.info
 ebayclassifieds.org
 ebayclassifieds.tv
@@ -13798,7 +13748,6 @@ ebaycourse.com
 ebayd.com
 ebayde.com
 ebaydesc.cn
-ebaydesc.com.cn
 ebaydlassifieds.com
 ebaydns.cn
 ebaydts.com
@@ -13806,7 +13755,6 @@ ebayedu.com
 ebayeletro.com
 ebayenterprise.cn
 ebayenterprise.com
-ebayenterprise.com.cn
 ebayenterprise.info
 ebayenterprise.net
 ebayenterprise.tv
@@ -13841,7 +13789,6 @@ ebaymall.com
 ebaymarketplace.net
 ebaymotors.cn
 ebaymotors.com
-ebaymotors.com.cn
 ebaymotors.org
 ebaymotorsblog.com
 ebaynow.com
@@ -13856,7 +13803,6 @@ ebaypakistan.net
 ebaypark.com
 ebayparts.com
 ebaypedia.cn
-ebaypedia.com.cn
 ebayprivacycenter.com
 ebayqq.com
 ebayradio.com
@@ -13866,7 +13812,6 @@ ebayshoesstore.com
 ebayshop.com
 ebayshop111.com
 ebayshopping.cn
-ebayshopping.com.cn
 ebayshopping.org
 ebaysocial.com
 ebaysoho.com
@@ -13921,7 +13866,6 @@ ecbuystore.net
 ecchi.iwara.tv
 ecdm.fandom.com
 ecfa.org.tw
-ecgapp.com.cn
 ecgapp.net
 echainhost.com
 echichimato.com
@@ -14279,7 +14223,6 @@ enfal.de
 enfamil.com
 enfamil.pt
 enfasmart.com
-enfinitas.com.cn
 eng.br
 eng.collectivehealth.com
 engadget.com
@@ -14563,8 +14506,6 @@ ethicalpsychology.com
 ethsat.com
 etitrans.com
 etizer.org
-etnet.com.cn
-etnetchina.com.cn
 etokki.com
 etools.ncol.com
 etoro.com.cn
@@ -15197,7 +15138,6 @@ family-simulator.io
 family.acethon.com
 familyfed.org
 familyhealth.xyz
-familymart.com.cn
 familypies.net
 familyporn.tv
 familypornhd.com
@@ -15299,7 +15239,6 @@ farfetch-apps.com
 farfetch-contents.com
 farfetch.cn
 farfetch.com
-farfetch.com.cn
 farfetch.net
 farfetch.net.cn
 farm.tanosecure.com.tw
@@ -15661,7 +15600,6 @@ financeleadsonline.com
 financetwitter.com
 financialadvisoriq.com
 financialpost.com
-financialsoccer.com.cn
 finchvpn.com
 finchvpn.org
 find-apple.com
@@ -15689,7 +15627,6 @@ finehub.com
 finenike.com
 fineproxy.org
 fingerdaily.com
-finish.com.cn
 finish.com.hr
 finish.lv
 finish.pt
@@ -17698,7 +17635,6 @@ gnavi.com
 gnbccarson.com
 gnc.com
 gnci.org.hk
-gneec.com.cn
 gnews.org
 gnom-cham.com
 gnowbe-app-2.firebaseio.com
@@ -18643,7 +18579,6 @@ haisetu.net
 haitenjp.com
 hakkatv.org.tw
 half.com
-half.com.cn
 half.tv
 halfcanada.com
 halfjapan.com
@@ -19265,7 +19200,6 @@ hiitch.com
 hijabilicious.com
 hikinggfw.org
 hikunpeng.cn
-hikunpeng.com.cn
 hilive.tv
 hiload.com
 hilostripper.com
@@ -19291,7 +19225,6 @@ hipzoom.net
 hireatradesman.com
 hiroseuk.com
 hishadowsocks.com
-hisilicon.com.cn
 hispanidad.com
 hispavista.com
 hissr.club
@@ -19563,7 +19496,6 @@ hlw555.com
 hlw599.com
 hlw66.com
 hm.com
-hm.com.cn
 hm7188.com
 hmarkets.co.uk
 hmarkets.com
@@ -21046,7 +20978,6 @@ intel.ch
 intel.cn
 intel.co.id
 intel.com
-intel.com.cn
 intel.com.co
 intel.com.pr
 intel.com.py
@@ -21213,7 +21144,6 @@ ipge.com
 ipgphotonics.box.com
 iphider.org
 iphine.com
-iphone-8.com.cn
 iphone-cd.com
 iphone-cn.com
 iphone-dev.org
@@ -21271,7 +21201,6 @@ ipobar.com
 ipod.ch
 ipod.co
 ipod.com
-ipod.com.cn
 ipod.is
 ipod.net
 ipod.pk
@@ -21540,7 +21469,6 @@ itunesmatch.com
 itunesparty.com
 itunesradio.cn
 itunesradio.com
-itunesradio.com.cn
 itunesradio.tv
 itunesstore.co
 itunesu.com
@@ -22727,7 +22655,6 @@ kids.president.gov.tw
 kidsnikeshoes.com
 kielconsulting.org
 kijijidns.cn
-kijijidns.com.cn
 kik.cl
 kik.com
 kikdirty.com
@@ -22759,7 +22686,6 @@ kindle.it
 kindle4rss.com
 kindleoasis.cn
 kindleoasis.com
-kindleoasis.com.cn
 kindleoasis.info
 kindleoasis.org
 kindleoasisnews.com
@@ -23416,7 +23342,6 @@ legalporno.com
 legaltech.law.com
 legaltracker.com
 legendofzelda.cn
-legendofzelda.com.cn
 legendowl.com
 legendvps.net
 leggycash.com
@@ -23873,7 +23798,6 @@ livemodels.co
 liveperson.com
 liveperson.net
 livephotos.cn
-livephotos.com.cn
 livephotos.tv
 liveporngirls.com
 liveprivates.com
@@ -24089,7 +24013,6 @@ lovetvshow.com
 lowa-interlaken.ch
 lowergiseries.com
 lp99.pw
-lpl.com.cn
 lpsg.com
 lpxtv.com
 lqh0bon3.xyz
@@ -24255,7 +24178,6 @@ lyricwiki.com
 lysfms.com
 lysol.cn
 lysol.com
-lysol.com.cn
 lysol.net
 lyzsxx.com
 lzgye.com
@@ -24431,7 +24353,6 @@ macbook.co
 macbook.wang
 macbookair.cn
 macbookair.com
-macbookair.com.cn
 macbookair.net
 macbookpro.co
 macbookpro.com
@@ -24511,7 +24432,6 @@ magiccloak.net
 magiccloud.i234.me
 magicmovies.com
 magictea.xyz
-magnoliaav.com.cn
 magzter.com
 mahabodhi.org
 mahajantech.com
@@ -24729,7 +24649,6 @@ marioandluigidreamteam.com
 mariobroswii.com
 mariodesigns.uk
 mariokart.cn
-mariokart.com.cn
 mariokart7.com
 mariokart8.com
 mariosupersluggers.com
@@ -24810,7 +24729,6 @@ mastercard.ch
 mastercard.cn
 mastercard.co.id
 mastercard.com
-mastercard.com.cn
 mastercard.com.co
 mastercard.hr
 mastercard.inc
@@ -24964,7 +24882,6 @@ me.youthwant.com.tw
 me5268.mybbs.us
 me9944.com
 meadjohnson.com
-meadjohnson.com.cn
 meadjohnson.net
 meansys.com
 mearki.com
@@ -25319,7 +25236,6 @@ microsoftonline.cn
 microsoftpartnercommunity.com
 microsoftpartnersolutions.com
 microsoftreactor.cn
-microsoftreactor.com.cn
 microsoftreactor.info
 microsoftreactor.net
 microsoftreactor.org
@@ -25357,7 +25273,6 @@ mihr.com
 mihua.org
 miijqghk1.dtd999.com
 miitomo.com
-miitomo.com.cn
 miiverse.com
 mikandi.com
 mike.cz.cc
@@ -25722,7 +25637,6 @@ mobile.teenslovehugecocks.com
 mobile01.com
 mobilefacebook.com
 mobileinternational.com
-mobileinternational.com.cn
 mobilelive-hamivideo.cdn.hinet.net
 mobilemarketo.com
 mobileporngames.com
@@ -26206,7 +26120,6 @@ muchosucko.com
 muchtv.eracom.com.tw
 mucinex.cn
 mucinex.com
-mucinex.com.cn
 mucinex.net
 mucinex.tv
 mucinexprofessional.com
@@ -26215,7 +26128,6 @@ mudvod.tv
 muftah.org
 muhsinlar.com
 muji.com
-muji.com.cn
 muji.net
 mujikorea.net
 mulheresafoder.com
@@ -27302,7 +27214,6 @@ nikebbn.com
 nikebetrue.com
 nikebetterworld.cn
 nikebetterworld.com
-nikebetterworld.com.cn
 nikebetterworld.info
 nikebetterworld.net
 nikebetterworld.org
@@ -27343,10 +27254,8 @@ nikehelp.com
 nikehightops.com
 nikehyperdunk.com
 nikeid.cn
-nikeid.com.cn
 nikeidshoes.com
 nikeinc.com
-nikeinc.com.cn
 nikeincchemistry.com
 nikeinstock.com
 nikeit.com
@@ -27355,15 +27264,12 @@ nikeitaly.com
 nikekd.com
 nikekid.com
 nikelab.cn
-nikelab.com.cn
 nikelink.com
 nikeliuxiang.cn
 nikeliuxiang.com
-nikeliuxiang.com.cn
 nikelives.com
 nikelunarglide.com
 nikemall.cn
-nikemall.com.cn
 nikemarketing.com
 niken7.com
 nikenews.com
@@ -27380,9 +27286,7 @@ nikepromax.com
 nikeresponsibility.com
 nikereuseashoe.com
 nikerunclub.cn
-nikerunclub.com.cn
 nikerunner.com
-nikerunning.com.cn
 nikerunningshoes.com
 nikesb.com
 nikesbdunks.net
@@ -27464,7 +27368,6 @@ nintendonyc.com
 nintendostore.com
 nintendoswitch.cn
 nintendoswitch.com
-nintendoswitch.com.cn
 nintendoswitch.net
 nintendoswitchtogether.com
 nintendowii.com
@@ -27827,7 +27730,6 @@ nuoyavpn.com
 nurgo-software.com
 nurofen.cn
 nurofen.com
-nurofen.com.cn
 nurofen.hr
 nurofen.it
 nurofen.net
@@ -27863,7 +27765,6 @@ nvsr.com.au
 nvtongzhisheng.org
 nwanime.tv
 nwcdcloud.cn
-nwcdcloud.com.cn
 nwcddns.cn
 nwcdinfosec.cn
 nwi.com
@@ -28451,7 +28352,6 @@ ordns.he.net
 oreca-store.com
 oreilco.com
 oreilly.com
-oreilly.com.cn
 oreilly.review
 oreillystatic.com
 oreno3d.com
@@ -29045,7 +28945,6 @@ paypal-survey.com
 paypal-survey.org
 paypal-team.com
 paypal-viewpoints.net
-paypal.com.cn
 paypal.info
 paypal.net.cn
 paypal.org.cn
@@ -29063,7 +28962,6 @@ paypalcreditcard.com
 paypalgivingfund.org
 paypalhere.cn
 paypalhere.com
-paypalhere.com.cn
 paypalhere.info
 paypalhere.net
 paypalhere.org
@@ -29162,7 +29060,6 @@ pearson-schule.ch
 pearson-studium.ch
 pearson.ch
 pearson.com
-pearson.com.cn
 pearsonactivelearn.com
 pearsonassessment.be
 pearsonassessments.com
@@ -30220,7 +30117,6 @@ pr0pgutf0hp089.com
 practicalbusinessskills.com
 practicaldigitalprotection.com
 practicalmoneyskills.cn
-practicalmoneyskills.com.cn
 praksis.com.my
 pratikpatel.in
 prayforchina.net
@@ -30264,14 +30160,12 @@ pri-image-db.herokuapp.com
 pri.org
 pri4.fat.flnet.org
 priceless.com
-priceless.com.cn
 priceless.org
 pricelessafrica.com
 pricelessarabia.com
 pricelessaruba.com
 pricelessbeijing.cn
 pricelessbeijing.com
-pricelessbeijing.com.cn
 pricelesshongkong.com
 pricelesshonolulu.com
 pricelessmarketingengine.com
@@ -30287,7 +30181,6 @@ prigle.com
 prime-video.com
 primecurves.com
 primeday.cn
-primeday.com.cn
 primeday.info
 primeindianporn.com
 primematures.com
@@ -30399,7 +30292,6 @@ prostate-exam-info.com
 prostoporno.net
 prostores.cn
 prostores.com
-prostores.com.cn
 prostudiobeatscybersale.com
 proteinalactea.com
 protempproducts.com
@@ -30759,7 +30651,6 @@ qatarescortsvip.com
 qbaby.tv
 qc.to
 qc1n.66.flnet.org
-qceventscenter.com.cn
 qckprn.com
 qcman.net
 qcphongvan.com
@@ -31222,7 +31113,6 @@ reachtheworldonfacebook.com
 react.com
 reactjs.com
 reactjs.org
-reactorms.com.cn
 reactos.org
 read01.com
 read100.com
@@ -31308,7 +31198,6 @@ recelebrity.com
 reckitt.net
 reckittbenckiser.cn
 reckittbenckiser.com
-reckittbenckiser.com.cn
 reckittbenckiser.net
 reckittbenckiser.tv
 reckittprofessional.com
@@ -31462,7 +31351,6 @@ researchandcare.org
 researchgate.net
 researchintel.com
 researchkit.cn
-researchkit.com.cn
 researchkit.net
 researchkit.org
 researchkit.tv
@@ -31977,7 +31865,6 @@ safetunnel.tk
 safety.google
 safevpn.net
 saffrontech.com
-sagemaker.com.cn
 sagernet.org
 sagitario.com.ar
 sahabatsetiasmartone.com
@@ -32033,7 +31920,6 @@ samsung.com
 samsungapps.com
 samsungcloud.com
 samsungdm.com
-samsungeshop.com.cn
 samsunggalaxyfriends.com
 samsungknox.com
 samsungqbe.com
@@ -33698,7 +33584,6 @@ sources.redhat.com
 sourcesecurity.com
 sourcewadio.com
 sourcewatch.org
-sourcingforebay.com.cn
 sourcingforebay.net
 sourcingforebay.tv
 sourtimes.org
@@ -34091,7 +33976,6 @@ starbucks.be
 starbucks.ch
 starbucks.co.id
 starbucks.com
-starbucks.com.cn
 starbucks.com.co
 starbucks.it
 starbucks.pt
@@ -34339,7 +34223,6 @@ streetvoice.com
 strelchenok.com
 strepsils.ch
 strepsils.cn
-strepsils.com.cn
 strepsils.com.co
 strepsils.hr
 strepsils.net
@@ -34553,7 +34436,6 @@ superliufa.com
 superman2012.hostzi.com
 supermario.com
 supermario3dworld.com
-supermariobros.com.cn
 supermariogalaxy.com
 supermariorun.com
 superokayama.com
@@ -34562,7 +34444,6 @@ superpapermario.com
 superproxy.nl
 supersexeamateur.com
 supersmashbros.cn
-supersmashbros.com.cn
 superssr.cf
 superssr.me
 superssr.net
@@ -34666,7 +34547,6 @@ swiftfinancial.com
 swiftfinancial.info
 swiftfinancial.net
 swiftui.cn
-swiftui.com.cn
 swiminn.com
 swimoutlet.com
 swin988.com
@@ -35220,12 +35100,10 @@ tesco.net
 tesla-cdn.thron.com
 tesla.cn
 tesla.com
-tesla.com.cn
 tesla.services
 teslaenergy.services
 teslamotors.cn
 teslamotors.com
-teslamotors.com.cn
 teslazta.net
 test-idc-3.fjla37itnf5dpsen.com
 test-wiki-01.site88.net
@@ -36271,7 +36149,6 @@ travelcontroller.com
 traveldudes.org
 travelex.be
 travelex.com
-travelex.com.cn
 travelex.it
 travelex.qa
 travelexae.com
@@ -36659,7 +36536,6 @@ tvappstore.net
 tvb.com
 tvbaaa.com
 tvbanywhere.com
-tvbc.com.cn
 tvbccc.com
 tvbeee.com
 tvbfff.com
@@ -37651,7 +37527,6 @@ veet.cn
 veet.co.id
 veet.com
 veet.com.bd
-veet.com.cn
 veet.com.co
 veet.com.pk
 veet.pt
@@ -37711,7 +37586,6 @@ verilystudywatch.org
 verisign.biz
 verisign.ch
 verisign.com
-verisign.com.cn
 verisign.info
 verisign.jobs
 verisign.mobi
@@ -37752,7 +37626,6 @@ vfacai.com
 vfsco.be
 vfsco.ch
 vfsco.com
-vfsco.com.cn
 vfsco.ee
 vfsco.it
 vfsco.lv
@@ -37979,7 +37852,6 @@ visa.cn
 visa.co.id
 visa.com
 visa.com.ai
-visa.com.cn
 visa.com.co
 visa.com.dm
 visa.com.do
@@ -38019,7 +37891,6 @@ visanet.net
 visapay.cn
 visapcsdirect.com
 visaplatinum.cn
-visaplatinum.com.cn
 visaplus.com
 visasignaturehotels.com
 visasoutheasteurope.com
@@ -38235,7 +38106,6 @@ volkskrant.nl
 volunteerminister.org
 volvo.cn
 volvo.com
-volvo.com.cn
 volvobrandshop.com
 volvobuses.be
 volvobuses.ch
@@ -38249,7 +38119,6 @@ volvodefense.com
 volvogroup.be
 volvogroup.cn
 volvogroup.com
-volvogroup.com.cn
 volvomerchandise.com
 volvopenta.com
 volvopenta.it
@@ -38260,7 +38129,6 @@ volvotruckrental.be
 volvotrucks.be
 volvotrucks.ch
 volvotrucks.com
-volvotrucks.com.cn
 volvotrucks.com.co
 volvotrucks.com.pt
 volvotrucks.ee
@@ -38915,7 +38783,6 @@ webevader.com
 webevader.org
 webex.co.it
 webex.com
-webex.com.cn
 webflow-tnl.firebaseio.com
 webflow.com
 webfortestuse.as00s.com
@@ -39008,7 +38875,6 @@ weekmag.info
 weetok.com
 wefightcensorship.org
 wefong.com
-wegame.com.cn
 wego.here.com
 weiboleak.com
 weiboscope.jmsc.hku.hk
@@ -39053,7 +38919,6 @@ wenyunchao.com
 wenyunchao.spaces.live.com
 wenzhao.ca
 were.moe
-werepository.com.cn
 wesi301.xyz
 westca.com
 westenvik.no
@@ -39495,7 +39360,6 @@ woodforest.com
 woodmancastingx.com
 woolite.cn
 woolite.com
-woolite.com.cn
 woolitecarpet.com
 woolyss.com
 woopie.jp
@@ -45399,7 +45263,6 @@ xx-map.com
 xx.domain888.pw
 xx.freepac.pw
 xx.opendn.xyz
-xx159.com.cn
 xx188betxx.com
 xx1943.com
 xx242.net
@@ -45636,7 +45499,6 @@ yahoo.co.jp
 yahoo.com
 yahoo.com.ai
 yahoo.com.bd
-yahoo.com.cn
 yahoo.com.co
 yahoo.com.do
 yahoo.com.hk
@@ -46600,7 +46462,6 @@ zoofilianet.com
 zoogvpn.com
 zoohun.com
 zoom.com
-zoom.com.cn
 zoom.us
 zoomingin.tv
 zoomobileporn.com
