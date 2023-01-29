@@ -38364,6 +38364,7 @@ vrt.be
 vrv.co
 vs-cmaf-push-uk-live.akamaized.net
 vs-cmaf-pushb-ww-live.akamaized.net
+vs-hls-push-uk-live.akamaized.net
 vs-hls-pushb-uk-live.akamaized.net
 vs.com
 vs8866.com
