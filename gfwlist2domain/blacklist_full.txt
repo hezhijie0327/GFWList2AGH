@@ -29066,7 +29066,9 @@ paypal-survey.com
 paypal-survey.org
 paypal-team.com
 paypal-viewpoints.net
+paypal.com
 paypal.info
+paypal.me
 paypal.net.cn
 paypal.org.cn
 paypal.so
@@ -29099,6 +29101,7 @@ paypalnet.org
 paypalnetwork.info
 paypalnetwork.net
 paypalnetwork.org
+paypalobjects.com
 paypalonline.net
 paypalonline.org
 paypalprepagata.com
