@@ -58,6 +58,9 @@
 
 ## 自定义规则 - 开始
 
+# COM.CN
+(*&*)com.cn
+
 # AcgnX
 (@&!)share.acgnx.net
 (@&!)share.acgnx.se
@@ -107,10 +110,6 @@
 (@%!)cn.bing.com
 (@%!)cn.bing.net
 (@%!)www.bing.com
-
-# 苍穹の下
-#(@&!)000714.xyz
-#(@&!)blueskyxn.com
 
 # Cloudflare
 (@&!)1dot1dot1dot1.cloudflare-dns.com
