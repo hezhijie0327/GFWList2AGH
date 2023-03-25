@@ -4357,6 +4357,7 @@ alliehaze.com
 allinfa.com
 allinternal.com
 allisons.org
+allizom.org
 alljackpotscasino.com
 alljapanesepass.com
 alllsides.com
@@ -9665,6 +9666,7 @@ charter08.com
 charticulator.com
 chase.com
 chat-test-app.firebaseio.com
+chat.openai.com.cdn.cloudflare.net
 chat.stackexchange.com
 chatango.com
 chaterbate.com
@@ -12428,7 +12430,7 @@ dev-theguardian.com
 dev.chromium.org
 devcon.org
 developer-advisor.com
-developer.mozilla.org
+developer.allizom.org
 developerlibrary.com
 developers.box.net
 developers.facebook.com
