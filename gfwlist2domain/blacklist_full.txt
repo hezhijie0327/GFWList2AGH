@@ -3879,6 +3879,7 @@ adpl.org.hk
 adriannapapell.com
 adrianos.org
 ads-a.juicyads.com
+ads-pixiv.net
 ads-twitter.com
 adsa2.9acz1.com
 adsense.com
@@ -6068,6 +6069,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azurehdinsight.cn
 azureiotcentral.com
 azureiotsolutions.com
@@ -28490,6 +28492,7 @@ open.firstory.me
 open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaked.com
 openallweb.com
 openamt.com
