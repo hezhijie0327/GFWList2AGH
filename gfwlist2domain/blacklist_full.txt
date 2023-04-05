@@ -6075,7 +6075,6 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
-azurefd.net
 azurehdinsight.cn
 azureiotcentral.com
 azureiotsolutions.com
@@ -7285,6 +7284,7 @@ bili999.com
 bilibiliba.weebly.com
 bilifl.com
 bilifuli.com
+biliplus.com
 biliworld.com
 bill-safe.com
 bill2-software.com
@@ -9803,6 +9803,7 @@ checkpoint.com
 checkthis.com
 cheezit.com
 chei.us
+chemequations.com
 chemnetbase.com
 chen-lin.idv.tw
 chen0430tw.comyr.com
@@ -22655,6 +22656,7 @@ kadokawa.co.jp
 kadokawagakugei.com
 kaggle.com
 kaggle.io
+kaggleusercontent.com
 kaguragames.com
 kagyu-sfla.org
 kagyu.org
@@ -28505,7 +28507,6 @@ open.firstory.me
 open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaked.com
 openallweb.com
 openamt.com
@@ -30262,6 +30263,7 @@ pornreactor.cc
 pornrips.cc
 pornrox.com
 pornsake.com
+pornscat.org
 pornscum.com
 pornsearchengine.com
 pornsexer.com
