@@ -12062,7 +12062,6 @@ danbooru.donmai.us
 dancemeets.com
 dancingbear.com
 dandalinvoa.com
-dandanzan.cc
 danejones.com
 danemarket.com
 danielbispo.com.br
@@ -20165,6 +20164,7 @@ huayuworld.org
 huaze.org
 hub.fastgit.org
 hub.gf175588.com
+hubblephone.com
 hubg.org
 huc111.com
 huc755.com
@@ -27981,7 +27981,6 @@ nukemanga.com
 nuki-dokoro.com
 nukistream.com
 numbr.com
-nunuyy.cc
 nuorder.com
 nuovelle.ee
 nuovomegavideo.com
