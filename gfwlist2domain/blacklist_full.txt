@@ -5987,6 +5987,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azurehdinsight.cn
 azureiotcentral.com
 azureiotsolutions.com
@@ -28002,6 +28003,8 @@ open.firstory.me
 open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicomproductionae4b.blob.core.windows.net
 openaked.com
 openallweb.com
 openamt.com
@@ -30008,6 +30011,7 @@ prochan.com
 procopytips.com
 proctoscopeexam.com
 prodrive-japan.com
+production-openaicom-storage.azureedge.net
 products.copangroup.com
 profreeporno.com
 program-think-mirror.github.io

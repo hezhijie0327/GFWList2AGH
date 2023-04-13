@@ -5285,6 +5285,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azurehdinsight.cn
 azureiotcentral.com
 azureiotsolutions.com
