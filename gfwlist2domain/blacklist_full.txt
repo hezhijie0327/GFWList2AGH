@@ -27863,7 +27863,6 @@ omnitalk.com
 omnitalk.org
 omniture.com
 omny.fm
-omobi.cc
 omoplanet.com
 omorashi.org
 omscr.com
@@ -33853,6 +33852,7 @@ steamdb.info
 steamdeck.com
 steamedfish.org
 steamgames.com
+steammobile.akamaized.net
 steamoe.com
 steamofporn.com
 steampipe-kr.akamaized.net
