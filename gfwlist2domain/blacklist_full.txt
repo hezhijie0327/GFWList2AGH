@@ -943,6 +943,7 @@ alliance.org.hk
 alliancesages.com
 allinfa.com
 allinternal.com
+allizom.net
 allizom.org
 alljackpotscasino.com
 alljapanesepass.com
@@ -9976,7 +9977,6 @@ intelsoftwarenetwork.com
 intelstore.com
 inteltechnologyprovider.com
 intelvmwarecybersecurity.com
-interactive-examples.mdn.mozilla.net
 interactivebrokers.com
 intercom.com
 intercomassets.com
@@ -11658,6 +11658,7 @@ md-t.org
 mdhcdn.com
 mdialog.com
 mdlf.xyz
+mdn.allizom.net
 mdn.dev
 mdn.mozillademos.org
 mdn.mozit.cloud
