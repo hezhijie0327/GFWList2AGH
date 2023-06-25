@@ -4229,7 +4229,6 @@ crucial.com
 cruel-furies.com
 crunchyroll.com
 crustwebsites.net
-crwdcntrl.net
 cryptocompare.com
 cryptographyengineering.com
 crystalgunnsworld.com
@@ -10206,6 +10205,7 @@ linkideo.com
 linkjunkies.com
 linksalpha.com
 linkshit.com
+linktr.ee
 linkuswell.com
 linode.com
 linotype.com
@@ -15196,6 +15196,7 @@ smartone.com
 smartoneholdings.com
 smartonerobotics.com
 smartsheet.com
+smashwords.com
 smchbooks.com
 smhric.org
 smith.edu
