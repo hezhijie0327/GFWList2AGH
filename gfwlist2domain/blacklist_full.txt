@@ -5243,6 +5243,7 @@ dl.begellhouse.com
 dl.box.net
 dldlinks.com
 dldshare.net
+dler.io
 dlercloud.com
 dlercloud.me
 dlercloud.org
@@ -10606,6 +10607,7 @@ ka-wai.com
 kaamuu.com
 kadokawa.co.jp
 kaggle.com
+kaggle.net
 kaggleusercontent.com
 kagyu.org
 kagyu.org.za
