@@ -11642,6 +11642,8 @@ mdn.dev
 mdn.mozillademos.org
 mdn.mozit.cloud
 mdnkids.com
+mdnplay.dev
+mdnyalp.dev
 mdpi.com
 me-gay.com
 me.me

@@ -10738,6 +10738,8 @@ mdialog.com
 mdlf.xyz
 mdn.dev
 mdnkids.com
+mdnplay.dev
+mdnyalp.dev
 mdpi.com
 me-gay.com
 me.me
@@ -13997,7 +13999,6 @@ qtrac.eu
 qtweeter.com
 qualcomm-email.com
 qualcomm.cn
-qualcomm.com
 qualcommhalo.com
 qualcommlabs.com
 qualcommmea.com
