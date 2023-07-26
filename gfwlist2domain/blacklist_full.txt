@@ -1058,6 +1058,7 @@ amazon.cn
 amazon.co
 amazon.co.jp
 amazon.com
+amazon.dev
 amazon.jobs
 amazon.red
 amazonalexavoxcon.com
@@ -3898,6 +3899,8 @@ cheapshoesvip.com
 cheapwireless04.com
 cheapwirelessbeats.com
 checkgfw.com
+chegg.com
+cheggcdn.com
 chemequations.com
 chemnetbase.com
 chengjuanseo.com
@@ -4212,6 +4215,7 @@ cloudflaretest.com
 cloudflarewarp.com
 cloudfront-test.cn
 cloudfront.cn
+cloudfront.com
 cloudfront.net
 cloudfunctions.net
 cloudgarage.jp
@@ -4232,6 +4236,7 @@ cloupia.com
 cloupia.net
 club.tw
 club1069.com
+clubhouse.com
 clubhouse.pubnubapi.com
 clubhouseapi.com
 clubseventeen.com
@@ -6056,6 +6061,7 @@ epa.gov.tw
 epac.to
 epicbrowser.com
 epicgames.com
+epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -7072,6 +7078,7 @@ foofle.com
 foolsmountain.com
 fooooo.com
 footprint.net
+footprintdns.com
 footseen.com
 footstockings.com
 footwiball.com
@@ -8594,7 +8601,6 @@ hbfile.net
 hbg.com
 hbo.com
 hbo.com.c.footprint.net
-hbo.com.edgesuite.net
 hboasia.com
 hbogo.com
 hbogoasia.com
@@ -11664,6 +11670,7 @@ matrix.org
 matsushimakaede.com
 matters.news
 matters.one
+matters.town
 matthewdgreen.wordpress.com
 mattwilcox.net
 mature-amateur-sex.com
@@ -15169,6 +15176,7 @@ qmov.net
 qmttqg3k.me
 qmzdd.com
 qombol.com
+qooqlevideo.com
 qoos.com
 qooza.hk
 qorno.com
@@ -15292,6 +15300,7 @@ rarbgprx.org
 rarbgto.org
 rarbgunblock.com
 rarbgunblock.org
+rarbgunblocked.org
 rarbgway.org
 raremovie.cc
 raremovie.net
