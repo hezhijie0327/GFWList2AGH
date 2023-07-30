@@ -4197,6 +4197,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
@@ -4207,6 +4208,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflareinsights.com
 cloudflareok.com
+cloudflareportal.com
 cloudflarepreview.com
 cloudflareresolve.com
 cloudflaressl.com
@@ -13343,6 +13345,7 @@ noypf.com
 npa.go.jp
 npa.gov.tw
 npm.community
+npm.edu.tw
 npmjs.com
 npmjs.org
 npnt.me
@@ -14349,6 +14352,8 @@ pieceofplastic.com
 pifpafarabia.com
 pigav.com
 pikabu.monster
+pikpak.me
+pikpakdrive.com
 pillbeatsblackfridaysale.com
 pimg.tw
 pin-cong.com
@@ -16724,6 +16729,7 @@ soumo.info
 soundcloud.com
 soundofhope.kr
 soundofhope.org
+soundon.fm
 soup.io
 soupofmedia.com
 sourceforge.com
