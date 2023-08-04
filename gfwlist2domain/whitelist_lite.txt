@@ -2158,7 +2158,6 @@
 24kdh.com
 24ker.com
 24kplus.com
-24kwx.com
 24maker.com
 24money.com
 24om.com
@@ -3658,7 +3657,6 @@
 51chaoban.com
 51chongdian.net
 51chost.com
-51chuguo.org
 51chuli.com
 51cir.com
 51cjyy.com
@@ -8295,6 +8293,7 @@ amhl.net
 amicool.net
 amif-expo.com
 amijiaoyu.com
+amindbox.com
 aminer.org
 aminglinux.com
 amo9.com
@@ -11684,7 +11683,6 @@ btcsos.com
 btcwatch.com
 btdad.live
 btdad17.xyz
-btddfk.com
 btdog.com
 btgame.com
 btgame01.com
@@ -16768,7 +16766,6 @@ ctoclub.com
 ctoutiao.com
 ctqcw.com
 ctracer.net
-ctrip-lvyou.com
 ctrip-ttd.hk
 ctrip.com
 ctrip.my
@@ -17858,7 +17855,6 @@ dedemao.com
 dedesos.com
 dedeyun.com
 dedezhuji.com
-deehai.com
 deemob.com
 deemos.com
 deepbluenetwork.com
@@ -18877,6 +18873,7 @@ doh.plus
 doh.pub
 dohuo.com
 doido.com
+doii.cc
 doit.am
 doitim.com
 doiua.com
@@ -29137,7 +29134,6 @@ icme14.org
 icminer.com
 icmomo.com
 icmsdev.com
-icmyk.cc
 icnjob.com
 icnkr.com
 icnote.com
@@ -36115,6 +36111,7 @@ linglong.dev
 linglongart.com
 linglonglife.com
 linglongtech.com
+lingmo.org
 lingmovie.com
 lingnanpass.com
 lingocn.com
@@ -36452,7 +36449,6 @@ livesone.net
 livesupport24x7.com
 liveuc.net
 livevideostack.com
-livku.com
 livotre.com
 liwai.com
 liweijia.com
@@ -40422,6 +40418,7 @@ nearcharge.com
 nearsnet.com
 nease.net
 neat-reader.com
+neatifyapp.com
 nebulogy.com
 nedaex.com
 nedigitals.com
@@ -45696,6 +45693,7 @@ rim20.com
 rinbowe.com
 ringdoll.com
 rinlink.com
+rinvay.cc
 ripic.xyz
 rippleos.com
 rippletek.com
@@ -46460,7 +46458,6 @@ sbr-info.com
 sbrj.net
 sbsjk.com
 sbt123.com
-sbwml.net
 sbwxz.com
 sbzj.com
 sc-jiaoyu.com
@@ -48583,7 +48580,6 @@ siyuetian.net
 siyuweb.com
 sizeofvoid.net
 sizuo.com
-sizushaofu.com
 sj-lawyer.com
 sj0763.com
 sj11hb.com
@@ -49619,6 +49615,7 @@ startos.org
 startssl.com
 startup-partner.com
 starwarschina.com
+starx-w.com
 starxn.com
 stat-nba.com
 stat18.com
@@ -52366,7 +52363,6 @@ tourscool.com
 tourye.com
 toushibao.com
 toushivip.com
-toutiao-xinwen.com
 toutiao.com
 toutiao.io
 toutiao.org
@@ -54170,7 +54166,6 @@ venucia.com
 venuscn.com
 venustrain.com
 vephp.com
-ver1.pub
 vercel.com
 verdareto.com
 verisilicon.com
@@ -58506,6 +58501,7 @@ xinfenlei.com
 xinfu888.com
 xinfushe.com
 xing73.com
+xingai.com
 xingames.com
 xingbangip.com
 xingbo.tv
@@ -65323,7 +65319,6 @@ zwjl.net
 zwkf.net
 zwlhome.com
 zwoptical.com
-zwpearl.com
 zws2.com
 zwtianshangm.com
 zwtkl8.com
