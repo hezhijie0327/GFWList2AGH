@@ -1209,7 +1209,6 @@ apk-dl.com
 apk.support
 apk.tw
 apkcombo.com
-apkdler.com
 apkfind.com
 apkmirror.com
 apkmonk.com
@@ -2545,6 +2544,7 @@ bittrex.com
 bitvise.com
 bitwarden.com
 bitz.ai
+bitz.com
 bizarresexuality.com
 bizhat.com
 bizographics.com
@@ -6715,7 +6715,6 @@ fqok.org
 fqrouter.com
 fr-beatsbydrestore.com
 fracebook.com
-fragment.com
 fragrancebay.com
 francecasquebeatssolde.com
 francemail.com
@@ -8752,7 +8751,6 @@ icedrive.net
 iceporn.com
 iceporncasting.com
 icerocket.com
-icfcdn.com
 ichigocandy.com
 ichineseporn.com
 icij.org
@@ -8785,7 +8783,6 @@ icu-project.org
 icuminside.com
 id.au
 idaiwan.com
-iddddg.com
 ideal-teens.com
 idelreal.org
 idemocracy.asia
@@ -8901,7 +8898,6 @@ igoogle.is
 igoogle.it
 igoogle.jo
 igoogle.kz
-igoogle.lv
 igoogle.mn
 igoogle.ms
 igoogle.nl
@@ -8912,7 +8908,6 @@ igoogle.ru
 igoogle.rw
 igoogle.sc
 igoogle.sh
-igoogle.sk
 igoogle.sm
 igoogle.sn
 igoogle.tk
@@ -12579,6 +12574,7 @@ oiktv.com
 oiobbs.com
 oizoblog.com
 ok.ru
+ok.xxx
 okaapps.com
 okayfreedom.com
 okex.com
@@ -17875,6 +17871,7 @@ weiming.info
 weinvoiceit.com
 weiquanwang.org
 weisuo.ws
+weitt.us
 weiyuksj.com
 weknowporn.com
 welcomix.com
