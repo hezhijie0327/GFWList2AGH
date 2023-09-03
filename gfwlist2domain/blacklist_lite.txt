@@ -3864,7 +3864,6 @@ cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
-cloudflare.net
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
@@ -7266,6 +7265,8 @@ ghtv666.top
 ghut.org
 giantessbooru.com
 giantessnight.com
+giffgaff.com
+giffgaff.design
 gifnuki.com
 gifree.com
 giga-web.jp
