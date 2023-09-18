@@ -11099,6 +11099,7 @@ lgrecyclingprogram.com
 lgsalesportal.com
 lhakar.org
 lhasocialwork.org
+li.taipei
 liangyou.net
 liangzhichuanmei.com
 lianhonghong.com
@@ -12266,6 +12267,7 @@ moneyswift.online
 moneywithfacebook.com
 mongodb.com
 mongodb.org
+monica.im
 monitorchina.org
 monitorware.com
 monitrix.net
@@ -18040,7 +18042,6 @@ transangels.com
 transarmuito.com
 transcamslive.com
 translate.goog
-translate.google
 translate.googleapis.com
 translatetheweb.com
 translatewiki.net
