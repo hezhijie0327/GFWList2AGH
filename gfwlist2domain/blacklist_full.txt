@@ -3750,6 +3750,7 @@ cdkworkshop.com
 cdmatech.com
 cdn-apple.com
 cdn-images.mailchimp.com
+cdn-spotify-experiments.conductrics.com
 cdn-terapeak.com
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
@@ -4210,6 +4211,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -4494,6 +4496,7 @@ compython.net
 comscoreresearch.com
 comsoc.org
 conair.me
+conductrics.com
 connect-in-canada.com
 connect.facebook.net
 connectcommerce.cn
