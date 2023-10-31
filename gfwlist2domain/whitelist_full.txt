@@ -8155,6 +8155,9 @@ amo9.com
 amobbs.com
 amoe.cc
 amoere.com
+amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.apps.apple.com
 amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
@@ -29811,6 +29814,9 @@ in955.com
 inabr.com
 inad.com
 inanrenbang.com
+inappcheck-cn.itunes-apple.com.akadns.net
+inappcheck-lb.itunes-apple.com.akadns.net
+inappcheck.itunes.apple.com
 inbeijing.org
 inbilin.com
 inbooker.com
@@ -29902,6 +29908,8 @@ init-p01st.push.apple.com
 init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
+init.gc-lb.apple.com.akadns.net
+init.gc.apple.com
 init.itunes.apple.com
 init.itunes.apple.com.mwcname.com
 initialview.com
@@ -48449,6 +48457,7 @@ skyzms.com
 sl-360.com
 sl.al
 sl153.com
+sl916.com
 sl91d.com
 slamtec.com
 slanissue.com
