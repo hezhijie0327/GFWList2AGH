@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.7
+# Current Version: 1.2.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -183,6 +183,75 @@ function GenerateRules() {
                 FileName && GenerateDefaultUpstream && for foreign_dns_task in "${!foreign_dns[@]}"; do
                    GenerateRulesProcess
                 done
+            fi
+        ;;
+        adguardhome_new)
+            domestic_dns=(
+                # "https://dns.alidns.com:443/dns-query"
+                # "https://dns.ipv6dns.com:443/dns-query"
+                # "https://doh.360.cn:443/dns-query"
+                "https://doh.pub:443/dns-query"
+                "tls://dns.alidns.com:853"
+                # "tls://dns.ipv6dns.com:853"
+                # "tls://dot.360.cn:853"
+                # "tls://dot.pub:853"
+            )
+            foreign_dns=(
+                # "https://dns.google:443/dns-query"
+                "https://dns.opendns.com:443/dns-query"
+                # "https://dns11.quad9.net:443/dns-query"
+                # "https://dns64.dns.google:443/dns-query"
+                "tls://dns.google:853"
+                # "tls://dns.opendns.com:853"
+                # "tls://dns11.quad9.net:853"
+                # "tls://dns64.dns.google:853"
+            )
+            function GenerateRulesHeader() {
+                echo -n "[/" >> "${file_path}"
+            }
+            function GenerateRulesBody() {
+                if [ "${generate_mode}" == "full" ] || [ "${generate_mode}" == "full_combine" ]; then
+                    if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "blackwhite" ]; then
+                        for cnacc_data_task in "${!cnacc_data[@]}"; do
+                            echo -n "${cnacc_data[$cnacc_data_task]}/" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "whiteblack" ]; then
+                        for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                            echo -n "${gfwlist_data[$gfwlist_data_task]}/" >> "${file_path}"
+                        done
+                    fi
+                elif [ "${generate_mode}" == "lite" ] || [ "${generate_mode}" == "lite_combine" ]; then
+                    if [ "${generate_file}" == "black" ] || [ "${generate_file}" == "blackwhite" ]; then
+                        for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                            echo -n "${lite_cnacc_data[$lite_cnacc_data_task]}/" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "white" ] || [ "${generate_file}" == "whiteblack" ]; then
+                        for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                            echo -n "${lite_gfwlist_data[$lite_gfwlist_data_task]}/" >> "${file_path}"
+                        done
+                    fi
+                fi
+            }
+            function GenerateRulesFooter() {
+                if [ "${dns_mode}" == "default" ]; then
+                    echo -e "]#" >> "${file_path}"
+                elif [ "${dns_mode}" == "domestic" ]; then
+                    echo -e "]${domestic_dns[*]}" >> "${file_path}"
+                elif [ "${dns_mode}" == "foreign" ]; then
+                    echo -e "]${foreign_dns[*]}" >> "${file_path}"
+                fi
+            }
+            function GenerateRulesProcess() {
+                GenerateRulesHeader
+                GenerateRulesBody
+                GenerateRulesFooter
+            }
+            if [ "${dns_mode}" == "default" ]; then
+                FileName && GenerateDefaultUpstream && GenerateRulesProcess
+            elif [ "${dns_mode}" == "domestic" ]; then
+                FileName && GenerateDefaultUpstream && GenerateRulesProcess
+            elif [ "${dns_mode}" == "foreign" ]; then
+                FileName && GenerateDefaultUpstream && GenerateRulesProcess
             fi
         ;;
         bind9)
@@ -380,6 +449,19 @@ function OutputData() {
     software_name="adguardhome" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
     software_name="adguardhome" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
+    ## AdGuard Home (New)
+    software_name="adguardhome_new" && generate_file="black" && generate_mode="full_combine" && dns_mode="default" && GenerateRules
+    software_name="adguardhome_new" && generate_file="black" && generate_mode="lite_combine" && dns_mode="default" && GenerateRules
+    software_name="adguardhome_new" && generate_file="white" && generate_mode="full_combine" && dns_mode="default" && GenerateRules
+    software_name="adguardhome_new" && generate_file="white" && generate_mode="lite_combine" && dns_mode="default" && GenerateRules
+    software_name="adguardhome_new" && generate_file="blackwhite" && generate_mode="full_combine" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome_new" && generate_file="blackwhite" && generate_mode="lite_combine" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome_new" && generate_file="whiteblack" && generate_mode="full_combine" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome_new" && generate_file="whiteblack" && generate_mode="lite_combine" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome_new" && generate_file="blackwhite" && generate_mode="full" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome_new" && generate_file="blackwhite" && generate_mode="lite" && dns_mode="domestic" && GenerateRules
+    software_name="adguardhome_new" && generate_file="whiteblack" && generate_mode="full" && dns_mode="foreign" && GenerateRules
+    software_name="adguardhome_new" && generate_file="whiteblack" && generate_mode="lite" && dns_mode="foreign" && GenerateRules
     ## Bind9
     software_name="bind9" && generate_file="black" && generate_mode="full" && GenerateRules
     software_name="bind9" && generate_file="black" && generate_mode="lite" && GenerateRules
