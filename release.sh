@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.8
+# Current Version: 1.2.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -68,7 +68,7 @@ function GenerateRules() {
         else
             generate_temp="debug"
         fi
-        if [ "${software_name}" == "adguardhome" ] || [ "${software_name}" == "domain" ]; then
+        if [ "${software_name}" == "adguardhome" ] || [ "${software_name}" == "adguardhome_new" ] || [ "${software_name}" == "domain" ]; then
             file_extension="txt"
         elif [ "${software_name}" == "bind9" ] || [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ] || [ "${software_name}" == "unbound" ]; then
             file_extension="conf"
@@ -84,6 +84,29 @@ function GenerateRules() {
     function GenerateDefaultUpstream() {
         case ${software_name} in
             adguardhome)
+                if [ "${generate_mode}" == "full" ] || [ "${generate_mode}" == "lite" ]; then
+                    if [ "${generate_file}" == "blackwhite" ]; then
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo "${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "whiteblack" ]; then
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo "${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
+                        done
+                    fi
+                else
+                    if [ "${generate_file}" == "black" ]; then
+                        for domestic_dns_task in "${!domestic_dns[@]}"; do
+                            echo "${domestic_dns[$domestic_dns_task]}" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "white" ]; then
+                        for foreign_dns_task in "${!foreign_dns[@]}"; do
+                            echo "${foreign_dns[$foreign_dns_task]}" >> "${file_path}"
+                        done
+                    fi
+                fi
+            ;;
+            adguardhome_new)
                 if [ "${generate_mode}" == "full" ] || [ "${generate_mode}" == "lite" ]; then
                     if [ "${generate_file}" == "blackwhite" ]; then
                         for foreign_dns_task in "${!foreign_dns[@]}"; do
