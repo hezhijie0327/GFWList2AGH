@@ -70,6 +70,9 @@
 18avx.com
 18board.com
 18board.info
+18comic-god.cc
+18comic-god.club
+18comic-god.xyz
 18comic.cc
 18comic.company
 18comic.org
@@ -462,6 +465,7 @@
 9zipai.net
 a-normal-day.com
 a-teenz.com
+a.ppy.sh
 a.se
 a0pple.net
 a1av.xyz
@@ -599,8 +603,12 @@ adelaidebbs.com
 adgoogle.net
 adguard-dns.com
 adguard-vpn.com
+adguard-vpn.online
+adguard.app
 adguard.com
+adguard.info
 adguard.org
+adguardvpn.com
 adhelpnews.com
 adidas.com
 admeld.com
@@ -661,6 +669,7 @@ ads-twitter.com
 adsense.com
 adsensecustomsearchads.com
 adsenseformobileapps.com
+adtidy.net
 adtidy.org
 adult-h.com
 adult-home-videos.com
@@ -1666,6 +1675,7 @@ assesphoto.com
 assets.bwbx.io
 assets.fanart.tv
 assets.fastgit.org
+assets.ppy.sh
 assets1.xboxlive.com
 assets2.xboxlive.com
 assetsadobe.com
@@ -3508,6 +3518,7 @@ c-ij.com
 c-span.org
 c-spanvideo.org
 c.mi.com
+c.ppy.sh
 c0930.com
 c100tibet.org
 c2cx.com
@@ -10129,6 +10140,7 @@ ipfs.eth.aragon.network
 ipfs.fleek.co
 ipfs.io
 ipfs.runfission.com
+ipfs.tech
 iphine.com
 iphone-cd.com
 iphone-cn.com
@@ -10602,6 +10614,7 @@ jkforum.net
 jkub.com
 jm98.cc
 jma.go.jp
+jmcomic.ltd
 jmcomic.me
 jmcomic.mobi
 jmcomic.moe
@@ -11036,6 +11049,7 @@ lausan.hk
 lavteam.org
 law.com
 laxd.com
+lazer.ppy.sh
 lazymike.com
 lbank.info
 lbfmaddiction.com
@@ -11476,6 +11490,7 @@ m.hkgalden.com
 m.me
 m.plixi.com
 m.slandr.net
+m1.ppy.sh
 m2m.com
 m5ir5np1.shop
 m8008.com
@@ -12444,6 +12459,7 @@ moviesneek.com
 moxing.mobi
 moxing.news
 moystoys.com
+mozgcp.net
 mozilla.com
 mozilla.community
 mozilla.net
@@ -13384,6 +13400,7 @@ nordvpn.com
 norsk.mobi
 notepad-plus-plus.org
 notify.dropboxapi.com
+notify.ppy.sh
 notion-static.com
 notion.com
 notion.new
@@ -13926,6 +13943,7 @@ oss-eu-west-1.aliyuncs.com
 oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
+osu.ppy.sh
 osxdaily.com
 otaku-168.com
 otaku18a.info
@@ -14989,6 +15007,7 @@ pplah.com
 pplusstatic.com
 ppp91.cc
 pppds.com
+ppy.sh
 practicalbusinessskills.com
 practicalmoneyskills.cn
 practivate.adobe
@@ -16115,6 +16134,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry.ppy.sh
 senzuritv.net
 seqing.one
 seqingwangzhan.pro
@@ -16856,6 +16876,7 @@ sparknotes.com
 spb.com
 speakerdeck.com
 specialtyheadphones.com
+spectator.ppy.sh
 spectraltube.com
 specxinzl.jigsy.com
 speeddreamride.com
