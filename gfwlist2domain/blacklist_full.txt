@@ -3767,6 +3767,7 @@ cdmatech.com
 cdn-apple.com
 cdn-images.mailchimp.com
 cdn-spotify-experiments.conductrics.com
+cdn-telegram.org
 cdn-terapeak.com
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
@@ -6925,6 +6926,7 @@ fffff.at
 fffucked.com
 fflick.com
 fflnk.net
+fflogs.com
 ffmpeg.org
 ffotolia.com
 ffprofile.com
