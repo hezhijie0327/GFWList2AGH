@@ -3884,6 +3884,7 @@ cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
 cloudflare-ech.com
+cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -9403,6 +9404,7 @@ is-a-hunter.com
 is.gd
 isaacmao.com
 isasecret.com
+isbgpsafeyet.com
 isca-speech.org
 ischool.com
 isfocus.net
@@ -11789,6 +11791,7 @@ mymom.info
 mymusclevideo.com
 mynetav.net
 mynetav.org
+mynetname.net
 mynike.com
 mynumber.org
 myoctocat.com
