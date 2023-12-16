@@ -9125,6 +9125,7 @@ b2b168.org
 b2b179.com
 b2b6.com
 b2baa.com
+b2bgo.com
 b2bic.com
 b2bname.com
 b2bvip.com
@@ -20023,6 +20024,7 @@ edu80.com
 edu84.com
 edu84.net
 edu88.com
+eduapaashwc.com
 eduartisan.com
 educg.net
 educhn.net
@@ -25842,6 +25844,7 @@ hbzywh.com
 hc-byq.com
 hc-cdn.com
 hc-software.com
+hc-sre.com
 hc01.com
 hc121.com
 hc23.com
@@ -27687,6 +27690,7 @@ huaweicloud-smn.net
 huaweicloud.com
 huaweicloudapis.com
 huaweicloudlive.com
+huaweicloudsite.com
 huaweicloudwaf.com
 huaweidevice.com
 huaweidun.com
@@ -27695,8 +27699,10 @@ huaweimall.com
 huaweimarine.com
 huaweimarketplace.com
 huaweimossel.com
+huaweioneaccess.com
 huaweirom.com
 huaweisafedns.com
+huaweisre.com
 huaweistatic.com
 huaweiuniversity.com
 huaweiyun.com
@@ -28184,6 +28190,7 @@ hwadmin.com
 hwangda.com
 hwanjia.com
 hwasmart.com
+hwastro.com
 hwbaoan.com
 hwccpc.com
 hwcdnsre.com
@@ -28194,6 +28201,7 @@ hwclouds-dns.net
 hwclouds.com
 hwclouds.mobi
 hwclouds.net
+hwcloudsite.com
 hwcloudvis.com
 hwcpb.com
 hwcrazy.com
@@ -39534,6 +39542,7 @@ myhuilv.com
 myhwcdn.com
 myhwcloudlive.com
 myhwclouds.com
+myhwclouds.net
 myie.me
 myie9.com
 myilibrary.com
@@ -54153,6 +54162,7 @@ vsaker.com
 vsane.com
 vsbclub.com
 vsbuys.com
+vscode.download.prss.microsoft.com
 vsens.com
 vshangdaili.com
 vsharecloud.com
