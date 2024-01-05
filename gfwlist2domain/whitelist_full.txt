@@ -12604,6 +12604,7 @@ cdn-v.com
 cdn.ampproject.org
 cdn.apple-mapkit.com
 cdn.fun
+cdn.jetbrains.com
 cdn.marketplaceimages.windowsphone.com
 cdn.razersynapse.com
 cdn.samsung.com
