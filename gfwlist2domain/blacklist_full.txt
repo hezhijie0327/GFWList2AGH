@@ -497,6 +497,7 @@
 9xav.cc
 9xlove.xyz
 9zipai.net
+a-msedge.net
 a-normal-day.com
 a-teenz.com
 a.ppy.sh
@@ -2692,6 +2693,7 @@ binancezh.pro
 binancezh.top
 bing.com
 bing.net
+bing123.com
 bingads.com
 bingagencyawards.com
 bingapis.com
@@ -4220,6 +4222,7 @@ clipsbai.com
 clipseksi.com
 clitgames.com
 cloakpoint.com
+clock.isc.org
 clojure.org
 cloud.cupronickel.goog
 cloud.mail.ru
@@ -8016,7 +8019,6 @@ globalrescue.net
 globalriskregulator.com
 globalsecurity.org
 globalsign-media.com
-globalsign.com
 globalsign.net
 globalspec.com
 globaltm.org
@@ -10266,6 +10268,7 @@ is.gd
 isaacmao.com
 isasecret.com
 isbgpsafeyet.com
+isc.org
 isc.sans.edu
 isca-speech.org
 ischool.com
@@ -12082,6 +12085,7 @@ mihr.com
 mihua.org
 miitomo.com
 miiverse.com
+mikanani.me
 mike.cz.cc
 mikesoltys.com
 mikocon.com
@@ -13518,6 +13522,7 @@ ntdtv.org
 ntdtv.ru
 ntdtvla.com
 ntdvn.com
+ntp.ripe.net
 ntrfun.com
 ntsna.gov.tw
 ntten-mg.buzz
@@ -14676,6 +14681,7 @@ polymerhk.com
 polymerproject.org
 ponyanimalsex.com
 poofetish.com
+pool.ntp.org
 poolin.com
 poop-pee.online
 poopee-puke.com
@@ -15724,6 +15730,7 @@ riotgames.info
 riotgames.net
 riotpin.com
 riotpoints.com
+ripe.net
 ripple.com
 riseup.net
 risextube.com
@@ -15854,6 +15861,7 @@ s-bluemix.net
 s-books.com
 s-cashonmobile.com
 s-cute.com
+s-dc-msedge.net
 s-dragon.org
 s-msedge.net
 s-msft.com
@@ -17073,6 +17081,7 @@ sstm.moe
 sstmlt.moe
 sstmlt.net
 ssx3.com
+st.com
 st.luluku.pw
 stackage.org
 stackapps.com
