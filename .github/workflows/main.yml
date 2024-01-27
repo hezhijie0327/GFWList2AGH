@@ -1,4 +1,4 @@
-# Current Version: 1.0.3
+# Current Version: 1.0.4
 
 name: Build & Release hezhijie0327/GFWList2AGH
 
@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Step 1 - Checkout
-              uses: actions/checkout@v3.1.0
+              uses: actions/checkout@v4
             - name: Step 2 - Build GFWList2AGH
               run: |
                   curl -s "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/source/release.sh" | sudo bash
