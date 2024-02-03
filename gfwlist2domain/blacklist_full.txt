@@ -12573,6 +12573,7 @@ msads.net
 mschallenge2018.com
 mscrl.microsoft.com
 msdn.com
+msedge.net
 msflj.vip
 msft.info
 msft.net
@@ -13692,7 +13693,6 @@ oed.com
 oex.com
 offbeatchina.com
 offerairjordanlebron.com
-office365.com
 office365love.com
 office365tw.com
 officecdn-microsoft-com.akamaized.net
