@@ -3549,6 +3549,7 @@ c4assets.com
 c4rex.co
 c4slive.com
 ca.file.myqcloud.com
+ca.gov
 cableav.xyz
 cablegatesearch.net
 cabletvdirectv.com
@@ -5476,6 +5477,7 @@ doom9.org
 dopaminegirl.com
 dorjeshugden.com
 doseofporn.com
+dot.ca.gov
 dot.net
 dotcernpilot.info
 dotdeb.org
@@ -10756,6 +10758,7 @@ jquery.com
 jquerymobile.com
 jqueryui.com
 jr24h.com
+jrf.org.tw
 js.org
 js.revsci.net
 js7k.com
@@ -17200,6 +17203,7 @@ staticflickr.com
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
+stats.wp.com
 statsmakemecry.com
 statueofdemocracy.org
 staxus.com
@@ -19931,6 +19935,7 @@ wrds-www.wharton.upenn.edu
 wrenchead.com
 wretch.cc
 writer.zoho.com
+wsimg.com
 wsj.com
 wsj.jobs
 wsj.net
