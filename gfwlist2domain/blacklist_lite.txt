@@ -557,6 +557,7 @@ acer-group.com
 aceros-de-hispania.com
 acevpn.com
 acg18.me
+acgbox.link
 acgbox.org
 acgcf.com
 acgdg.com
@@ -2526,6 +2527,7 @@ bingads.com
 bingagencyawards.com
 bingapis.com
 bingapistatistics.com
+bingparachute.com
 bingsandbox.com
 bingvisualsearch.com
 bingworld.com
@@ -7436,6 +7438,7 @@ globalrescue.net
 globalriskregulator.com
 globalsecurity.org
 globalsign-media.com
+globalsign.cloud
 globalspec.com
 globaltm.org
 globalvoices.org
