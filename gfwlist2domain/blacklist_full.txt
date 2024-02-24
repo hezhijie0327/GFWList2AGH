@@ -5520,7 +5520,6 @@ com.np
 com.om
 com.pa
 com.pg
-com.ph
 com.pl
 com.pr
 com.pt
@@ -5534,7 +5533,6 @@ com.sn
 com.sv
 com.tj
 com.tn
-com.tr
 com.tt
 com.ua
 com.uk
@@ -9641,7 +9639,6 @@ globalsign.be
 globalsign.ch
 globalsign.cloud
 globalsign.co.uk
-globalsign.com
 globalsign.com.au
 globalsign.com.br
 globalsign.com.hk
@@ -9724,7 +9721,6 @@ gofuckmenow.com
 gofundme.com
 gog-statics.com
 gog.com
-gog.qtlglb.com
 gogle.com
 gogle.de
 gogo-load.com
@@ -12526,7 +12522,6 @@ iyouport.com
 iyouport.org
 iza.ne.jp
 izaobao.us
-izatcloud.net
 izihost.org
 izles.net
 izlesem.org
@@ -14983,7 +14978,6 @@ moeaic.gov.tw
 moeero-library.com
 moeerolibrary.com
 moefuns.co
-moegirl.org
 moeimg.net
 moemax.net
 moez-m.com
@@ -16330,7 +16324,6 @@ ntp.fiord.ru
 ntp.nat.ms
 ntp.nic.cz
 ntp.nict.jp
-ntp.org
 ntp.ripe.net
 ntp.se
 ntp.ufe.cz
@@ -16833,7 +16826,6 @@ org.au
 org.cn
 org.hk
 org.il
-org.in
 org.mx
 org.nz
 org.sg
@@ -23616,7 +23608,6 @@ weblagu.com
 weblive-hamivideo.cdn.hinet.net
 webmoneyinfo.com
 webmproject.org
-webnovel.com
 webobjects.co.uk
 webobjects.com
 webobjects.de

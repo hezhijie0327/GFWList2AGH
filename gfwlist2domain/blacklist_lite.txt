@@ -623,7 +623,6 @@ accv.es
 acebooik.com
 acebook.com
 acer-group.com
-acer.com
 aceros-de-hispania.com
 acevpn.com
 acg18.me
@@ -706,7 +705,6 @@ admeld.com
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
-adobe.com
 adobe.io
 adobe.ipp
 adobe.ly
@@ -990,7 +988,6 @@ akamai-sucks.net
 akamai-thailand.com
 akamai-thailand.net
 akamai-trials.com
-akamai.net
 akamaiedge.net
 akamaientrypoint.net
 akamaietpcnctest.com
@@ -1011,7 +1008,6 @@ akamaitech.net
 akamaitechnologies.com
 akamaitechnologies.net
 akamaized-staging.net
-akamaized.net
 akamaizercentral.com
 akamak.com
 akamam.com
@@ -1300,7 +1296,6 @@ amplifyframework.com
 amplitude.com
 ampproject.com
 ampproject.net
-ampproject.org
 ams02.space
 amsterdamhotescort.com
 amsterdamluxescort.com
@@ -2896,8 +2891,6 @@ binancezh.net
 binancezh.pro
 binancezh.sh
 binancezh.top
-bing.com
-bing.net
 bing123.com
 bingads.com
 bingagencyawards.com
@@ -4610,7 +4603,6 @@ cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
-cloudflare.net
 cloudflare.tv
 cloudflareaccess.com
 cloudflareapps.com
@@ -4856,7 +4848,6 @@ com.np
 com.om
 com.pa
 com.pg
-com.ph
 com.pl
 com.pr
 com.pt
@@ -4870,7 +4861,6 @@ com.sn
 com.sv
 com.tj
 com.tn
-com.tr
 com.tt
 com.ua
 com.uk
@@ -5386,8 +5376,6 @@ deiightfuidates.net
 deja.com
 delcamp.net
 delicious.com
-dell-brand.com
-dell.com
 dellcdn.com
 delvenetworks.com
 demandware.com
@@ -6626,7 +6614,6 @@ epochtimestr.com
 epochweek.com
 epochweekly.com
 eporner.com
-eprintsw.com
 equinenow.com
 erabaru.net
 erepublik.com
@@ -7247,7 +7234,6 @@ fapxl.com
 faqserv.com
 fareastpornhub.com
 farfetch-apps.com
-farfetch-contents.com
 farfetch.com
 farfetch.net
 faronics.ca
@@ -8568,11 +8554,9 @@ globalsign-media.com
 globalsign.be
 globalsign.ch
 globalsign.cloud
-globalsign.com
 globalsign.es
 globalsign.eu
 globalsign.fr
-globalsign.net
 globalsign.nl
 globalspec.com
 globaltm.org
@@ -8638,7 +8622,6 @@ goduckgo.com
 gofucker.com
 gofuckmenow.com
 gofundme.com
-gog-statics.com
 gog.com
 gogle.com
 gogle.de
@@ -11090,7 +11073,6 @@ iyottube.com
 iyouport.com
 iyouport.org
 izaobao.us
-izatcloud.net
 izihost.org
 izles.net
 izlesem.org
@@ -12109,7 +12091,6 @@ liuhefabu.club
 liujianshu.com
 liuxiaobo.net
 liuxiaotong.com
-live.com
 live.eu
 live.net
 liveauction.com
@@ -13318,7 +13299,6 @@ modular.im
 moeero-library.com
 moeerolibrary.com
 moefuns.co
-moegirl.org
 moeimg.net
 moemax.net
 moez-m.com
@@ -14211,7 +14191,6 @@ nike-uk.com
 nike-us.com
 nike-usa.com
 nike.ci
-nike.com
 nike.gy
 nike.hk
 nike.host
@@ -14515,7 +14494,6 @@ ntdtv.org
 ntdtv.ru
 ntdtvla.com
 ntdvn.com
-ntp.org
 ntp.se
 ntrfun.com
 ntten-mg.buzz
@@ -14961,7 +14939,6 @@ org.au
 org.cn
 org.hk
 org.il
-org.in
 org.mx
 org.nz
 org.sg
@@ -16470,7 +16447,6 @@ qt.io
 qtrac.eu
 qtweeter.com
 qualcomm-email.com
-qualcomm.com
 qualcomm.de
 qualcomm.fr
 qualcommhalo.com
@@ -16738,7 +16714,6 @@ redditmedia.com
 redditstatic.com
 redfaptube.com
 redgifs.com
-redhat.com
 redhat.org
 redhdtube.xxx
 redhotlabs.com
@@ -17052,8 +17027,6 @@ samair.ru
 sambaporno.com
 sambhota.org
 samebags.com
-samsung.com
-samsungapps.com
 samsungcloud.com
 samsungdm.com
 samsunggalaxyfriends.com
@@ -18201,7 +18174,6 @@ sstm.moe
 sstmlt.moe
 sstmlt.net
 ssx3.com
-st.com
 stackage.org
 stackapps.com
 stackauth.com
@@ -18836,7 +18808,6 @@ terrlficdates.com
 tesla.com
 tesla.services
 teslaenergy.services
-teslamotors.com
 teslazta.net
 testonfox.com
 tettediferro.it
@@ -19761,11 +19732,9 @@ uber.com
 ubereats.com
 uberproxy.net
 ubertags.com
-ubi.com
 ubisoft.com
 ubisoftconnect.com
 ublock.org
-ubnt.com
 ubnw.net
 ubuntu-touch.io
 ubuntu.com
@@ -20901,7 +20870,6 @@ webkitgtk.org
 weblagu.com
 webmoneyinfo.com
 webmproject.org
-webnovel.com
 webobjects.com
 webobjects.de
 webobjects.eu
@@ -21108,9 +21076,7 @@ windowsazure.com
 windowscommunity.net
 windowsmarketplace.com
 windowsphone-int.com
-windowsphone.com
 windowsphoneme.com
-windowssearch.com
 windowsuem.com
 windscribe.com
 windy.com
