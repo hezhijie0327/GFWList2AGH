@@ -1745,6 +1745,7 @@ archive-it.org
 archive.fo
 archive.is
 archive.li
+archive.md
 archive.org
 archive.ph
 archive.today
@@ -4438,6 +4439,7 @@ chyoa.com
 ci-en.jp
 ci-en.net
 ciattackers.com
+ciciai.com
 cienen.com
 cilk.com
 cilk.net
