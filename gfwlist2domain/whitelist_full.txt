@@ -7582,8 +7582,6 @@ acconsys.com
 accopower.com
 account.cdnetworks.com
 account.htcvive.com
-accounts.xn--9trs65b.com
-accounts.xn--ggle-55da.com
 accsh.org
 acctdns.com
 acctdns.net
@@ -11068,7 +11066,6 @@ bdzjdsagslb.com
 be-xx.com
 be1775.com
 be90.com
-beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -18018,9 +18015,6 @@ coreesports.net
 coreldrawchina.com
 corlercar888.com
 corp-email.com
-corp.goog
-corp.google.com
-corp.googleapis.com
 corpautohome.com
 corpease.net
 corpize.com
@@ -51305,8 +51299,6 @@ redicecn.com
 redidc.com
 redirector.bdn.dev
 redirector.c.chat.google.com
-redirector.c.docs.google.com
-redirector.c.drive.google.com
 redirector.c.mail.google.com
 redirector.c.pack.google.com
 redirector.c.play.google.com
@@ -60923,7 +60915,6 @@ uoozi.com
 uostools.com
 uouo123.com
 uovz.com
-up.corp.goog
 up360.com
 up4dev.com
 up71.com
