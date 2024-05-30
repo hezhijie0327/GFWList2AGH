@@ -13913,6 +13913,7 @@ logicoolg.com
 login-account.net
 login-paypal.com
 login-paypal.info
+login.microsoftonline.com
 login.target.com
 logiqx.com
 logitech.biz
@@ -19720,6 +19721,7 @@ sekswebsite.nl
 sekur1213.guru
 selectanescort.com
 selectyourgame.com
+self.events.data.microsoft.com
 selfloversworld.com
 sellclassics.com
 sellercommunity.com
