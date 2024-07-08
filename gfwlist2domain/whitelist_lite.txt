@@ -9119,7 +9119,6 @@ aligaofang.com
 aligfwaf.com
 alighting.com
 alihd.net
-alihealth.hk
 alihuahua.com
 aliimg.com
 alijijinhui.org
@@ -10919,6 +10918,7 @@ baidu120.cc
 baidu123.com
 baidu521.com
 baiduads.com
+baiduapp.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -14764,7 +14764,6 @@ ccbleasing.com
 ccbookfair.com
 ccbpension.com
 ccbride.com
-ccbseoul.com
 ccbxt.com
 cccbs.net
 cccc-capital.com
@@ -16848,7 +16847,6 @@ chinaums.com
 chinaun.net
 chinaunicom-a.com
 chinaunicom.com
-chinaunicomglobal.com
 chinaunionpay.com
 chinaunionpay.net
 chinauniversalasset.com
@@ -19671,10 +19669,6 @@ ctdzsk.com
 cteaw.com
 ctecdcs.com
 ctex.org
-ctexcel.ca
-ctexcel.com
-ctexcel.fr
-ctexcel.us
 ctfhub.com
 ctfile.com
 ctfile.net
@@ -21626,10 +21620,8 @@ didapinche.com
 didatravel.com
 didctf.com
 diddgame.com
-didi-food.com
 didialift.com
 didiapp.com
-didiaustralia.blog
 didibear.com
 didichuxing.com
 didichuxing.net
@@ -21637,7 +21629,6 @@ dididadidi.com
 dididapiao.com
 dididawo.com
 dididi88.com
-didiglobal.com
 didipay.com
 didiqiche.com
 didishijie.com
@@ -23088,8 +23079,10 @@ duunion.com
 duwenxue.com
 duwenz.com
 duwenzhang.com
+duxiaoman-int.com
 duxiaoman.com
 duxiaomanfintech.com
+duxiaomantech.com
 duxiaoshuo.com
 duxiu.com
 duyandb.com
@@ -23169,10 +23162,15 @@ dxiazaicc.com
 dxjh.net
 dxjs.com
 dxlfile.com
+dxm-cdn.com
+dxm-int.com
 dxm-yibai.com
 dxmjinr.com
+dxmlcf.com
+dxmlcfintech.com
 dxmpay.com
 dxmstatic.com
+dxmyqh.com
 dxnky.com
 dxpmedia.com
 dxqyy.com
@@ -24314,7 +24312,6 @@ emqx.net
 emr-volces.com
 ems-audio.com
 ems517.com
-emsec.hk
 emshost.com
 emshua.com
 emsym.com
@@ -37506,8 +37503,6 @@ jd-zd.com
 jd.co
 jd.com
 jd.hk
-jd.id
-jd.ru
 jd.shop
 jd100.com
 jd120.com
@@ -39772,6 +39767,7 @@ juejinchain.com
 juejinqifu.com
 juemei.com
 juemuren4449.com
+juequling.com
 juesheng.com
 juewei.com
 juexiang.com
@@ -64284,7 +64280,6 @@ trickypen.com
 triggerdelivery.com
 trinitigame.com
 trioisobardev.com
-trip.com
 trip8080.com
 tripbaba.com
 tripbe.com
