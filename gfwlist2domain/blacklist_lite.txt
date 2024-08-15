@@ -1398,8 +1398,10 @@ ancsconf.org
 andfaraway.net
 android-x86.org
 android.com
+androidauthority.com
 androidify.com
 androidplus.co
+androidpolice.com
 androidtv.com
 andygod.com
 andysparis.com
@@ -17246,6 +17248,7 @@ redtube.blog
 redtube.com
 redtube9.com
 redtubepremium.com
+redvideo.io
 redwap-xxx.com
 redwap.me
 redwap.pro
@@ -18885,6 +18888,7 @@ storesense.com
 stories.google
 storiesonline.net
 storify.com
+storj.io
 storm.mg
 stormmediagroup.com
 storyful.com
@@ -19278,6 +19282,7 @@ technews.tw
 technics.com
 technologyandsociety.org
 technorati.com
+techradar.com
 techsmith.com
 techspot.com
 techstreet.com
@@ -19797,6 +19802,7 @@ tokyotosho.se
 tomatespodres.com
 tomonews.net
 tomovie.net
+tomsguide.com
 tomshardware.com
 tonec.com
 tonicmovies.com
@@ -20477,6 +20483,7 @@ usaip.eu
 usatoday.com
 usatodaynetworkservice.com
 usc.edu
+uscardforum.com
 uscnpm.org
 uselessjunk.com
 usembassy.gov
@@ -22928,6 +22935,7 @@ zb.live
 zbporn.com
 zctb.buzz
 zdassets.com
+zdnet.com
 zdusercontent.com
 zee.com
 zee5.com
