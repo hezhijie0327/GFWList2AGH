@@ -1675,7 +1675,6 @@ api.linksalpha.com
 api.mixpanel.com
 api.nebula-emby.com
 api.news
-api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
 api.viu.now.com
@@ -3603,7 +3602,6 @@ blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
-blog.qooza.hk
 blog.ranxiang.com
 blog.sina.com.tw
 blog.sogoo.org
@@ -12858,6 +12856,7 @@ iutunes.com
 ivacy.com
 iverycd.com
 ivintageporn.com
+ivonblog.com
 ivpn.net
 iw8j.cc
 iwank.tv
@@ -12899,6 +12898,7 @@ jamaat.org
 jambotube.com
 jamestown.org
 jamyangnorbu.com
+jan.ai
 jandyx.com
 janor6.net
 janwongphoto.com
