@@ -10979,6 +10979,7 @@ herokussl.com
 herringnetwork.com
 hetzner.cloud
 hetzner.com
+hetzner.company
 hetzner.de
 heungkongdiscuss.com
 hex.pm
@@ -23059,6 +23060,7 @@ uplynk.com
 upmedia.mg
 upornia.com
 uporno.xxx
+upos-hz-mirrorakam.akamaized.net
 uproxy.org
 uptodown.com
 upwill.org

@@ -13149,7 +13149,6 @@ bilibili.cc
 bilibili.co
 bilibili.com
 bilibili.net
-bilibili.tv
 bilibili996.com
 bilibiligame.co
 bilibiligame.net
@@ -13170,7 +13169,6 @@ biligo.com
 biligx.com
 bilihot.com
 biliimg.com
-biliintl.com
 bilinovel.com
 bilive.com
 bilivideo.com
@@ -42020,7 +42018,6 @@ ipv6dns.com
 ipyy.com
 ipzps.com
 ipzuiduo.com
-iq.com
 iq123.com
 iqalliance.org
 iqbuud.lol
@@ -52364,6 +52361,7 @@ manewvr.com
 manfen.net
 manfen5.com
 manfrottoclub.com
+manga.bilibili.com
 mangafuna.xyz
 manganesenanhai.com
 mangg.com
@@ -63550,6 +63548,7 @@ rngtest.com
 rnhy.net
 rnmtb.com
 rnpagoc.site
+ro.com
 ro50.com
 road-group.com
 roadjava.com
@@ -70880,12 +70879,14 @@ tapdb.com
 tapdb.net
 tapenjoy.com
 tapimg.com
+tapimg.net
 tapotiexie.com
 tappile.com
 tapque.com
 tapsvc.com
 taptap-api.com
 taptap.com
+taptap.io
 taptapcode.com
 taptapdada.com
 taraniss.com
