@@ -8186,6 +8186,7 @@ aaayun.com
 aabooo.com
 aabux.com
 aad5.com
+aadcloud.com
 aadongman.com
 aads-cng.net
 aafxw.com
@@ -9860,7 +9861,6 @@ amp-api.media.apple.com
 amp-api.music.apple.com
 ampcn.com
 amplesky.com
-amplifi.com
 amplly.com
 ampmake.com
 ampxl.com
@@ -38870,6 +38870,7 @@ huaweiapaas.com
 huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
+huaweicloud-idme.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -39555,6 +39556,7 @@ hwcpb.com
 hwcrazy.com
 hwehs.com
 hweimall.com
+hweventgrid.com
 hwfcw.com
 hwhidc.com
 hwht.com
@@ -40635,6 +40637,7 @@ idongde.com
 idongdong.com
 idongmai.com
 idongniu.com
+idonguapi.com
 idooshu.com
 idosend.com
 idotools.com
@@ -41426,6 +41429,7 @@ in955.com
 in9ni.com
 inabr.com
 inad.com
+inanguapi.com
 inanrenbang.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
@@ -42523,6 +42527,7 @@ ixiaochengxu.cc
 ixiatxt.com
 ixigua.com
 ixiguan.com
+ixiguapi.com
 ixiguavideo.com
 iximo.com
 ixingfei.com
@@ -54111,6 +54116,7 @@ modao.io
 modashi.net
 modb.cc
 modb.pro
+modelarts-infer.com
 modelevel.com
 modelwhale.com
 modeng178.com
@@ -55064,6 +55070,9 @@ myhomeok.com
 myhongzuan.com
 myhostadmin.net
 myhscodes.com
+myhuaweicloud-custom.com
+myhuaweicloud-koodrive.com
+myhuaweicloud-obs.com
 myhuaweicloud.com
 myhuilv.com
 myhwcdn.com
@@ -74520,6 +74529,7 @@ uwa4d.com
 uwan.com
 uweitui.com
 uwenku.com
+uwn.com
 uworter.com
 ux18.com
 ux6.com

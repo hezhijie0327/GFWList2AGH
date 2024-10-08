@@ -1058,6 +1058,7 @@ aerospace-training-wales.ac.uk
 aes.ac.uk
 aesworkshops.com
 aex.com
+af-north-1.myhuaweicloud.com
 af.mil
 afantibbs.com
 afao.ac.uk
@@ -1669,6 +1670,7 @@ amoiist.com
 amourangels.com
 amp.akamaized.net
 amp.dev
+amplifi.com
 amplifyapp.com
 amplifyframework.com
 amplitude.com
@@ -6457,6 +6459,7 @@ classicnike.com
 classics.ac.uk
 classymomsex.com
 claude.ai
+claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
 clco.cc
@@ -9986,6 +9989,7 @@ facebook.br
 facebook.ca
 facebook.cc
 facebook.com
+facebook.de
 facebook.design
 facebook.hu
 facebook.in
@@ -10368,8 +10372,10 @@ fastgit.org
 fastindianporn.com
 fastlane.ci
 fastlane.tools
+fastly-edge.com
 fastly-terrarium.com
 fastly.com
+fastly.io
 fastly.net
 fastlylabs.com
 fastlylb.net
@@ -11283,6 +11289,7 @@ frontier.ac.uk
 frontiersin.org
 frontiersofoncology.ac.uk
 frontlinedefenders.org
+frontrow.com
 froogle.com
 frootvpn.com
 frostbite.com
@@ -11910,6 +11917,7 @@ github.dev
 github.io
 githubapp.com
 githubassets.com
+githubcopilot.com
 githubhackathon.com
 githubnext.com
 githubpreview.dev
@@ -12158,6 +12166,7 @@ googel.com
 googil.com
 googl.com
 google-access.net
+google-ohttp-relay-safebrowsing.fastly-edge.com
 google-syndication.com
 google.ac
 google.ad
@@ -13898,6 +13907,7 @@ https443.org
 httpsfacebook.com
 httpwwwfacebook.com
 htvncdn.net
+htx.com
 htyj-bj.com
 hu1u.com
 hua-yue.net
@@ -19043,6 +19053,7 @@ mxmcdn.net
 mxshm.site
 my-enema.com
 my-formosa.com
+my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
 my-private-network.co.uk
 my-proxy.com
@@ -23795,6 +23806,7 @@ rti.tw
 rtings.com
 rtm.tnt-ea.com
 rtycminnesota.org
+ru-moscow-1.myhuaweicloud.com
 rua-project.ac.uk
 ruanyifeng.com
 ruby-lang.org
@@ -24963,6 +24975,7 @@ signal.art
 signal.org
 signalbar.com
 signalprocessingsociety.org
+signalr.net
 signalusers.org
 sihe.ac.uk
 sijihuisuo.club
@@ -27429,6 +27442,7 @@ torrentproject.se
 torrenty.org
 torrentz.eu
 torrindex.net
+tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
 tospo-keiba.jp
@@ -28016,7 +28030,7 @@ ubisoftconnect.com
 ubistatic3-a.akamaihd.net
 ublock.org
 ubn.ac.uk
-ubnt.com
+ubncloud.com
 ubnw.net
 ubuntu-touch.io
 ubuntu.com
@@ -28114,10 +28128,12 @@ uhrp.org
 uhsl.ac.uk
 uhtube.me
 uhub.com
+ui.com
 uighur.narod.ru
 uighur.nl
 uighurbiz.net
 uiporn.com
+uisp.com
 ujapanesesex.com
 ujizzcn.com
 uk-cdi.ac.uk
@@ -29120,6 +29136,7 @@ vk.com
 vk.design
 vk.link
 vk.me
+vk.ru
 vkcache.com
 vkgo.app
 vklive.app
@@ -29949,6 +29966,7 @@ wifesharingpics.com
 wifevideos.net
 wifewantstoplay.com
 wifi-mx.com
+wifiman.com
 wigan-leigh.ac.uk
 wigs.ac.uk
 wigstoncollege.ac.uk
@@ -31772,6 +31790,7 @@ zencdn.net
 zencoder.com
 zendesk.com
 zengjinyan.org
+zenlesszonezero.com
 zenmate.com
 zenmate.com.ru
 zenodo.org
