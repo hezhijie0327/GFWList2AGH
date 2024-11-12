@@ -20346,6 +20346,8 @@ northumberland-acl.ac.uk
 northumberland.ac.uk
 northumbria.ac.uk
 norwichresearchpark.ac.uk
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
 notepad-plus-plus.org
 notify.dropboxapi.com
 notify.ppy.sh
