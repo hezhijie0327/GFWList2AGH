@@ -6037,6 +6037,7 @@ charteredcollegeofteaching.ac.uk
 charticulator.com
 chase.ac.uk
 chasestudy.ac.uk
+chat.com
 chat.lmsys.org
 chatango.com
 chatgpt.com
@@ -14211,6 +14212,7 @@ icit.ac.uk
 icl-fi.org
 icloud-content.com
 icloud-isupport.com
+icloud-sandbox.com
 icloud.ch
 icloud.de
 icloud.ee
