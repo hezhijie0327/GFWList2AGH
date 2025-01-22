@@ -1898,7 +1898,6 @@ api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.dropboxapi.com
 api.linksalpha.com
 api.mixpanel.com
 api.nebula-emby.com
@@ -20473,7 +20472,6 @@ nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notepad-plus-plus.org
-notify.dropboxapi.com
 notify.ppy.sh
 notion-static.com
 notion.com
@@ -23122,6 +23120,7 @@ qhigh.com
 qi-gong.me
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qidian.ca
@@ -29653,6 +29652,7 @@ vpejey.xyz
 vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
+vpn.net
 vpn.sv.cmu.edu
 vpn4all.com
 vpnaccount.org
@@ -30204,7 +30204,6 @@ wiki.cnitter.com
 wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
-wiki.moegirl.org
 wiki.oauth.net
 wiki.phonegap.com
 wikia.com
@@ -30974,6 +30973,7 @@ xn--m1abbbgjah.lol
 xn--mts47c3w9b1qr.net
 xn--mtswd61ejxq.com
 xn--ngstr-lra8j.com
+xn--noss43i.com
 xn--oiq.cc
 xn--pearsonenespaol-brb.com
 xn--q41am8x.com
