@@ -1392,6 +1392,9 @@ amytele.com
 amzn.asia
 amzn.com
 amzn.to
+amzndns.com
+amzndns.net
+amzndns.org
 amznl.com
 anacams.com
 anaconda.cloud
@@ -5099,6 +5102,7 @@ collegesexgames.com
 colliderporn.com
 collins.in
 colombianas.webcam
+colorado.edu
 colorfulpalette.org
 colorfulstage.com
 colorprotechnology.com
@@ -15227,6 +15231,7 @@ ntdtv.org
 ntdtv.ru
 ntdtvla.com
 ntdvn.com
+ntp-servers.net
 ntp.se
 ntrfun.com
 ntten-mg.buzz
@@ -19687,6 +19692,7 @@ tellmewhygame.com
 temetube.xyz
 tenacy.com
 tenbyfotolia.com
+tencentcos.cn
 tenor.com
 tensorflow.org
 tenzinpalmo.com
