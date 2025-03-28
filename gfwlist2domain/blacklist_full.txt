@@ -187,7 +187,9 @@
 1mobile.com
 1mobile.tw
 1monsterbeatsbydreus.com
+1password.ca
 1password.com
+1password.eu
 1point3acres.com
 1pondo.tv
 1pornlist.com
@@ -646,6 +648,7 @@ aabb1802.com
 aabb1803.com
 aacrjournals.org
 aadmv.com
+aadrm.com
 aaex.uk
 aalah.me
 aamacau.com
@@ -1111,6 +1114,7 @@ agedm.tv
 agemys.org
 agendaweek.com
 agenet.ac.uk
+agilebits.com
 agnesb.fr
 agocg.ac.uk
 agoogleaday.com
@@ -2017,6 +2021,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-tv-plus-press.apple.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -8077,7 +8082,9 @@ difangwenge.org
 dify.ai
 digicert-cn.com
 digicert-validation.com
+digicert.co.jp
 digicert.com
+digicert.eu
 digiland.tw
 digimap.ac.uk
 digisfera.com
@@ -9611,6 +9618,8 @@ enterprisebydesign.ac.uk
 enterprisepaging.com
 enterpriseresearch.ac.uk
 enterprisessl.com
+entrust.cn
+entrust.com
 entrust.net
 entrustdatacard.com
 enveast.ac.uk
@@ -13020,6 +13029,7 @@ haskell.org
 haskellstack.org
 hastings.ac.uk
 hastingsonline.ac.uk
+hatena.ne.jp
 hath.network
 hau.ac.uk
 hautelook.com
@@ -13647,6 +13657,8 @@ hlcollege.ac.uk
 hlg.ac.uk
 hlnsc.ac.uk
 hlrcv.stage.adobe.com
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
 hlsp1.pw
 hm.com
 hmd.site
@@ -15617,6 +15629,7 @@ iwork.wang
 iwyn138.com
 ixnxx.tv
 ixquick.com
+ixsystems.com
 ixxx.com
 iyalc.com
 iyf.tv
@@ -17309,6 +17322,7 @@ looktoronto.com
 looporn.com
 looti.net
 lordofultima.com
+lorenzetti.com.br
 loreto.ac.uk
 lostbetsgames.com
 lotcrap.com
@@ -18347,6 +18361,7 @@ microsoft.ca
 microsoft.cat
 microsoft.ch
 microsoft.cl
+microsoft.com
 microsoft.cz
 microsoft.de
 microsoft.dk
@@ -18385,6 +18400,7 @@ microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
 microsoftapp.net
+microsoftazuread-sso.com
 microsoftazuresponsorships.com
 microsoftcloud.com
 microsoftcloudsummit.com
@@ -21629,6 +21645,9 @@ ozchinese.com
 ozeex.com
 ozodi.org
 ozodlik.org
+ozon.ru
+ozone.ru
+ozonusercontent.com
 ozvoice.org
 ozyoyo.com
 p-cdn.us
@@ -22376,6 +22395,7 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
+play-edge.itunes.apple.com
 play4free.com
 playapex.com
 playartifact.com
@@ -22387,6 +22407,8 @@ playbydurex.com
 playcover.io
 player.fm
 playerjs.io
+playfab.com
+playfabapi.com
 playforceone.com
 playhearthstone.com
 playmation.com
@@ -24826,7 +24848,6 @@ selcog.ac.uk
 seldensociety.ac.uk
 selectanescort.com
 selectyourgame.com
-self.events.data.microsoft.com
 selfloversworld.com
 sellclassics.com
 sellercommunity.com
@@ -28110,6 +28131,7 @@ truebuddha-md.org
 truedepth3d.com
 truedwg.com
 truefi.io
+truenas.com
 trulyergonomic.com
 trunest.com
 truro-penwith.ac.uk
@@ -28301,6 +28323,7 @@ tutanota.com
 tutanota.de
 tuvpn.com
 tuzaijidi.com
+tv.applemusic.com
 tv.br
 tv.com
 tv.google
@@ -28983,6 +29006,7 @@ utcnist2.colorado.edu
 utcnist3.colorado.edu
 utcreading.ac.uk
 utopianpal.com
+uts-api.itunes.apple.com
 uu-gg.com
 uug23.com
 uug25.com
@@ -29581,6 +29605,7 @@ visa.tc
 visabank.org
 visabg.com
 visabusinessinsights.com
+visaca.com
 visacarddesignlab.com
 visacards.com
 visacheckout.net
