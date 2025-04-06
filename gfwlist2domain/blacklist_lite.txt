@@ -19248,7 +19248,6 @@ steam-api.com
 steam-chat.com
 steam.tv
 steamcommunity.com
-steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
