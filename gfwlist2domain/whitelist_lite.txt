@@ -10128,6 +10128,7 @@ aby.pub
 abykt.com
 abyssdawn.com
 abz-sh.com
+ac.fun
 ac268.com
 ac57.com
 acabridge.net
@@ -10175,6 +10176,7 @@ acewill.net
 acfechina.org
 acftu.org
 acfun.com
+acfun.net
 acfun.tv
 acfunchina.com
 acfunchina.net
@@ -21703,6 +21705,8 @@ cheshijie.com
 cheshipin.com
 cheshirex.com
 cheshizh.com
+chesicc.com
+chesicc.net
 chesir.com
 chesir.net
 chestercharles.com
@@ -39195,6 +39199,8 @@ gf7979cn.com
 gfan.com
 gfanstore.com
 gfbk.net
+gfbzb.com
+gfbzb.net
 gfcdn.xyz
 gfcity.com
 gfcname.com
@@ -50398,6 +50404,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloud-idme.com
+huaweicloud-koophone.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -70504,6 +70511,7 @@ modashi.net
 modb.cc
 modb.pro
 modelarts-infer.com
+modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
@@ -79075,6 +79083,7 @@ qgxl.org
 qgyqshz.com
 qgysj.org
 qgyyzs.net
+qgzb.net
 qgzxx.com
 qgzzz.com
 qh-cdn.com
@@ -113946,6 +113955,7 @@ zb800.com
 zbao.com
 zbao56.com
 zbbar.net
+zbbm.net
 zbbus.com
 zbc.pub
 zbc.wiki

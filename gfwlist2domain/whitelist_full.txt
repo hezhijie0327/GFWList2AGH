@@ -10141,6 +10141,7 @@ aby.pub
 abykt.com
 abyssdawn.com
 abz-sh.com
+ac.fun
 ac268.com
 ac57.com
 acabridge.net
@@ -10194,6 +10195,7 @@ acewill.net
 acfechina.org
 acftu.org
 acfun.com
+acfun.net
 acfun.tv
 acfunchina.com
 acfunchina.net
@@ -10932,7 +10934,6 @@ ai-thinker.com
 ai-vip.net
 ai-ways.com
 ai.cc
-ai.ytimg.com
 ai.zhaomi.cn
 ai012.com
 ai0513.com
@@ -13012,7 +13013,6 @@ appleadstech.com
 applebl.com
 appledp.com
 appleid.cdn-apple.com
-applemdm.corp.google.com
 applemei.com
 applepopo.com
 applethome.com
@@ -18048,7 +18048,6 @@ borain.com
 borderlessbd.com
 borenhospital.com
 borgheseonline.com
-borgmon.adz.google.com
 borlonclan.com
 born-tw.com
 born123.com
@@ -21906,6 +21905,8 @@ cheshijie.com
 cheshipin.com
 cheshirex.com
 cheshizh.com
+chesicc.com
+chesicc.net
 chesir.com
 chesir.net
 chestercharles.com
@@ -31147,7 +31148,6 @@ dns-url.com
 dns-vip.net
 dns.alidns.com
 dns.com
-dns.corp.google.com
 dns.la
 dns.pub
 dns002.com
@@ -37150,12 +37150,10 @@ fonian.com
 fonsview.com
 font.im
 font6.com
-fontfiles.googleadapis.com
 fontfiles.googleapis.com
 fontke.com
 fontong.com
 fontoohotels.com
-fonts.googleadapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonye.com
@@ -38293,7 +38291,6 @@ g3.gstatic.com
 g32365.com
 g3bocaitong.com
 g3d.org
-g3doc.corp.google.com
 g3img.com
 g3user.com
 g3voip.com
@@ -39655,6 +39652,8 @@ gf7979cn.com
 gfan.com
 gfanstore.com
 gfbk.net
+gfbzb.com
+gfbzb.net
 gfcdn.xyz
 gfcity.com
 gfcname.com
@@ -40530,7 +40529,6 @@ gmqd.com
 gmquickapp.com
 gmrmyy.com
 gmsec.net
-gmskiosk-ssl.corp.google.com
 gmsolid.com
 gmssl.org
 gmswl.com
@@ -41005,7 +41003,6 @@ goquye.com
 gorebuy.com
 goregxa.com
 gorichox.com
-gorom.corp.google.com
 gorouter.info
 gorse.com
 gortune.com
@@ -41030,8 +41027,6 @@ gothe3.com
 goto-game.com
 goto-game.mobi
 goto-game.org
-goto.corp.google.com
-goto.google.com
 gotobath.com
 gotocdn.com
 gotocoding.com
@@ -50925,6 +50920,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloud-idme.com
+huaweicloud-koophone.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -71208,6 +71204,7 @@ modashi.net
 modb.cc
 modb.pro
 modelarts-infer.com
+modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
@@ -78420,7 +78417,6 @@ play-cdn10.com
 play-cdn11.com
 play-cdn14.com
 play-cdn20.com
-play.1ucrs.com
 play.craft.moe
 play.itunes.apple.com
 play.itunes.apple.com.mwcname.com
@@ -79933,6 +79929,7 @@ qgxl.org
 qgyqshz.com
 qgysj.org
 qgyyzs.net
+qgzb.net
 qgzxx.com
 qgzzz.com
 qh-cdn.com
@@ -82568,10 +82565,7 @@ rap-pro.com
 rapidppt.com
 rapoo.com
 rapospectre.com
-rapture-autopush.corp.google.com
 rapture-prod.corp.google.com
-rapture-test.corp.google.com
-rapture.corp.google.com
 rarcbank.com
 rarelit.net
 rarone.com
@@ -82908,7 +82902,6 @@ regenchem.com
 regengbaike.com
 regexlab.com
 regexr-cn.com
-regioninfo-pa.googleapis.com
 regist.alphassl.com
 regist.globalsign.com
 reglogo.net
@@ -86005,7 +85998,6 @@ setb2b.com
 setdg.net
 seteuid0.com
 setshop.vip
-settings.xn--9trs65b.com
 seuic.com
 seven-meters.com
 seven7777.eu
@@ -90747,7 +90739,6 @@ ssggg.com
 ssgushi.com
 ssgxwq.com
 ssgz.com
-ssh-relay.corp.google.com
 sshce.com
 sshr.net
 sshzhuangshipin.com
@@ -90886,7 +90877,6 @@ stage3rd.com
 staginfo.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
-staging-regioninfo-pa.googleapis.com
 staging.databe.floonet.goog
 staidson.com
 stanbt.com
@@ -91754,13 +91744,11 @@ supplywater.com
 support-chat.dji.com
 support-china.apple-support.akadns.net
 support-cn.samsung.com
-support.1ucrs.com
 support.amd.com
 support.apple.com
 support.dji.com
 support.globalsign.com
 support.lenovo.com
-supportcenter.corp.google.com
 supreme-oe.com
 supuvalve.com
 supwisdom.com
@@ -94349,7 +94337,6 @@ techqianmo.com
 techshidai.com
 techsir.com
 techsize.com
-techstop.corp.google.com
 techtmt.com
 techtop.com
 techuangyi.com
@@ -94631,7 +94618,6 @@ tesolsh.com
 tesoon.com
 test-cignacmb.com
 test-relay-service.djicdn.com
-test.bugs-qa.chromium.org
 test.codata.lenovo.com
 test.gbugs-qa.chromium.org
 test.qi.lenovo.com
@@ -97871,14 +97857,8 @@ ubc-bearing.com
 ubccn.com
 ubeethiesemo.com
 ubeihai.com
-uberproxy-debug.corp.google.com
 uberproxy-debug4.corp.google.com
-uberproxy-pen-redirect.corp.google.com
-uberproxy-with-cn.l.google.com
-uberproxy-with-cn4.l.google.com
-uberproxy-with-cn6.l.google.com
 uberproxy.corp.google.com
-uberproxy4.corp.google.com
 uberproxy6.corp.google.com
 ubersz.com
 ubesh.com
@@ -99314,7 +99294,6 @@ vesystem.com
 vetoolchain.com
 vetscloud.com
 vevor.net
-vext.corp.google.com
 vez.me
 vf5c.com
 vfcdnrd.com
@@ -104285,7 +104264,6 @@ www.djivideos.com
 www.entrust.cn
 www.epsonconnect.com
 www.globalsign.com
-www.googleadapis.com
 www.gov.mo
 www.gstatic.com
 www.htc.com
@@ -115195,6 +115173,7 @@ zb800.com
 zbao.com
 zbao56.com
 zbbar.net
+zbbm.net
 zbbus.com
 zbc.pub
 zbc.wiki
