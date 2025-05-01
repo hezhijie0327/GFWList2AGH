@@ -30759,6 +30759,7 @@ djicdn.com
 djigo-hk.djiservice.org
 djigo.djicdn.com
 djigoapi.djiservice.org
+djiits.com
 djiops.com
 djiservice.org
 djivideos.com
@@ -71388,6 +71389,7 @@ moreck.com
 mored.com
 moredian.com
 morefood.com
+morefreegame.com
 morefun-philippines.com
 moregy.com
 moreless.io
@@ -71673,7 +71675,6 @@ mshot.com
 mshouyou.com
 mshw.net
 mshxw.com
-msi.com
 msits.com
 msjingmi.com
 msjy123.com

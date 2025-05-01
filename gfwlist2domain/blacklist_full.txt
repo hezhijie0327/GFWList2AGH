@@ -5162,6 +5162,7 @@ brni.com
 broadbandreports.com
 broadbook.com
 broadcast.co.nz
+broadcom.com
 broadpressinc.com
 broadstairscollege.ac.uk
 brocaproject.com
@@ -19383,6 +19384,8 @@ msgamesresearch.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
+msi.com
 msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
@@ -25607,6 +25610,7 @@ sinapse.ac.uk
 sinchew.com.my
 sinchew.my
 sinet.ac.uk
+sing-box.app
 sing-box.sagernet.org
 sing4.lat
 sing68.com
@@ -31434,7 +31438,6 @@ xiaogirls.com
 xiaohexie.com
 xiaolan.me
 xiaoma.org
-xiaomi.eu
 xiaoou.io
 xiaoou.tv
 xiaoshuobb.life
