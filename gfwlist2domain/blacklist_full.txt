@@ -6159,7 +6159,6 @@ chase.ac.uk
 chasestudy.ac.uk
 chat.com
 chat.lmsys.org
-chat.openai.com
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
@@ -21502,7 +21501,6 @@ opdems.ac.uk
 open.ac.uk
 open.com.hk
 open.firstory.me
-open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -25592,6 +25590,7 @@ simplecd.org
 simplenote.com
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 simplify.com
 simplifycommerce.com
 simply-hentai.com
@@ -32664,6 +32663,7 @@ zmw.cn
 zndsk.com
 zobry.site
 zodgame.us
+zodgame.xyz
 zoho.com
 zoho.com.au
 zoho.eu
