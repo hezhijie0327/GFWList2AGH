@@ -2698,7 +2698,6 @@ audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 audiobeatsau.com
 audiobeatsbydre.com
-audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 aue.ac.uk
@@ -10495,7 +10494,6 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
-fani.com
 fank.ru
 fanleakstoday.com
 fanqiang.network
@@ -10614,7 +10612,6 @@ fatbtc.com
 fatstube.com
 fau11.com
 fault-analysis-group.ac.uk
-favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
@@ -12321,7 +12318,6 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
-go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -12966,7 +12962,6 @@ gzm.tv
 gzone-anime.info
 h-cdn.com
 h-china.org
-h-ciyuan.com
 h-doujinshi.xyz
 h-flash.com
 h-moe.com
@@ -14401,7 +14396,6 @@ hypothes.is
 hyprsense.com
 hyread.com.tw
 hysbys.ac.uk
-hysteria.network
 hyu2.com
 hzmn.net
 i-123-hp.com
@@ -15638,7 +15632,6 @@ itaboo.info
 itaeromanga.com
 itaiwan.gov.tw
 italiabeatsbydrdre.com
-italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -17880,7 +17873,6 @@ mantais.ac.uk
 mantochichi.com
 manufacturingedc.ac.uk
 manurefetish.com
-manwa.me
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -19413,6 +19405,7 @@ msturing.org
 msudalosti.com
 msunlimitedcloudsummit.com
 mswe1.org
+mt.co.kr
 mt.lv
 mt0011.site
 mtalk-dev.google.com
@@ -26112,7 +26105,6 @@ sostibet.org
 sothebys-institute.ac.uk
 soton.ac.uk
 sots.ac.uk
-sotwe.com
 sou-tong.org
 soubory.com
 souka.xyz
@@ -26379,7 +26371,6 @@ ssl.com
 ssl.webpack.de
 ssl443.org
 sslpaypal.org
-ssm.fun
 ssmh.ac.uk
 sspanel.net
 sspanel.org
@@ -27797,7 +27788,6 @@ thornbeck.ac.uk
 thotbook.tv
 thothub.ru
 thothub.to
-thotsbay.tv
 thottok.com
 thotvids.com
 threadreaderapp.com
@@ -32539,10 +32529,8 @@ z-lib.fm
 z-lib.fo
 z-lib.gd
 z-lib.gl
-z-lib.gs
 z-lib.io
 z-lib.org
-z-lib.ps
 z-library.se
 z-library.sk
 z00.world
