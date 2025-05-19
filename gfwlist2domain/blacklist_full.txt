@@ -6883,6 +6883,7 @@ codei.sh
 codeish.co
 codeish.io
 codeplex.com
+coderabbit.ai
 codeshare.io
 codeskulptor.org
 codespot.com
@@ -8279,6 +8280,7 @@ dishworld.com
 disinhe.ac.uk
 disk.yandex.com
 disk.yandex.ru
+diskstation.me
 disney-asia.com
 disney-discount.com
 disney-plus.net
@@ -8505,10 +8507,13 @@ dobbyporn.com
 dobendan.de
 doc.new
 doceapower.com
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+docker-pinata-support.s3.amazonaws.com
 docker.com
 docker.io
 dockerhub.com
 dockerizer.com
+dockerstatic.com
 docleradn.com
 doclercdn.com
 docs.cfw.lbyczf.com
@@ -8771,6 +8776,9 @@ ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 ds0h3roq6wcgc.cloudfront.net
 dscis.ac.uk
+dscloud.biz
+dscloud.me
+dscloud.mobi
 dscn.info
 dses.ac.uk
 dsex.to
@@ -8779,6 +8787,9 @@ dsl.ac.uk
 dslr.net
 dslreports.com
 dsmtp.com
+dsmynas.com
+dsmynas.net
+dsmynas.org
 dssott.com
 dst-dtc.ac.uk
 dstk.dk
@@ -9913,7 +9924,6 @@ esoir.be
 esopworld.com
 esp-scotland.ac.uk
 esp32.com
-esp8266.com
 espa-headlines.ac.uk
 espa.ac.uk
 espadoldettol.com.ar
@@ -9927,7 +9937,6 @@ espncdn.com
 espndotcom.tt.omtrdc.net
 espnqa.com
 esposasymaridos.com
-espressif.com
 esrc.ac.uk
 esrcfestival.ac.uk
 esrcmanchesterfest.ac.uk
@@ -10452,6 +10461,9 @@ family-sex.me
 family-simulator.io
 family.co.jp
 family.com.tw
+familyds.com
+familyds.net
+familyds.org
 familyfed.org
 familylifestudy.ac.uk
 familymart.com.my
@@ -14413,6 +14425,7 @@ i.jeded.com
 i.lithium.com
 i.org
 i1.hk
+i234.me
 i2p2.de
 i2runner.com
 i69.com.tw
@@ -14451,6 +14464,7 @@ ibis.ac.uk
 ibit.am
 ibkr.com
 iblist.com
+ibllc.com
 iblogserv-f.net
 ibm.com
 ibm.eu
@@ -19590,6 +19604,7 @@ myddns.com
 mydirectgroove.com
 mydirectvchannels.com
 mydirtyhobby.com
+myds.me
 myeasytv.com
 myebay.com
 myeclipseide.com
@@ -27113,6 +27128,7 @@ syncback.com
 syncbak.com
 synergyse.com
 synology.com
+synology.me
 synologydownload.com
 synologyupdate.com
 synsym.ac.uk
@@ -28343,6 +28359,7 @@ trusteddwg.com
 trustedpeach.com
 trustisfps.com
 trustsign.ch
+trustwallet.com
 trustwave.com
 truth101.co.tv
 truthontour.org
@@ -30495,6 +30512,7 @@ webcamjackers.com
 webcammedellin.co
 webcams.tv
 webcamtubexxx.com
+webchannel-alkalimakersuite-pa.clients6.google.com
 webevader.org
 webex.ca
 webex.co.in

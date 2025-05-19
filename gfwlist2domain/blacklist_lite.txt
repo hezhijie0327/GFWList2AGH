@@ -5113,6 +5113,7 @@ codei.sh
 codeish.co
 codeish.io
 codeplex.com
+coderabbit.ai
 codeshare.io
 codeskulptor.org
 codespot.com
@@ -6056,6 +6057,7 @@ discuss4u.com
 discussionsapple.com
 dish.com
 dishworld.com
+diskstation.me
 disney-asia.com
 disney-discount.com
 disney-plus.net
@@ -6240,6 +6242,7 @@ docker.com
 docker.io
 dockerhub.com
 dockerizer.com
+dockerstatic.com
 docleradn.com
 doclercdn.com
 docs.com
@@ -6461,11 +6464,17 @@ drweb.fr
 drweb.kz
 drweb.ru
 drweb.uz
+dscloud.biz
+dscloud.me
+dscloud.mobi
 dscn.info
 dsex.to
 dslr.net
 dslreports.com
 dsmtp.com
+dsmynas.com
+dsmynas.net
+dsmynas.org
 dssott.com
 dstk.dk
 dswz88.xyz
@@ -7209,14 +7218,12 @@ esmtp.biz
 esoir.be
 esopworld.com
 esp32.com
-esp8266.com
 esperanzagomez.org
 espn.com
 espn.net
 espncdn.com
 espnqa.com
 esposasymaridos.com
-espressif.com
 esri.com
 estudiopenthouse.com
 esu.dog
@@ -7657,6 +7664,9 @@ falunworld.net
 fameregistry.com
 family-sex.me
 family-simulator.io
+familyds.com
+familyds.net
+familyds.org
 familyfed.org
 familypies.net
 familyporn.tv
@@ -10688,6 +10698,7 @@ i-o-u.info
 i-scmp.com
 i.org
 i1.hk
+i234.me
 i2p2.de
 i2runner.com
 i818hk.com
@@ -10714,6 +10725,7 @@ ibiblio.org
 ibit.am
 ibkr.com
 iblist.com
+ibllc.com
 iblogserv-f.net
 ibm.com
 ibm.eu
@@ -14522,6 +14534,7 @@ myddns.com
 mydirectgroove.com
 mydirectvchannels.com
 mydirtyhobby.com
+myds.me
 myeasytv.com
 myebay.com
 myeclipseide.com
@@ -19693,6 +19706,7 @@ syncback.com
 syncbak.com
 synergyse.com
 synology.com
+synology.me
 synologydownload.com
 synologyupdate.com
 syosetu.com
@@ -20593,6 +20607,7 @@ trusteddwg.com
 trustedpeach.com
 trustisfps.com
 trustsign.ch
+trustwallet.com
 trustwave.com
 truthontour.org
 truthordarepics.com
