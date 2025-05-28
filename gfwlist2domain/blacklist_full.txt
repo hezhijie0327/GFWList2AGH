@@ -724,7 +724,6 @@ abitno.linpie.com
 ablmm.com
 ablwang.com
 aboluowang.com
-about.google
 about.me
 aboutamazon.co.uk
 aboutamazon.com
@@ -1175,7 +1174,6 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.google
 ai.google.dev
 ai3sd.ac.uk
 ai7995.site
@@ -4208,7 +4206,6 @@ blog.fizzik.com
 blog.foolsmountain.com
 blog.fuckgfw233.org
 blog.goo.ne.jp
-blog.google
 blog.istef.info
 blog.jackjia.com
 blog.jp
@@ -6431,7 +6428,6 @@ chrlawyers.hk
 chrome.com
 chromebook.com
 chromecast.com
-chromeenterprise.google
 chromeexperiments.com
 chromeos.dev
 chromercise.com
@@ -7014,7 +7010,6 @@ com.fr
 com.ge
 com.gh
 com.gi
-com.google
 com.gr
 com.gt
 com.gy
@@ -7366,7 +7361,6 @@ crichton.ac.uk
 crick.ac.uk
 cricketcountry.com
 cricklade.ac.uk
-crisisresponse.google
 crisp.chat
 cristyli.com
 crit-staging.com
@@ -7998,7 +7992,6 @@ descargasgay.com
 desertbmw.com
 design-ledrev.com
 design-ledrevolution.com
-design.google
 designeriphonescases.com
 designledrevolution.com
 designsformovement.com
@@ -8570,7 +8563,6 @@ dollf.com
 dollnight.com
 dolphiners.com
 domain.club.tw
-domains.google
 domaintoday.com.au
 dombosco.com.br
 domesticabuserisk.ac.uk
@@ -9706,7 +9698,6 @@ entrust.net
 entrustdatacard.com
 enveast.ac.uk
 environment-health.ac.uk
-environment.google
 epa.gov.tw
 epac.to
 epc.ac.uk
@@ -11972,7 +11963,6 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
-gemini.google
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
@@ -12890,7 +12880,6 @@ ground.news
 groupfun.com
 groups.com
 groups.google.cn
-grow.google
 grows.ac.uk
 grpeng.ac.uk
 grss-ieee.org
@@ -16996,7 +16985,6 @@ leporno.org
 lepornochaud.com
 lepornofrais.com
 lerosua.org
-lers.google
 lersnet.ac.uk
 lesbian8.com
 lesbianpics.org
@@ -20458,7 +20446,6 @@ nibs.ac.uk
 nibsc.ac.uk
 nic.cz
 nic.cz.cc
-nic.google
 nic.gov
 nicats.ac.uk
 nicd.ac.uk
@@ -20832,7 +20819,6 @@ norwichresearchpark.ac.uk
 nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
-notebooklm.google
 notepad-plus-plus.org
 notify.ppy.sh
 notion-static.com
@@ -21584,7 +21570,6 @@ opensciencelab.ac.uk
 opensciencelaboratory.ac.uk
 opensea.io
 opensource.ac.uk
-opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
@@ -21963,7 +21948,6 @@ passion-hd.com
 passion.com
 passiontimes.hk
 passport.net
-passwords.google
 pastahealth.com
 paste.ee
 pastebin.com
@@ -22578,7 +22562,6 @@ play-asia.com
 play-bmm.shop
 play-bmmer.buzz
 play-edge.itunes.apple.com
-play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -23238,7 +23221,6 @@ pricelesssydney.com
 pricelesstoronto.ca
 pricelesstv.com
 priconne-redive.jp
-pride.google
 pridetube.com
 priestley.ac.uk
 priestleycollege.ac.uk
@@ -24067,7 +24049,6 @@ regionalvisions.ac.uk
 regiongold.com
 registerhulu.com
 registeridm.com
-registry.google
 reid-kerr.ac.uk
 reidkerr.ac.uk
 reigate.ac.uk
@@ -24111,7 +24092,6 @@ research-clinician.ac.uk
 research-councils.ac.uk
 research-scotland.ac.uk
 research-socialsciences.ac.uk
-research.google
 research4justice.ac.uk
 researchandcare.org
 researchconcordat.ac.uk
@@ -24546,7 +24526,6 @@ safechat.com
 safeguarddefenders.com
 safepodnetwork.ac.uk
 safervpn.com
-safety.google
 saffrontech.com
 sagernet.org
 sages.ac.uk
@@ -26740,7 +26719,6 @@ storcuram.ac.uk
 store-bridgestonesports.com
 store.steampowered.com
 storesense.com
-stories.google
 storiesofchange.ac.uk
 storiesonline.net
 storify.com
@@ -27010,7 +26988,6 @@ sussexmedicalschool.ac.uk
 sussexvirtualcollege.ac.uk
 sussp.ac.uk
 sustain.ac.uk
-sustainability.google
 sustainabilityexchange.ac.uk
 sustainablebuildingstudio.com
 sustainabledesigncouncil.com
@@ -27145,6 +27122,7 @@ syfor.click
 syhacked.com
 sylfoundation.org
 symantec.com
+symantecliveupdate.com
 symauth.com
 symcb.com
 symcd.com
@@ -28577,7 +28555,6 @@ tuzaijidi.com
 tv.applemusic.com
 tv.br
 tv.com
-tv.google
 tv.jtbc.joins.com
 tvappstore.net
 tvb.com
