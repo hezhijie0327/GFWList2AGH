@@ -2456,6 +2456,7 @@ arphic.com
 arphic.com.tw
 arrc.ac.uk
 ars.ac.uk
+arstechnica.net
 art1lib.com
 art4tibet1998.org
 artcam.com
@@ -6003,6 +6004,7 @@ cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn-terapeak.com
 cdn.ac.uk
+cdn.arstechnica.net
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
 cdn.js7k.com
@@ -6491,6 +6493,7 @@ cia.ac.uk
 cias.ac.uk
 ciattackers.com
 cib.ac.uk
+cici.com
 ciciai.com
 cicl.ac.uk
 cied.ac.uk
