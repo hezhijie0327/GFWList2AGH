@@ -26892,7 +26892,6 @@ statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 statistics.ac.uk
-stats.wp.com
 statsig.com
 statsmakemecry.com
 statstutor.ac.uk
