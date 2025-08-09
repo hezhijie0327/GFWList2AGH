@@ -29461,6 +29461,7 @@ uoutside.org
 up.gcp.googlers.com
 up01.cc
 upa.ac.uk
+upbit.com
 updates.ac.uk
 updates.tdesktop.com
 updatestar.com
@@ -31604,7 +31605,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
