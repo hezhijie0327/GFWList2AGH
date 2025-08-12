@@ -3350,6 +3350,7 @@ bbs.nyinfor.com
 bbs.sina.com
 bbs.skykiwi.com
 bbs.sou-tong.org
+bbs.tuitui.info
 bbsdigest.com
 bbsfeed.com
 bbsland.com
@@ -20965,7 +20966,6 @@ nocn.ac.uk
 nocookie.net
 nocs.ac.uk
 nodejs.org
-nodeloc.com
 nodes.ac.uk
 nodeseek.com
 nodesnoop.com
