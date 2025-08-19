@@ -893,6 +893,7 @@ adcommerce.tv
 addictedtocoffee.de
 addison-wesley.ch
 addison.ac.uk
+addons.mozilla.org
 addthis.com
 addthiscdn.com
 addthisedge.com
@@ -1018,7 +1019,7 @@ adult-home-videos.com
 adult-list.com
 adult-sex-games.com
 adult-web-site.net
-adult.contents.fc2.com
+adult.friendfinder.com
 adult.toonsearch.net
 adult3dcomics.com
 adult3dfantasycomics.com
@@ -1188,6 +1189,7 @@ ahvideosexe.com
 ahxxx.club
 ai-kan.net
 ai-wen.net
+ai.binwang.me
 ai.google.dev
 ai3sd.ac.uk
 ai7995.site
@@ -2741,6 +2743,7 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auth0.com
+authorizeddns.net
 authorizeddns.org
 authorxml.com
 authy.com
@@ -3335,6 +3338,7 @@ bbs.boingboing.net
 bbs.brockbbs.com
 bbs.cantonese.asia
 bbs.ecstart.com
+bbs.hanminzu.org
 bbs.huasing.org
 bbs.junglobal.net
 bbs.mikocon.com
@@ -4235,6 +4239,7 @@ blog.expofutures.com
 blog.fizzik.com
 blog.foolsmountain.com
 blog.fuckgfw233.org
+blog.goo.ne.jp
 blog.jackjia.com
 blog.jp
 blog.kangye.org
@@ -4242,9 +4247,11 @@ blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
+blog.ranxiang.com
 blog.reimu.net
 blog.sogoo.org
 blog.soylent.com
+blog.syx86.com
 blog.taragana.com
 blog.tiney.com
 blog.youthwant.com.tw
@@ -6343,6 +6350,7 @@ china-mmm.jp.net
 china-mmm.net
 china-review.com.ua
 china-week.com
+china.ucanews.com
 china101.com
 china18.org
 china21.com
@@ -6814,6 +6822,7 @@ cn.freeones.com
 cn.nytstyle.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
+cn.streetvoice.com
 cn.theaustralian.com.au
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
@@ -7902,9 +7911,12 @@ ddi.ac.uk
 dditsadn.com
 dditscdn.com
 ddns.info
+ddns.me.uk
 ddns.mobi
 ddns.ms
+ddns.name
 ddns.net
+ddns.us
 de-montfort.ac.uk
 de-sci.org
 de1lib.org
@@ -8003,6 +8015,7 @@ den.ac.uk
 dengeamerika.com
 dengiamerika.com
 deno.com
+deno.dev
 deno.land
 denpasoft.com
 dentalhypotheses.com
@@ -8053,6 +8066,7 @@ desktopmovies.net
 desktopmovies.org
 dessci.com
 destinationbim.com
+destiny.xfiles.to
 destroy-china.jp
 detaliczny.com
 detentiongirls.com
@@ -8563,6 +8577,7 @@ docleradn.com
 doclercdn.com
 docs.cfw.lbyczf.com
 docs.com
+docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -8666,7 +8681,6 @@ doujin-freee.com
 doujin-info.net
 doujin-night.com
 doujincafe.com
-doujincg.blog.jp
 doujinfree.com
 doujinland.info
 doujinnomori.com
@@ -9044,6 +9058,7 @@ dyndns.pro
 dynssl.com
 dynu.com
 dynu.net
+dynupdate.no-ip.com
 dysfz.cc
 dyttapi.com
 dyttapis.com
@@ -9471,6 +9486,7 @@ edward-greene.ac.uk
 edwardllwyd.ac.uk
 edx-cdn.org
 edx.org
+eeas.europa.eu
 eebay.com
 eecm.ac.uk
 eenike.com
@@ -11196,6 +11212,7 @@ forum.mymaji.com
 forum.palmislife.com
 forum.slime.com.tw
 forum.tvb.com
+forum.xinbao.de
 forum4hk.com
 forums-free.com
 forza.net
@@ -11682,7 +11699,6 @@ fulib711.shop
 fuliba2021.com
 fuliba2023.net
 fulione.com
-fulipic.gumroad.com
 fulldesisex.com
 fullerconsideration.com
 fullfuli.com
@@ -12298,6 +12314,7 @@ gllm.ac.uk
 global-sci.org
 global.bing.com
 global.market.xiaomi.com
+global.ssl.fastly.net
 globalbanking.ac.uk
 globalbusinessofforcedlabour.ac.uk
 globaledu.org
@@ -12964,7 +12981,6 @@ gstf.org
 gsuite.com
 gt536.top
 gtc.ac.uk
-gtlsca.nat.gov.tw
 gtricks.com
 gts-vpn.com
 gttr.ac.uk
@@ -13744,7 +13760,9 @@ hjd.tw
 hjd2048.com
 hk-pub.com
 hk.file.myqcloud.com
+hk.frienddy.com
 hk.geocities.com
+hk.gradconnection.com
 hk.hao123img.com
 hk.jiepang.com
 hk.weibo.com
@@ -15045,6 +15063,7 @@ imessage.tv
 imet.ac.uk
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+img.dlsite.jp
 img.ly
 img.picgo.net
 imgasd.com
@@ -16606,6 +16625,7 @@ kenyasexparadise.com
 keontech.net
 kepard.com
 kernel.org
+keso.cn
 kess2.ac.uk
 kew.ac.uk
 kex.com
@@ -17236,6 +17256,7 @@ libgen.rs
 libgen.st
 liboggirls.net
 library.lol
+library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
 librarylovefest.com
 libraryofthumbs.com
@@ -17386,6 +17407,7 @@ listentoyoutube.com
 listerpostgraduate.ac.uk
 listinganalytics.net
 listorious.com
+lists.w3.org
 litbus-anime.com
 litenews.hk
 literatumonline.com
@@ -19734,6 +19756,7 @@ my-magazine.me
 my-private-network.co.uk
 my-proxy.com
 my.mail.ru
+my.opera.com
 my.pcloud.com
 my.weibo.com
 my03.com
@@ -19938,6 +19961,7 @@ mysdn.net
 mysecondarydns.com
 mysexgames.com
 mysexygfs.com
+myshare.url.com.tw
 myshopify.com
 mysims.com
 mysimsracing.com
@@ -20266,6 +20290,7 @@ nelson.ac.uk
 nelsoncollege.ac.uk
 nelsongroup.ac.uk
 nemcon.ac.uk
+nemesis2.qx.net
 nemode.ac.uk
 nenastran.com
 nene.ac.uk
@@ -20483,6 +20508,7 @@ news.ebc.net.tw
 news.hk.msn.com
 news.msn.com.tw
 news.mt.co.kr
+news.nationalgeographic.com
 news.net.au
 news.now.com
 news.seehua.com
@@ -21558,7 +21584,6 @@ oizoblog.com
 ok.ru
 ok.xxx
 okayfreedom.com
-okazudouga.blog.jp
 okazudouga.tokyo
 okcoin.com
 okex.com
@@ -21802,6 +21827,7 @@ openweathermap.org
 openweave.io
 openwebster.com
 openwrt.org
+openwrt.org.cn
 opera-archive.ac.uk
 opera-mini.net
 opera.com
@@ -23893,7 +23919,6 @@ qysg7.buzz
 qysg8.buzz
 qz.com
 qzav.tv
-r-new-sale.blog.jp
 r-pool.net
 r-project.org
 r0.ru
@@ -24749,6 +24774,7 @@ s3-ap-northeast-2.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3-eu-central-1.amazonaws.com
+s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.eu-central-1.amazonaws.com
 s3.us-east-1.amazonaws.com
@@ -25316,7 +25342,6 @@ sendsmtp.com
 sendspace.com
 seneporno.com
 seniortgp.com
-senluocaituan.gumroad.com
 senpaiheat.com
 sense-east.ac.uk
 sensorcity.ac.uk
@@ -25643,6 +25668,7 @@ share-videos.se
 share.acgnx.net
 share.acgnx.se
 share.america.gov
+share.ovi.com
 share.youthwant.com.tw
 sharebee.com
 sharecool.org
@@ -27207,6 +27233,7 @@ sunporno.com
 sunskyforum.com
 sunta.com.tw
 sunvpn.net
+sunwinism.joinbbs.net
 suoluo.org
 supa.ac.uk
 supadou.blogism.jp
@@ -27578,6 +27605,7 @@ targetedgrad.ac.uk
 targetimg1.com
 tarkov.com
 tarn.ac.uk
+tarr.uspto.gov
 tasc.ac.uk
 tascn.com.au
 tasexy.com
@@ -28962,6 +28990,7 @@ twilog.org
 twimbow.com
 twimg.co
 twimg.com
+twimg.edgesuite.net
 twimg.org
 twin-research.ac.uk
 twindexx.com
@@ -29518,6 +29547,7 @@ userapi.com
 usercontent.dev
 usercontent.goog
 userpxt.io
+users.skynet.be
 usertrust.com
 usfk.mil
 usgs.gov
@@ -29615,6 +29645,7 @@ uyghurpen.org
 uyghurpress.com
 uyghurstudies.org
 uyghurtribunal.com
+uygur.fc2web.com
 uygur.org
 uymaarip.com
 v-av.com
@@ -29942,8 +29973,9 @@ vidble.com
 viddeo-jav.net
 video-jav.net
 video-one.com
+video.aol.ca
+video.aol.co.uk
 video.aol.com
-video.fc2.com
 video.foxbusiness.com
 video.pbs.org
 video01.org
@@ -30651,6 +30683,7 @@ vxxsred.xyz
 vyprvpn.com
 vzw.com
 w-mt.co
+w.idaiwan.com
 w.org
 w.wiki
 w3.org
@@ -30670,7 +30703,6 @@ waikeung.org
 wailaike.net
 wainao.me
 waisongcha.com
-waittingfor001.weebly.com
 waiwaier.com
 wakcoll.ac.uk
 wakefield.ac.uk
@@ -31106,6 +31138,7 @@ wiki.cnitter.com
 wiki.esu.im
 wiki.gamerp.jp
 wiki.jqueryui.com
+wiki.keso.cn
 wiki.kfd.me
 wiki.metacubex.one
 wiki.oauth.net
@@ -31563,30 +31596,45 @@ www.ajsands.com
 www.anix.moe
 www.antd.org
 www.aolnews.com
+www.businessinsider.com.au
 www.cmoinc.org
+www.dmm.com
 www.dwheeler.com
+www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
 www.hustlercash.com
 www.idlcoyote.com
+www.imdb.com
 www.kindleren.com
 www.klip.me
 www.lamenhu.com
+www.lib.virginia.edu
 www.lorenzetti.com.br
 www.m-sport.co.uk
 www.monlamit.org
 www.moztw.org
 www.msn.com
+www.nbc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
 www.s4miniarchive.com
 www.sb
+www.sciencemag.org
 www.shadowsocks.com
+www.skype.com
+www.tablesgenerator.com
+www.taiwanonline.cc
+www.thechinastory.org
 www.wan-press.org
 www.websnapr.com
 www.xicons.org
+www.zensur.freerk.com
+www1.american.edu
 www1.biz
+www2.ohchr.org
+www2.rocketbbs.com
 www8-hp.com
 wwwapple.com
 wwwapple.net
@@ -32850,7 +32898,6 @@ yuenuge113.xyz
 yuenuge18.cc
 yukineko.me
 yulghun.com
-yuming.qxbbs.org
 yunchao.net
 yunlaopo.cc
 yunlaopo.com
@@ -32963,6 +33010,7 @@ zh-hans.cfsh99.com
 zh.bitterwinter.org
 zh.ecdm.wikia.com
 zh.pokerstrategy.com
+zh.pttpedia.wikia.com
 zh.uncyclopedia.wikia.com
 zh.wikiquote.org
 zh99.net
@@ -32995,6 +33043,7 @@ zhoushuguang.com
 zhreader.com
 zhtv01.com
 zhuangbi.me
+zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zhujiget.com

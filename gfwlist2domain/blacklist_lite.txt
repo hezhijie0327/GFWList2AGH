@@ -2122,6 +2122,7 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auth0.com
+authorizeddns.net
 authorizeddns.org
 authorxml.com
 authy.com
@@ -5796,7 +5797,9 @@ dditscdn.com
 ddns.info
 ddns.mobi
 ddns.ms
+ddns.name
 ddns.net
+ddns.us
 de-sci.org
 de1lib.org
 deadhouse.org
@@ -5866,6 +5869,7 @@ demosisto.hk
 dengeamerika.com
 dengiamerika.com
 deno.com
+deno.dev
 deno.land
 denpasoft.com
 dentalhypotheses.com
@@ -12449,6 +12453,7 @@ kenyasexparadise.com
 keontech.net
 kepard.com
 kernel.org
+keso.cn
 kex.com
 keybase.io
 keybaseapi.com
@@ -23991,6 +23996,7 @@ zhoushuguang.com
 zhreader.com
 zhtv01.com
 zhuangbi.me
+zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zhujiget.com
