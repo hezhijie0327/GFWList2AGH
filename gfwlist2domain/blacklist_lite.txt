@@ -9166,6 +9166,7 @@ gitbook.com
 gitbook.io
 gitbooks.io
 githack.com
+github.ai
 github.blog
 github.com
 github.community
