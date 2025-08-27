@@ -10257,6 +10257,7 @@ afanti100.com
 afarway.com
 afca-asia.org
 afcec.com
+afcs.dell.com
 afdian.com
 afdian.net
 afdiancdn.com
@@ -23876,6 +23877,7 @@ client.amplifi.com
 client51.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
+clientperipherals.dell.com
 clientservices.googleapis.com
 clifford-hospital.org
 cliffordtrading.com
@@ -25849,7 +25851,6 @@ copcsc.org
 copl.com.hk
 copperalliance.asia
 copperhome.net
-copy-manga.com
 copyedu.com
 copyfuture.com
 copyswisswatches.com
@@ -26770,7 +26771,6 @@ crane-china.cc
 crane-net.com
 cranewh.com
 crash.work
-crashlytics.com
 crashlyticsreports-pa.googleapis.com
 cravatar.com
 crazepony.com
@@ -27557,6 +27557,7 @@ cusdvs.com
 cusdvs.net
 custeel.com
 customer.lenovo.com
+customization-cdn.dell.com
 customizedfasteners.com
 customsapp.com
 custouch.com
@@ -29175,6 +29176,7 @@ ddove.com
 ddpai.com
 ddpoc.com
 ddqcw.com
+dds.dell.com
 ddsaas.com
 ddsiojf.xyz
 ddsk.la
@@ -30621,6 +30623,7 @@ dl-origin.ubnt.com
 dl-rc.com
 dl-vip.pcfaster.baidu.co.th
 dl.delivery.mp.microsoft.com
+dl.dell.com
 dl.djicdn.com
 dl.google.com
 dl.l.google.com
@@ -32735,6 +32738,9 @@ e99999.com
 ea-china.com
 ea-retina.com
 ea-xing.com
+ea2cn-dev-outlet.dell.com
+ea2cn-prod-outlet.dell.com
+ea2cn-staging-outlet.dell.com
 ea360.com
 ea3w.com
 eabax.com
@@ -35523,6 +35529,7 @@ fcport.com
 fcpowerup.com
 fcqjc.com
 fcrc114.com
+fcs.dell.com
 fcs1.com
 fcsc.com
 fcsccz.com
@@ -37356,7 +37363,11 @@ ft22.com
 ft3e.com
 ft77.com
 ft98.com
+fta.dell.com
+ftaapj.dell.com
+ftaemea.dell.com
 ftaro.com
+ftasitapj.dell.com
 ftbj.net
 ftcoaster.com
 ftd.nz
@@ -37532,6 +37543,7 @@ funcrea.com
 functionads.com
 functionaltextilesshanghai.com
 functioncool.com
+functiongraph.run
 fund001.com
 fundebug.com
 fundebug.net
@@ -38503,6 +38515,8 @@ gbt88.com
 gbtranswins.com
 gbvh.com
 gbw114.com
+gbxgateway-dev.dell.com
+gbxgateway.dell.com
 gc-zb.com
 gc0771.com
 gc1616.com
@@ -68374,9 +68388,7 @@ manfen5.com
 manfred-auto.com
 manfrottoclub.com
 manga.bilibili.com
-mangacopy.com
 mangafuna.xyz
-mangafunb.fun
 manganesenanhai.com
 mangg.com
 mangguo.com
@@ -78024,6 +78036,7 @@ plateno.cc
 plateno.com
 platenogroup.com
 platform-cn.com
+platform.dell.com
 platinum-traveller.com
 platinumchina.com
 play-analytics.com
@@ -83025,6 +83038,7 @@ roaing.com
 robam.com
 robei.com
 roboeyeai.com
+robomaster.com
 roboo.com
 robook.com
 robopeak.net
@@ -84572,6 +84586,7 @@ sceea.org
 sceeo.com
 sceia.org
 scemrq.com
+scene7-cdn.dell.com
 scengine.com
 scenictc.com
 scensmart.com
@@ -88355,6 +88370,7 @@ si-en.com
 si-era.com
 si-in.com
 si-win.com
+si.cdn.dell.com
 sia1995.net
 siad-c.com
 siaedu.net
@@ -89345,6 +89361,7 @@ slzww.com
 sm-check.com
 sm-cq.com
 sm-main.com
+sm.dell.com
 sm0.fun
 sm160.com
 sm160.net
@@ -89662,6 +89679,8 @@ snowflake.pink
 snowkey.com
 snowlotusgroup.com
 snowyimall.com
+snp.cdn.dell.com
+snpi.dell.com
 snps.tech
 snptc.com
 snrat.com
@@ -91554,6 +91573,7 @@ support.apple.com
 support.dji.com
 support.globalsign.com
 support.lenovo.com
+supportassist.dell.com
 supreme-oe.com
 supuvalve.com
 supwisdom.com
@@ -104029,6 +104049,7 @@ www-666789.com
 www-76244.com
 www-api.dji.com
 www-cdn.icloud.com.akadns.net
+www-csb.dell.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www-v1.dji.com
