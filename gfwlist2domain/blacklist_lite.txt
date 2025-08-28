@@ -1384,6 +1384,7 @@ amazonaws.org
 amazonaws.tv
 amazonbusiness.org
 amazonbusinessblog.com
+amazoncognito.com
 amazondevicesupport.com
 amazonfctours.com
 amazonianblog.com
@@ -2405,6 +2406,8 @@ awflapp.top
 awjq.cc
 aws-iot-hackathon.com
 aws.com
+awsapprunner.com
+awsapps.com
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -7088,6 +7091,7 @@ edicypages.com
 edisebay.com
 editorx.com
 edmontonchina.cn
+edmontonservice.com
 edninfo.com
 edns.biz
 edoors.com
@@ -12090,6 +12094,7 @@ javbooks.com
 javbraze.com
 javbus.co
 javbus.com
+javbus.sbs
 javbus22.com
 javbuz.com
 javcc.cc
@@ -23643,6 +23648,7 @@ yahooapis.com
 yahoodns.net
 yahoofinance.com
 yahoohealth.com
+yahooinc.com
 yahoomusic.com
 yahoosandbox.com
 yahoosportsbook.com

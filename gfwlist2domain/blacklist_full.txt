@@ -439,6 +439,7 @@
 54647.org
 55comic.com
 55dndn.com
+5657.com.tw
 567321.online
 568xe.com
 56cun04.jigsy.com
@@ -1707,6 +1708,7 @@ amazonaws.org
 amazonaws.tv
 amazonbusiness.org
 amazonbusinessblog.com
+amazoncognito.com
 amazondevicesupport.com
 amazonfctours.com
 amazonianblog.com
@@ -3059,6 +3061,8 @@ awjq.cc
 awlc.ac.uk
 aws-iot-hackathon.com
 aws.com
+awsapprunner.com
+awsapps.com
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -9680,6 +9684,7 @@ edisebay.com
 editorx.com
 edlab.ac.uk
 edmontonchina.cn
+edmontonservice.com
 edninfo.com
 edns.biz
 edoors.com
@@ -16246,6 +16251,7 @@ javbooks.com
 javbraze.com
 javbus.co
 javbus.com
+javbus.sbs
 javbus22.com
 javbuz.com
 javcc.cc
@@ -17067,6 +17073,7 @@ krakenjs.com
 krhentai.com
 kristenbjorn.com
 krosspictures.com
+krtc.com.tw
 krtco.com.tw
 krux.com
 krymr.com
@@ -26938,7 +26945,6 @@ srttu.edu
 sruc.ac.uk
 srwwu.uno
 ss-link.com
-ss.levyhsu.com
 ss.pythonic.life
 ss2.us
 ss7.app
@@ -32646,6 +32652,7 @@ yahooapis.com
 yahoodns.net
 yahoofinance.com
 yahoohealth.com
+yahooinc.com
 yahoomusic.com
 yahoosandbox.com
 yahoosportsbook.com
