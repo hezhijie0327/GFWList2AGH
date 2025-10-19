@@ -1067,6 +1067,7 @@ ajplus.net
 ajsands.com
 ajsjx.com
 ajtalk.com
+ajunews.com
 ak1.net
 aka-ai.com
 aka-ai.net
@@ -2143,6 +2144,7 @@ attwirelesssolutions.com
 atube.sex
 atube.xxx
 atubex.com
+atvnewsonline.com
 atwiki.jp
 atypi.org
 aucheapbeats.com
@@ -3912,6 +3914,7 @@ boomerang.com
 boomssr.com
 boomtrain.com
 booru.org
+boosty.to
 booth.pm
 bootstrapcdn.com
 bootyliciousmag.com
@@ -4592,6 +4595,7 @@ cdkworkshop.com
 cdmatech.com
 cdn-telegram.org
 cdn-terapeak.com
+cdn-vk.ru
 cdn77.com
 cdn77.org
 cdninstagram.com
@@ -5818,6 +5822,7 @@ dastrassi.org
 dat.foundation
 data-vocabulary.org
 data.com
+data.taipei
 dataframeworks.com
 datalabour.com
 dataliberation.org
@@ -6128,6 +6133,7 @@ dharmakara.net
 dhcp.biz
 diablo3.com
 diabloimmortal.com
+diabrowser.com
 dialga.com
 dialogflow.com
 diamantewebcam.com
@@ -6505,6 +6511,7 @@ domain.glass
 domains.google
 domywife.com
 donatecarsoh.org
+donationalerts.com
 donga.com
 dongtaiwang.com
 dongtaiwang.net
@@ -9839,6 +9846,7 @@ guaneryu.com
 guangming.org
 guangnianvpn.com
 guaranitermal.com
+guardarian.com
 guardianapis.com
 guardianproject.info
 guardster.com
@@ -9931,6 +9939,7 @@ haitangbook.com
 haitbook.com
 haitenjp.com
 haiwaikan.com
+haiwaiwai.com
 half.com
 half.tv
 halfcanada.com
@@ -11080,6 +11089,7 @@ icons8.com
 icu-project.org
 icuminside.com
 id.au
+id.taipei
 idaiwan.com
 idarkdoll.com
 idea-server.com
@@ -12767,6 +12777,7 @@ ktachibana.party
 ktvu.com
 ktzhk.com
 ku77.xyz
+kuai.media
 kuaichedao.co
 kuaimao-app.com
 kuaipa.net
@@ -13849,6 +13860,7 @@ melon365.com
 melonstube.com
 meltoday.com
 meme111.com
+memealerts.com
 memehk.com
 memes.tw
 memorybbs.com
@@ -15985,6 +15997,7 @@ ok.ru
 ok.xxx
 okayfreedom.com
 okazudouga.tokyo
+okcdn.ru
 okcoin.com
 okex.com
 okk.tw
@@ -17862,6 +17875,7 @@ qwant.it
 qwapi.com
 qx.net
 qxbbs.org
+qycz.org
 qysg.cc
 qysg7.buzz
 qysg8.buzz
@@ -18441,10 +18455,14 @@ sambaporno.com
 sambhota.org
 samebags.com
 samsungcloud.com
+samsungconsent.com
 samsungdm.com
 samsunggalaxyfriends.com
+samsunghealth.com
+samsungiotcloud.com
 samsungknox.com
 samsungqbe.com
+samsungrs.com
 sandisk.ae
 sandisk.com
 sandisk.de
@@ -18688,6 +18706,7 @@ serverlesslibrary.net
 serveuser.com
 serveusers.com
 service-now.com
+service.taipei
 services-apple.net
 services-exchange.com
 serviceshp.com
@@ -19817,6 +19836,7 @@ stboy.net
 stc-server.com
 stcroixmosquito.com
 stcroixmosquitoproject.com
+stealthex.io
 steam-api.com
 steam-chat.com
 steam.tv
@@ -21791,6 +21811,7 @@ vercel-dns.com
 vercel-status.com
 vercel.app
 vercel.blog
+vercel.dev
 vercel.events
 vercel.live
 vercel.pub
@@ -22114,6 +22135,7 @@ vk.me
 vk.ru
 vk.team
 vkcache.com
+vkcloud-static.ru
 vkgo.app
 vklive.app
 vkmessenger.app
