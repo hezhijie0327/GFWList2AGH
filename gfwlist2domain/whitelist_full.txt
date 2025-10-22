@@ -23862,6 +23862,7 @@ cn-zhongrui.com
 cn.bing.com
 cn.bing.net
 cn.download.nvidia.com
+cn.eset.com
 cn.mm.bing.net
 cn.net
 cn.online.standardchartered.com
@@ -59793,8 +59794,6 @@ kashen8.com
 kashengauto.com
 kasitesoft.com
 kaslyju.com
-kaspersky-labs.com
-kaspersky.com
 kasscloud.com
 kataliya.net
 kate-kanebo.net

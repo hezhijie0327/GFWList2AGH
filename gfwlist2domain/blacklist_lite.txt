@@ -1268,6 +1268,7 @@ alphabet.uk
 alphabet.us
 alphabetfinance.net
 alphaporno.com
+alphaxiv.org
 alphera-finance.in
 alphera.ca
 alphera.com
@@ -1506,6 +1507,10 @@ androidpolice.com
 androidtv.com
 andygod.com
 andysparis.com
+anexia-engine.com
+anexia-it.com
+anexia.at
+anexia.com
 anfutong.com
 angel-gto.com
 angela-merkel.de
@@ -2323,6 +2328,7 @@ av69.us
 av6k.com
 av6k.vip
 avaaz.org
+avast.com
 avatara.com
 avbebe.com
 avbody.tv
@@ -2355,6 +2361,7 @@ avhu.com
 avidemux.org
 avinetworks.com
 avinin.com
+avira.com
 avizoon.site
 avizoone.com
 avjb.com
@@ -3304,6 +3311,7 @@ bitchute.com
 bitcoin.org
 bitcointalk.org
 bitcoinworld.com
+bitdefender.com
 bitfinex.com
 bitflyer.com
 bitflyer.jp
@@ -5017,6 +5025,7 @@ ckcdn.com
 ckck.fun
 ckss98.com
 cl.ly
+clamwin.com
 clannad-movie.jp
 claravenger.com
 clarionproject.org
@@ -6876,6 +6885,7 @@ e-szigno.hu
 e-traderland.net
 e-tugra.com
 e123.hk
+e5.sk
 e621.net
 ea-anz-press.com
 ea.com
@@ -7453,6 +7463,10 @@ escortamsterdam1.com
 escortdude.com
 escortgirls.be
 escortrankings.uk
+eset.eu
+eset.sk
+eset.systems
+esetsoftware.com
 eskimotube.com
 eslite.com
 esm.run
@@ -7600,6 +7614,7 @@ ezua.com
 f-dro1d.org
 f-droid.com
 f-droid.org
+f-secure.com
 f2pool.com
 f5.si
 f5pf.com
@@ -8202,6 +8217,7 @@ ficeboock.com
 fictionmania.tv
 fifastreet.com
 fifastreet3.com
+fifthns.com
 fiftythree.com
 fightforux.com
 figma.com
@@ -8322,6 +8338,7 @@ firstanalvideos.com
 firstasianpussy.com
 firstfivefollowers.com
 firstgynexam.com
+firstns.cc
 firstory.me
 firstpelvicexam.com
 firstpost.com
@@ -8479,6 +8496,7 @@ fotoscaserasx.com
 foundationdb.org
 fountmedia.io
 fourthinternational.org
+fourthns.systems
 fox-corporation.com
 fox-news.com
 fox.com
@@ -10581,6 +10599,7 @@ hotbak.net
 hotbeatsonsale.com
 hotcandyland.com
 hotcool.tw
+hotcrp.com
 hotcuckoldwife.com
 hotcumporn.com
 hotels.cn
@@ -13773,6 +13792,7 @@ mbeats-tech.com
 mbheadphone.com
 mcadforums.com
 mcaf.ee
+mcafee.com
 mcd.com
 mcdindia.com
 mcdindonesia.com
@@ -15695,6 +15715,7 @@ nordstromrack.com
 nordvpn.com
 noroutetohost.net
 norsk.mobi
+norton.com
 nos.nl
 note.com
 notepad-plus-plus.org
@@ -16187,6 +16208,7 @@ openlibrary.org
 openmaps.org
 openreality.com
 openresty.org
+openreview.net
 openrouter.ai
 opensea.io
 opensource.google
@@ -16418,6 +16440,7 @@ pandamovies.pw
 pandanet-igs.com
 pandapow.co
 pandapow.net
+pandasecurity.com
 pandavpn-jp.com
 pandavpnpro.com
 pandora.com
@@ -18656,6 +18679,7 @@ seattlefdc.com
 secomtrust.net
 second-ns.com
 second-ns.de
+secondns.at
 secret-flirt-hub.com
 secretchina.com
 secretgarden.no
@@ -19151,6 +19175,7 @@ sidelinesnews.com
 sidelinessportseatery.com
 siege-amazon.com
 sierrafriendsoftibet.org
+sigcomm.org
 sigmoidoscopeexam.com
 sign.new
 signal.art
@@ -19163,6 +19188,7 @@ signalbar.com
 signalprocessingsociety.org
 signalr.net
 signalusers.org
+sigops.org
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
@@ -20662,6 +20688,7 @@ thinkofliving.com
 thinkquarterly.com
 thinkwithgoogle.com
 thirdmill.org
+thirdns.de
 thisav.com
 thisav.org
 thisispolaris.com
@@ -21638,6 +21665,7 @@ uscnpm.org
 usefreevpn.com
 uselessjunk.com
 usembassy.gov
+usenix.org
 useplannr.com
 userapi.com
 usercontent.dev
