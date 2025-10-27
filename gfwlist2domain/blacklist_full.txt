@@ -13398,6 +13398,7 @@ gyutto.com
 gzm.tv
 gzone-anime.info
 h-cdn.com
+h-chan.me
 h-china.org
 h-comic.com
 h-doujinshi.xyz
@@ -13767,6 +13768,8 @@ henshaws.ac.uk
 hentai-ani.me
 hentai-archive.com
 hentai-books.com
+hentai-chan.com
+hentai-chan.live
 hentai-cosplays.com
 hentai-covers.site
 hentai-eroanime.net
@@ -13812,6 +13815,8 @@ hentaibaka.one
 hentaibar.com
 hentaiblue.com
 hentaibros.com
+hentaichan.live
+hentaichan.me
 hentaicity.com
 hentaicloud.com
 hentaiclub.net
@@ -15370,6 +15375,7 @@ imgcrl.org
 imgix.com
 imgix.net
 imgmega.com
+imgschan.xyz
 imgsmail.ru
 imgur.com
 imgur.io
@@ -30852,6 +30858,7 @@ voi.id
 voicettank.org
 voila.ac.uk
 vokevr.com
+vol.moe
 volstudy.ac.uk
 volvo-truck.nl
 volvo.ca
@@ -31150,6 +31157,7 @@ w-mt.co
 w.idaiwan.com
 w.org
 w.wiki
+w0512.com
 w3.org
 w3s.link
 w3schools.com
