@@ -12441,6 +12441,7 @@ joinmastodon.org
 joinpeertube.org
 joins.com
 joinside.org
+joinsquad.com
 jokerlu-go.buzz
 jokerlu.asia
 jokerlu.world
@@ -16048,6 +16049,8 @@ officialdrdre.com
 officialheadphone.com
 offresspecialesbmw.ca
 offrezdesipods.com
+offworldindustries.com
+offworldindustries.net
 ofile.org
 ogameblog.com
 ogaoga.org
