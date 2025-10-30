@@ -688,6 +688,7 @@ aamacau.com
 aanaan.com
 aapl.tw
 aaschool.ac.uk
+aastocks.com
 aau.ac.uk
 aave.com
 aavs.xyz
@@ -6573,6 +6574,7 @@ chromecast.com
 chromeenterprise.google
 chromeexperiments.com
 chromeos.dev
+chromeos.google
 chromercise.com
 chromestatus.com
 chromium.org
@@ -12366,6 +12368,7 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
@@ -12850,6 +12853,7 @@ goodsexporn.org
 goodsrv.de
 goodtv.com.tw
 goodtv.tv
+goody25.com
 goofind.com
 googel.com
 googel.de
@@ -13673,6 +13677,7 @@ heads4-ak-spotify-com.akamaized.net
 headset987.com
 headteachers.ac.uk
 health.ac.uk
+health.google
 health026.click
 healthcare.ac.uk
 healthcarecareeronline.com
@@ -14170,6 +14175,7 @@ hkjp.org
 hklft.com
 hklts.org.hk
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpeanut.com
 hkporn.net
@@ -21400,6 +21406,7 @@ nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 note.com
+notebooklm.google
 notepad-plus-plus.org
 notify.dropboxapi.com
 notify.ppy.sh
@@ -23179,6 +23186,7 @@ play-asia.com
 play-bmm.shop
 play-bmmer.buzz
 play-edge.itunes.apple.com
+play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -26284,6 +26292,7 @@ siddharthasintent.org
 side.ac.uk
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 sie.ac.uk
 siege-amazon.com
 sierrafriendsoftibet.org
@@ -27810,6 +27819,7 @@ sweetsext.com
 sweetsinner.com
 swegold.com
 sweltec.ac.uk
+swiffy.co.za
 swift.ac.uk
 swift.org
 swiftbank.info
