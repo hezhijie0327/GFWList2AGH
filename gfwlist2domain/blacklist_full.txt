@@ -7828,9 +7828,13 @@ d1k2us671qcoau.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
 d1oca24q5dwo6d.cloudfront.net
+d1v5ir2lpwr8os.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d1xhnb4ptk05mw.cloudfront.net
 d1ymi26ma8va5x.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
 d2aba1wr3818hz.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
@@ -8800,6 +8804,7 @@ dmm.co.jp
 dmm.com
 dmmapis.com
 dmmrex.com
+dmqdd6hw24ucf.cloudfront.net
 dmthin.com
 dmthus.com
 dmtiny.com
@@ -15369,7 +15374,10 @@ imageflea.com
 imageglass.org
 imagemodeler.com
 imagepost.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images-gaytube.com
+images-na.ssl-images-amazon.com
 images.prismic.io
 imageshack.com
 imageshack.us
@@ -20025,6 +20033,7 @@ msftnet.org
 msgamesresearch.com
 msgamestudios.com
 msguancha.com
+msh.amazon.co.uk
 msha.gov
 mshome.net
 msi.cn
@@ -27397,6 +27406,7 @@ static-nike.com
 static-verizon.com
 static.fun
 static.shemalez.com
+static.siege-amazon.com
 static01.nyt.com
 static9.net.au
 statically.io
