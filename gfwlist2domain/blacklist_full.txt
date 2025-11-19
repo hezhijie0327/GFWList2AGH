@@ -1214,6 +1214,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.dev
 ai.google
 ai.google.dev
 ai.ls
