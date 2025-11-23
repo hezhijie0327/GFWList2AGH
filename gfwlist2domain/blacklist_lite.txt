@@ -776,6 +776,7 @@ addthisedge.com
 addtoany.com
 addyoutube.com
 adelaidebbs.com
+adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -806,6 +807,7 @@ adidas.ru
 adidas.se
 adinst.com
 admeld.com
+admetrica.ru
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
@@ -10407,6 +10409,7 @@ heywire.com
 heyzo.com
 hf-iphone.com
 hf.co
+hf.space
 hg.cool
 hgamefree.info
 hgamer.pro
@@ -17009,6 +17012,7 @@ picnik.com
 picpost.com
 pics.ee
 pics.vc
+picsart.com
 picsee.co
 picsee.pro
 pictoa.com
@@ -22930,6 +22934,8 @@ websnapr.com
 webtoons.com
 webtoonscorp.com
 webtype.com
+webvisor.com
+webvisor.org
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
@@ -23903,6 +23909,7 @@ yaburi.men
 yaddal.tv
 yadi.sk
 yadori.club
+yads.tech
 yaeby.info
 yaeby.pro
 yahoo.ae
@@ -24006,6 +24013,7 @@ yammer.com
 yamoon.club
 yande.re
 yandex-bank.net
+yandex-team.ru
 yandex.aero
 yandex.az
 yandex.by
@@ -24035,6 +24043,7 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexmetrica.com
 yandexwebcache.org
 yangjianli.com
 yangzhi.app
@@ -24049,6 +24058,7 @@ yaptube.com
 yarininsuyu.com
 yarnpkg.com
 yasarang.net
+yastat.net
 yastatic.net
 yatong.info
 yavtube.com
