@@ -14882,7 +14882,6 @@ ms-studiosmedia.com
 ms365surfaceoffer.com
 ms4dre.com
 msa-it.org
-msads.net
 mschallenge2018.com
 msdn.com
 msedge.net
@@ -18921,6 +18920,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry-cdn.com
 sentry.io
 senzuritv.net
 seqing.one
