@@ -21679,6 +21679,8 @@ ntd.tv
 ntdc.ac.uk
 ntdca.com
 ntdimg.com
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net
 ntdsf.tv
 ntdtv-dc.com
 ntdtv.ca
@@ -22071,6 +22073,7 @@ offrezdesipods.com
 offshorerenewables.ac.uk
 offworldindustries.com
 offworldindustries.net
+ofiii.com
 ofile.org
 ofs.ac.uk
 ogakikyoritsu.co.jp
