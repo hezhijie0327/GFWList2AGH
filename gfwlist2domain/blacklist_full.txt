@@ -539,6 +539,8 @@
 7mmtv.sx
 7mmtv.tv
 7tb.cc
+7tv.app
+7tv.io
 8-d.com
 8008206616.com
 8111y.top
@@ -5867,6 +5869,7 @@ canterburycollege.ac.uk
 canterburytrust.ac.uk
 cantonese.asia
 canva.com
+canvastatus.com
 canyu.org
 cao.im
 caobian.info
@@ -13486,6 +13489,8 @@ h2porn.com
 h528.com
 h5dm.com
 h5galgame.me
+habr.com
+habrastorage.org
 hace.ac.uk
 hacg.club
 hacg.in
@@ -19095,6 +19100,7 @@ metabrainz.org
 metacafe.com
 metacloud.com
 metacpan.org
+metacritic.com
 metacubex.one
 metadac.ac.uk
 metafilter.com
@@ -25251,6 +25257,7 @@ rssmeme.com
 rstatic.net
 rt.com
 rtalabel.org
+rtbcdn.ru
 rthk.hk
 rthk.org.hk
 rthklive2-lh.akamaihd.net
@@ -25324,6 +25331,7 @@ rutracker.org
 rutrecker.net
 rutrk.org
 rutube.ru
+rutubelist.ru
 ruvideos.net
 ruyiseek.com
 rvc.ac.uk
@@ -28435,6 +28443,7 @@ tellusgb.ac.uk
 telri.ac.uk
 temenos.ac.uk
 temetube.xyz
+temp-mail.org
 tempusuk.ac.uk
 temu.com
 tenacy.com
@@ -30432,6 +30441,8 @@ vaultify.com
 vaultify.info
 vaultify.net
 vaultproject.io
+vbcdn.com
+vbcdn.net
 vbejeyv.shop
 vbstatic.co
 vcanedge.com
@@ -30651,7 +30662,9 @@ viacbs.com
 viacom.com
 viacomcbs.com
 viacomcbspressexpress.com
+viber.co
 viber.com
+viber.me
 vica.info
 vicarious.ac.uk
 victimsofcommunism.org
