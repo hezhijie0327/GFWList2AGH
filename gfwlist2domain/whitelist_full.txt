@@ -14520,7 +14520,6 @@ bbs-go.com
 bbs.dji.com
 bbs.dji.net
 bbs.djicdn.com
-bbs.ztedevices.com
 bbs0415.com
 bbs0551.com
 bbs1x.net
@@ -45013,6 +45012,7 @@ hapierxia.com
 hapingapp.com
 hapipixia.com
 hapiyixia.com
+hapjs.org
 haplat.net
 happi123.com
 happigo.com
@@ -102039,7 +102039,6 @@ www.uz0.xyz
 www.viveport.com
 www.volvocars.com
 www.yxssp.com
-www.ztedevices.com
 www1.djicdn.com
 www2.djicdn.com
 www2489.com
