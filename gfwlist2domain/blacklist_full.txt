@@ -2543,7 +2543,6 @@ arirangmeari.com
 ark-genomics.ac.uk
 ark.ac.uk
 ark.to
-arkoselabs.co
 arkoselabs.com
 arlingtoncemetery.mil
 arm.ac.uk
@@ -25103,7 +25102,6 @@ road-crew.com
 roadblocks.com
 roadshow.hk
 roblocks.com
-roblox-api.arkoselabs.co
 roblox-api.arkoselabs.com
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
@@ -28996,11 +28994,14 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigervpn.com
 tiipple.ac.uk
+tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com
 tiktokcdn-us.com
 tiktokcdn.com
 tiktokeu-cdn.com
+tiktokglobalshopv.com
+tiktokminis.us
 tiktokv.com
 tiktokv.eu
 tiktokv.us
@@ -33911,6 +33912,7 @@ zophar.net
 zopim.com
 zorglist.com
 zorrovpn.com
+zotero.org
 zozotown.com
 zpn.im
 zqqpwz.com
