@@ -2518,6 +2518,7 @@ archlinux.org
 archlinuxarm.org
 archway.ac.uk
 arcom.ac.uk
+arcraiders.com
 arctic.ac.uk
 arctosia.com
 arden.ac.uk
@@ -9969,6 +9970,8 @@ email-bimm.ac.uk
 email-once.com
 emanna.com
 emas.ac.uk
+embark-studios.com
+embark.games
 embase.com
 embed-cdn.com
 embed.ly
@@ -10809,6 +10812,8 @@ facegbook.com
 faceid99.com
 faceid99.net
 faceidglobal.com
+faceit-cdn.net
+faceit.com
 faceless.me
 faceobk.com
 faceobok.com
@@ -24713,6 +24718,7 @@ reabble.com
 reach.ac.uk
 reachingwider.ac.uk
 reachporn.com
+reachthefinals.com
 reachtheworldonfacebook.com
 react.com
 reactjs.com
