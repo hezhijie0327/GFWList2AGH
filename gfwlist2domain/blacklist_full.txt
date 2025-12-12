@@ -21134,6 +21134,7 @@ nextwork.com.hk
 nextwork.com.tw
 nextwork.hk
 nextwork.tw
+nexus-cdn.com
 nexusmods.com
 nf.id.au
 nfacstem.ac.uk
@@ -25190,6 +25191,10 @@ ronjoneswriter.com
 roodo.com
 root-signing.ch
 rootsigning.com
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 rosechina.net
 rosemarydoll.com
 rosemount.ac.uk
@@ -29006,6 +29011,7 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigervpn.com
 tiipple.ac.uk
+tiktok-minis.com
 tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com
