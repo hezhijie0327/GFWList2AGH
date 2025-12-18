@@ -4252,6 +4252,7 @@ bit.com
 bit.do
 bit.ly
 bit.no.com
+bitbaby.com
 bitballoon.com
 bitbank.cc
 bitbay.net
@@ -15167,6 +15168,7 @@ id.heroku.com
 id.taipei
 idaiwan.com
 idarkdoll.com
+idcflare.com
 idcore.ac.uk
 idea-server.com
 ideal-teens.com
@@ -20842,6 +20844,7 @@ ndtc.ac.uk
 ndtv.com
 ne-worcs.ac.uk
 ne-worcscol.ac.uk
+ne.jp
 neab.ac.uk
 neaco.ac.uk
 near.by
