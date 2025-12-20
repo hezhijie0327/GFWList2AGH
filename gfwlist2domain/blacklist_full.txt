@@ -6976,6 +6976,7 @@ cmhalq.com
 cmi.org.tw
 cmmedia.com.tw
 cmoinc.org
+cmoney.tw
 cmp.hku.hk
 cmpaas.com
 cmpcp.ac.uk
@@ -21786,8 +21787,14 @@ ntd.com
 ntd.tv
 ntdc.ac.uk
 ntdca.com
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
 ntdimg.com
+ntdofifreemobile-tgc.cdn.hinet.net
 ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntdsf.tv
 ntdtv-dc.com
@@ -22813,6 +22820,7 @@ parstream.org
 particlephysics.ac.uk
 partmaker.com
 partneriaethaberbangor.ac.uk
+partnerstack.xyz
 partycasino.com
 partylikeits1986.org
 partypoker.com
@@ -23044,6 +23052,7 @@ pcstore.com.tw
 pct.org.tw
 pctlwm.com
 pcydds.ac.uk
+pdetails.com
 pdf.new
 pdfexpert.com
 pdi.ac.uk
@@ -32922,6 +32931,7 @@ xvbelink.com
 xvds.tv
 xvedo.net
 xvideo-jp.com
+xvideo.cc
 xvideo.com
 xvideo.org
 xvideo.run
