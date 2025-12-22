@@ -27700,6 +27700,7 @@ static-hamivideo.cdn.hinet.net
 static-nike.com
 static-verizon.com
 static.fun
+static.pocketcasts.com
 static.shemalez.com
 static.siege-amazon.com
 static01.nyt.com
