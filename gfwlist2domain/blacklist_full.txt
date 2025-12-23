@@ -13421,6 +13421,7 @@ grimsby.ac.uk
 grimsbytec.ac.uk
 grindr.com
 grok.com
+grokipedia.com
 grooby.com
 groq.com
 grotty-monday.com
@@ -30450,6 +30451,7 @@ utcreading.ac.uk
 utopianpal.com
 uts-api.itunes.apple.com
 uu-gg.com
+uug22.com
 uug23.com
 uug25.com
 uug26.com
@@ -31507,7 +31509,12 @@ vr.org
 vraiesagesse.net
 vrbgay.com
 vrcams.io
+vrcdn.cloud
+vrcdn.live
+vrcdn.video
+vrchat.cloud
 vrchat.com
+vrchat.net
 vred-essentials.com
 vredessentials.com
 vredprofessional.com
