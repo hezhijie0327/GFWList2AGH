@@ -8957,7 +8957,6 @@ docleradn.com
 doclercdn.com
 docs.cfw.lbyczf.com
 docs.com
-docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -12312,6 +12311,7 @@ gannettdigital.com
 gao1.cc
 gaofuwu.cc
 gaoming.net
+gaopi.net
 gaozhisheng.net
 gaozhisheng.org
 gaozs18.buzz
@@ -12622,6 +12622,7 @@ gfw.org.ua
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 gfwlist.end
 gfwlist.start
 gfx.ms
@@ -16285,6 +16286,7 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
+issues.chromium.org
 issuu.com
 istar.ac.uk
 istars.co.nz
@@ -25640,6 +25642,7 @@ samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
 samsungknox.com
+samsungosp.com
 samsungqbe.com
 samsungrs.com
 sandisk.ae
@@ -27768,6 +27771,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steamladder.com
 steammobile.akamaized.net
 steamofporn.com
 steampipe-kr.akamaized.net
