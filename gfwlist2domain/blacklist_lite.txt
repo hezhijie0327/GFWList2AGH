@@ -1056,6 +1056,7 @@ ai-wen.net
 ai.dev
 ai.google
 ai.ls
+ai.studio
 ai7995.site
 ai91porn.cc
 aiasahi.jp
@@ -18919,6 +18920,7 @@ rust-lang.org
 rustdesk.com
 rustup.rs
 rusvpn.com
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me

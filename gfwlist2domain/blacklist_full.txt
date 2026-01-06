@@ -1294,6 +1294,7 @@ ai.dev
 ai.google
 ai.google.dev
 ai.ls
+ai.studio
 ai3sd.ac.uk
 ai7995.site
 ai91porn.cc
@@ -25648,6 +25649,7 @@ rutc.ac.uk
 ruten.com.tw
 rutherford.ac.uk
 rutlandcollege.ac.uk
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
