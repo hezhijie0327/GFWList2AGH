@@ -5431,6 +5431,7 @@ broomsbarn.ac.uk
 brotli.org
 brourou.com
 browser.kagi.com
+browser.run
 brox-coll.ac.uk
 broxtowe.ac.uk
 brucewang.net
@@ -6399,6 +6400,7 @@ cfargotunnel.com
 cfas.ac.uk
 cfblob.com
 cfd-tv.com
+cfdata.org
 cfdesign.com
 cfhks.org.hk
 cfl.re
@@ -6993,26 +6995,34 @@ cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
+cloudflare-terms-of-service-abuse.com
 cloudflare.com
+cloudflare.dev
 cloudflare.net
 cloudflare.tv
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
+cloudflarebrowser.com
+cloudflarechallenge.com
 cloudflareclient.com
+cloudflarecp.com
 cloudflareinsights.com
 cloudflareok.com
 cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
 cloudflareregistrar.com
+cloudflareresearch.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflarestorage.com
 cloudflarestream.com
+cloudflaresupport.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudflareworkers.com
 cloudfront.com
 cloudfront.net
 cloudfunctions.net
@@ -10159,6 +10169,7 @@ enbit.ac.uk
 enca.com
 encoretvb.com
 encrypt.me
+encryptedsni.com
 encuentroscasualesoecuador.com
 encyclopedia.com
 enema-porn.com
@@ -10506,6 +10517,7 @@ espn.net
 espncdn.com
 espndotcom.tt.omtrdc.net
 espnqa.com
+esports.gg
 esposasymaridos.com
 esrc.ac.uk
 esrcfestival.ac.uk
@@ -12365,11 +12377,13 @@ gamcore.com
 game-platform.net
 game-repack.site
 game735.com
+gameapps.hk
 gamebase.com.tw
 gamebeforethegame.com
 gamebiz.jp
 gamebusiness.jp
 gamedownloads-rockstargames-com.akamaized.net
+gamefocus.co.kr
 gamejolt.com
 gameloft.com
 gamelore.fun
@@ -15432,6 +15446,7 @@ ig.com
 ig.me
 igaychat.com
 igayporn.tv
+igcc.jp
 igcd.net
 igcdn.com
 iger.ac.uk
@@ -15820,6 +15835,7 @@ innovations.ac.uk
 inoreader.com
 inote.tw
 inporn.com
+inquirer.net
 inquisitionspostmortem.ac.uk
 insder.co
 insecam.org
@@ -18699,6 +18715,7 @@ mahabodhi.org
 mahajantech.com
 mahjongsoul.com
 mahsc.ac.uk
+maidonanews.jp
 maiio.net
 mail-archive.com
 mail.com
@@ -20057,6 +20074,7 @@ modperl.pl
 modrinth.com
 modular.im
 moeaic.gov.tw
+moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
@@ -20678,6 +20696,7 @@ mymoe.moe
 mymom.info
 mymusclevideo.com
 mymusic.net.tw
+mynavi.jp
 mynescol.ac.uk
 mynetav.net
 mynetav.org
@@ -22592,6 +22611,7 @@ openapiplatform.com
 openapiservice.com
 openart.ai
 openbase.com
+openbook.org.tw
 opencas.io
 opencollective.com
 opencreate.org
@@ -25231,6 +25251,7 @@ renzhe.cloud
 repe21.com
 repo.new
 repositorynet.ac.uk
+repotama.com
 repsils.no
 repsneakermall.com
 repswing.com
@@ -27652,6 +27673,7 @@ spyjinx.com
 sqhwesternconsortium.ac.uk
 sqlite.org
 sqlserveronlinux.com
+sqool.net
 squ1.com
 squadbusters.com
 squarecapital.com
@@ -28585,6 +28607,7 @@ tamesidecollege.ac.uk
 tamiaode.tk
 tamilsexvideos.cc
 tampabay.com
+tampermonkey.net
 tamtam.chat
 tamworth.ac.uk
 tamworthandlichfield.ac.uk
@@ -29602,6 +29625,7 @@ townsvillebulletin.com.au
 toxin-up.sbs
 toxinzoo.sbs
 toy-cadcam.com
+toy-people.com
 toycadcam.com
 toyobank.co.jp
 toypark.in
