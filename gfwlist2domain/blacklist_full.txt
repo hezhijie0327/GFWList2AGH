@@ -2043,7 +2043,9 @@ anthropology.ac.uk
 anti1984.com
 antichristendom.com
 anticipate.ac.uk
+antigravity-pa.googleapis.com
 antigravity.google
+antigravity.googleapis.com
 antiquity.ac.uk
 antislavery.ac.uk
 antislaverylaw.ac.uk
@@ -6979,11 +6981,13 @@ cloud.cupronickel.goog
 cloud.dify.ai
 cloud.mail.ru
 cloud.oracle.com
+cloudaicompanion.googleapis.com
 cloudapp.net
 cloudappsecurity.com
 cloudburstresearch.com
 cloudc.one
 cloudchoose.com
+cloudcode-pa.googleapis.com
 cloudcone.com
 cloudcone.net
 cloudconvert.com
@@ -8049,6 +8053,7 @@ dagelijksestandaard.nl
 dagfs.com
 daidostup.ru
 daiichibank.co.jp
+daily-cloudcode-pa.googleapis.com
 dailybasis.com
 dailym.ai
 dailymail.co.uk
@@ -8699,6 +8704,7 @@ dilber.se
 dilcdn.com
 dilstoncollege.ac.uk
 dingchin.com.tw
+dinopoloclub.com
 dinotube.com
 dipity.com
 dippam.ac.uk
@@ -20054,6 +20060,7 @@ mobileview.page
 mobilevrxxx.com
 mobileways.de
 mobilitymoodplace.ac.uk
+mobimon.com.tw
 mobmyanmar.com
 moby.to
 mobypicture.com
@@ -21856,7 +21863,9 @@ nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 note.com
+notebooklm-pa.googleapis.com
 notebooklm.google
+notebooklm.googleapis.com
 notepad-plus-plus.org
 notify.dropboxapi.com
 notify.ppy.sh
@@ -21908,6 +21917,7 @@ nownews.com
 nowtorrents.com
 nox.ac.uk
 noxinfluencer.com
+noxygames.com
 noypf.com
 nozomi.la
 npa.go.jp
@@ -24940,6 +24950,8 @@ rawgit.com
 rawgithub.com
 rawstory.com
 raxcdn.com
+rayark.download
+rayark.net
 razer.com
 razerofficial.com
 razersupport.com

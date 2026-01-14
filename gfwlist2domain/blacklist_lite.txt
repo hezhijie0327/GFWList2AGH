@@ -6361,6 +6361,7 @@ digitaltrends.com
 diigo.com
 dilber.se
 dilcdn.com
+dinopoloclub.com
 dinotube.com
 dipity.com
 dirctv.com
@@ -16182,6 +16183,7 @@ nowjav.com
 nownews.com
 nowtorrents.com
 noxinfluencer.com
+noxygames.com
 noypf.com
 nozomi.la
 npm.community
@@ -18501,6 +18503,8 @@ rawgit.com
 rawgithub.com
 rawstory.com
 raxcdn.com
+rayark.download
+rayark.net
 razer.com
 razerofficial.com
 razersupport.com
