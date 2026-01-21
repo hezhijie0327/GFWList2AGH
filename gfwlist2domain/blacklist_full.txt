@@ -2095,23 +2095,17 @@ aoxvpn.com
 aoxx69.net
 aozorabank.co.jp
 ap-bangkok.myqcloud.com
-ap-bangkok.tencentcos.cn
 ap-bangkok.tencentcos.com
 ap-hongkong.myqcloud.com
-ap-hongkong.tencentcos.cn
 ap-hongkong.tencentcos.com
 ap-jakarta.myqcloud.com
-ap-jakarta.tencentcos.cn
 ap-jakarta.tencentcos.com
 ap-mumbai.myqcloud.com
-ap-mumbai.tencentcos.cn
 ap-mumbai.tencentcos.com
 ap-northeast-201.myhuaweicloud.com
 ap-seoul.myqcloud.com
-ap-seoul.tencentcos.cn
 ap-seoul.tencentcos.com
 ap-singapore.myqcloud.com
-ap-singapore.tencentcos.cn
 ap-singapore.tencentcos.com
 ap-southeast-201.myhuaweicloud.com
 ap-southeast-202.myhuaweicloud.com
@@ -2119,7 +2113,6 @@ ap-southeast-203.myhuaweicloud.com
 ap-southeast-4.myhuaweicloud.com
 ap-southeast-5.myhuaweicloud.com
 ap-tokyo.myqcloud.com
-ap-tokyo.tencentcos.cn
 ap-tokyo.tencentcos.com
 ap.org
 ap0le.com
@@ -5711,7 +5704,6 @@ bynet.co.il
 bypasscensorship.org
 byrut.org
 byspotify.com
-bytedance.map.fastly.net
 byteglb.com
 byteoversea.com
 byteoversea.net
@@ -10581,10 +10573,8 @@ eu-central-201.myhuaweicloud.com
 eu-central-202.myhuaweicloud.com
 eu-consumer-empowerment.com
 eu-frankfurt.myqcloud.com
-eu-frankfurt.tencentcos.cn
 eu-frankfurt.tencentcos.com
 eu-moscow.myqcloud.com
-eu-moscow.tencentcos.cn
 eu-moscow.tencentcos.com
 eu-north-201.myhuaweicloud.com
 eu-west-1.myhuaweicloud.com
@@ -18201,6 +18191,7 @@ liveleak.com
 livemint.com
 livemodels.co
 livenet.ac.uk
+liveperson.net
 livephotos.tv
 liveporngirls.com
 liveprivates.com
@@ -18447,6 +18438,7 @@ lp99.pw
 lpc.ac.uk
 lpmde.ac.uk
 lpsg.com
+lpsnmedia.net
 lputil.com
 lqh0bon3.xyz
 lqpjw.cyou
@@ -20804,16 +20796,13 @@ n3ro.net
 n3ro.wtf
 n8agrifood.ac.uk
 na-ashburn.myqcloud.com
-na-ashburn.tencentcos.cn
 na-ashburn.tencentcos.com
 na-att-idns.net
 na-east-0.myhuaweicloud.com
 na-me.ac.uk
 na-siliconvalley.myqcloud.com
-na-siliconvalley.tencentcos.cn
 na-siliconvalley.tencentcos.com
 na-toronto.myqcloud.com
-na-toronto.tencentcos.cn
 na-toronto.tencentcos.com
 na1r.services.adobe.com
 naacoalition.org
@@ -25772,7 +25761,6 @@ s81c.com
 s8ds5gfm.xyz
 s8forum.com
 sa-saopaulo.myqcloud.com
-sa-saopaulo.tencentcos.cn
 sa-saopaulo.tencentcos.com
 sa.com
 sa.hao123.com
@@ -25974,6 +25962,7 @@ sbux.com.my
 sbuxcard.com
 sc-cdn.net
 sc-toolkit.ac.uk
+sc.com
 sc1.ac.uk
 sca-tolo.info
 scaan.ac.uk
@@ -27826,7 +27815,10 @@ stak.ac.uk
 stamford.ac.uk
 stamfordparktrust.ac.uk
 standard.co.uk
+standardchartered.com
 standardsuniversity.org
+standchartbank.sc.omtrdc.net
+standchartbank.tt.omtrdc.net
 standupfortibet.org
 standwithhk.org
 stanford.edu
@@ -28864,7 +28856,6 @@ tempusuk.ac.uk
 temu.com
 tenacy.com
 tenbyfotolia.com
-tencentcos.cn
 tenor.com
 tensorflow.org
 tentowns.ac.uk
@@ -30614,7 +30605,6 @@ upmedia.mg
 upmg.ac.uk
 upornia.com
 uporno.xxx
-upos-hz-mirrorakam.akamaized.net
 uproxy.org
 uptodown.com
 upwill.org
@@ -33765,6 +33755,9 @@ youjizz.com
 youjizz.sex
 youlucky.com
 youmaker.com
+youmind.ai
+youmind.com
+youmind.site
 young-amateur-movies.com
 young-webcam.net
 young-xxx.net
