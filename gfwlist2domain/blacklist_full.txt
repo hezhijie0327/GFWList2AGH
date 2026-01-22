@@ -1185,7 +1185,6 @@ adwords.com
 adwordsexpress.com
 adx.promo
 ae-ad-1.myhuaweicloud.com
-ae-rus.net
 ae.hao123.com
 ae.org
 aeasyshop.com
@@ -1205,12 +1204,9 @@ aerospace-cadcam.com
 aerospace-design.com
 aerospace-training-wales.ac.uk
 aes.ac.uk
-aestatic.net
 aesworkshops.com
 aex.com
-af-east-201.myhuaweicloud.com
 af-north-1.myhuaweicloud.com
-af-west-202.myhuaweicloud.com
 af.mil
 afantibbs.com
 afao.ac.uk
@@ -1402,9 +1398,6 @@ ajsands.com
 ajsjx.com
 ajtalk.com
 ajunews.com
-ak-p.tripcdn.com
-ak-s-cw.tripcdn.com
-ak-s.tripcdn.com
 ak1.net
 aka-ai.com
 aka-ai.net
@@ -1470,7 +1463,6 @@ akamqi.com
 akasha.world
 akastream.com
 akastream.net
-akatest.tripcdn.com
 akatns.net
 akiba-online.com
 akiba-souken.com
@@ -2102,16 +2094,11 @@ ap-jakarta.myqcloud.com
 ap-jakarta.tencentcos.com
 ap-mumbai.myqcloud.com
 ap-mumbai.tencentcos.com
-ap-northeast-201.myhuaweicloud.com
 ap-seoul.myqcloud.com
 ap-seoul.tencentcos.com
 ap-singapore.myqcloud.com
 ap-singapore.tencentcos.com
-ap-southeast-201.myhuaweicloud.com
-ap-southeast-202.myhuaweicloud.com
-ap-southeast-203.myhuaweicloud.com
 ap-southeast-4.myhuaweicloud.com
-ap-southeast-5.myhuaweicloud.com
 ap-tokyo.myqcloud.com
 ap-tokyo.tencentcos.com
 ap.org
@@ -2667,10 +2654,6 @@ arzon.jp
 as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
 as-hp.ca
-as-south-0.myhuaweicloud.com
-as-south-201.myhuaweicloud.com
-as-south-205.myhuaweicloud.com
-as-south-207.myhuaweicloud.com
 asacp.org
 asagaku.com
 asahi.com
@@ -3173,9 +3156,6 @@ avxhm.se
 avxlive.icu
 avxxc.com
 avyahoo.com
-aw-d.tripcdn.com
-aw-p.tripcdn.com
-aw-s.tripcdn.com
 awabank.co.jp
 awayoutgame.com
 aweencore.com
@@ -5704,9 +5684,7 @@ bynet.co.il
 bypasscensorship.org
 byrut.org
 byspotify.com
-byteglb.com
 byteoversea.com
-byteoversea.net
 bytick.com
 byzantine-ahrb-centre.ac.uk
 byzantium.ac.uk
@@ -5728,7 +5706,6 @@ c4assets.com
 c4ccetl.ac.uk
 c4rex.co
 c4slive.com
-ca-east-201.myhuaweicloud.com
 ca.file.myqcloud.com
 ca.gov
 caacentre.ac.uk
@@ -7849,7 +7826,6 @@ cudos.ac.uk
 cue.ac.uk
 cuebic.biz
 cuffiesaldi.com
-cuguplus.com
 cuhk.edu.hk
 cuhkacs.org
 cuhop.ac.uk
@@ -7881,7 +7857,6 @@ cumswappingsis.com
 cumteenporn.com
 cunhua.pics
 cuniq.com
-cuniq.sg
 cuntcrack.com
 cuntempire.com
 cuntwars.com
@@ -10569,17 +10544,12 @@ ettrade.com.hk
 etviet.com
 etvonline.hk
 etwealth.com
-eu-central-201.myhuaweicloud.com
-eu-central-202.myhuaweicloud.com
 eu-consumer-empowerment.com
 eu-frankfurt.myqcloud.com
 eu-frankfurt.tencentcos.com
 eu-moscow.myqcloud.com
 eu-moscow.tencentcos.com
-eu-north-201.myhuaweicloud.com
-eu-west-1.myhuaweicloud.com
 eu-west-101.myhuaweicloud.com
-eu-west-201.myhuaweicloud.com
 eu.org
 eubluecardvisa.com
 eucasino.com
@@ -12629,6 +12599,7 @@ geocities.co.jp
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geohazard.ac.uk
 geolytics.com
 geoport.com
@@ -17628,7 +17599,6 @@ l-0005.dc-msedge.net
 l-msedge.net
 la-forum.org
 la-mama.ru
-la-north-205.myhuaweicloud.com
 lab.skk.moe
 laban.ac.uk
 labiennale.org
@@ -19215,9 +19185,6 @@ mdtt-tv.sbs
 mdx.ac.uk
 mdyy.de
 me-east-1.myhuaweicloud.com
-me-east-205.myhuaweicloud.com
-me-east-208.myhuaweicloud.com
-me-east-209.myhuaweicloud.com
 me-gay.com
 me.me
 me.ns.ci
@@ -20798,7 +20765,6 @@ n8agrifood.ac.uk
 na-ashburn.myqcloud.com
 na-ashburn.tencentcos.com
 na-att-idns.net
-na-east-0.myhuaweicloud.com
 na-me.ac.uk
 na-siliconvalley.myqcloud.com
 na-siliconvalley.tencentcos.com
@@ -25651,7 +25617,6 @@ rtings.com
 rtm.tnt-ea.com
 rtycminnesota.org
 ru-moscow-1.myhuaweicloud.com
-ru-northwest-201.myhuaweicloud.com
 rua-project.ac.uk
 ruanyifeng.com
 ruby-lang.org
@@ -25677,7 +25642,6 @@ ruleporn.com
 rumah123.com
 rumble.com
 rumporn.com
-rumt-us.com
 run.app
 runbtx.com
 rundf665.cyou
@@ -29098,7 +29062,6 @@ thepervs.com
 thepiratebay.ee
 thepiratebay.org
 theplatform.com
-thepoizon.ru
 theporn.cc
 thepornarea.com
 thepornbest.com
@@ -30630,7 +30593,6 @@ urlborg.com
 urlgalleries.net
 urlparser.com
 urukawa.com
-us-east-1.myhuaweicloud.com
 us.to
 us.weibo.com
 usa-beatsbydreheadphonesonsale.net
@@ -32285,6 +32247,7 @@ wikawika.xyz
 wiki.cnitter.com
 wiki.esu.im
 wiki.gamerp.jp
+wiki.gg
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.kfd.me
