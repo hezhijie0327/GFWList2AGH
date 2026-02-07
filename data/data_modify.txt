@@ -1,0 +1,204 @@
+## 自定义规则优先级 - 开始
+
+# 移除(!) > 添加(@) > 排除(*)
+
+## 自定义规则优先级 - 结束
+
+## 自定义规则语法 - 开始
+
+# (@@@) | 向 C 及 G 列表添加域名
+(@@@)example.org
+
+# (!!!) | 向 C 及 G 列表移除域名
+(!!!)example.org
+
+# (***) | 向 C 及 G 列表排除域名 (*.example.org & example.org)
+(***)example.org
+
+# (!**) | 向 C 及 G 列表排除关键词 (*example.org*)
+(!**)example.org
+
+# (@%@) | 仅向 C 列表添加域名
+(@%@)example.org
+
+# (!%!) | 仅向 C 列表移除域名
+(!%!)example.org
+
+# (*%*) | 仅向 C 列表排除域名 (*.example.org & example.org)
+(*%*)example.org
+
+# (!%*) | 仅向 C 列表排除关键词 (*example.org*)
+(!%*)example.org
+
+# (@&@) | 仅向 G 列表添加域名
+(@&@)example.org
+
+# (!&!) | 仅向 G 列表移除域名
+(!&!)example.org
+
+# (*&*) | 仅向 G 列表排除域名 (*.example.org & example.org)
+(*&*)example.org
+
+# (!&*) | 仅向 G 列表排除关键词 (*example.org*)
+(!&*)example.org
+
+# (@%!) | 向 C 列表添加域名并将其从 G 列表中移除
+(@%!)example.org
+
+# (!%@) | 向 C 列表移除域名并将其从 G 列表中添加
+(!%@)example.org
+
+# (@&!) | 向 G 列表添加域名并将其从 C 列表中移除
+(@&!)example.org
+
+# (!&@) | 向 G 列表移除域名并将其从 C 列表中添加
+(!&@)example.org
+
+## 自定义规则语法 - 结束
+
+## 自定义规则 - 开始
+
+# COM.CN
+(*&*)com.cn
+
+# AcgnX
+(@&!)share.acgnx.net
+(@&!)share.acgnx.se
+(@&!)www.acgnx.se
+
+# AniDB
+(@&!)anidb.net
+
+# AniX.Moe
+(@&!)www.anix.moe
+
+# Apple
+(@%!)18-courier.push.apple.com
+(@%!)amp-api-edge.music.apple.com
+(@%!)apple-dns.cn
+(@%!)apple-dns.net
+(@%!)apple.com
+(@%!)apple.com.cn
+(@%!)apps.mzstatic.com.mwcname.com
+(@%!)cl3.apple.com.mwcname.com
+(@%!)cl5.apple.com.mwcname.com
+(@%!)client-api.itunes.apple.com.mwcname.com
+(@%!)gsa.apple.com.akadns.net
+(@%!)icloud.com
+(@%!)init-p01md.apple.com
+(@%!)init-p01md.apple.com.mwcname.com
+(@%!)init.ess.apple.com
+(@%!)init.itunes.apple.com
+(@%!)init.itunes.apple.com.mwcname.com
+(@%!)iphone-ld.apple.com.mwcname.com
+(@%!)mesu.apple.com.mwcname.com
+(@%!)pd.itunes.apple.com.mwcname.com
+(@%!)play.itunes.apple.com.mwcname.com
+(@%!)se-edge.itunes-apple.com
+(@%!)se-edge.itunes.apple.com.mwcname.com
+(@%!)search.itunes.apple.com.mwcname.com
+(@%!)securemetrics.apple.com.cn
+(@%!)www-cdn.icloud.com.akadns.net
+(@%!)www.apple.com.cn
+(@%!)www.icloud.com
+
+# 阿里云
+(@%!)alibabadns.com
+(@%!)dns.alidns.com
+
+# 必应
+(@%!)cn.bing.com
+(@%!)cn.bing.net
+(@%!)www.bing.com
+
+# Cloudflare
+(@&!)1dot1dot1dot1.cloudflare-dns.com
+(@&!)cloudflare-dns.com
+(@&!)dash.cloudflare.com
+(@&!)dns.cloudflare.com
+
+# Cloudflare Workers
+(@&!)workers.dev
+
+# DNSPod
+(@%!)dns.pub
+(@%!)doh.pub
+(@%!)dot.pub
+
+# Denpasoft
+(@&!)denpasoft.com
+
+# 抖音 #10
+(@%!)douyincdn.com
+
+# fanart.tv
+(@&!)assets.fanart.tv
+(@&!)fanart.tv
+
+# FastGit
+(@&!)archive.fastgit.org
+(@&!)assets.fastgit.org
+(@&!)customer-stories-feed.fastgit.org
+(@&!)download.fastgit.org
+(@&!)fastgit.org
+(@&!)hub.fastgit.org
+(@&!)raw.fastgit.org
+
+# GitHub
+(@&!)github.com
+(@&!)githubusercontent.com
+(@&!)desktop.githubusercontent.com
+
+# Google
+(@&!)dns.google
+(@&!)google.com
+(@&!)redirector.googlevideo.com
+
+# it-global.cn #8
+(@%!)it-global.cn
+
+# jsDelivr
+(@&!)cdn.jsdelivr.net
+(@&!)jsdelivr.net
+
+# Miro
+(@&!)miro.com
+
+# OpenDNS
+(@&!)dns.opendns.com
+(@&!)doh.opendns.com
+
+# ServiceNow
+(@&!)service-now.com
+
+# SmartSheet
+(@&!)app.smartsheet.com
+(@&!)smartsheet.com
+
+# UUP dump
+(@&!)uupdump.net
+
+# 钱美流量 #8
+(@%!)ssnm.xyz
+
+# 上海闪耀信息科技有限公司 / 闪耀科技 #8
+(@%!)global-ict.cn
+(@%!)global-idc.net
+
+# UC 浏览器 #8
+(@%!)uc.cn
+
+# VCB-S
+(@&!)bbs.acgrip.com
+
+# Vercel
+(@%!)cname.vercel-dns.com
+(@%!)vercel.com
+
+# 支付宝
+(@%!)mobilegw.alipay.com
+
+# 治杰 Online
+(@&!)zhijie.online
+
+## 自定义规则 - 结束
