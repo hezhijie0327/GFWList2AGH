@@ -810,7 +810,6 @@ addthisedge.com
 addtoany.com
 addyoutube.com
 adelaidebbs.com
-adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -886,7 +885,6 @@ adidastabletennis.com
 adidasusnews.com
 adinst.com
 admeld.com
-admetrica.ru
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
@@ -3215,6 +3213,7 @@ bellebound.com
 bellesa.co
 bellotube.com
 bellsouth.net
+belonging.google
 belwue.net
 bemywife.cc
 benaughty.fun
@@ -5095,6 +5094,7 @@ chinaeconomicreview.com
 chinaelections.org
 chinaeweekly.com
 chinafile.com
+chinafirewalltest.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -5554,6 +5554,7 @@ coinonecorp.com
 cointiger.com
 cointobe.com
 coinut.com
+coinw.com
 coithienthai.com
 coitustube.com
 colab.google
@@ -23839,8 +23840,6 @@ websnapr.com
 webtoons.com
 webtoonscorp.com
 webtype.com
-webvisor.com
-webvisor.org
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
@@ -24850,7 +24849,6 @@ yaburi.men
 yaddal.tv
 yadi.sk
 yadori.club
-yads.tech
 yaeby.info
 yaeby.pro
 yahoo.ae
@@ -24988,7 +24986,6 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexlyceum.ru
-yandexmetrica.com
 yandexwebcache.net
 yandexwebcache.org
 yangjianli.com

@@ -960,7 +960,6 @@ addyoutube.com
 adelaidebbs.com
 adelaidenow.com.au
 adeptt.ac.uk
-adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -1061,7 +1060,6 @@ adinst.com
 adlib.ac.uk
 adls.ac.uk
 admeld.com
-admetrica.ru
 admin.recaptcha.net
 admob.com
 adobe-aemassets-value.com
@@ -4068,6 +4066,7 @@ bellerbys.ac.uk
 bellesa.co
 bellotube.com
 bellsouth.net
+belonging.google
 belwue.net
 bemix.ac.uk
 bemywife.cc
@@ -6767,6 +6766,7 @@ chinaeconomicreview.com
 chinaelections.org
 chinaeweekly.com
 chinafile.com
+chinafirewalltest.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -7395,6 +7395,7 @@ coinrail.co.kr
 cointiger.com
 cointobe.com
 coinut.com
+coinw.com
 coithienthai.com
 coitustube.com
 col-westanglia.ac.uk
@@ -17750,7 +17751,6 @@ kinkypeepz.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
-kinopoisk-ru.clstorage.net
 kinopoisk.ru
 kinorium.com
 kir.jp
@@ -32569,8 +32569,6 @@ webster.ac.uk
 webtoons.com
 webtoonscorp.com
 webtype.com
-webvisor.com
-webvisor.org
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
@@ -33926,7 +33924,6 @@ yaburi.men
 yaddal.tv
 yadi.sk
 yadori.club
-yads.tech
 yaeby.info
 yaeby.pro
 yahoo-news.com.hk
@@ -34099,8 +34096,6 @@ yammer.com
 yamoon.club
 yande.re
 yandex-bank.net
-yandex-images.clstorage.net
-yandex-pogoda.static-storage.net
 yandex-team.ru
 yandex.aero
 yandex.asia
@@ -34141,7 +34136,6 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexlyceum.ru
-yandexmetrica.com
 yandexwebcache.net
 yandexwebcache.org
 yangjianli.com
