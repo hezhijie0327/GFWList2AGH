@@ -2125,9 +2125,12 @@ anistreaming.xyz
 ankarazirvesi2018.com
 anm.co.uk
 annamilk.com
+annas-archive.gd
+annas-archive.gl
 annas-archive.in
 annas-archive.li
 annas-archive.org
+annas-archive.pk
 annas-archive.pm
 annas-archive.se
 annatam.com
@@ -5869,6 +5872,7 @@ caacentre.ac.uk
 caadoc.ac.uk
 caagcc.ac.uk
 caban.ac.uk
+cabconnect.org
 cableav.tv
 cableav.xyz
 cablegatesearch.net
@@ -6031,6 +6035,7 @@ candycumcity.com
 candypleasure.com
 cannington.ac.uk
 cannock.ac.uk
+canny.io
 canolfansgiliaucadarn.ac.uk
 canolfanyramgylcheddolcymru.ac.uk
 canon-cee.com
@@ -7799,6 +7804,7 @@ cran.ac.uk
 cranfield.ac.uk
 crankplayer.com
 crash.ac.uk
+crashlytics.com
 crates.io
 craven-college.ac.uk
 crawley-college.ac.uk
@@ -9452,6 +9458,7 @@ dri.ac.uk
 dribbble.com
 drift.click
 drindod.ac.uk
+driveawaytaxi.org
 driverxxx.com
 drivevideo.xyz
 driving.co.uk
@@ -10445,6 +10452,9 @@ entrust.cn
 entrust.com
 entrust.net
 entrustdatacard.com
+envato-static.com
+envato.com
+envatousercontent.com
 enveast.ac.uk
 environment-health.ac.uk
 eotarchive.org
@@ -13264,6 +13274,7 @@ gofundme.com
 gog-statics.com
 gog.com
 gogeo.ac.uk
+gogettaxi.org
 gogle.com
 gogle.de
 gogo-load.com
@@ -13661,6 +13672,7 @@ gotraffic.net
 gotrusted.com
 gotw.ca
 gouhuo.qq.com
+goup.ai
 gouri.xyz
 gov.hk
 gov.in
@@ -14101,6 +14113,7 @@ hayday.com
 haydaygame.com
 hayle.ac.uk
 haywardsheath.ac.uk
+hayya.ae
 hbabit.com
 hbfile.net
 hbg.com
@@ -17213,6 +17226,21 @@ jiuse823.com
 jiuse904.com
 jiuse905.com
 jiuzhouyihuo.com
+jivo.chat
+jivo.ru
+jivochat.co.in
+jivochat.co.za
+jivochat.com
+jivochat.com.br
+jivochat.com.co
+jivochat.com.pe
+jivochat.com.tr
+jivochat.de
+jivochat.es
+jivochat.ng
+jivochat.ru
+jivosite.com
+jivosite.ru
 jiyou520.com
 jiyu-kobo.co.jp
 jizzboom.com
@@ -20856,6 +20884,7 @@ my-enema.com
 my-formosa.com
 my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
+my-manager-account.com
 my-private-network.co.uk
 my-proxy.com
 my.mail.ru
@@ -22352,6 +22381,7 @@ ntp.ring.gr.jp
 ntp.ripe.net
 ntp.se
 ntp.t.ring.gr.jp
+ntp.time.nl
 ntp.tohoku.ac.jp
 ntp.tut.ac.jp
 ntp.ubuntu.com
@@ -22362,6 +22392,7 @@ ntp1.jst.mfeed.ad.jp
 ntp1.ntp-servers.net
 ntp1.plala.or.jp
 ntp1.ring.gr.jp
+ntp1.time.nl
 ntp1.tohoku.ac.jp
 ntp1.v6.mfeed.ad.jp
 ntp1.wakwak.com
@@ -22369,6 +22400,7 @@ ntp2.jst.mfeed.ad.jp
 ntp2.ntp-servers.net
 ntp2.plala.or.jp
 ntp2.ring.gr.jp
+ntp2.time.nl
 ntp2.tohoku.ac.jp
 ntp2.v6.mfeed.ad.jp
 ntp2.wakwak.com
@@ -22379,6 +22411,8 @@ ntp4.ntp-servers.net
 ntp5.ntp-servers.net
 ntp6.ntp-servers.net
 ntp7.ntp-servers.net
+ntppool1.time.nl
+ntppool2.time.nl
 ntrfun.com
 ntsna.gov.tw
 ntten-mg.buzz
@@ -28763,6 +28797,7 @@ supjav.com
 suppig.net
 supply-chain.ac.uk
 supplybestjerseys.com
+support-uber.com
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -29129,7 +29164,10 @@ taweet.com
 tawny-peaks.com
 taxel.media
 taxi69.com
+taxiaid.org
 taxidrivermovie.com
+taxiguru.org
+taxitax.org
 tay.ac.uk
 taylorandfrancis.com
 taylorfrancis.com
@@ -29534,6 +29572,7 @@ theman.in
 themanchestercollege.ac.uk
 themarvelexperiencetour.com
 themathsfactor.com
+themeforest.net
 themercury.com.au
 themessengeradelaide.com.au
 themilfmovies.com
@@ -29864,6 +29903,7 @@ time.facebook.com
 time.google.com
 time.gov
 time.nist.gov
+time.nl
 time.nrc.ca
 time.windows.com
 time1.facebook.com
@@ -31239,6 +31279,7 @@ uwtsd.ac.uk
 uwtsdlondon.ac.uk
 uxbridge.ac.uk
 uxbridgecollege.ac.uk
+uxthemes.com
 uxxxporn.com
 uyghur-archive.com
 uyghur-j.org
@@ -34135,10 +34176,24 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexgo.com
 yandexlyceum.ru
 yandexwebcache.net
 yandexwebcache.org
 yangjianli.com
+yango-b2b.com
+yango-team.com
+yango-tech.com
+yango.africa
+yango.ao
+yango.bh
+yango.co.il
+yango.com
+yango.fi
+yango.qa
+yango.taxi
+yango.tech
+yangofellowship.com
 yangzhi.app
 yangzhi.org
 yaohubaba.com
