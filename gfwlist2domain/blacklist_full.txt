@@ -8924,6 +8924,7 @@ digitalhub.com
 digitalid.ch
 digitallifespan.ac.uk
 digitalnomadsproject.org
+digitalocean-ui.com
 digitalocean.com
 digitaloceanspaces.com
 digitalpack.com
@@ -26689,9 +26690,6 @@ sc.com
 sc1.ac.uk
 sca-tolo.info
 scaan.ac.uk
-scache.vzw.com
-scache1.vzw.com
-scache2.vzw.com
 scadr.ac.uk
 scae.ac.uk
 scala-lang.org
@@ -28505,7 +28503,6 @@ ss-link.com
 ss.pythonic.life
 ss2.us
 ss7.app
-ss7.vzw.com
 ssa.gov
 ssdevrd.com
 ssees.ac.uk
