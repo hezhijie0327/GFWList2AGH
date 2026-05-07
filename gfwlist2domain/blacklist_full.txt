@@ -874,6 +874,7 @@ aces.ac.uk
 acesofthunder.net
 acets.ac.uk
 acevpn.com
+acg.mn
 acg.rip
 acg18.me
 acgbox.link
@@ -2200,6 +2201,7 @@ anypornhd.com
 anypornsexxx.com
 anysex.com
 anyshemale.com
+anythingllm.com
 anyxxx.me
 anyxxx.pro
 ao3.org
@@ -4590,6 +4592,7 @@ blaoshi.cc
 blazor.net
 blc.ac.uk
 ble.ac.uk
+bleepingcomputer.com
 blend-ed.ac.uk
 blender.org
 blewpass.com
@@ -5315,6 +5318,7 @@ boom.ru
 boomba.club
 boombeach.com
 boomerang.com
+boomplay.com
 boomssr.com
 boomtrain.com
 booru.org
@@ -7749,7 +7753,10 @@ coova.com
 coova.net
 coova.org
 copac.ac.uk
+copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
 copilot.microsoft.com
+copilotprodattachments.blob.core.windows.net
 copim.ac.uk
 copior.ac.uk
 copro.pw
@@ -8043,6 +8050,7 @@ ctfriend.net
 ctg.ac.uk
 ctinets.com
 ctinews.com
+ctinsider.com
 ctitv.com.tw
 ctk.ac.uk
 ctkaquinas.ac.uk
@@ -10219,6 +10227,7 @@ edgesuite.net
 edhcc.ac.uk
 edicypages.com
 edifhe.ac.uk
+edigest.hk
 edina.ac.uk
 edinburgh.ac.uk
 edinburghcollege.ac.uk
@@ -13181,6 +13190,11 @@ gitbooks.io
 githack.com
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
+github-production-repository-image-32fea6.s3.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
 github.ai
 github.blog
 github.com
@@ -14844,6 +14858,7 @@ hitbtc.com
 hitomi.la
 hitun.io
 hitxhot.com
+hive.blog
 hiveon.net
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -15710,6 +15725,7 @@ icair.ac.uk
 icams.com
 icashpassport.com.mx
 icca.ac.uk
+iccf.com
 iccliverpool.ac.uk
 ice-cse.ac.uk
 iced.ac.uk
@@ -16302,6 +16318,7 @@ informedchoices.ac.uk
 informer.com
 informs.org
 infosciscotland.ac.uk
+infosec.exchange
 infotimes.com.tw
 infowars.com
 infowarsmedia.com
@@ -17829,6 +17846,7 @@ kaspersky.se
 kastatic.org
 kat.cr
 katestube.com
+kathmandupost.com
 kavkazr.com
 kawaiikawaii.jp
 kawase.com
@@ -19820,6 +19838,7 @@ mediafiles-cisco.com
 mediafire.com
 mediafreakcity.com
 mediahub.ac.uk
+mediamatters.org
 median.ac.uk
 mediasama.com
 mediawiki.org
@@ -21115,6 +21134,7 @@ museumwales.ac.uk
 mushroomtrack.com
 mushymush.tv
 music-research.ac.uk
+music.amazon.com
 musicade.net
 musical.ly
 musicandphilosophy.ac.uk
@@ -21963,6 +21983,7 @@ newsexxxx.com
 newsfeed.com
 newsfilm.ac.uk
 newsgawakaru.com
+newshub.co.nz
 newslicensing.co.uk
 newsmagazine.asia
 newsmart.jp
@@ -21978,6 +21999,7 @@ newstamago.com
 newstapa.org
 newstarnet.com
 newstatesman.com
+newstimes.com
 newsukadops.com
 newsupermariobrosu.com
 newswav.com
@@ -22049,6 +22071,7 @@ nflxso.net
 nflxvideo.net
 nfo.ac.uk
 nfsc.global
+nfsc.press
 nfscdict.com
 nfscofficial.com
 nfsworld.com
@@ -23164,6 +23187,7 @@ onani-daisuki.com
 onapp.com
 onbeatsbydresale.com
 oncars.in
+ondigitalocean.com
 one.one
 one.one.one
 one.one.one.one
@@ -23323,6 +23347,7 @@ opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
+openspec.dev
 openssl.org
 openstemlab.ac.uk
 openstemlabs.ac.uk
@@ -23515,6 +23540,7 @@ over18arcade.com
 overapple.com
 overcast.fm
 overdaily.org
+overdrive.com
 overleaf.com
 overplay.net
 oversea.istarshine.com
@@ -24073,6 +24099,7 @@ penchinese.net
 pencoed.ac.uk
 pendcoll.ac.uk
 pendrivelinux.com
+penguin.com.au
 pengwerncollege.ac.uk
 pengyulong.com
 peninsula.ac.uk
@@ -25141,6 +25168,26 @@ prodforza.blob.core.windows.net
 prodrive-japan.com
 product.co.jp
 production-openaicom-storage.azureedge.net
+productionresultssa0.blob.core.windows.net
+productionresultssa1.blob.core.windows.net
+productionresultssa10.blob.core.windows.net
+productionresultssa11.blob.core.windows.net
+productionresultssa12.blob.core.windows.net
+productionresultssa13.blob.core.windows.net
+productionresultssa14.blob.core.windows.net
+productionresultssa15.blob.core.windows.net
+productionresultssa16.blob.core.windows.net
+productionresultssa17.blob.core.windows.net
+productionresultssa18.blob.core.windows.net
+productionresultssa19.blob.core.windows.net
+productionresultssa2.blob.core.windows.net
+productionresultssa3.blob.core.windows.net
+productionresultssa4.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
+productionresultssa6.blob.core.windows.net
+productionresultssa7.blob.core.windows.net
+productionresultssa8.blob.core.windows.net
+productionresultssa9.blob.core.windows.net
 productivemargins.ac.uk
 profile.ac.uk
 profilemaster.com
@@ -26421,6 +26468,7 @@ rti.org.tw
 rti.tw
 rtings.com
 rtm.tnt-ea.com
+rts.ch
 rtycminnesota.org
 ru-moscow-1.myhuaweicloud.com
 rua-project.ac.uk
@@ -29199,6 +29247,7 @@ supply-chain.ac.uk
 supplybestjerseys.com
 support-uber.com
 supportfacebook.com
+supr.cl
 supremacy.com
 supremacy.net
 suprememastertv.com
@@ -29887,6 +29936,7 @@ the-etc.ac.uk
 the-japan-news.com
 the-m-festival.com
 the-monster-beats.com
+the-sun.com
 the-tls.co.uk
 the123d.com
 theadulthub.com
@@ -30088,6 +30138,7 @@ theuab.net
 theverge.com
 thevirtualsexreview.com
 thevivekspot.com
+theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
@@ -30968,6 +31019,7 @@ tvbusa.com
 tvbweekly.com
 tvc.ac.uk
 tvcastlive-hamivideo.cdn.hinet.net
+tvdy1.com
 tver.co.jp
 tver.jp
 tvider.com
@@ -31050,6 +31102,7 @@ twifuli.com
 twiggit.org
 twilightsex.com
 twilio.com
+twilio.jp
 twilog.org
 twimbow.com
 twimg.co
@@ -31165,6 +31218,7 @@ typography.com
 typora.io
 tyre-cadcam.com
 tyrecadcam.com
+tytch.com
 tytng189.com
 tytporno.online
 u.nu
@@ -31682,7 +31736,9 @@ userapi.ru
 usercentrics.eu
 usercontent.dev
 usercontent.goog
+userdrive.org
 userpxt.io
+usersdrive.com
 usertrust.com
 usfk.mil
 usgs.gov
