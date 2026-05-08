@@ -17339,6 +17339,7 @@ opensourceinsights.dev
 openspec.dev
 openssl.org
 openstreetmap.com
+openstreetmap.fr
 openstreetmap.net
 openstreetmap.org
 openstreetmaps.org

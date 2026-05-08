@@ -23352,6 +23352,7 @@ openssl.org
 openstemlab.ac.uk
 openstemlabs.ac.uk
 openstreetmap.com
+openstreetmap.fr
 openstreetmap.net
 openstreetmap.org
 openstreetmaps.org
@@ -31520,6 +31521,7 @@ ultrayoungsex.com
 ulyssesapp.com
 uma.media
 umagazine.com.hk
+umap.openstreetmap.fr
 umass.edu
 umbrella.com
 umd.edu
