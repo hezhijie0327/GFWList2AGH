@@ -2730,6 +2730,7 @@ archiveshub.ac.uk
 archivx.to
 archlinux.de
 archlinux.org
+archlinux.page
 archlinuxarm.org
 archlinuxcn.org
 archway.ac.uk
@@ -7017,7 +7018,6 @@ cinny.in
 cios.org
 ciota.ac.uk
 cipfg.org
-circle19.org
 circlethebayfortibet.org
 cirencester.ac.uk
 cirius.ac.uk
@@ -26256,6 +26256,7 @@ right-2.ac.uk
 rightbtc.com
 rightster.com
 rigpa.org
+rigums.xyz
 riku.me
 rileyguide.com
 rime.im

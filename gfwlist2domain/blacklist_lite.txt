@@ -2140,6 +2140,7 @@ archives.gov
 archivx.to
 archlinux.de
 archlinux.org
+archlinux.page
 archlinuxarm.org
 archlinuxcn.org
 arcraiders.com
@@ -5296,7 +5297,6 @@ cinepornogratis.com
 cinny.in
 cios.org
 cipfg.org
-circle19.org
 circlethebayfortibet.org
 cirosantilli.com
 cisco-returns.com
@@ -19615,6 +19615,7 @@ ridepenguin.com
 rightbtc.com
 rightster.com
 rigpa.org
+rigums.xyz
 riku.me
 rileyguide.com
 rime.im
