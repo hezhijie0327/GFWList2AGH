@@ -443,6 +443,7 @@
 55dndn.com
 567321.online
 568xe.com
+573.jp
 58avgo.com
 592r.com
 59mvmv.com
@@ -13603,6 +13604,7 @@ keytransparency.foo
 keytransparency.org
 kfd.me
 kfs.io
+kgisystems.com
 kgslb.com
 khabdha.org
 khanacademy.org
@@ -13693,6 +13695,7 @@ kisscos.net
 kissjav.com
 kissjav.li
 kitazawa.me
+kiwi.jp
 kiwi.kz
 kiwibrowser.com
 kk.stream
@@ -13731,6 +13734,18 @@ kompoz2.com
 kompozer.net
 konachan.com
 konachan.net
+konami-igaming.online
+konami.com
+konami.net
+konami.org
+konamicrossmedia.com
+konamigaming.com
+konamigaming.net
+konamigaming.online
+konamionline.com
+konamiopen.jp
+konamisportsclub.jp
+konamistyle.jp
 kone.com
 koolsolutions.com
 koornk.com
@@ -19562,6 +19577,8 @@ researchkit.hk
 researchkit.net
 researchkit.org
 researchkit.tv
+resella.jp
+resellablue.com
 resilio.com
 resistchina.org
 resoubanana.buzz
@@ -26121,6 +26138,7 @@ yuanming.net
 yuanzhengtang.org
 yuenuge113.xyz
 yuenuge18.cc
+yugioh-card.com
 yukineko.me
 yulghun.com
 yunchao.net
