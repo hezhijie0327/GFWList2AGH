@@ -1303,6 +1303,7 @@ alefbank.com
 alexa.com
 alexanderstreet.com
 alexlur.org
+alfa.me
 alfabank.ru
 alfabank.st
 alfadirect.ru
@@ -5261,6 +5262,7 @@ chromeos.dev
 chromeos.google
 chromercise.com
 chromestatus.com
+chromium.org
 chronicle.security
 chroniclesec.com
 chuang-yen.org
@@ -10351,6 +10353,7 @@ google.vn
 google.vu
 google.ws
 googleacquisitionmigration.com
+googleadapis.com
 googleapis.cn
 googleapps.com
 googlearth.com
@@ -19113,6 +19116,7 @@ q13.com
 q13fox.com
 qanote.com
 qatarescortsvip.com
+qatp1.net
 qattdh.cc
 qattdh.top
 qattdh1.cc
@@ -19121,6 +19125,7 @@ qattdh6.top
 qbittorrent.org
 qbmengmei6.mom
 qckprn.com
+qcpp1.net
 qctconnect.com
 qdiehzz7.me
 qdmomentum.com
@@ -19158,6 +19163,7 @@ qooqlevideo.com
 qoos.com
 qooza.hk
 qorno.com
+qpdp1.net
 qpoe.com
 qporno.xxx
 qprize.com
@@ -21969,6 +21975,8 @@ teachparentstech.org
 teamamericany.com
 teamneedforspeed.com
 teamskeet.com
+teamspeak-services.com
+teamspeak.com
 teamviewer.com
 teamviewer.us
 tearapeak.com
@@ -25296,6 +25304,7 @@ xn--cck4d8b3009a.com
 xn--czq75pvv1aj5c.org
 xn--d1abkf4ap.fun
 xn--d4ty0ojsqzfd.com
+xn--flw351e.com
 xn--ggle-55da.com
 xn--gmq348bujlxrb.com
 xn--gmq92kd2rm1kx34a.com
