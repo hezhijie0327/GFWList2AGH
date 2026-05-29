@@ -12994,6 +12994,7 @@ gemini.google
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
+gencraft.com
 gendai.net
 generated.photos
 generationpup.ac.uk
@@ -32154,6 +32155,7 @@ ve-uhd-push-uk-live.akamaized.net
 vecchiescopate.casa
 vector.im
 vedomosti.ru
+veed.io
 veet.at
 veet.be
 veet.ca

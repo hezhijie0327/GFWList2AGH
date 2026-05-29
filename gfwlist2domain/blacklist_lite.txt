@@ -9784,6 +9784,7 @@ gemfury.com
 gemini.com
 gemini.google
 gen.tr
+gencraft.com
 gendai.net
 generated.photos
 genetic-technologies.am
@@ -23617,6 +23618,7 @@ vdoav.com
 vecchiescopate.casa
 vector.im
 vedomosti.ru
+veed.io
 veet.at
 veet.be
 veet.ca
