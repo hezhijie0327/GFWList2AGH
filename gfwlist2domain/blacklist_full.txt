@@ -20539,7 +20539,6 @@ minilondon.co
 minim.ac.uk
 minimarkham.ca
 minimarkham.com
-minimax.io
 minimoncton.ca
 minimoncton.com
 minimontrealcentre.ca
@@ -21062,6 +21061,7 @@ moxing.mobi
 moxing.news
 moystoys.com
 mozgcp.net
+mozilla-ohttp.fastly-edge.com
 mozilla.ai
 mozilla.com
 mozilla.community
@@ -34356,8 +34356,11 @@ xhamster2.com
 xhamster3.com
 xhamsterlive.com
 xhcdn.com
+xhnews.live
 xhot.pro
+xhpingcdn.com
 xhpjc6-cdn-settings.appsflyersdk.com
+xhreal5.com
 xhub.tv
 xianba.net
 xianchawang.net

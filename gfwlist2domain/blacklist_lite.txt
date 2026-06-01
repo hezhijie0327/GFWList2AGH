@@ -15389,7 +15389,6 @@ minilondon.ca
 minilondon.co
 minimarkham.ca
 minimarkham.com
-minimax.io
 minimoncton.ca
 minimoncton.com
 minimontrealcentre.ca
@@ -25229,7 +25228,10 @@ xhamster2.com
 xhamster3.com
 xhamsterlive.com
 xhcdn.com
+xhnews.live
 xhot.pro
+xhpingcdn.com
+xhreal5.com
 xhub.tv
 xianba.net
 xianchawang.net
