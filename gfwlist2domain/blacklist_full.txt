@@ -7175,6 +7175,7 @@ clau.de
 claude.ai
 claude.com
 claudemcpclient.com
+claudemcpcontent.com
 claudeusercontent.com
 clawhub.ai
 clb.org.hk
@@ -8906,7 +8907,6 @@ dev.to
 devcon.org
 developebp.ac.uk
 developer-advisor.com
-developer.allizom.org
 developers.box.net
 developers.facebook.com
 developria.com
@@ -19937,10 +19937,8 @@ md-t.org
 mdbankpublic.com
 mdhcdn.com
 mdialog.com
-mdn.allizom.net
 mdn.dev
 mdn.mozillademos.org
-mdn.mozit.cloud
 mdnkids.com
 mdnplay.dev
 mdnyalp.dev
@@ -29643,6 +29641,7 @@ suttoncollege.ac.uk
 suxib.com
 suxiebu.com
 suyangg.com
+suyingtv.com
 suzuri.jp
 svaboda.org
 svc.ms
@@ -34154,6 +34153,7 @@ wozy.in
 wp-themes.com
 wp.com
 wpewebkit.org
+wplace.live
 wpoforum.com
 wpvip.com
 wqe.ac.uk
@@ -34357,6 +34357,7 @@ www.moztw.org
 www.msn.com
 www.oxid.it
 www.powerpointninja.com
+www.quora.com.cdn.cloudflare.net
 www.s4miniarchive.com
 www.sb
 www.shadowsocks.com
