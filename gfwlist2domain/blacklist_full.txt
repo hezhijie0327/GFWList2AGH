@@ -22737,6 +22737,7 @@ notify.dropboxapi.com
 notify.ppy.sh
 notimundo.press
 notion-static.com
+notion-status.com
 notion.com
 notion.new
 notion.site
