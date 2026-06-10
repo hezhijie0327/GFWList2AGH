@@ -23152,6 +23152,7 @@ nxta.org
 nxtdig.com.hk
 nxtdig.com.tw
 nxtrace.org
+nxtv.jp
 nyaa.eu
 nyaa.net
 nyaa.si
@@ -31930,6 +31931,9 @@ underpinningexcellenceinhe.ac.uk
 understanding-inequalities.ac.uk
 understandingsociety.ac.uk
 underwoodammo.com
+unext-info.jp
+unext.co.jp
+unext.jp
 unfiltered.news
 ungrounded.net
 unholyknight.com
@@ -32122,6 +32126,7 @@ usfk.mil
 usgs.gov
 ushare.ac.uk
 ushaw.ac.uk
+ushmm.org
 usma.edu
 usmart.hk
 usmc.mil
