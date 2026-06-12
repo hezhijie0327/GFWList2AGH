@@ -9484,6 +9484,7 @@ dot-mac.de
 dot.ca.gov
 dot.net
 dot.sb
+dota2.com
 dotcernpilot.info
 dotdeb.org
 dotfacebook.com
@@ -18942,6 +18943,8 @@ livefilestore.com
 livehdcams.com
 livejasmin.com
 livejasminbabes.net
+livejournal.com
+livejournal.net
 livekit.cloud
 liveleak.com
 livemint.com
@@ -23375,6 +23378,7 @@ oktech.ru
 okx-dns.com
 okx-dns1.com
 okx-dns2.com
+okx.ac
 okx.cab
 okx.com
 olabloga.pl
@@ -32265,6 +32269,7 @@ v-av.com
 v-has.com
 v-resort.ac.uk
 v.gd
+v.ps
 v.roucdn
 v2.help
 v2.hysteria.network
@@ -32301,6 +32306,7 @@ valoryirene.com
 value-domain.com
 value-server.com
 valuegb.com
+valve.net
 valvesoftware.com
 vam.ac.uk
 vamo.com
@@ -33285,6 +33291,7 @@ vporn.com
 vpornvideos.com
 vpro.com
 vpro.net
+vps.hosting
 vpsxb.net
 vr.org
 vraiesagesse.net
@@ -34864,6 +34871,16 @@ xt.pub
 xtapes.to
 xtegvk.xyz
 xteko.com
+xtom.au
+xtom.com
+xtom.de
+xtom.ee
+xtom.hk
+xtom.jp
+xtom.nl
+xtom.sg
+xtom.social
+xtom.us
 xtracloud.net
 xtube.com
 xtubebdsm.com
