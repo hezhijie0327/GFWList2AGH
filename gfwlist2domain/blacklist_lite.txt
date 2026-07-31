@@ -1823,6 +1823,7 @@ api-extractor.com
 api.ai
 api.news
 apiary.io
+apiauto.ru
 apibay.org
 apigee.com
 apina.biz
@@ -2418,6 +2419,7 @@ authorizeddns.org
 authorxml.com
 authpass.app
 authy.com
+auto.ru
 autocad-schulungen.com
 autocad.com
 autocad360.com
@@ -2555,6 +2557,7 @@ autokreditbank.ru
 automaton-media.com
 automobile.fr
 automotive-cadcam.com
+autoru.me
 autosketch.com
 autumn-jade.com
 auxdubai.com
@@ -2665,6 +2668,7 @@ avstar5.com
 avstar6.com
 avstar8.com
 avstar9.com
+avto.ru
 avwong.com
 avwto.com
 avxde.org
@@ -5215,6 +5219,8 @@ cherrypanpan.com
 cherrypimps.com
 cherrypornhd.com
 cherrysave.com
+chess.com
+chesscomfiles.com
 chhongbi.org
 chianxv.buzz
 chicagolandbmw.com
@@ -5360,6 +5366,9 @@ chyoa.com
 ci-en.jp
 ci-en.net
 cia.gov
+cian.ru
+cian.site
+ciangroup.ru
 ciattackers.com
 cici.com
 ciciai.com
@@ -5596,6 +5605,7 @@ clubtubes.com
 clusterconnection.com
 clyp.it
 clzz2.xyz
+cm.expert
 cmail19.com
 cmcn.org
 cmegroup.com
@@ -6979,6 +6989,7 @@ dmc.nico
 dmcdn.net
 dmed.technology
 dmhy.org
+dmir.ru
 dmit.io
 dmit.sh
 dml-lang.org
@@ -7254,6 +7265,7 @@ drmario-world.com
 drmingxia.org
 drnastran.com
 drobbox.pro
+drom.ru
 dronedj.com
 dropbooks.tv
 dropbox-dns.com
@@ -17464,6 +17476,7 @@ nytlog.com
 nytstyle.com
 nzchinese.com
 o-courier.ru
+o-uchi.ru
 o3.ru
 o365weve-dev.com
 o365weve-ppe.com
@@ -19155,6 +19168,7 @@ potato.im
 potatso.com
 potenza.jp
 potvpn.com
+poudobnee.com
 pourquoi.tw
 povpornonly.com
 povr.com
@@ -19789,6 +19803,7 @@ rcl07.xyz
 rclon.com
 rd.com
 rdio.com
+rdrom.ru
 rds-yes.buzz
 rdtcdn.com
 re25.vip
@@ -19862,6 +19877,7 @@ realsound.jp
 realteengirls.com
 realtor.com
 realtype.jp
+realtyverif.ru
 realvision.com
 realviz.com
 realzoomovies.com
@@ -23730,6 +23746,7 @@ ucanews.com
 ucdc1998.org
 uchi.ru
 uchicago.edu
+uchilk.ru
 ucla.edu
 ucoz.ae
 ucoz.club
@@ -24027,6 +24044,7 @@ v-av.com
 v-has.com
 v.gd
 v.ps
+v.recipes
 v.roucdn
 v2.help
 v2board.com
@@ -26464,6 +26482,7 @@ ylive.jp
 ymail.com
 ymhsf.top
 ymhsf1.top
+yndx.net
 ynoproject.net
 yo-star.com
 yo1health.com
