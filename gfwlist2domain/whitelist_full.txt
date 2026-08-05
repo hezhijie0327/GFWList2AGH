@@ -89589,6 +89589,8 @@ tj-guangxin.com
 tj-kingdee.com
 tj-model.com
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tj-un.com
 tj0573.com
 tj20.com
