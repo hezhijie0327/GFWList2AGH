@@ -9386,6 +9386,7 @@ distribution.qcpp1.net
 distribution.qpdp1.net
 dit-inc.us
 divas.com.uy
+divdyn.com
 diversity.google
 diversityuk.ac.uk
 diwodiwo.xyz
@@ -29393,7 +29394,6 @@ sruc.ac.uk
 srwwu.uno
 ss-inf.net
 ss-link.com
-ss.pythonic.life
 ss2.us
 ss7.app
 ssa.gov
