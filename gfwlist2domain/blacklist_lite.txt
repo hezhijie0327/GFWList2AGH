@@ -4523,6 +4523,7 @@ buicha.social
 building3dcontent.com
 built-in.google
 builtfromebay.com
+builtwithnix.org
 bukkake-jav.com
 bukkake.link
 bullguard.com
@@ -16516,6 +16517,7 @@ mynetav.net
 mynetav.org
 mynetname.net
 mynike.com
+mynixos.com
 mynumber.org
 myoctocat.com
 myparagliding.com
@@ -17221,7 +17223,15 @@ niusnews.com
 nivod.tv
 nivodi.tv
 nivodz.com
+nix-community.org
+nix.dev
+nix.store
+nixcon.org
+nixcon2017.org
+nixlang.com
 nixos.org
+nixos.wiki
+nixpkgs.org
 niziero.info
 njactb.org
 njav.tv
@@ -26461,6 +26471,7 @@ yandex.ee
 yandex.eu
 yandex.fi
 yandex.fr
+yandex.it
 yandex.jobs
 yandex.kg
 yandex.kz
