@@ -27109,6 +27109,7 @@ rsdlmonitor.com
 rse.ac.uk
 rsf-chinese.org
 rsf.org
+rsg.ms
 rsg.sc
 rsgamen.org
 rshb.ru
@@ -27572,6 +27573,8 @@ sbusinesslondon.ac.uk
 sbux.com.my
 sbuxcard.com
 sc-cdn.net
+sc-gw.com
+sc-static.net
 sc-toolkit.ac.uk
 sc.com
 sc1.ac.uk
