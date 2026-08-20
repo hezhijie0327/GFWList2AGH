@@ -10270,7 +10270,6 @@ afbd4a3905a4a9a5.com
 afca-asia.org
 afca6b82c11032.beer
 afcec.com
-afcs.dell.com
 afdian.com
 afdian.net
 afdiancdn.com
@@ -23139,7 +23138,6 @@ client.amplifi.com
 client51.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
-clientperipherals.dell.com
 clientservices.googleapis.com
 clifford-hospital.org
 cliffordtrading.com
@@ -26611,7 +26609,6 @@ cusdvs.com
 cusdvs.net
 custeel.com
 customer.lenovo.com
-customization-cdn.dell.com
 customizedfasteners.com
 customsapp.com
 customskh.org
@@ -28173,7 +28170,6 @@ ddove.com
 ddpai.com
 ddpoc.com
 ddqcw.com
-dds.dell.com
 ddsaas.com
 ddsk.la
 ddsm.com
@@ -29497,7 +29493,6 @@ dl-meitu.com
 dl-rc.com
 dl-vip.pcfaster.baidu.co.th
 dl.delivery.mp.microsoft.com
-dl.dell.com
 dl.djicdn.com
 dl.google.com
 dl.l.google.com
@@ -31474,9 +31469,6 @@ e99999.com
 ea-china.com
 ea-retina.com
 ea-xing.com
-ea2cn-dev-outlet.dell.com
-ea2cn-prod-outlet.dell.com
-ea2cn-staging-outlet.dell.com
 ea360.com
 ea3w.com
 ea65d2a2f16d6b8c.com
@@ -32541,7 +32533,6 @@ emlinix.com
 emlog.net
 emmmn.com
 emodor.com
-emoi-cncdn.bing.com
 emoji6.com
 emojimobile.com
 emoriko.com
@@ -34209,7 +34200,6 @@ fcpiao.com
 fcpowerup.com
 fcqjc.com
 fcrc114.com
-fcs.dell.com
 fcs1.com
 fcsc.com
 fcstor.com
@@ -35934,11 +35924,7 @@ ft.tech
 ft12.com
 ft22.com
 ft98.com
-fta.dell.com
-ftaapj.dell.com
-ftaemea.dell.com
 ftaro.com
-ftasitapj.dell.com
 ftbj.net
 ftcoaster.com
 ftd.nz
@@ -37044,8 +37030,6 @@ gbt88.com
 gbtranswins.com
 gbvh.com
 gbw114.com
-gbxgateway-dev.dell.com
-gbxgateway.dell.com
 gc-zb.com
 gc1616.com
 gc39.com
@@ -49657,7 +49641,6 @@ i-weichuan.com
 i-xiaohaibao.com
 i-xinnuo.com
 i-xoron.com
-i.dell.com
 i.pki.goog
 i.survey.lenovo.com
 i0.pub
@@ -68797,7 +68780,6 @@ nextvid.net
 nextworkshop.net
 nextyu.com
 nexus-holding.com
-nexus.dell.com
 nexusedgeio.com
 nexushd.org
 neyetwatcher.com
@@ -71837,7 +71819,6 @@ p-pass.com
 p-sig-dom.com
 p-sig-dom.net
 p.biz
-p.cdn.persaas.dell.com
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
@@ -79284,7 +79265,6 @@ sceci.net
 sceeo.com
 sceia.org
 scemrq.com
-scene7-cdn.dell.com
 scengine.com
 scenictc.com
 scensmart.com
@@ -82800,7 +82780,6 @@ si-en.com
 si-era.com
 si-in.com
 si-win.com
-si.cdn.dell.com
 sia1995.net
 siad-c.com
 siaedu.net
@@ -83705,7 +83684,6 @@ slzsxx.com
 sm-check.com
 sm-cq.com
 sm-main.com
-sm.dell.com
 sm0.fun
 sm160.com
 sm160.net
@@ -84010,9 +83988,7 @@ snowjy.com
 snowkey.com
 snowlotusgroup.com
 snowyimall.com
-snp.cdn.dell.com
 snpac.com
-snpi.dell.com
 snps.tech
 snptc.com
 snrat.com
@@ -85788,7 +85764,6 @@ support-cn.samsung.com
 support.apple.com
 support.dji.com
 support.globalsign.com
-supportassist.dell.com
 supreme-oe.com
 supwisdom.com
 supwk.com
@@ -90489,7 +90464,6 @@ toysir.com
 toysol.com
 tp-data.com
 tp-hivi.com
-tp.louisvuitton.com
 tp82.com
 tpadx.com
 tpbook.com
@@ -92430,7 +92404,6 @@ upin.com
 upkao.com
 upkk.com
 upkuajing.com
-uplaypc-s-ubisoft.cdn.ubi.com
 uplookedu.com
 uplooking.com
 upluck.cc
@@ -97722,7 +97695,6 @@ www-666789.com
 www-76244.com
 www-api.dji.com
 www-cdn.icloud.com.akadns.net
-www-csb.dell.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www-jabuank-co-jp.net
@@ -97737,7 +97709,6 @@ www.cdnetworks.com
 www.cg
 www.com.my
 www.dell-brand.com
-www.dell.com
 www.destinationurl.com
 www.dji.com
 www.djivideos.com
