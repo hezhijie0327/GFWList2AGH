@@ -2302,15 +2302,12 @@ apexprint.com.hk
 aphe.ac.uk
 api-drive.mypikpak.com
 api-extractor.com
-api-gl.lbkrs.com
 api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
-api.futunn.com
 api.ipify.org
-api.lbkrs.com
 api.mixpanel.com
 api.moomoobull.com
 api.nebula-emby.com
@@ -2322,7 +2319,6 @@ api.shuaiapi.com
 api.steampowered.com
 api.viu.now.com
 api.waqi.info
-api5.futunn.com
 apiary.io
 apiauto.ru
 apibay.org
@@ -6590,7 +6586,6 @@ cdn-vk.net
 cdn-vk.ru
 cdn.ac.uk
 cdn.arstechnica.net
-cdn.futustatic.com
 cdn.js7k.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
@@ -7475,7 +7470,6 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cn6.eu
 cna.com.tw
 cnbbnews.wordpress.com
@@ -9690,7 +9684,6 @@ download.cnet.com
 download.com
 download.dappcdn.com
 download.fastgit.org
-download.futunn.com
 download.qatp1.net
 download.qcpp1.net
 download.qpdp1.net
@@ -19641,7 +19634,6 @@ lzmtnews.org
 m-power.com
 m-rhex.ac.uk
 m-sport.co.uk
-m.hkgalden.com
 m.me
 m.moegirl.org
 m1.ppy.sh
@@ -23927,12 +23919,8 @@ openaicomproductionae4b.blob.core.windows.net
 openallweb.com
 openamt.com
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
-openapi-trade.longbridge.com
-openapi.futunn.com
 openapi.longbridge.cn
-openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
 openart.ai
@@ -26180,13 +26168,12 @@ qso.ac.uk
 qstatus.com
 qt-project.org
 qt.io
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtrac.eu
 qtweeter.com
 quadram.ac.uk
 quadraminstitute.ac.uk
 quadrat.ac.uk
+quakemachinex.com
 qualcomm-email.com
 qualcomm-inc.com
 qualcomm.co.id
@@ -30091,7 +30078,6 @@ suppig.net
 supply-chain.ac.uk
 supplybestjerseys.com
 support-uber.com
-support.futunn.com
 supportfacebook.com
 supr.cl
 supremacy.com
@@ -31558,8 +31544,6 @@ tracingnetworks.ac.uk
 tracker.gg
 tracker.network
 tracking-location.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradevip1.com
 tradingview.com
