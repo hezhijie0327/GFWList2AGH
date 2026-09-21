@@ -5731,6 +5731,7 @@ code.org
 code1984.com
 codeberg.org
 codeberg.page
+codebuff.com
 codecademy.com
 codeforaliving.io
 codeforces.com
@@ -9061,11 +9062,13 @@ fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
 firebase.com
+firebase.dev
 firebase.io
 firebaseapp.com
 firebaseio.com
 firech.at
 fireemblemawakening.com
+firefox-portal-detection.com
 firefox.com
 firefox.hu
 firefoxtweetmachine.com
@@ -9494,6 +9497,7 @@ freebigmovies.com
 freebrowser.org
 freebs.com
 freebsd.org
+freebuff.com
 freecamsfan.com
 freecamstars.com
 freecartoons.biz
@@ -22789,6 +22793,7 @@ textnow.com
 textnow.me
 texttobuy.org
 texture.com
+tfbnw.net
 tferwq.com
 tfhub.dev
 tfiflve.com
