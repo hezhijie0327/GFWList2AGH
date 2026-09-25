@@ -14429,7 +14429,6 @@ like.com
 likee.com
 likeeapp.ru
 likeevideo.com
-likeevideo.ru
 likeseiyu.com
 liketruyen.net
 liketwice.com
@@ -14487,6 +14486,7 @@ linpie.com
 linseysworld.com
 linux.do
 linux.org
+linux.sb
 linuxfoundation.org
 linuxfromscratch.org
 linuxmint.com
