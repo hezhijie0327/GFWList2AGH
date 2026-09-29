@@ -5349,6 +5349,7 @@ bod.asia
 bodc.ac.uk
 bodgirls.com
 bodog88.com
+bodu365.co
 bodyandsoul.com.au
 bodyfluids-jav.com
 bognor-training.ac.uk
@@ -8084,6 +8085,7 @@ creativelab5.com
 creativepass.com
 creativesdk.com
 creativity-cetl.ac.uk
+creators.google
 creatwhatsnext.com
 crececonebay.com
 credit-zenit.ru
@@ -23099,6 +23101,7 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 note.com
 note.ms
+notebook.google
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.googleapis.com
@@ -27652,6 +27655,7 @@ sccb.ac.uk
 sccc.ac.uk
 sccjr.ac.uk
 scct.ac.uk
+scdaily.com
 scde.ac.uk
 scdn.co
 scene7.com
