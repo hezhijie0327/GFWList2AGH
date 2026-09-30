@@ -7485,7 +7485,6 @@ cnet.co.kr
 cnet.com
 cnet.de
 cnetfrance.fr
-cnex.org.cn
 cnineu.com
 cnivogue.com.au
 cnix-gov-cn.com
@@ -13284,6 +13283,8 @@ gemfire.net
 gemfury.com
 gemini.com
 gemini.google
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
@@ -15842,6 +15843,7 @@ huaren4us.com
 huarenav.com
 huarenjie.com
 huarenporn.com
+huarun.win
 huashangnews.com
 huashundg.com
 huasing.org
@@ -20455,6 +20457,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaivm.com
 metabolomics.ac.uk
 metabora.io
 metabrainz.org
@@ -21677,6 +21680,7 @@ musashinobank.co.jp
 muscache.com
 muscdn.com
 musclegirlflix.com
+muse.ai
 muse.jhu.edu
 museumofwriting.ac.uk
 museumwales.ac.uk
@@ -23939,6 +23943,7 @@ openbase.com
 openbook.org.tw
 opencas.io
 openclaw.ai
+opencode.ai
 opencollective.com
 opencreate.org
 opencritic.com
@@ -24039,7 +24044,6 @@ oreilly.review
 oreillystatic.com
 oreno3d.com
 org.au
-org.cn
 org.hk
 org.il
 org.mx
