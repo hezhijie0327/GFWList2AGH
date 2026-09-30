@@ -58,8 +58,10 @@
 
 ## 自定义规则 - 开始
 
-# COM.CN
+# CN
 (*&*)com.cn
+## #62
+(*&*)org.cn
 
 # AcgnX
 (@&!)share.acgnx.net
