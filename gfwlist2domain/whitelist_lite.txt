@@ -8654,7 +8654,6 @@
 91sem.cc
 91sfdj.com
 91shenfan.com
-91short.com
 91shouce.com
 91smart.net
 91soer.com
@@ -10547,6 +10546,7 @@ aibase.com
 aibeike.com
 aibiaomei.com
 aibiaow.com
+aibilun.com
 aibing.cc
 aibll.com
 aibo123.com
@@ -11538,6 +11538,7 @@ aliyunwaf3.com
 aliyunwaf4.com
 aliyunwaf5.com
 aliyunx.com
+alizch.com
 alizhaopin.com
 alizhizhu.com
 alizila.com
@@ -19938,6 +19939,7 @@ cfcpn.com
 cfd-china.com
 cfd163.com
 cfdns43.com
+cfdns46.com
 cfdns5.com
 cfdns81.com
 cfdp.org
@@ -24335,6 +24337,7 @@ codeages.work
 codeaha.com
 codebaoku.com
 codebe.org
+codebuddy.ai
 codebuddy.info
 codebuddy.net
 codebuddy.pro
@@ -29389,6 +29392,7 @@ dnsjia.com
 dnsjiasu001.com
 dnsjp.cc
 dnsjxla.com
+dnski.com
 dnslin.com
 dnsmeasurement.com
 dnsmsn.com
@@ -60200,6 +60204,7 @@ lewenqu.com
 lewenss.com
 lewenxsw.com
 lewifi.com
+lewl88.com
 lexar.com
 lexed.org
 lexiaigame.com
@@ -71589,6 +71594,7 @@ pcdog.com
 pcdrv.com
 pcdtg.com
 pceggs.com
+pcelves.com
 pceva.net
 pcfphs.com
 pcfreetime.com
@@ -74768,6 +74774,7 @@ qlchat.com
 qldgd.com
 qldzj.com
 qledu.net
+qlgfdns.com
 qlhimalayantm.com
 qlife-lab.com
 qling.com
@@ -96014,6 +96021,7 @@ wordscan.net
 wordscheck.com
 wordstorming.com
 wordsunny.com
+workbuddy.ai
 workbuddy.host
 workbuddy.link
 workchat.com
