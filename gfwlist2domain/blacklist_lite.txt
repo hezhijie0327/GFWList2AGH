@@ -6257,6 +6257,7 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cursorvm.com
 curve.fi
 curvefish.com
 curvybbwwives.com
@@ -17948,6 +17949,7 @@ op7979.com
 opac-project.eu
 open-assistant.io
 openai.com
+openai.org
 openallweb.com
 openamt.com
 openapiplatform.com
@@ -20773,6 +20775,7 @@ schiffvitamins.com
 scholarpedia.org
 schwab.com
 schwabassetmanagement.com
+schwabcdn.com
 schwabplan.com
 sci-hub.se
 sci-hub.st
@@ -23285,6 +23288,8 @@ timesnownews.com
 timestalks.com
 timeweb.cloud
 timeweb.com
+timeweb.tech
+timewebcloud.kz
 timi1.me
 timo0.com
 timsah.com
@@ -23960,6 +23965,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typesafe.ai
 typeset.io
 typesquare.com
 typography.com

@@ -8348,6 +8348,7 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cursorvm.com
 curve.fi
 curvefish.com
 curvybbwwives.com
@@ -24010,6 +24011,7 @@ open.ac.uk
 open.com.hk
 open.firstory.me
 openai.com
+openai.org
 openaiapi-site.azureedge.net
 openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -27831,6 +27833,7 @@ schwab.com
 schwab.com.hk
 schwab.com.sg
 schwabassetmanagement.com
+schwabcdn.com
 schwabplan.com
 sci-hub.it.nf
 sci-hub.mksa.top
@@ -31391,6 +31394,8 @@ timesofindia.indiatimes.com
 timestalks.com
 timeweb.cloud
 timeweb.com
+timeweb.tech
+timewebcloud.kz
 timi1.me
 timo0.com
 timsah.com
@@ -32224,6 +32229,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typesafe.ai
 typeset.io
 typesquare.com
 typography.com
