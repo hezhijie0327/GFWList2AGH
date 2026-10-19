@@ -3325,8 +3325,15 @@ beforeigners.com
 befuck.com
 befuck.net
 begellhouse.com
+beget.app
+beget.cloud
 beget.com
+beget.de
+beget.hosting
+beget.pro
 beget.ru
+beget.tech
+begetcdn.cloud
 begin-trade.com
 behance.net
 behindkink.com
@@ -3366,6 +3373,7 @@ berlinerbericht.de
 berlintwitterwall.com
 berrraka.com
 beru.ru
+beserver.ru
 best-practice.se
 best-sex-games.com
 best2pay.net
@@ -3490,6 +3498,7 @@ bg-call-donation-alpha.goog
 bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
+bget.ru
 bgicdn.com
 bgm.tv
 bgme.me
@@ -19682,6 +19691,7 @@ putinho.net
 putlocker.com
 putty.org
 puuko.com
+pv-cdn.net
 pvp.net
 pvp.tv
 pvt.sexy
@@ -21996,6 +22006,7 @@ sprinklesapp.com
 sprite.org
 sproutcore.com
 sproxy.info
+sprut.io
 sptvbroadcast.com
 sputnikglobe.com
 sputnikimages.com

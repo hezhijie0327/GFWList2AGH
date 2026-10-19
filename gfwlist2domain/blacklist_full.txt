@@ -4173,8 +4173,15 @@ beforeigners.com
 befuck.com
 befuck.net
 begellhouse.com
+beget.app
+beget.cloud
 beget.com
+beget.de
+beget.hosting
+beget.pro
 beget.ru
+beget.tech
+begetcdn.cloud
 begin-trade.com
 behance.net
 behaviour4learning.ac.uk
@@ -4238,6 +4245,7 @@ berrraka.com
 beru.ru
 besa.ac.uk
 besc.ac.uk
+beserver.ru
 beside.ac.uk
 bess.ac.uk
 best-practice.se
@@ -4377,6 +4385,7 @@ bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
 bgc.ac.uk
+bget.ru
 bgicdn.com
 bgm.tv
 bgme.me
@@ -8483,6 +8492,7 @@ d2vjef5jvl6bfs.cloudfront.net
 d2xmjdvx03ij56.cloudfront.net
 d31dormfno8pk4.cloudfront.net
 d33wubrfki0l68.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
@@ -9105,6 +9115,7 @@ developer-advisor.com
 developers.box.net
 developers.facebook.com
 developria.com
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 deviantart.com
 deviantart.net
 deviantclip.com
@@ -9734,6 +9745,7 @@ download.qcpp1.net
 download.qpdp1.net
 downloadpass.com
 downloadsforipod.com
+doy2mn9upadnk.cloudfront.net
 dphk.org
 dpoc.ac.uk
 dpool.top
@@ -12286,7 +12298,6 @@ flickr.com
 flickr.net
 flickrhivemind.net
 flickriver.com
-flightsimulator.azureedge.net
 flightsimulator.com
 fling.com
 flipboard.com
@@ -26146,6 +26157,7 @@ putinho.net
 putlocker.com
 putty.org
 puuko.com
+pv-cdn.net
 pvp.net
 pvp.tv
 pvr-hamivideo.cdn.hinet.net
@@ -29523,6 +29535,7 @@ sprint.ac.uk
 sprite.org
 sproutcore.com
 sproxy.info
+sprut.io
 spsrn.ac.uk
 sptvbroadcast.com
 spurgeons.ac.uk
