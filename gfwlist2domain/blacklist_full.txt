@@ -2969,7 +2969,6 @@ asmhentai.com
 asminternational.org
 asmrbuluo.com
 asn-online.org
-asobostudio.com
 asp-cc.com
 asp.net
 aspbjournals.org
@@ -12298,7 +12297,6 @@ flickr.com
 flickr.net
 flickrhivemind.net
 flickriver.com
-flightsimulator.com
 fling.com
 flipboard.com
 flipfap.com
@@ -18631,6 +18629,8 @@ kotlinlang.org
 koubaibu.jp
 koukoku.jp
 kouwobb.com
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 kpacg.com
 kphimsex.net
 kpht85.com
@@ -19840,6 +19840,7 @@ magicalmirai.com
 magicmovies.com
 maglue.ac.uk
 magnacartacollege.ac.uk
+magnific.com
 mahabodhi.org
 mahajantech.com
 mahjongsoul.com
@@ -21705,6 +21706,7 @@ mtec.ac.uk
 mtgamer.com
 mthruf.com
 mti.ac.uk
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
@@ -25738,6 +25740,7 @@ postimages.org
 postimg.cc
 postimg.org
 postini.com
+postman.com
 posts.careerengine.us
 posty.kr
 postyourgirls.ws
