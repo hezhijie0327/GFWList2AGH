@@ -2213,6 +2213,7 @@ anpopo.com
 ansarbank.com
 ansin.erodayo.com
 answering-islam.org
+ant.dev
 antarctic.ac.uk
 antarctica.ac.uk
 antarvasnaclips.com
@@ -2224,6 +2225,7 @@ anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
 anthropic.com
+anthropic.team
 anthropology.ac.uk
 anti1984.com
 antichristendom.com
@@ -2239,6 +2241,7 @@ antislaverylaw.ac.uk
 antisocial.science
 antiwave.net
 antpool.com
+antspace.dev
 anudetube.com
 anuneko.com
 anws.gov.tw
@@ -6831,6 +6834,7 @@ chasestudy.ac.uk
 chat.com
 chat.lmsys.org
 chatango.com
+chatbotclaude.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
@@ -7321,10 +7325,16 @@ classics.ac.uk
 classymomsex.com
 clau.de
 claude.ai
+claude.app
 claude.com
 claude.dev
+claude.new
+claude.site
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 clawhub.ai
 clb.org.hk
@@ -8500,6 +8510,7 @@ d3c27h4odz752x.cloudfront.net
 d3lh5kkip965lj.cloudfront.net
 d3nwj80emtnjeo.cloudfront.net
 d3r7nsslvs6aaf.cloudfront.net
+d3stzm2eumvgb4.cloudfront.net
 d3ucl0eqgl80l5.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d4dj-pj.com
@@ -12333,6 +12344,17 @@ fluids.ac.uk
 flurry.com
 flutter.dev
 flutterapp.com
+fluxer.app
+fluxer.com
+fluxer.dev
+fluxer.gg
+fluxer.gift
+fluxer.media
+fluxer.tools
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 fly.dev
 fly.io
 flyflv.com

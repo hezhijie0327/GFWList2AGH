@@ -1787,6 +1787,7 @@ anonymouse.org
 anpopo.com
 ansarbank.com
 answering-islam.org
+ant.dev
 antarvasnaclips.com
 antarvasnax.com
 antd.org
@@ -1794,6 +1795,7 @@ anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
 anthropic.com
+anthropic.team
 anti1984.com
 antichristendom.com
 antigravity.google
@@ -1802,6 +1804,7 @@ antiphishing.ru
 antisocial.science
 antiwave.net
 antpool.com
+antspace.dev
 anudetube.com
 anuneko.com
 anxiangxing.com
@@ -5189,6 +5192,7 @@ charmescorts.com
 charticulator.com
 chat.com
 chatango.com
+chatbotclaude.com
 chatgpt.com
 chatgpt.site
 chatgptvideo.xyz
@@ -5551,10 +5555,16 @@ classicnike.com
 classymomsex.com
 clau.de
 claude.ai
+claude.app
 claude.com
 claude.dev
+claude.new
+claude.site
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 clawhub.ai
 clck.ru
@@ -9234,6 +9244,17 @@ fluidpreview.com
 flurry.com
 flutter.dev
 flutterapp.com
+fluxer.app
+fluxer.com
+fluxer.dev
+fluxer.gg
+fluxer.gift
+fluxer.media
+fluxer.tools
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 fly.dev
 fly.io
 flyflv.com
