@@ -3762,6 +3762,8 @@ blizzard.com
 blizzardgearstore.com
 blockcast.it
 blockchain.com
+blockchair.com
+blockchair.net
 blockcn.com
 blockedbyhk.com
 blockfrost.io
@@ -6114,6 +6116,7 @@ cq99.us
 cqcorea.com
 crabporn.com
 crackle.com
+craftifyx.com
 craigslist.org
 crankplayer.com
 crashbandicoot.com
@@ -6195,6 +6198,7 @@ crwdcntrl.net
 crypto.com
 cryptocompare.com
 cryptographyengineering.com
+cryptoid.info
 cryptomus.com
 crysis.jp
 crystalgunnsworld.com
@@ -6585,6 +6589,7 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delets.cash
 delets.online
 delicious.com
 delivery-club.ru
@@ -8751,6 +8756,7 @@ fanatical.com
 fanbox.cc
 fandango.com
 fandom.com
+fanfiction.net
 fanfictionero.com
 fanfox.net
 fangbinxing.com
@@ -9819,6 +9825,7 @@ fundraisingwithfacebook.com
 fundsupermart.com
 funf.tw
 funimation.com
+funko.com
 funkyimg.com
 funnyfacebook.org
 funnyordie.com
@@ -9941,6 +9948,7 @@ game-platform.net
 game-repack.site
 game735.com
 gameapps.hk
+gamebanana.com
 gamebeforethegame.com
 gamebiz.jp
 gamebusiness.jp
@@ -10208,6 +10216,7 @@ getpocket.com
 getporn.tv
 getpricetag.com
 getprintersupports.com
+getsafety.com
 getscorecash.com
 getsentry.com
 getsession.org
@@ -10388,6 +10397,8 @@ glarity.app
 glasamerike.net
 glass8.eu
 gleline.com
+glitchprod.com
+glitchproductions.store
 glitchwave.com
 global-sci.org
 globaledu.org
@@ -14246,6 +14257,7 @@ kun.im
 kun66.xyz
 kundun1069.com
 kurashsultan.com
+kurs.expert
 kurtmunger.com
 kusocity.com
 kusugurizanmai.com
@@ -14999,6 +15011,7 @@ makeitrealcontest.com
 makemymood.com
 makerepeater.jp
 makesenseofdata.com
+makeship.com
 makeshop.jp
 makingstartshere.com
 makkahnewspaper.com
@@ -18169,6 +18182,7 @@ ow.ly
 owind.com
 owl.li
 owltail.com
+ownaj.com
 owo.nz
 owxd.xyz
 oxfordaasc.com
@@ -19746,6 +19760,7 @@ pythonhackers.com
 pythonhosted.org
 pythonic.life
 pytorch.org
+pyup.io
 pzforever.skin
 pzforever01.homes
 pzhanfor.today
@@ -19901,6 +19916,7 @@ r18av.com
 r18lu-avi.shop
 r18lu.com
 r2.dev
+r2modman.com
 r34porn.net
 ra.gg
 rabbitcounter.com
@@ -20650,6 +20666,7 @@ safeliner.tech
 safepal.com
 safervpn.com
 safety.google
+safetycli.com
 saffrontech.com
 sage-observability.tech
 sagernet.org
@@ -22241,6 +22258,7 @@ steamgames.com
 steaminventoryhelper.com
 steamladder.com
 steamofporn.com
+steamos.cloud
 steampowered.com
 steamserver.net
 steamstatic.com
@@ -22937,6 +22955,7 @@ tgirlcentral.com
 tgirlpostop.com
 tgp6.com
 tgstat.com
+tgtime.store
 tgtube.com
 tgutube.com
 thai-xxx.com
@@ -23181,6 +23200,8 @@ thumbzilla.com
 thunderbird.net
 thunderbolttechnology.net
 thundermail.com
+thunderstore.io
+thunderstore.org
 thywords.com
 thz7.net
 tiananmenduizhi.com
@@ -23385,6 +23406,7 @@ tmdfish.com
 tmei-taoyuan.com
 tmi.me
 tmiaf.ru
+tmimgcdn.com
 tmpp.org
 tmsnrt.rs
 tnaflix.com
@@ -25841,6 +25863,7 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldpopulationreview.com
 worldpornvideos.com
@@ -26925,6 +26948,7 @@ youshun12.com
 youskbe.com
 youthforfreechina.org
 youthnetradio.org
+youtooz.com
 youtrack.cloud
 youtrannytube.com
 youtu.be
