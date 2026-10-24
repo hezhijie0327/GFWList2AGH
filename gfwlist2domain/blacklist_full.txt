@@ -7921,6 +7921,7 @@ consentmanager.net
 consentpro.com
 conservatoiresuk.ac.uk
 consilience.ac.uk
+console.typesafe.ai
 constitutionalism.solutions
 constructware.com
 consul.io
@@ -13110,6 +13111,7 @@ g0v.social
 g1.com.br
 g1d1goob.xyz
 g6hentai.com
+ga.jspm.io
 gab.com
 gabia.net
 gabocorp.com
@@ -18145,6 +18147,7 @@ jsfiddle.net
 jshell.net
 jshint.com
 jsmc.ac.uk
+jspm.io
 jstage.jst.go.jp
 jstor.ac.uk
 jstv51.com
