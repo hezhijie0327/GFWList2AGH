@@ -43,6 +43,7 @@
 123-hp.com
 123av.com
 123av.me
+123av.org
 123bin.cc
 123dapp.com
 123dappipad.com
@@ -205,6 +206,7 @@
 1password.co
 1password.com
 1password.community
+1password.dev
 1password.drift.click
 1password.eu
 1password.io
@@ -6659,6 +6661,10 @@ cdp1989.org
 cdp1998.org
 cdp2006.org
 cdpeu.org
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cdpuk.co.uk
 cdpusa.org
 cdpweb.org
@@ -8428,6 +8434,7 @@ cybercrimecon.com
 cyberctm.com
 cyberghostvpn.com
 cybermondaybeats4sale.com
+cyberpunk.net
 cybersecurity-cdt.ac.uk
 cybersecuritycdt.ac.uk
 cybersport.ru
@@ -18492,6 +18499,7 @@ kilmarnock.ac.uk
 kilmeadeandfriends.com
 kimchi.tv
 kimogirl.cc
+kimootoko.net
 kimosex.com
 kimy.com.tw
 kindgirls.com
@@ -21142,6 +21150,7 @@ miniwindsor.com
 miniworkshop.com
 miniyaletown.ca
 minjian-danganguan.org
+minkch.com
 minnano-av.com
 minne.com
 minneapolisbmw.com
@@ -21327,6 +21336,7 @@ moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
+moegirl.org
 moeimg.net
 moeli-desu.com
 moemax.net
@@ -21583,6 +21593,7 @@ movidius.com
 movidius.net
 movidius.org
 movie-erog.com
+movie.eroterest.net
 movie1000.xyz
 moviefap.com
 moviepost.com
@@ -23097,6 +23108,7 @@ nixos.wiki
 nixpkgs.org
 niziero.info
 njactb.org
+njav.com
 njav.tv
 njavtv.com
 njncscotlandscolleges.ac.uk
@@ -25225,6 +25237,7 @@ playfab.com
 playfabapi.com
 playfamily.ru
 playforceone.com
+playgwent.com
 playhearthstone.com
 playmation.com
 playmeow.com
@@ -25293,6 +25306,7 @@ pmem.us
 pmhcjk.com
 pml.ac.uk
 pms.ac.uk
+po-kaki-to.com
 po18.tw
 po2b.com
 pobeda.page
@@ -31181,6 +31195,7 @@ theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
+thewitcher.com
 thewitnesshk.com
 thewomenslibrary.ac.uk
 thewonderful101.com
@@ -35454,6 +35469,9 @@ xn--colegsirgr-c5a.ac.uk
 xn--czq75pvv1aj5c.org
 xn--d1abkf4ap.fun
 xn--d4ty0ojsqzfd.com
+xn--fiq80y.hk
+xn--fiq80y3xbiwr.hk
+xn--fiq80y3xbiwrs0kiu9d.hk
 xn--fiqs8s1bxp3anr7a.hk
 xn--fiqs8s1byzqyvl.hk
 xn--flw351e.com
@@ -36803,6 +36821,7 @@ zorglist.com
 zorrovpn.com
 zotero.org
 zozotown.com
+zozovideo.com
 zpagov.net
 zpath.com
 zpn.im

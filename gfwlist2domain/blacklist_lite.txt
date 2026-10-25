@@ -40,6 +40,7 @@
 123-hp.com
 123av.com
 123av.me
+123av.org
 123bin.cc
 123dapp.com
 123dappipad.com
@@ -191,6 +192,7 @@
 1password.co
 1password.com
 1password.community
+1password.dev
 1password.eu
 1password.io
 1passwordservices.com
@@ -5093,6 +5095,10 @@ cdp1989.org
 cdp1998.org
 cdp2006.org
 cdpeu.org
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cdpusa.org
 cdpweb.org
 cdpwu.org
@@ -6315,6 +6321,7 @@ cybercrimecon.com
 cyberctm.com
 cyberghostvpn.com
 cybermondaybeats4sale.com
+cyberpunk.net
 cybersport.ru
 cyberx.com
 cygames.jp
@@ -14073,6 +14080,7 @@ killwall.com
 kilmeadeandfriends.com
 kimchi.tv
 kimogirl.cc
+kimootoko.net
 kimosex.com
 kindgirls.com
 kindindianporn.com
@@ -15933,6 +15941,7 @@ miniwindsor.com
 miniworkshop.com
 miniyaletown.ca
 minjian-danganguan.org
+minkch.com
 minnano-av.com
 minne.com
 minneapolisbmw.com
@@ -16073,6 +16082,7 @@ moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
+moegirl.org
 moeimg.net
 moeli-desu.com
 moemax.net
@@ -17383,6 +17393,7 @@ nixos.wiki
 nixpkgs.org
 niziero.info
 njactb.org
+njav.com
 njav.tv
 njavtv.com
 njpw1972.com
@@ -18902,6 +18913,7 @@ playfab.com
 playfabapi.com
 playfamily.ru
 playforceone.com
+playgwent.com
 playhearthstone.com
 playmation.com
 playmeow.com
@@ -18954,6 +18966,7 @@ pmates.com
 pmem.org
 pmem.us
 pmhcjk.com
+po-kaki-to.com
 po18.tw
 po2b.com
 pobeda.page
@@ -23141,6 +23154,7 @@ theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
+thewitcher.com
 thewitnesshk.com
 thewonderful101.com
 theync.com
@@ -26236,6 +26250,9 @@ xn--cck4d8b3009a.com
 xn--czq75pvv1aj5c.org
 xn--d1abkf4ap.fun
 xn--d4ty0ojsqzfd.com
+xn--fiq80y.hk
+xn--fiq80y3xbiwr.hk
+xn--fiq80y3xbiwrs0kiu9d.hk
 xn--fiqs8s1bxp3anr7a.hk
 xn--fiqs8s1byzqyvl.hk
 xn--flw351e.com
@@ -27349,6 +27366,7 @@ zorglist.com
 zorrovpn.com
 zotero.org
 zozotown.com
+zozovideo.com
 zpagov.net
 zpath.com
 zpn.im
