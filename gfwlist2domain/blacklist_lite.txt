@@ -842,6 +842,7 @@ addthis.com
 addthiscdn.com
 addthisedge.com
 addtoany.com
+addtodropbox.com
 addyoutube.com
 adelaidebbs.com
 adgoogle.net
@@ -6455,6 +6456,7 @@ darwinsource.com
 darwinsource.org
 darwinsourcecode.com
 dasaob.online
+dash.ai
 dashlane.com
 dashly.app
 dashly.help
@@ -7190,6 +7192,7 @@ docs.com
 docs.new
 docs.rs
 docs.rw
+docsend.com
 doctor-videos.com
 doctorvoice.org
 documentforce.com
@@ -7396,12 +7399,15 @@ dropbox.tech
 dropboxapi.com
 dropboxbusiness.com
 dropboxcaptcha.com
+dropboxexperiment.com
 dropboxforum.com
 dropboxforums.com
 dropboxinsiders.com
+dropboxlegal.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+dropboxteam.com
 dropboxusercontent.com
 droplr.com
 drpc.org
@@ -11282,9 +11288,11 @@ heise360182.buzz
 helixstudios.net
 helloandroid.com
 helloavgirls.com
+hellofax.com
 hellokittybeats.com
 hellomoto.com
 helloqueer.com
+hellosign.com
 hellosmartbook.com
 helloss.pw
 hellotxt.com
@@ -14505,6 +14513,7 @@ libraryinformationtechnology.com
 librarylovefest.com
 libraryofthumbs.com
 libredd.it
+librewolf.dev
 librewolf.net
 libsolutions.app
 libsolutions.domains
