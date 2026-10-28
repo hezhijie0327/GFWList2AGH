@@ -79516,7 +79516,9 @@ sh-nemoto.com
 sh-oca.com
 sh-pet.com
 sh-pn.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 sh-pp.com
 sh-printing.com
 sh-prosperity.com
