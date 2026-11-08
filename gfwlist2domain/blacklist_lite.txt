@@ -6486,6 +6486,7 @@ data18.com
 databank.ru
 datacenters.google
 datacloudmy.com
+datadoghq.com
 dataframeworks.com
 datalabour.com
 dataliberation.org
@@ -10938,6 +10939,7 @@ greginhollywood.com
 gridaware.app
 grindr.com
 grok.com
+grokbot.com
 grokipedia.com
 grooby.com
 groq.com

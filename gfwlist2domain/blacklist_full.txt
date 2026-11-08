@@ -8696,6 +8696,7 @@ databank.worldbank.org
 database.asahi.com
 datacenters.google
 datacloudmy.com
+datadoghq.com
 dataframeworks.com
 datafuturesalphapilot.ac.uk
 datagrid.ac.uk
@@ -14483,6 +14484,7 @@ grimsby.ac.uk
 grimsbytec.ac.uk
 grindr.com
 grok.com
+grokbot.com
 grokipedia.com
 grooby.com
 groq.com
@@ -15958,6 +15960,7 @@ html5rocks.com
 htnewbooks.com
 htp.ac.uk
 hts.ac.uk
+http-intake.logs.us5.datadoghq.com
 httpfacebook.com
 https443.net
 https443.org
@@ -23756,6 +23759,7 @@ nzchinese.com
 nzchinese.net.nz
 o-courier.ru
 o-uchi.ru
+o1158394.ingest.us.sentry.io
 o2action.co.kr
 o3.ru
 o365weve-dev.com
@@ -26029,6 +26033,7 @@ prodcontest.com
 prodforza.blob.core.windows.net
 prodrive-japan.com
 product.co.jp
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
