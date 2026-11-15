@@ -1,8 +1,12 @@
 # GFWList2AGH
 
+[![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 将 GFWList 和中国域名列表转换为多种 DNS 服务器配置格式的工具。
 
-## 📋 项目简介
+工程契约见 [AGENTS.md](AGENTS.md)。
+## 项目简介
 
 GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表（GFWList、中国域名加速列表等），并将其转换为适用于不同 DNS 服务器的配置格式。该项目每日自动更新，确保域名列表始终保持最新。
 
@@ -15,7 +19,7 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 - 🎯 **智能分流**：分离国内域名和国外域名，实现智能 DNS 分流
 - 📦 **开箱即用**：生成的配置文件可直接导入使用
 
-## 🚀 快速开始
+## 快速开始
 
 ### 方式一：直接使用生成的配置文件
 
@@ -61,7 +65,7 @@ bash release.sh
 # 生成的文件将保存在 gfwlist2* 目录中
 ```
 
-## 📁 文件说明
+## 文件说明
 
 每个 DNS 服务器目录包含以下文件：
 
@@ -83,7 +87,7 @@ bash release.sh
 - **完整版（Full）**：包含所有子域名，匹配精确但体积较大
 - **精简版（Lite）**：仅包含顶级域名，覆盖范围广但可能误伤
 
-## 🎯 使用场景
+## 使用场景
 
 ### AdGuard Home 配置示例
 
@@ -128,7 +132,7 @@ conf-file /path/to/whitelist_full.conf
 sudo systemctl restart smartdns
 ```
 
-## 🔧 自定义规则
+## 自定义规则
 
 您可以通过编辑 `data/data_modify.txt` 文件来自定义域名规则。
 
@@ -174,6 +178,6 @@ sudo systemctl restart smartdns
 (*&*)com.cn
 ```
 
-## 📄 许可证
+## License
 
-本项目采用Apache License 2.0 with Commons Clause v1.0许可证 - 详见[LICENSE](LICENSE)文件
+[Apache License 2.0 with Commons Clause v1.0](LICENSE)
