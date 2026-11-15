@@ -13,7 +13,7 @@ jobs:
               uses: actions/checkout@v7
             - name: Step 2 - Build GFWList2AGH
               run: |
-                  bash release.sh
+                  python3 build.py
             - name: Step 3 - Release GFWList2AGH
               run: |
                   curl -s "https://raw.githubusercontent.com/hezhijie0327/Toolkit/main/Git.sh" > "/tmp/Git.sh"

@@ -1,7 +1,7 @@
 # GFWList2AGH
 
 [![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 将 GFWList 和中国域名列表转换为多种 DNS 服务器配置格式的工具。
 
@@ -12,12 +12,12 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 
 ### 主要特性
 
-- 🔄 **每日自动更新**：通过 GitHub Actions 每天自动构建和发布
-- 🌐 **多数据源支持**：整合来自 GFWList、Loyalsoldier、felixonmars 等多个权威来源
-- 🛠️ **多格式输出**：支持 AdGuard Home、Bind9、DNSMasq、SmartDNS、Unbound 等主流 DNS 服务器
-- 📝 **自定义规则**：支持通过配置文件自定义域名规则
-- 🎯 **智能分流**：分离国内域名和国外域名，实现智能 DNS 分流
-- 📦 **开箱即用**：生成的配置文件可直接导入使用
+- **每日自动更新**：通过 GitHub Actions 每天自动构建和发布
+- **多数据源支持**：整合来自 GFWList、Loyalsoldier、felixonmars 等多个权威来源
+- **多格式输出**：支持 AdGuard Home、Bind9、DNSMasq、SmartDNS、Unbound 等主流 DNS 服务器
+- **自定义规则**：支持通过配置文件自定义域名规则
+- **智能分流**：分离国内域名和国外域名，实现智能 DNS 分流
+- **开箱即用**：生成的配置文件可直接导入使用
 
 ## 快速开始
 
@@ -59,8 +59,8 @@ curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2
 git clone https://github.com/hezhijie0327/GFWList2AGH.git
 cd GFWList2AGH
 
-# 运行构建脚本
-bash release.sh
+# 运行构建脚本（Python 3.9+，仅标准库）
+python3 build.py
 
 # 生成的文件将保存在 gfwlist2* 目录中
 ```
