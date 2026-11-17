@@ -3,14 +3,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-将 GFWList 和中国域名列表转换为多种 DNS 服务器配置格式的工具。
+GFWList2AGH 从 GFWList、Loyalsoldier、felixonmars 等多个来源收集域名列表，转换为 AdGuard Home、Bind9、DNSMasq、SmartDNS、Unbound 等 DNS 服务器配置；Python 3.9+ 标准库实现，GitHub Actions 每日更新。开发规范见 [AGENTS.md](AGENTS.md)。
 
-工程契约见 [AGENTS.md](AGENTS.md)。
-## 项目简介
-
-GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表（GFWList、中国域名加速列表等），并将其转换为适用于不同 DNS 服务器的配置格式。该项目每日自动更新，确保域名列表始终保持最新。
-
-### 主要特性
+## 特性
 
 - **每日自动更新**：通过 GitHub Actions 每天自动构建和发布
 - **多数据源支持**：整合来自 GFWList、Loyalsoldier、felixonmars 等多个权威来源
@@ -21,7 +16,7 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 
 ## 快速开始
 
-### 方式一：直接使用生成的配置文件
+### 直接下载
 
 | 格式 | 黑名单 full | 黑名单 lite | 白名单 full | 白名单 lite |
 | ---- | ----------- | ----------- | ----------- | ----------- |
@@ -34,7 +29,7 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 
 AdGuard Home 另提供单行合并格式：[黑名单 full](dist/adguardhome/blacklist_full_combine.txt)、[黑名单 lite](dist/adguardhome/blacklist_lite_combine.txt)、[白名单 full](dist/adguardhome/whitelist_full_combine.txt)、[白名单 lite](dist/adguardhome/whitelist_lite_combine.txt)。
 
-### 方式二：本地构建
+### 本地构建
 
 ```bash
 # 克隆仓库
@@ -47,20 +42,18 @@ python3 build.py
 # 生成的文件将保存在 dist/<格式>/ 目录中
 ```
 
-## 文件说明
-
-每个 DNS 服务器目录包含以下文件：
+## 用法
 
 ### 文件类型
 
-| 文件名                      | 说明                                             |
-| --------------------------- | ------------------------------------------------ |
-| `blacklist_full.{txt/conf}` | 黑名单完整版（包含所有子域名，约 3.4万 个域名）  |
-| `blacklist_lite.{txt/conf}` | 黑名单精简版（仅顶级域名）                       |
-| `whitelist_full.{txt/conf}` | 白名单完整版（包含所有子域名，约 11.7万 个域名） |
-| `whitelist_lite.{txt/conf}` | 白名单精简版（仅顶级域名）                       |
-| `blacklist_*_combine.txt`   | 单行合并格式（仅 AdGuard Home）                  |
-| `whitelist_*_combine.txt`   | 单行合并格式（仅 AdGuard Home）                  |
+| 文件名 | 说明 |
+| ------ | ---- |
+| `blacklist_full.{txt/conf}` | 黑名单完整版（包含所有子域名，约 3.4 万个域名） |
+| `blacklist_lite.{txt/conf}` | 黑名单精简版（仅顶级域名） |
+| `whitelist_full.{txt/conf}` | 白名单完整版（包含所有子域名，约 11.7 万个域名） |
+| `whitelist_lite.{txt/conf}` | 白名单精简版（仅顶级域名） |
+| `blacklist_*_combine.txt` | 单行合并格式（仅 AdGuard Home） |
+| `whitelist_*_combine.txt` | 单行合并格式（仅 AdGuard Home） |
 
 ### 列表说明
 
@@ -69,9 +62,7 @@ python3 build.py
 - **完整版（Full）**：包含所有子域名，匹配精确但体积较大
 - **精简版（Lite）**：仅包含顶级域名，覆盖范围广但可能误伤
 
-## 使用场景
-
-### AdGuard Home 配置示例
+### AdGuard Home 配置
 
 1. 进入 AdGuard Home 管理界面
 2. 导航至 **设置** → **DNS 设置** → **上游 DNS 服务器**
@@ -87,7 +78,7 @@ python3 build.py
 
 4. 或直接导入生成的配置文件
 
-### DNSMasq 配置示例
+### DNSMasq 配置
 
 将下载的配置文件添加到 DNSMasq 配置目录：
 
@@ -100,7 +91,7 @@ sudo cp whitelist_full.conf /etc/dnsmasq.d/chinalist.conf
 sudo systemctl restart dnsmasq
 ```
 
-### SmartDNS 配置示例
+### SmartDNS 配置
 
 ```bash
 # 编辑 SmartDNS 配置
@@ -114,38 +105,38 @@ conf-file /path/to/whitelist_full.conf
 sudo systemctl restart smartdns
 ```
 
-## 自定义规则
+### 自定义规则
 
 您可以通过编辑 `custom/rules.txt` 文件来自定义域名规则。
 
-### 规则语法
+#### 规则语法
 
-| 标记    | 说明                                | 示例               |
-| ------- | ----------------------------------- | ------------------ |
+| 标记 | 说明 | 示例 |
+| ---- | ---- | ---- |
 | `(@@@)` | 向 C（中国）及 G（GFW）列表添加域名 | `(@@@)example.org` |
-| `(!!!)` | 从 C 及 G 列表移除域名              | `(!!!)example.org` |
-| `(***)` | 从 C 及 G 列表排除域名（含子域名）  | `(***)example.org` |
-| `(!**)` | 从 C 及 G 列表排除关键词            | `(!**)example`     |
-| `(@%@)` | 仅向 C 列表添加域名                 | `(@%@)example.org` |
-| `(!%!)` | 仅从 C 列表移除域名                 | `(!%!)example.org` |
-| `(*%*)` | 仅从 C 列表排除域名                 | `(*%*)example.org` |
-| `(!%*)` | 仅从 C 列表排除关键词               | `(!%*)example`     |
-| `(@&@)` | 仅向 G 列表添加域名                 | `(@&@)example.org` |
-| `(!&!)` | 仅从 G 列表移除域名                 | `(!&!)example.org` |
-| `(*&*)` | 仅从 G 列表排除域名                 | `(*&*)example.org` |
-| `(!&*)` | 仅从 G 列表排除关键词               | `(!&*)example`     |
-| `(@%!)` | 向 C 列表添加并从 G 列表移除        | `(@%!)example.org` |
-| `(!%@)` | 从 C 列表移除并向 G 列表添加        | `(!%@)example.org` |
-| `(@&!)` | 向 G 列表添加并从 C 列表移除        | `(@&!)example.org` |
-| `(!&@)` | 从 G 列表移除并向 C 列表添加        | `(!&@)example.org` |
+| `(!!!)` | 从 C 及 G 列表移除域名 | `(!!!)example.org` |
+| `(***)` | 从 C 及 G 列表排除域名（含子域名） | `(***)example.org` |
+| `(!**)` | 从 C 及 G 列表排除关键词 | `(!**)example` |
+| `(@%@)` | 仅向 C 列表添加域名 | `(@%@)example.org` |
+| `(!%!)` | 仅从 C 列表移除域名 | `(!%!)example.org` |
+| `(*%*)` | 仅从 C 列表排除域名 | `(*%*)example.org` |
+| `(!%*)` | 仅从 C 列表排除关键词 | `(!%*)example` |
+| `(@&@)` | 仅向 G 列表添加域名 | `(@&@)example.org` |
+| `(!&!)` | 仅从 G 列表移除域名 | `(!&!)example.org` |
+| `(*&*)` | 仅从 G 列表排除域名 | `(*&*)example.org` |
+| `(!&*)` | 仅从 G 列表排除关键词 | `(!&*)example` |
+| `(@%!)` | 向 C 列表添加并从 G 列表移除 | `(@%!)example.org` |
+| `(!%@)` | 从 C 列表移除并向 G 列表添加 | `(!%@)example.org` |
+| `(@&!)` | 向 G 列表添加并从 C 列表移除 | `(@&!)example.org` |
+| `(!&@)` | 从 G 列表移除并向 C 列表添加 | `(!&@)example.org` |
 
-### 规则优先级
+#### 规则优先级
 
-```
+```text
 移除(!) > 添加(@) > 排除(*)
 ```
 
-### 示例
+#### 示例
 
 ```bash
 # 将 Apple 域名添加到中国列表（直连）
@@ -159,6 +150,10 @@ sudo systemctl restart smartdns
 # 排除 .com.cn 域名
 (*&*)com.cn
 ```
+
+## 文档
+
+- [AGENTS.md](AGENTS.md) — 开发规范与实现细节（英文）
 
 ## License
 
