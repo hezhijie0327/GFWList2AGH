@@ -5,12 +5,14 @@
 
 import base64
 import re
+import shutil
 import sys
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
+DIST_DIR = ROOT / "dist"
 
 CNACC_DOMAIN = (
     "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt",
@@ -195,28 +197,6 @@ DNS_UPSTREAM = {
             # "https://dns.ipv6dns.com:443/dns-query"
             # "https://doh.360.cn:443/dns-query"
             "https://doh.pub:443/dns-query",
-            # "tls://dns.alidns.com:853"
-            # "tls://dns.ipv6dns.com:853"
-            # "tls://dot.360.cn:853"
-            # "tls://dot.pub:853"
-        ),
-        "foreign": (
-            # "https://dns.google:443/dns-query"
-            "https://dns.opendns.com:443/dns-query",
-            # "https://dns11.quad9.net:443/dns-query"
-            # "https://dns64.dns.google:443/dns-query"
-            # "tls://dns.google:853"
-            # "tls://dns.opendns.com:853"
-            # "tls://dns11.quad9.net:853"
-            # "tls://dns64.dns.google:853"
-        ),
-    },
-    "adguardhome_new": {
-        "domestic": (
-            # "https://dns.alidns.com:443/dns-query"
-            # "https://dns.ipv6dns.com:443/dns-query"
-            # "https://doh.360.cn:443/dns-query"
-            "https://doh.pub:443/dns-query",
             "tls://dns.alidns.com:853",
             # "tls://dns.ipv6dns.com:853"
             # "tls://dot.360.cn:853"
@@ -248,9 +228,9 @@ def generate_rules(software_name, generate_file, generate_mode, data, dns_mode="
         list_name = "white"
     else:
         list_name = "debug"
-    extension = "txt" if software_name in ("adguardhome", "adguardhome_new", "domain") else "conf"
-    out_dir = ROOT / f"gfwlist2{software_name}"
-    out_dir.mkdir(exist_ok=True)
+    extension = "txt" if software_name in ("adguardhome", "domain") else "conf"
+    out_dir = DIST_DIR / software_name
+    out_dir.mkdir(parents=True, exist_ok=True)
     file_path = out_dir / f"{list_name}list_{generate_mode}.{extension}"
 
     if generate_mode in ("full", "full_combine"):
@@ -258,7 +238,7 @@ def generate_rules(software_name, generate_file, generate_mode, data, dns_mode="
     else:
         black_data, white_data = lite_cnacc_data, lite_gfwlist_data
     # AdGuard Home routes the China list into "black" files and vice versa
-    if software_name in ("adguardhome", "adguardhome_new"):
+    if software_name == "adguardhome":
         body_data = black_data if generate_file in ("black", "blackwhite") else white_data
     else:
         body_data = gfwlist_data if generate_file == "black" else cnacc_data
@@ -266,7 +246,7 @@ def generate_rules(software_name, generate_file, generate_mode, data, dns_mode="
             body_data = lite_gfwlist_data if generate_file == "black" else lite_cnacc_data
 
     lines = []
-    if software_name in ("adguardhome", "adguardhome_new"):
+    if software_name == "adguardhome":
         upstream = DNS_UPSTREAM[software_name]
         if generate_mode in ("full", "lite"):
             if generate_file == "blackwhite":
@@ -281,9 +261,6 @@ def generate_rules(software_name, generate_file, generate_mode, data, dns_mode="
         block = "[/" + "".join(f"{domain}/" for domain in body_data)
         if dns_mode == "default":
             lines.append(block + "]#")
-        elif software_name == "adguardhome":
-            for dns in upstream[dns_mode]:
-                lines.append(block + "]" + dns)
         else:
             lines.append(block + "]" + " ".join(upstream[dns_mode]))
     elif software_name == "bind9":
@@ -322,7 +299,10 @@ def generate_rules(software_name, generate_file, generate_mode, data, dns_mode="
 
 # Output Data
 def output_data(data):
-    for software_name in ("adguardhome", "adguardhome_new"):
+    # Start from an empty dist so appended blocks never pile up across runs
+    if DIST_DIR.exists():
+        shutil.rmtree(DIST_DIR)
+    for software_name in ("adguardhome",):
         for generate_file, generate_mode, dns_mode in (
             ("black", "full_combine", "default"),
             ("black", "lite_combine", "default"),

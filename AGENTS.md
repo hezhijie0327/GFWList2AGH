@@ -107,7 +107,7 @@ Family-wide Markdown rules, shared verbatim across all ZJ projects:
 
 ## Project
 
-GFWList2AGH merges China-accessible (CNACC) and blocked (GFWList) domain sources, applies the custom rules in `data/data_modify.txt`, and generates DNS server configurations in 7 output directories (44 files).
+GFWList2AGH merges China-accessible (CNACC) and blocked (GFWList) domain sources, applies the custom rules in `data/data_modify.txt`, and generates DNS server configurations in `dist/<format>/` (6 directories, 28 files).
 
 ## Commands
 
@@ -116,14 +116,14 @@ GFWList2AGH merges China-accessible (CNACC) and blocked (GFWList) domain sources
 python3 build.py
 
 # Validate outputs
-sort gfwlist2domain/blacklist_full.txt | uniq -d   # no duplicates
+sort dist/domain/blacklist_full.txt | uniq -d   # no duplicates
 ```
 
 ## Architecture
 
 1. `get_data()` downloads five source groups in parallel; base64 GFWList sources are decoded tolerantly (valid prefix kept on malformed input, like `base64 -d`).
 2. `analyse_data()` builds checklists, applies addition/subtraction/exclusion/keyword rules, and derives full and lite (last-two-labels) lists.
-3. `generate_rules()` renders one (software, file, mode, dns) combination; `output_data()` calls it 44 times. Files are **appended** across calls — the combine files receive two blocks.
+3. `generate_rules()` renders one (software, file, mode, dns) combination; `output_data()` clears `dist/` once per run, then calls it 32 times. Files are **appended** within a run — the combine files receive two blocks.
 
 ## Conventions
 
@@ -142,8 +142,8 @@ sort gfwlist2domain/blacklist_full.txt | uniq -d   # no duplicates
 - Custom rule markers: `@` add, `!` remove, `*` exclude, `%` China-only, `&` GFW-only (see `data/data_modify.txt`).
 
 ### Output Naming
-- Pattern: `{blacklist|whitelist}_{full|lite}[_combine].{txt|conf}`
-- Directories: `gfwlist2{adguardhome,adguardhome_new,bind9,dnsmasq,domain,smartdns,unbound}`
+- Pattern: `dist/<format>/{blacklist|whitelist}_{full|lite}[_combine].{txt|conf}`
+- Format directories: `dist/{adguardhome,bind9,dnsmasq,domain,smartdns,unbound}`
 
 ## Dependencies
 

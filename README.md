@@ -27,30 +27,30 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 
 ```bash
 # 下载黑名单（国外域名走代理）完整版
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome/blacklist_full.txt
+curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/adguardhome/blacklist_full.txt
 
 # 下载白名单（国内域名走直连）完整版
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome/whitelist_full.txt
+curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/adguardhome/whitelist_full.txt
 ```
 
 #### DNSMasq
 
 ```bash
 # 下载黑名单配置
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2dnsmasq/blacklist_full.conf
+curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/dnsmasq/blacklist_full.conf
 
 # 下载白名单配置
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2dnsmasq/whitelist_full.conf
+curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/dnsmasq/whitelist_full.conf
 ```
 
 #### 其他 DNS 服务器
 
 支持的格式包括：
 
-- `gfwlist2bind9/` - Bind9 配置文件
-- `gfwlist2smartdns/` - SmartDNS 配置文件
-- `gfwlist2unbound/` - Unbound 配置文件
-- `gfwlist2domain/` - 纯域名列表
+- `dist/bind9/` - Bind9 配置文件
+- `dist/smartdns/` - SmartDNS 配置文件
+- `dist/unbound/` - Unbound 配置文件
+- `dist/domain/` - 纯域名列表
 
 ### 方式二：本地构建
 
@@ -62,7 +62,7 @@ cd GFWList2AGH
 # 运行构建脚本（Python 3.9+，仅标准库）
 python3 build.py
 
-# 生成的文件将保存在 gfwlist2* 目录中
+# 生成的文件将保存在 dist/<格式>/ 目录中
 ```
 
 ## 文件说明
