@@ -107,7 +107,7 @@ Family-wide Markdown rules, shared verbatim across all ZJ projects:
 
 ## Project
 
-GFWList2AGH merges China-accessible (CNACC) and blocked (GFWList) domain sources, applies the custom rules in `data/data_modify.txt`, and generates DNS server configurations in `dist/<format>/` (6 directories, 28 files).
+GFWList2AGH merges China-accessible (CNACC) and blocked (GFWList) domain sources, applies the custom rules in `custom/rules.txt`, and generates DNS server configurations in `dist/<format>/` (6 directories, 28 files).
 
 ## Commands
 
@@ -134,12 +134,12 @@ sort dist/domain/blacklist_full.txt | uniq -d   # no duplicates
 
 ### Gotchas
 - **Empty exclusion sets match everything**: with an empty set the original pattern becomes `(\.()$)|(^()$)|()` and GNU grep removes every line. `exclusion_pattern()` reproduces this; do not "fix" it. (BSD grep and ugrep behave differently here — CI uses GNU grep.)
-- The syntax examples in `data/data_modify.txt` (e.g. `(***)example.org`) are **live rules**, not comments — only lines containing `#` are skipped. They keep the exclusion sets non-empty in practice.
+- The syntax examples in `custom/rules.txt` (e.g. `(***)example.org`) are **live rules**, not comments — only lines containing `#` are skipped. They keep the exclusion sets non-empty in practice.
 - `lite_cnacc_trust` is the trust list **filtered** by the lite regex, not the last-two-labels projection of it.
 - `lite_gfwlist_raw_new` subtracts the **full** trust list (`cnacc_trust`), not the lite one.
 - AdGuard Home file naming is crossed: `black`/`white` + `*_combine` write single-block combine files; `blackwhite` + full/lite appends to `whitelist_*`, `whiteblack` + full/lite appends to `blacklist_*`. The AGH body uses the CNACC list for "black" files and the GFWList for "white" files.
 - Lines are split on `\n` only: a trailing `\r` stays part of the line and fails the domain regex, exactly like grep sees it.
-- Custom rule markers: `@` add, `!` remove, `*` exclude, `%` China-only, `&` GFW-only (see `data/data_modify.txt`).
+- Custom rule markers: `@` add, `!` remove, `*` exclude, `%` China-only, `&` GFW-only (see `custom/rules.txt`).
 
 ### Output Naming
 - Pattern: `dist/<format>/{blacklist|whitelist}_{full|lite}[_combine].{txt|conf}`
@@ -156,4 +156,4 @@ sort dist/domain/blacklist_full.txt | uniq -d   # no duplicates
 ## Key Docs
 
 - [README.md](README.md) — usage per DNS server (Chinese)
-- `data/data_modify.txt` — custom rule syntax and entries
+- `custom/rules.txt` — custom rule syntax and entries

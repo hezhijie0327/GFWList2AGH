@@ -38,7 +38,7 @@ GFWLIST_DOMAIN = (
     "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt",
 )
 GFWLIST2AGH_MODIFY = (
-    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/data/data_modify.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/custom/rules.txt",
 )
 
 DOMAIN_REGEX = re.compile(
@@ -47,7 +47,7 @@ DOMAIN_REGEX = re.compile(
 )
 LITE_DOMAIN_REGEX = re.compile(r"^([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$")
 
-# Custom rule markers in data/data_modify.txt: @ add, ! remove, * exclude,
+# Custom rule markers in custom/rules.txt: @ add, ! remove, * exclude,
 # % China list only, & GFW list only.
 MODIFY_MARKERS = {
     "cnacc_addition": ("(@%@)", "(@%!)", "(!&@)", "(@@@)"),
@@ -117,7 +117,7 @@ def lite(domain):
     return ".".join(domain.split(".")[-2:])
 
 
-# Parse data_modify.txt into rule sets
+# Parse custom/rules.txt into rule sets
 def parse_modify(text):
     rules = {name: set() for name in MODIFY_MARKERS}
     for line in text.split("\n"):

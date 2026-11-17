@@ -134,7 +134,7 @@ sudo systemctl restart smartdns
 
 ## 自定义规则
 
-您可以通过编辑 `data/data_modify.txt` 文件来自定义域名规则。
+您可以通过编辑 `custom/rules.txt` 文件来自定义域名规则。
 
 ### 规则语法
 
