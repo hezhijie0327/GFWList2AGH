@@ -23,34 +23,16 @@ GFWList2AGH 是一个自动化工具，用于从多个来源获取域名列表�
 
 ### 方式一：直接使用生成的配置文件
 
-#### AdGuard Home
+| 格式 | 黑名单 full | 黑名单 lite | 白名单 full | 白名单 lite |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| [AdGuard Home](dist/adguardhome/) | [txt](dist/adguardhome/blacklist_full.txt) | [txt](dist/adguardhome/blacklist_lite.txt) | [txt](dist/adguardhome/whitelist_full.txt) | [txt](dist/adguardhome/whitelist_lite.txt) |
+| [Bind9](dist/bind9/) | [conf](dist/bind9/blacklist_full.conf) | [conf](dist/bind9/blacklist_lite.conf) | [conf](dist/bind9/whitelist_full.conf) | [conf](dist/bind9/whitelist_lite.conf) |
+| [DNSMasq](dist/dnsmasq/) | [conf](dist/dnsmasq/blacklist_full.conf) | [conf](dist/dnsmasq/blacklist_lite.conf) | [conf](dist/dnsmasq/whitelist_full.conf) | [conf](dist/dnsmasq/whitelist_lite.conf) |
+| [SmartDNS](dist/smartdns/) | [conf](dist/smartdns/blacklist_full.conf) | [conf](dist/smartdns/blacklist_lite.conf) | [conf](dist/smartdns/whitelist_full.conf) | [conf](dist/smartdns/whitelist_lite.conf) |
+| [Unbound](dist/unbound/) | [conf](dist/unbound/blacklist_full.conf) | [conf](dist/unbound/blacklist_lite.conf) | [conf](dist/unbound/whitelist_full.conf) | [conf](dist/unbound/whitelist_lite.conf) |
+| [纯域名](dist/domain/) | [txt](dist/domain/blacklist_full.txt) | [txt](dist/domain/blacklist_lite.txt) | [txt](dist/domain/whitelist_full.txt) | [txt](dist/domain/whitelist_lite.txt) |
 
-```bash
-# 下载黑名单（国外域名走代理）完整版
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/adguardhome/blacklist_full.txt
-
-# 下载白名单（国内域名走直连）完整版
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/adguardhome/whitelist_full.txt
-```
-
-#### DNSMasq
-
-```bash
-# 下载黑名单配置
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/dnsmasq/blacklist_full.conf
-
-# 下载白名单配置
-curl -O https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/dnsmasq/whitelist_full.conf
-```
-
-#### 其他 DNS 服务器
-
-支持的格式包括：
-
-- `dist/bind9/` - Bind9 配置文件
-- `dist/smartdns/` - SmartDNS 配置文件
-- `dist/unbound/` - Unbound 配置文件
-- `dist/domain/` - 纯域名列表
+AdGuard Home 另提供单行合并格式：[黑名单 full](dist/adguardhome/blacklist_full_combine.txt)、[黑名单 lite](dist/adguardhome/blacklist_lite_combine.txt)、[白名单 full](dist/adguardhome/whitelist_full_combine.txt)、[白名单 lite](dist/adguardhome/whitelist_lite_combine.txt)。
 
 ### 方式二：本地构建
 
