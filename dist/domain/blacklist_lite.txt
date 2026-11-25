@@ -4752,6 +4752,7 @@ cabletvdirectv.com
 cachefly.com
 cachefly.net
 cachinese.com
+cachix.org
 cacnews.ca
 cacnw.com
 cactusvpn.com
@@ -8890,10 +8891,12 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastly.com
 fastly.io
 fastly.net
+fastlydns.net
 fastlylabs.com
 fastlylb.net
 fastmail.com
@@ -16636,6 +16639,7 @@ myds.me
 myeasytv.com
 myebay.com
 myeclipseide.com
+myecnu.org
 myenvy.ru
 myfappening.org
 myfavoritearcade.com
@@ -24935,6 +24939,7 @@ vivahentai4u.net
 vivaldi.com
 vivatube.com
 vivaxnxx.com
+vivox.com
 vivthomas.com
 vixen.com
 vixengroup.com

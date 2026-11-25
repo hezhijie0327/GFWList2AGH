@@ -6109,6 +6109,7 @@ cabot.ac.uk
 cachefly.com
 cachefly.net
 cachinese.com
+cachix.org
 cacnews.ca
 cacnw.com
 cactusvpn.com
@@ -8079,6 +8080,7 @@ coursera-for-business.org
 coursera.community
 coursera.help
 coursera.org
+courses.myecnu.org
 courtauld.ac.uk
 cov.ac.uk
 covcollege.ac.uk
@@ -11916,10 +11918,12 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastly.com
 fastly.io
 fastly.net
+fastlydns.net
 fastlylabs.com
 fastlylb.net
 fastmail.com
@@ -22020,6 +22024,7 @@ myds.me
 myeasytv.com
 myebay.com
 myeclipseide.com
+myecnu.org
 myenvy.ru
 myeplg.ac.uk
 myerscough.ac.uk
@@ -33701,6 +33706,7 @@ vivahentai4u.net
 vivaldi.com
 vivatube.com
 vivaxnxx.com
+vivox.com
 vivthomas.com
 vixen.com
 vixengroup.com
